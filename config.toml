@@ -29,13 +29,19 @@ copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 Internatio
     #mixpanel_api_key = "Your Mixpanel API key"
     #author = "Hauke & Kristina"
     #avatar = "/path/to/avatar"
-    contact = "mailto:mail@hauke-stieler.de"
-    bio = "More information soon ... :)"
+    #contact = "mailto:mail@hauke-stieler.de"
+    #bio = "More information soon ... :)"
     # Short subtitle/tagline. This is displayed in the header.
     subtitle = "Things about trekking we want to share"
     themecolor = "#555555" # Defines the tab color in Chrome for Android.
 
 	customCSS = ['vienna.css', 'fontawesome-all.css']
+
+[author.hauke]
+	name = "Hauke"
+	bio = "Software developer from Hamburg, Germany who loves hiking and beeing outdoor active."
+	avatar = ""
+    contact = "mailto:mail@hauke-stieler.de"
 
 [menu]
   [[menu.main]]

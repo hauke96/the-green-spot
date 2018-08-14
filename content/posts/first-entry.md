@@ -2,7 +2,7 @@
 date = "2018-08-13T15:38:27+02:00"
 draft = true
 title = "First entry"
-author = "Hauke"
+author = "hauke"
 +++
 # Something new started ...
 This is an basic example of an blog post. Currently this website is just a draft and will definitely change over time.
