@@ -1,0 +1,50 @@
+/* Title-image of website */
+.header-text {
+	min-height: inherit;
+	background-color: rgba(0, 0, 0, 0.3);
+}
+.global-header {
+	min-height: 350px;
+	background: #222 no-repeat center top;
+}
+
+/* Icons (e.g. mail-icon) in the heading */
+.header-text .sns-links a {
+    font-size: inherit;
+}
+
+/* Website title */
+.header-text h1 a {
+	font-weight: 300;
+}
+
+/* Website subtitle */
+.header-text .tag-line {
+	font-weight: 400;
+}
+
+/* Navbar */
+.navbar-container {
+	display: flex;
+	flex-direction: row-reverse;
+	position: absolute;
+	/* right: 20px; */
+	bottom: 20px;
+	width: 100%;
+	justify-content: center;
+}
+
+.navbar-item {
+	margin-left: 20px;
+	position: initial !important;
+
+}
+
+.navbar-item:last-child {
+	margin-left: 0px;
+}
+
+/* Buttons */
+.btn-header {
+	font-weight: 400 !important;
+}
