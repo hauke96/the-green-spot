@@ -4,7 +4,7 @@ baseurl = "https://the-green-spot.de/"
 defaultContentLanguage = "en"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
-theme = "vienna"
+theme = "hamburg"
 # Copyright notice. This is displayer in the footer.
 copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
 
