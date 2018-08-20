@@ -1,7 +1,8 @@
 baseurl = "https://the-green-spot.de/"
 #baseurl = "localhost:1313/"
 #baseurl = "http://192.168.178.29:8000/"
-languageCode = "en"
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "vienna"
 # Copyright notice. This is displayer in the footer.
@@ -9,8 +10,10 @@ copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 Internatio
 
 [languages]
 	[languages.en]
+		languageCode = "en"
 		subtitle = "Things about trekking we want to share"
 	[languages.de]
+		languageCode = "de"
 		subtitle = "Dinge über trekking, die wir gerne teilen möchten"
 
 [params]
