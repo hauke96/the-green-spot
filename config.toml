@@ -45,17 +45,6 @@ copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 Internatio
 
 	customCSS = ['vienna.css']
 
-[author.hauke]
-	name = "Hauke"
-	bio = "Software developer from Hamburg, Germany who loves hiking and beeing outdoor active."
-	avatar = ""
-	contact = "mailto:mail@hauke-stieler.de"
-
-[author.kristina]
-	name = “Kristina“
-	bio = “Coming soon.“
-	avatar = ""
-
 [menu]
   [[menu.main]]
 	name = "Notes"
