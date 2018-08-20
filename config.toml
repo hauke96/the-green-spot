@@ -1,7 +1,7 @@
 baseurl = "https://the-green-spot.de/"
 #baseurl = "localhost:1313/"
 #baseurl = "http://192.168.178.29:8000/"
-defaultContentLanguage = "en"
+defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "hamburg"
