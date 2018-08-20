@@ -20,10 +20,10 @@ Nevertheless, you need some things in addition to the ones above:
 
 ## Get this website
 1. Clone this repo<br>
-  * Download this repo: `git clone https://github.com/hauke96/the-green-spot.git`
+    * Download this repo: `git clone https://github.com/hauke96/the-green-spot.git`
 2. Install the _hamburg_-theme
-  * Create theme directory: `mkdir themes/hamburg`
-  * Download the theme: `git clone https://github.com/hauke96/hugo-theme-hamburg.git`
+    * Create theme directory: `mkdir themes/hamburg`
+    * Download the theme: `git clone https://github.com/hauke96/hugo-theme-hamburg.git`
 
 # Run it (locally)
 Use hugo with `hugo server -D -v` or build it (see blow) and use your own server.
