@@ -48,3 +48,13 @@
 .btn-header {
 	font-weight: 400 !important;
 }
+
+/* Avatar image */
+.author-avatar img {
+	border-radius: 0;
+}
+
+article section img {
+	/* 7px to the top is a HACK to ensure, that the image alignes with the top of the author-name */
+	margin: 7px 0px 0px 0px;
+}
