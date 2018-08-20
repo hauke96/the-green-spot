@@ -43,7 +43,7 @@ copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 Internatio
 	# Short subtitle/tagline. This is displayed in the header.
 	themecolor = "#555555" # Defines the tab color in Chrome for Android.
 
-	customCSS = ['vienna.css']
+	customCSS = ['hamburg.css']
 
 [menu]
   [[menu.main]]
