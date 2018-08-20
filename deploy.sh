@@ -17,6 +17,9 @@ hline
 echo "2. Build"
 hline
 hugo -D -v
+echo -n "Final size: "
+du -sk0 public | cut -f-1 -z
+echo " kB"
 
 hline
 echo "3. Login into server"
@@ -45,4 +48,5 @@ hline
 echo "5. Upload new data"
 hline
 sshpass -p $password scp -r ./public/* $username@the-green-spot.de:$home/
+echo "Uploading done. For possible errors see above."
 hline
