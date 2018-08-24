@@ -74,7 +74,7 @@ For larger features (which takes longer then a day or two):
 4. Make last changes neccessary for deployment
 5. Merge into `dev`
 6. Merge into `master`
-7. Create a tag `v1.3` (on the `master` branch)
+7. Create a tag `v1.3` (on the `master` branch; `git tag -a v1.3 -m "Some message"`)
 8. Deploy this tag
 9. Delete the `fix/v1.2` branch
 
