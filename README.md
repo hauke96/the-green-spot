@@ -62,7 +62,7 @@ For larger features (which takes longer then a day or two):
 1. Create branch for the next version, e.g. `release/v1.2` when `v1.1` is the latest version
 2. Make last changes neccessary for deployment
 3. Merge into `dev`
-4. Merge into `master`
+4. Merge into `master` (with `git merge --no-ff release/v1.2`)
 5. Create a tag `v1.2` (on the `master` branch)
 6. Deploy this tag
 7. Delete the `release/v1.2` branch
@@ -73,8 +73,8 @@ For larger features (which takes longer then a day or two):
 3. Fix the mistake
 4. Make last changes neccessary for deployment
 5. Merge into `dev`
-6. Merge into `master`
-7. Create a tag `v1.3` (on the `master` branch)
+6. Merge into `master` (with `git merge --no-ff fix/v1.2`)
+7. Create a tag `v1.3` (on the `master` branch; `git tag -a v1.3 -m "Some message"`)
 8. Deploy this tag
 9. Delete the `fix/v1.2` branch
 
