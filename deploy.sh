@@ -8,21 +8,12 @@ function hline {
 }
 
 hline
-echo "1. Prepare build"
+echo "1. Build"
 hline
-echo "Remove folder ./public"
-rm -rf ./public
+./build.sh
 
 hline
-echo "2. Build"
-hline
-hugo -D -v
-echo -n "Final size: "
-du -sk0 public | cut -f-1 -z
-echo " kB"
-
-hline
-echo "3. Login into server"
+echo "2. Login into server"
 hline
 echo -n "Username: "
 read username
@@ -31,7 +22,7 @@ read -s password
 echo
 
 hline
-echo "4. Backup old installation"
+echo "3. Backup old installation"
 hline
 # Generates the UTC ISO 8601 date string
 date_str=$(date --iso-8601=seconds -u)
@@ -40,13 +31,13 @@ backup_folder="$httpdocs/backup_$date_str"
 echo "   Create backup folder"
 sshpass -p $password ssh $username@the-green-spot.de "mkdir $backup_folder"
 echo "   Move files"
-sshpass -p $password ssh $username@the-green-spot.de "mv $home/* $backup_folder"
+sshpass -p $password ssh $username@the-green-spot.de "mv $home/* $home/.* $backup_folder"
 echo "   Move backup to $backup_folder"
 sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder $home"
 
 hline
-echo "5. Upload new data"
+echo "4. Upload new data"
 hline
-sshpass -p $password scp -r ./public/* $username@the-green-spot.de:$home/
+sshpass -p $password scp -r ./public/. $username@the-green-spot.de:$home/
 echo "Uploading done. For possible errors see above."
 hline
