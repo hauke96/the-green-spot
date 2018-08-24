@@ -1,5 +1,5 @@
-#baseurl = "https://the-green-spot.de/"
-baseurl = "http://localhost:1313/"
+baseurl = "https://the-green-spot.de/"
+#baseurl = "http://localhost:1313/"
 #baseurl = "http://localhost/"
 #baseurl = "http://192.168.178.29:8000/"
 defaultContentLanguage = "de"
