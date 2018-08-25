@@ -12,7 +12,8 @@ theme = "hamburg"
 	[languages.en]
 		languageCode = "en"
 		languageName = "English"
-		subtitle = "Things about trekking we want to share"
+		weight = 2
+		subtitle = "Trekking experiences of a different kind"
 		copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
@@ -22,7 +23,8 @@ theme = "hamburg"
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
-		subtitle = "Dinge über trekking, die wir gerne teilen möchten"
+		weight = 1
+		subtitle = "Erfahrungen vom Trekking der etwas anderen Art"
 		copyright = "&copy; Alles steht unter CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
