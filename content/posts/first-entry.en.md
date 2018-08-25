@@ -1,8 +1,9 @@
 +++
 date = "2018-08-13T15:38:27+02:00"
-draft = true
 title = "First entry"
+draft = true
 author = "hauke"
+summary = "This is just a test entry for me to test the website"
 +++
 # Something new started ...
 This is an basic example of an blog post. Currently this website is just a draft and will definitely change over time.
