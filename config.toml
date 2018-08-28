@@ -6,7 +6,9 @@ defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "hamburg"
-# Copyright notice. This is displayer in the footer.
+
+[blackfriday]
+hrefTargetBlank = true
 
 [languages]
 	[languages.en]
