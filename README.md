@@ -49,13 +49,13 @@ Increase the `minor`, when:
 ## Branches
 There's the `master` and `dev` branch. The master contains (at least since the 23.08.2018) only released/releasable commits. The `dev` branch contains the indev-state and may not be usable.
 
-Create features on a branch `feature/name` where you develop the feature `name`.
+Create features, articles or pages on a branch `<type>/name` where `type` is e.g. `post` and where you develop/write the feature `name`.
 
-## Development workflow
-For larger features (which takes longer then a day or two):
+## Development/writing workflow
+For larger features or posts (which takes longer then a day or two):
 
-1. Create a feature branch `feature/foo`
-2. Implement whatever your feature should be
+1. Create a feature/article/post calles `foo`: Create a branch `<type>/foo` (where `<type>` is one of `feature`, `post` or `page`)
+2. Write and commit
 3. Merge into `dev` when done
 
 ## Release workflow
