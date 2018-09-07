@@ -32,7 +32,7 @@ echo "   Create backup folder"
 sshpass -p $password ssh $username@the-green-spot.de "mkdir $backup_folder"
 echo "   Move files"
 sshpass -p $password ssh $username@the-green-spot.de "mv $home/* $home/.* $backup_folder"
-sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder/beta $backup_folder/analytics $home/"
+sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder/beta $backup_folder/analytics $backup_folder/google*.html $home/"
 echo "   Move backup to $backup_folder"
 sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder $home"
 
