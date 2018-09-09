@@ -76,7 +76,34 @@ Rückblickend kann man aber sagen, dass keiner der Kritiker/Pessimisten wirklich
 Ein Beispiel: Jeder hat uns davon abgeraten das Essen für 24 Tage und die resultierenden 30kg Gepäck selber zu schleppen. War zwar schwer, hat aber funktioniert.
 
 # Route ausarbeiten
+Hat man gewisse Ziele, muss man nur noch eine Route finden. Man sollte dabei einerseits ins Detail gehen, andererseits Stellen für Alternativen offen lassen. Generell gilt: Es kommt sowieso anders als geplant.
+
+Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Flüsse sind. Alles Hindernisse, die nicht überwindbar sind.
+
+Stellen, die spannend werden (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, die wir nehmen könnten (z.B. eine Brücke weiter flussabwärts).
+
+## Route markieren
+Ich habe mir unsere Karte eingescannt (freie digitale Kartenmaterialien fand ich nicht gut) und die Route dann digital markiert. So konnte ich nochmal nach alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
 
 # Equipment
+Ein spannendes Thema. Wir haben im Netz Erfahrungsberichte gelesen, Leute in Foren gefragt und uns beim Ausstatter unseres Vertrauens erkundigt. Im Endeffekt haben wir aber eine große Menge gesunden Menschenverstand angewandt. Wer Freunde oder Bekannte hat, die eine ähnliche Tour gemacht haben, sollte sich mit denen direkt mal zusammensetzen. Menschen direkt anschreiben (in Foren mit einer privaten Nachricht oder generell per mail) kann auch sehr helfen.
+
+## Gewicht minimieren
+Interessant wurde es dann beim Thema des Gewichts. Wir haben damit gerechnet ca. 40% unseres Körpergewichts (also so 25 bis 30kg) zu schleppen. Wenn man da an diversen stellen ein paar Gramm sparen kann, ist man darüber sehr froh.
+
+Als Beispiel: Ich habe meinen 1,8kg Winterschlafsack durch einen 700g Sommerschlafsack ersetzt. Hat es sich gelohnt: Jein, vom Gewicht ja, aber die Gänsehaut in der Nacht hätte ich mir gerne erspart.
+
+Auch hier haben wir viel gesunden Menschenverstand angewandt (nicht _sehr_ viel, aber viel).
 
 # Verpflegung
+Für uns ein noch spannenderes Thema als das Gewicht.
+
+Man kann an vielen Stellen nachlesen, dass man beim Wandern locker das doppelte an Kalorien verbrät, wie im normalen Alltag. In der Regel stimmt das auch! Ich müsste also 4000 bis 5000 kcal am Tag zu mir nehmen.
+
+Mal rechnen...<br>
+Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt, schleppt man ein Kilo essen pro Tag mit sich rum. Bei 23 Tagen sind das entsprechend 23 Kilo. Das kann man machen ... muss man aber nicht.
+
+Wir hatten 13 Kilo dabei. Wie habe ich meine 4000/5000 kcal pro Tag geschafft? Ganz einfach: Habe ich nicht. Ich habe mit vorher ein leichtes Polster angefuttert und dafür gesorgt, dass ich auf der Tour satt wurde. Am Ende der Tour habe ich auch ca. acht Kilo weniger gewogen, aber es überlebt.
+
+## Hinweis: Mehr Appetit zum Ende hin
+Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 bis 2 Portionen braucht um satt zu werden.
