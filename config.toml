@@ -57,3 +57,5 @@ theme = "hamburg"
 	themecolor = "#555555" # Defines the tab color in Chrome for Android.
 
 	customCSS = ['hamburg.css']
+
+	ShowGDPRNotice = true

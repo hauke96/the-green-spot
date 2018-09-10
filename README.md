@@ -87,3 +87,18 @@ These things are **not allowed**:
 * Tag any commit which is not on the master
 * Release something which is not on the master
 * ...
+
+# Compression of images
+I used the following configurations:
+
+## Background image
+
+```bash
+convert -strip -interlace Plane -sampling-factor 4:2:0 -quality 65% -resize x650 -gaussian-blur 1x1 bg.jpg bg-out.jpg
+```
+
+## Favicon
+
+```bash
+convert -interlace Plane -resize x32 favicon.jpg favicon.ico
+```
