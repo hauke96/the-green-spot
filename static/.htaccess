@@ -1,0 +1,7 @@
+ErrorDocument 404 /de/404.html
+
+<FilesMatch "(?i)\.user\.ini$">
+Order Deny,Allow
+	Deny from All
+	Require all denied
+</FilesMatch>
