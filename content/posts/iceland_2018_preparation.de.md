@@ -15,10 +15,10 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 
 # Eckdaten zur Reise
 * Island 18.07.2018 - 10.08.2018 (24 Tage)
-* Region Thorsmörk - Elgja - Langisjor - Landmannalaugar
-* Personen: Ich (Hauke) und Kristina
-* Erfahrung: Wenig (bisher nur kürzere Trips)
-* Körperliche Verfassung: Mittelmäßig bis unsportlich
+* Region Thorsmörk - Eldgja - Langisjor - Landmannalaugar
+* Personen: Kristina und ich (Hauke)
+* Erfahrung: Wenig (Kristina jedoch mehr als ich)
+* Körperliche Verfassung: Mittelmäßig bis untrainiert
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
