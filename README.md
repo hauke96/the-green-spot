@@ -80,7 +80,7 @@ Create features, articles or pages on a branch `<type>/name` where `type` is e.g
 ## Development/writing workflow
 For larger features or posts (which takes longer then a day or two):
 
-1. Create a feature/article/post calles `foo`: Create a branch `<type>/foo` (where `<type>` is one of `feature`, `post` or `page`)
+1. Create a feature/article/post called `foo`: Create a branch `<type>/foo` (where `<type>` is one of `feature`, `post` or `page`)
 2. Write and commit
 3. Merge into `dev` when done
 
