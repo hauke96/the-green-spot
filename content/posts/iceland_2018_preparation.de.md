@@ -7,8 +7,6 @@ tags = ["Island 2018"]
 author = "hauke"
 +++
 
-So, los gehts.
-
 Irgendwann vor langer Zeit fiel der Entschluss nach Island zu reisen. Am 18.07.2018 war es dann endlich soweit und der Flieger startete, doch bis dahin musste erst mal Einiges geschehen. Vor dem eigentlichen detaillierteren Reisebericht also allgemeine Erfahrungen zur Planung, die wir gesammelt haben.
 
 Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, Hinweisen und Erfahrungen.
@@ -16,8 +14,8 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 # Eckdaten zur Reise
 * Island 18.07.2018 - 10.08.2018 (24 Tage)
 * Region Thorsmörk - Eldgja - Langisjor - Landmannalaugar
-* Personen: Kristina und ich (Hauke)
-* Erfahrung: Wenig (Kristina jedoch mehr als ich)
+* Personen: Wir (Kristina und Hauke)
+* Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
 
 # Eckdaten planen
@@ -42,7 +40,7 @@ Diese Fragen bedurften etwas Recherche, zumal wir uns in Island nicht auskannten
 ## Die richtige Region finden
 Wir haben hier ganz stumpf auf **Google Maps** geschaut was uns gefällt. Ein paar Punkte waren fix (z.B. Langisjór oder Mælifell), da wir diese schon vorher im Netz gesehen hatten und da unbedingt hin wollten.
 
-Gelernt haben wir, dass es Bereiche gibt, die **kaum kartografiert** sind. Zum Beispiel haben wir von der Strecke Langisjór bis Landmannalaugar kaum Informationen über die Beschaffenheit, keine Fotos und wenig Erfahrungsberichte gefunden. Wir mussten uns somit später einige Alternativen für die Route überlegen, um die Ungewissheiten und Risiken zu beherrschen.
+Gelernt haben wir, dass es Bereiche gibt, die **kaum kartografiert** sind. Zum Beispiel haben wir von der Strecke Langisjór bis Landmannalaugar kaum Informationen über die Beschaffenheit, keine Fotos und wenig Erfahrungsberichte gefunden. Wir mussten uns somit später bei der Routenplanung einige Alternativen überlegen, um die Ungewissheiten und Risiken zu minimieren.
 
 Die fertige Route startete in Thorsmörk und endete in Landmannalaugar. Zur genauen Route kommt aber noch ein eigener Bericht.
 
@@ -51,7 +49,7 @@ Klar war eins: Mit dem Flieger geht es hin. Aber wie weiter?
 
 Schlafen wollten wir die erste Nacht auf dem Campingplatz in Reykjavik, aber unklar war die An- und Abreise. Wir haben viel gesucht und immer überlegt, ob es Alternativen gibt. Am Ende sind wir wie folgt verblieben:
 
-Mit dem **FlyBus** wollten wir von Keflavik nach Reykjavik zum BSI, in der Stadt einkaufen und dann weiter zum Campingplatz laufen (das ist nicht weit und man sieht etwas von der Stadt).
+Mit dem **FlyBus** wollten wir von Keflavik nach Reykjavik, in der Stadt einkaufen und dann weiter zum Campingplatz laufen (das ist nicht weit und man sieht etwas von der Stadt).
 
 Für die Reise ins Hochland (und zurück) haben wir Tickets bei **Reykjavik Excursions** gebucht, das war für uns am angenehmsten. Je nach Route kann es ggf. preisliche Unterschiede zwischen Anbietern geben, war bei uns aber nicht der Fall.
 
@@ -62,14 +60,14 @@ Zu den Transportmitteln wird es auch nochmal einen eigenen Beitrag geben.
 # Quelle von Informationen
 Informationen haben wir hauptsächlich über Bekannte und Foren im Internet bezogen. Es gibt natürlich auch Bücher über alles Mögliche, aber da haben wir keins konsultiert.
 
-Wir haben viel Berichte wie diesen gelesen. Die waren mehr oder weniger hilfreich, aber zumindest sobald wir Bilder eines schwierigen/kritischen Ortes hatte (z.B. einer Furt), half es uns zum Teil bei der Routenplanung.
+Wir haben viel Berichte wie diesen gelesen. Die waren mehr oder weniger hilfreich, aber sobald wir Bilder eines schwierigen/kritischen Ortes hatten (z.B. einer Furt), half es uns zum Teil bei der Routenplanung.
 
-Auf **YouTube** gibt es viele Videos vor Ort, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben. (Zum Wetter wirst du aber in den Berichten später mehr erfahren).
+Auf **YouTube** gibt es viele Videos vor Ort, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
 
-Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.de](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt.
+Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.de](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt.
 
 ## Vom Feedback nicht verwirren lassen!
-Bei den Kritikern gibt solche und solche.
+Bei den Kritikern ist das ja immer so eine Sache, es gibt da solche und solche.
 
 Manche geben konstruktiv Kritik, nennen Alternativen oder berichten von Erfahrungen. Andere weisen nur darauf hin, dass etwas eine unglaublich dumme Idee ist oder übertreiben maßlos, bieten aber keine Verbesserung/Alternative an.
 
@@ -78,19 +76,21 @@ Man darf sich mit manchen Äußerungen nicht verwirren oder einschüchtern lasse
 ## Unsere Erfahrung mit Kritikern im Netz
 Wir sind nicht mit der Intention los gegangen, dass es ein Spaziergang wird. Viele betrachten eine Wanderung wohl als Spaziergang und haben uns abgeraten eine Reise, wie wir sie geplant haben, an zu treten (warum wirst du im Verlaufe der Berichte feststellen).
 
-Rückblickend kann man aber sagen, dass von den Kritikern/Pessimisten **keiner wirklich recht** hatte. Es gab eine Menge konstruktives Feedback, aber auch das haben wir nicht immer befolgt und sind Kompromisse eingegangen.
+Rückblickend kann man aber sagen, dass viele von den Kritikern/Pessimisten nicht so wirklich recht hatten. Es gab eine Menge konstruktives Feedback, aber auch das haben wir nicht immer befolgt und sind Kompromisse eingegangen.
 
-Ein Beispiel: Jeder hat uns davon abgeraten das Essen für 24 Tage und die resultierenden 30kg Gepäck selber zu schleppen. Wir haben es dennoch gemacht, war schwer, hat aber funktioniert.
+Ein Beispiel: Jeder hat uns davon abgeraten das Essen für 24 Tage und die resultierenden 30kg Gepäck selber zu schleppen. Wir haben es dennoch gemacht, war sehr schwer, hat aber funktioniert.
 
 # Route ausarbeiten
-Hat man gewisse Ziele, muss man nur noch eine Route finden. Man sollte dabei einerseits ins Detail gehen, andererseits Stellen für **Alternativen** offen lassen. Generell gilt: Es kommt sowieso anders als geplant.
+Hat man gewisse Ziele, muss man nur noch eine Route finden. Man sollte dabei einerseits ins Detail gehen, andererseits Stellen für **Alternativen** offen lassen. Generell gilt: Es kommt sowieso vieles anders als geplant.
 
 Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Flüsse sind. Alles Hindernisse, die nicht überwindbar sind.
 
-Stellen, die spannend werden (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, die wir nehmen könnten (z.B. eine Brücke weiter flussabwärts).
+Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, z.B. eine Brücke weiter flussabwärts.
 
 ## Route markieren
-Ich habe mir unsere Karte eingescannt (freies digitales Kartenmaterial fand ich nicht gut) und die Route dann digital markiert. So konnte ich nochmal nach alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
+Wir haben unsere Karte eingescannt (freies digitales Kartenmaterial fanden wir oft nicht gut) und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
+
+Das entstandene Bild mit der finalen Planung haben wir zudem an Freunde und Verwandte geschickt, damit diese wussten wo wir wann ca. sein wollten.
 
 # Equipment
 Ein spannendes Thema.
@@ -102,22 +102,24 @@ Wenn du Freunde oder Bekannte hast, die eine ähnliche Tour gemacht haben, sollt
 ## Gewicht minimieren
 Interessant wurde es dann beim Thema Gewicht. Wir haben damit gerechnet so 25 bis 30kg zu schleppen. Wenn man da an diversen Stellen ein paar Gramm sparen kann, ist man darüber sehr froh.
 
-Als Beispiel: Ich habe meinen 1,8kg Winterschlafsack durch einen 700g Sommerschlafsack ersetzt. Hat es sich gelohnt? Jein. Vom Gewicht ja und da wir zu zweit waren, war es auch nicht all zu kalt. Wäre ich alleine gewesen, wäre es sehr unangenehm geworden.
+Als Beispiel: Einen 1,8kg Winterschlafsack haben wir durch einen 700g Sommerschlafsack ersetzt. Hat es sich gelohnt? ... Jein. Vom Gewicht ja und da wir zu zweit waren, war es auch nicht all zu kalt. Alleine wäre das aber nicht gegangen, dazu ist Island selbst im Sommer zu kalt (nachts ging es durchaus mal bis an die 0°C runter).
 
-Auch hier haben wir viel gesunden Menschenverstand angewandt (nicht _sehr_ viel, aber viel).
+Auch hier haben wir viel gesunden Menschenverstand angewandt (nicht _sehr_ viel, aber viel) und beispielsweise nachts auch etwas mehr Kleidung getragen.
 
 # Verpflegung
 Für uns ein noch spannenderes Thema als das Gewicht.
 
-Man kann an vielen Stellen nachlesen, dass man beim Wandern locker das doppelte an Kalorien verbrät, wie im normalen Alltag. In der Regel stimmt das auch! Ich müsste also 4000 bis 5000 kcal am Tag zu mir nehmen.
+Man kann an vielen Stellen nachlesen, dass man beim Wandern locker das doppelte an Kalorien verbrät, wie im normalen Alltag. In der Regel stimmt das auch! Wir mussten also demnach ca. 4000 bis 5000 kcal am Tag jeweils zu uns nehmen.
 
 Mal rechnen...<br>
-Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt, schleppt man ein Kilo essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24 Kilo. Das kann man machen ... muss man aber nicht.
+Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt (ungefährer Durchschnitt von normalem Essen und Nüssen), schleppt man ein Kilogramm Essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24kg. Das kann man machen ... muss man aber nicht.
 
-Wir hatten 13 Kilo dabei. Wie habe ich meine 4000/5000 kcal pro Tag geschafft? Ganz einfach: Habe ich nicht. Ich habe mir vorher ein leichtes Polster angefuttert und dafür gesorgt, dass ich auf der Tour satt wurde. Am Ende der Tour habe ich auch ca. acht Kilo weniger gewogen, aber es immerhin überlebt!
+Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Es war also nicht unwahrscheinlich, dass man am Ende der Tour durchaus acht Kilo weniger wiegen kann.
 
 ## Hinweis: Mehr Appetit zum Ende hin
-Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 bis 2 Portionen braucht um satt zu werden.
+Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 (oder je nach generellem Appetit noch mehr) Portionen braucht um satt zu werden.
+
+Am besten vor der Wanderung mal eine Mahlzeit zubereiten und schauen wie sättigend sie ist.
 
 # Fazit
 Planung ist das A und O. Nicht auf irgendetwas verlassen, immer Alternativen im Petto haben und nicht auf dem vertrauen, was das Internet sagt.
