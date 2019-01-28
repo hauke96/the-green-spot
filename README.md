@@ -54,6 +54,13 @@ Use `hugo` with `hugo server -D -v` or build it (see blow) and use your own serv
 # Build it
 Just execute `hugo` (without parameters) and look into the `public`-folder.
 
+## For beta
+There is a [beta site](https://the-green-spot.de/beta). Because the URL is different, it must be build like this:
+
+1. Change the URL in the `config.toml`
+2. Build using `./build.sh`
+3. Upload
+
 # Git versioning & workflow
 
 ## Versioning
