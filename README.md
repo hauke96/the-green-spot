@@ -6,35 +6,58 @@ A blog about tour reports, equipment and experiences about trekking and hiking.
 
 ## Requirements
 Make sure you have the following applications installed:
-* git
-* hugo
-* a good editor to write/edit HTML, CSS and Markdown documents
+* `git`
+* `hugo`
+* a good editor to write/edit HTML, CSS and Markdown documents (like `Atom` or `vim`)
 
-To build and deploy the whole thing, there's a script (`deploy.sh`).
+To build and deploy this, there's a script (`deploy.sh`).
 It's tailored exactly to the server of [the-green-spot](https://the-green-spot.de), so you might want to change it.
 
-Nevertheless, you need some things in addition to the ones above:
-* an interpreter for this script (something like `gnome-terminal`)
-* ssh
-* sshpass
+Nevertheless, you need some things in addition to the ones above in order to use the script:
+* an interpreter (something like `gnome-terminal`)
+* `ssh`
+* `sshpass`
 
 ## Get this website
-1. Clone this repo<br>
-    * Download this repo: `git clone https://github.com/hauke96/the-green-spot.git`
+1. Clone this repo: `git clone https://github.com/hauke96/the-green-spot.git`
 2. Install the _hamburg_-theme
     * Create theme directory: `mkdir themes/hamburg`
     * Download the theme: `git clone https://github.com/hauke96/hugo-theme-hamburg.git`
 
+# Create content
+This site is based on `hugo` so you can use its normal commands.
+
+## Create a post
+Posts are in `./content/posts/`. Therefore adding a new post looks like this:
+
+```bash
+$ hugo new posts/your-title.en.md
+/home/name/whatever/the-green-spot/content/posts/your-title.en.md created
+```
+
+The post is pretty empty but the header has been generated:
+```bash
+$ cat content/posts/your-title.en.md
++++
+draft = true
+title = ""
+summary = ""
+date = 2019-01-28T21:44:06+01:00
+tags = []
+author = ""
++++
+```
+
 # Run it (locally)
-Use hugo with `hugo server -D -v` or build it (see blow) and use your own server.
+Use `hugo` with `hugo server -D -v` or build it (see blow) and use your own server.
 
 # Build it
-Just execute `hugo` and look into the `public`-folder.
+Just execute `hugo` (without parameters) and look into the `public`-folder.
 
 # Git versioning & workflow
 
 ## Versioning
-The scheme is `[major].[minor]`.
+The scheme is `[major].[minor].[patch]`.
 
 Increase the `major`, when:
 * A new article is done
@@ -45,6 +68,9 @@ Increase the `minor`, when:
 * Changes to a page
 * Changes to the style
 * Changes to the layout
+
+Increase the `patch`, when:
+* Just a fix is added
 
 ## Branches
 There's the `master` and `dev` branch. The master contains (at least since the 23.08.2018) only released/releasable commits. The `dev` branch contains the indev-state and may not be usable.
