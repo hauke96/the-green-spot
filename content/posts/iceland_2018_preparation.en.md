@@ -12,9 +12,9 @@ A long time ago, we decided to travel to Iceland. Finally, on the 18th of July i
 
 # Key information
 * Iceland 2018-09-18 to 2018-08-10 (24 days)
-* Region aroung Thorsmörk - Eldgja - Langisjór -Landmannalaugar
-* Persons: Kristina and me (Hauke)
-* Experience: little (Kristina more then I)
+* Region around Thorsmörk - Eldgja - Langisjór -Landmannalaugar
+* Persons: us (Kristina and Hauke)
+* Experience: medium to little
 * Physical condition: Moderate to untrained
 
 # Planning key details
@@ -57,4 +57,4 @@ There will be a separate article about the transport.
 # Source of information
 We primarily got our information from friends and forums in the internet. There are also books and other sources for information and advices, but we haven't bought any books or such.
 
-There're lots of articles like this one we've read. They were more or less helpful but as soon as we found images of difficult/critial points, they helped us during the planing of our route.
+There're lots of articles like this one we've read. They were more or less helpful but as soon as we found images of difficult/critical points, they helped us during the planing of our route.
