@@ -47,3 +47,14 @@ One thing was clear: We'll go there by plain. But then?
 The first night will be in Reykjavik on the campsite, but we didn't know how to get there. We searched a lot and always thought about alternatives. In the end we planned the following:
 
 We'll take the FlyBus from Keflavik to Reykjavik (BSI), then go shopping and in the evening go to the campsite (you can definitely walk the distance and you see something from Reykjavik).
+
+For the trip to the highlands (and back) we've chosen **Reykjavik Excursions**, it was the most comfortable choice. Depending on the route there might be a better provider, but for us it was fine.
+
+The FlyBus should also take us back to the airport and we planned to have some connection time at the BSI.
+
+There will be a separate article about the transport.
+
+# Source of information
+We primarily got our information from friends and forums in the internet. There are also books and other sources for information and advices, but we haven't bought any books or such.
+
+There're lots of articles like this one we've read. They were more or less helpful but as soon as we found images of difficult/critial points, they helped us during the planing of our route.
