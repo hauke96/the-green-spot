@@ -7,7 +7,9 @@ tags = ["Island 2018"]
 author = "hauke"
 +++
 
-Irgendwann vor langer Zeit fiel der Entschluss nach Island zu reisen. Am 18.07.2018 war es dann endlich soweit und der Flieger startete, doch bis dahin musste erst mal Einiges geschehen. Vor dem eigentlichen detaillierteren Reisebericht also allgemeine Erfahrungen zur Planung, die wir gesammelt haben.
+Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, gibts erst mal die Art und Weise, wie wir uns vorbereitet haben.
+
+Irgendwann vor langer Zeit fiel der Entschluss nach Island zu reisen. Am 18.07.2018 war es dann endlich soweit und der Flieger startete, doch bis dahin musste erst mal Einiges geschehen.
 
 Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, Hinweisen und Erfahrungen.
 
@@ -17,6 +19,8 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 * Personen: Wir (Kristina und Hauke)
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
+
+{{< img "iceland-2018-map.png" "Unsere Route" >}}
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
