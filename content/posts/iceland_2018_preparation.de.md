@@ -15,7 +15,8 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 
 # Eckdaten zur Reise
 * Island 18.07.2018 - 10.08.2018 (24 Tage)
-* Region Thorsmörk - Eldgja - Langisjor - Landmannalaugar
+* Region Þórsmörk - Eldgja - Langisjor - Landmannalaugar
+* Ohne Campingplatz, Hotel oder Supermarkt zwischendurch
 * Personen: Wir (Kristina und Hauke)
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
@@ -46,20 +47,20 @@ Wir haben hier ganz stumpf auf **Google Maps** geschaut was uns gefällt. Ein pa
 
 Gelernt haben wir, dass es Bereiche gibt, die **kaum kartografiert** sind. Zum Beispiel haben wir von der Strecke Langisjór bis Landmannalaugar kaum Informationen über die Beschaffenheit, keine Fotos und wenig Erfahrungsberichte gefunden. Wir mussten uns somit später bei der Routenplanung einige Alternativen überlegen, um die Ungewissheiten und Risiken zu minimieren.
 
-Die fertige Route startete in Thorsmörk und endete in Landmannalaugar. Zur Route aber in den eigentlich Reiseberichten mehr.
+Die fertige Route startete in Þórsmörk und endete in Landmannalaugar. Zur Route aber in den eigentlich Reiseberichten mehr.
 
 ## An- und Abreise
 Klar war eins: Mit dem Flieger geht es hin. Aber wie weiter?
 
-Schlafen wollten wir die erste Nacht auf dem Campingplatz in Reykjavik, aber unklar war die An- und Abreise. Wir haben viel gesucht und immer überlegt, ob es Alternativen gibt. Am Ende sind wir wie folgt verblieben:
+Schlafen wollten wir die erste Nacht auf dem Campingplatz in Reykjavík, aber unklar war die An- und Abreise. Wir haben viel gesucht und immer überlegt, ob es Alternativen gibt. Am Ende sind wir wie folgt verblieben:
 
-Mit dem **FlyBus** wollten wir von Keflavik nach Reykjavik, in der Stadt einkaufen und dann weiter zum Campingplatz laufen (das ist nicht weit und man sieht etwas von der Stadt).
+Mit dem **FlyBus** wollten wir von Keflavík nach Reykjavík (BSÍ), in der Stadt einkaufen und dann weiter zum Campingplatz laufen (das ist nicht weit und man sieht etwas von der Stadt).
 
-Für die Reise ins Hochland (und zurück) haben wir Tickets bei **Reykjavik Excursions** gebucht, das war für uns am angenehmsten. Je nach Route kann es ggf. preisliche Unterschiede zwischen Anbietern geben, war bei uns aber nicht der Fall.
+Für die Reise ins Hochland (und zurück) haben wir Tickets bei **Reykjavík Excursions** gebucht, das war für uns am angenehmsten. Je nach Route kann es ggf. preisliche Unterschiede zwischen Anbietern geben, war bei uns aber nicht der Fall.
 
-Zurück zum Flughafen sollte es wieder mit den FlyBus gehen zu dem wir etwas Umsteigezeit eingeplant haben.
+Zurück zum Flughafen sollte es wieder mit den FlyBus gehen zu dem wir etwas Umsteigezeit am BSÍ eingeplant haben.
 
-Zu den Transportmitteln wird es auch nochmal einen eigenen Beitrag geben.
+Zu den Transportmitteln wird es vermutlich auch nochmal einen eigenen Beitrag geben.
 
 # Quelle von Informationen
 Informationen haben wir hauptsächlich über Bekannte und Foren im Internet bezogen. Es gibt natürlich auch Bücher über alles Mögliche, aber da haben wir keins konsultiert.
