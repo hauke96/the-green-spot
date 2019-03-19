@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Island 2018: Vorbereitungen"
-summary = "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Ob alles klappt wussten wir nicht, aber im Nachhinein haben wir vieles gelernt."
+summary = "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
 date = 2018-08-28T16:34:32+02:00
 tags = ["Island 2018"]
 author = "hauke"

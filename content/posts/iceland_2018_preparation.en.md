@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Island 2018: Preparations"
-summary = "After deciding to hike three weeks in Iceland, many preparations had to be done. We didn't know if everything would go well, but we learned a lot."
+summary = "After deciding to hike three weeks in Iceland, many preparations had to be done. We learned a lot and want to share our experience with you."
 date = "2018-09-21T01:10:03+02:00"
 tags = ["Iceland 2018"]
 author = "hauke"
