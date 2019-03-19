@@ -29,7 +29,7 @@ Zunächst haben wir die Eckdaten geklärt:
 * Wie lange?
 * Was wollen wir sehen?
 
-Die Fragen ließen sich recht leicht beantworten, denn Urlaub und Budget waren dabei zwei wichtige Faktoren. Wir wollten also unseren kompletten Urlaub verprassen und vom 18.07.2018 bis zum 10.08.2018 unterwegs sein (das sind 24 Tage). Ursprünglich sollte es erst am 20./21. los gehen, aber am 18. war der Flug günstiger.
+Die Fragen ließen sich recht leicht beantworten, denn Urlaub und Budget waren dabei zwei wichtige Faktoren. Wir wollten also unseren kompletten Urlaub verprassen und vom 18.07.2018 bis zum 10.08.2018 unterwegs sein (das sind 24 Tage). Ursprünglich sollte es erst am 20./21. los gehen, aber der Flug war am 18. günstiger.
 
 Was wir sehen wollten haben wir uns grob überlegt. Unbedingt sehen/erleben wollten wir unter Anderem eine heiße Quelle, eine schwarze Vulkanebene und viele grüne Berge.
 
@@ -46,7 +46,7 @@ Wir haben hier ganz stumpf auf **Google Maps** geschaut was uns gefällt. Ein pa
 
 Gelernt haben wir, dass es Bereiche gibt, die **kaum kartografiert** sind. Zum Beispiel haben wir von der Strecke Langisjór bis Landmannalaugar kaum Informationen über die Beschaffenheit, keine Fotos und wenig Erfahrungsberichte gefunden. Wir mussten uns somit später bei der Routenplanung einige Alternativen überlegen, um die Ungewissheiten und Risiken zu minimieren.
 
-Die fertige Route startete in Thorsmörk und endete in Landmannalaugar. Zur genauen Route kommt aber noch ein eigener Bericht.
+Die fertige Route startete in Thorsmörk und endete in Landmannalaugar. Zur Route aber in den eigentlich Reiseberichten mehr.
 
 ## An- und Abreise
 Klar war eins: Mit dem Flieger geht es hin. Aber wie weiter?
@@ -64,9 +64,9 @@ Zu den Transportmitteln wird es auch nochmal einen eigenen Beitrag geben.
 # Quelle von Informationen
 Informationen haben wir hauptsächlich über Bekannte und Foren im Internet bezogen. Es gibt natürlich auch Bücher über alles Mögliche, aber da haben wir keins konsultiert.
 
-Wir haben viel Berichte wie diesen gelesen. Die waren mehr oder weniger hilfreich, aber sobald wir Bilder eines schwierigen/kritischen Ortes hatten (z.B. einer Furt), half es uns zum Teil bei der Routenplanung.
+Wir haben viele Berichte wie diesen gelesen. Die waren mehr oder weniger hilfreich, aber sobald wir Bilder eines schwierigen/kritischen Ortes hatten (z.B. einer Furt), half es uns zum Teil bei der Routenplanung.
 
-Auf **YouTube** gibt es viele Videos vor Ort, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
+Auf **YouTube** gibt es viele Videos, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
 
 Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.de](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt.
 
@@ -91,8 +91,12 @@ Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Fl
 
 Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, z.B. eine Brücke weiter flussabwärts.
 
-## Route markieren
-Wir haben unsere Karte eingescannt (freies digitales Kartenmaterial fanden wir oft nicht gut) und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
+## Kartenmaterial
+Wir haben unsere Karte eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
+
+Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Karternmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren.
+
+Wer Bildkarten haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück. Hochauflösende Farbfotos von ganz Island!
 
 Das entstandene Bild mit der finalen Planung haben wir zudem an Freunde und Verwandte geschickt, damit diese wussten wo wir wann ca. sein wollten.
 
@@ -106,17 +110,15 @@ Wenn du Freunde oder Bekannte hast, die eine ähnliche Tour gemacht haben, sollt
 ## Gewicht minimieren
 Interessant wurde es dann beim Thema Gewicht. Wir haben damit gerechnet so 25 bis 30kg zu schleppen. Wenn man da an diversen Stellen ein paar Gramm sparen kann, ist man darüber sehr froh.
 
-Als Beispiel: Einen 1,8kg Winterschlafsack haben wir durch einen 700g Sommerschlafsack ersetzt. Hat es sich gelohnt? ... Jein. Vom Gewicht ja und da wir zu zweit waren, war es auch nicht all zu kalt. Alleine wäre das aber nicht gegangen, dazu ist Island selbst im Sommer zu kalt (nachts ging es durchaus mal bis an die 0°C runter).
-
-Auch hier haben wir viel gesunden Menschenverstand angewandt (nicht _sehr_ viel, aber viel) und beispielsweise nachts auch etwas mehr Kleidung getragen.
+Wir haben zum Beispiel nur einen Kocher und ein Geschirr-Set (zwei Teller, große Tasse, kleine Tasse) mitgenommen. **Spart nicht am Schlafsack**, wir haben einen schweren 1,8kg durch einen leichten 0,7kg Schlafsack ersetzt, aber das empfehle ich niemandem! Bei Kälte schlafen ist nicht nur unangenehm, es kann auch schnell ungesund werden!
 
 # Verpflegung
-Für uns ein noch spannenderes Thema als das Gewicht.
+Für uns ein noch spannenderes Thema als das Equipment.
 
 Man kann an vielen Stellen nachlesen, dass man beim Wandern locker das doppelte an Kalorien verbrät, wie im normalen Alltag. In der Regel stimmt das auch! Wir mussten also demnach ca. 4000 bis 5000 kcal am Tag jeweils zu uns nehmen.
 
 Mal rechnen...<br>
-Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt (ungefährer Durchschnitt von normalem Essen und Nüssen), schleppt man ein Kilogramm Essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24kg. Das kann man machen ... muss man aber nicht.
+Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt (geschätzter Durchschnitt von normalem Essen und Nüssen), schleppt man ein Kilogramm Essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24kg. Kann man sicherlich auch schaffen, war uns dann aber doch zu viel. Zudem braucht man dann einen richtigen Lastenrucksack und anderes Equipment.
 
 Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Es war also nicht unwahrscheinlich, dass man am Ende der Tour durchaus acht Kilo weniger wiegen kann.
 
@@ -126,6 +128,8 @@ Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Ap
 Am besten vor der Wanderung mal eine Mahlzeit zubereiten und schauen wie sättigend sie ist.
 
 # Fazit
-Planung ist das A und O. Nicht auf irgendetwas verlassen, immer Alternativen im Petto haben und nicht auf dem vertrauen, was das Internet sagt.
+Planung ist das A und O. Nicht blind auf irgendetwas verlassen, immer Alternativen im Petto haben! Das Internet ist super, erzählt aber nicht immer die Wahrheit und nicht alle Infos sind relevant.
 
-Entscheidungen immer selber fällen! Gesunder Menschenverstand ist dabei der Schlüssel zum Erfolg.
+Entscheidungen immer selber fällen und aus den Fehlern anderer lernen! Gesunder Menschenverstand ist dabei der Schlüssel zum Erfolg.
+
+Falls du gerade selber am planen bist: Viel Spaß dabei und noch viel mehr Spaß auf deiner Reise! :)
