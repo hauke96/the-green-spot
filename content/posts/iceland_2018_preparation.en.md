@@ -84,3 +84,12 @@ It was not our intention to do an easy-peasy hike in iceland. Many people see a 
 When looking back, many people were'nt right. There was a lot of good and helpful feedback but we didn't followed a lot of advises and made compromises.
 
 For example: Everybody discouraged us from taking 30kg of food for the 24 days with us. But we did it, it wasn't easy but it worked.
+
+# Create a route
+
+# Create a route
+Once you have some travel destintions, you can begin to reate your route. Here you should go into detail but als leave sace for alternatives. As a general rule: It comes other than you may think.
+
+First a looked at interesting parts like cliffs or rivers you cannot ford. Generally all kind of obstacles.
+
+We marked everything we saw (e.g. a ford) and searched for alternatives, e.g. a bridge down the river.
