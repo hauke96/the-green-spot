@@ -97,9 +97,9 @@ Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann dig
 
 Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Karternmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren.
 
-Wer Bildkarten haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück. Hochauflösende Farbfotos von ganz Island (wie z.B. bei dem {{< imgUrl "iceland-2018-map.jpg" "Routen-Bild von oben" >}})!
+Wer Bildkarten haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück. Hochauflösende Farbfotos von ganz Island (wie z.B. bei dem {{< imgUrl "iceland-2018-map.jpg" "Routen-Bild von oben" >}}).
 
-Das entstandene Bild mit der finalen Planung haben wir zudem an Freunde und Verwandte geschickt, damit diese wussten wo wir wann ca. sein wollten.
+Unsere digitale Karte mit der finalen Planung haben wir zudem an Freunde und Verwandte geschickt, damit diese wussten wo wir wann ca. sein wollten.
 
 # Equipment
 Ein spannendes Thema.

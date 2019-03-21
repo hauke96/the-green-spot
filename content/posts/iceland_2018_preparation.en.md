@@ -93,3 +93,12 @@ Once you have some travel destintions, you can begin to reate your route. Here y
 First a looked at interesting parts like cliffs or rivers you cannot ford. Generally all kind of obstacles.
 
 We marked everything we saw (e.g. a ford) and searched for alternatives, e.g. a bridge down the river.
+
+# Maps
+We bought a hiking map, scanned it and digitally marked out route on it. We then were able to search for alternatives and change the route without making the actual hiking map unreadable.
+
+Free (or just free accessible) map material with a usable amount of details is really rare. [OpenStreetMap](https://osm.org) (OSM) is a really great project and sometimes contains more details then proprietary maps. No wonder that companies like Garmin create their maps based on OSM.
+
+If you want to have imagery maps (like Google-Earth), use [map.is](https://map.is). This service contains high resolution images of whole iceland (like in our {{< imgUrl "iceland-2018-map.jpg" "image of our route" >}} above).
+
+We sent our final map with our planed route to friends and relatives so that they knew where we approximetaly were.
