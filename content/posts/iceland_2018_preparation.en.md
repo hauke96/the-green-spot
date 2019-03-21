@@ -102,3 +102,15 @@ Free (or just free accessible) map material with a usable amount of details is r
 If you want to have imagery maps (like Google-Earth), use [map.is](https://map.is). This service contains high resolution images of whole iceland (like in our {{< imgUrl "iceland-2018-map.jpg" "image of our route" >}} above).
 
 We sent our final map with our planed route to friends and relatives so that they knew where we approximetaly were.
+
+# Equipment
+An really interesting topic.
+
+We read a lot of experience repots on the internet, asked people in forums and talked with people in our favorite outdoor store. In the end we used a lot **common sense**, like we did on our route.
+
+When you have friends, who did a similar journey, definitely ask them about their experiences. Directly asking people (e.g. in a forum with a private message) can also help a lot.
+
+## Minimize weight
+The topic about weigt is even more interesting. We planned to take 25 to 30kg with us. When you can save some gramms on several places, you are very happy.
+
+For example: We took only one cooker with us and one set of dishes (two plates, one big cup, one small cup). **Don't save weight on your sleeping bag**, we replaced a 1,8kg sleeping bag with a 0,7kg one but I don't recommend it to anybody! When it becomes cold it's not only uncomfortable but can become unhealthy very quickly.
