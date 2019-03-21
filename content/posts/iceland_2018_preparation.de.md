@@ -93,7 +93,7 @@ Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Fl
 Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, z.B. eine Brücke weiter flussabwärts.
 
 ## Kartenmaterial
-Wir haben unsere Karte eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
+Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
 
 Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Karternmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren.
 
