@@ -114,3 +114,18 @@ When you have friends, who did a similar journey, definitely ask them about thei
 The topic about weigt is even more interesting. We planned to take 25 to 30kg with us. When you can save some gramms on several places, you are very happy.
 
 For example: We took only one cooker with us and one set of dishes (two plates, one big cup, one small cup). **Don't save weight on your sleeping bag**, we replaced a 1,8kg sleeping bag with a 0,7kg one but I don't recommend it to anybody! When it becomes cold it's not only uncomfortable but can become unhealthy very quickly.
+
+# Food
+For us an even more interesting topic.
+
+A lot of people say that you burn twice as much calories as in your normal daily life. Generally this is true! Each of us had to eat food worth of 4000 to 5000kcal per day.
+
+Lets calculate...
+If we say that the average calories are 450kcal/100g (roughtly the average of normal food and nuts), each person has to carry one kilogramm of food per day. For 24 days this makes 24kg of food. Prbably this is possible to carry with you but that was too much for us. You also need a special back pack and some other equipment to carry all of your stuff.
+
+Each of us had 13kg of food in iceland. Clearly we didn't reached our 4000-5000kcal goal. Therefore it's very likely that you lost some kilos at the end of your tour.
+
+## Note: More hunger near the end
+An important note at this point: Approximetaly after half of the tour, we became more hungry. It's better to calculate with 1,5 meals at the and to not be hungry after eating.
+
+Eat one of your meals before you start your journey and see how hungry you are after eating.
