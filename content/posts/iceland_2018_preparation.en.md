@@ -129,3 +129,10 @@ Each of us had 13kg of food in iceland. Clearly we didn't reached our 4000-5000k
 An important note at this point: Approximetaly after half of the tour, we became more hungry. It's better to calculate with 1,5 meals at the and to not be hungry after eating.
 
 Eat one of your meals before you start your journey and see how hungry you are after eating.
+
+# Conclusion
+Planing is the most important part. Don't rely blindly on other people and always create alternatives! The internet is great but doesn't always tell the truth and not everything is relevant.
+
+Decide on your own thoughts and learn from the mistakes other people have made! Common sense is here the key to success.
+
+If you are currently planning your own tour: Have fun while planning and enjoy your journey even more! :)
