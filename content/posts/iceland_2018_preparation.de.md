@@ -69,7 +69,7 @@ Wir haben viele Berichte wie diesen gelesen. Die waren mehr oder weniger hilfrei
 
 Auf **YouTube** gibt es viele Videos, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
 
-Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.de](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt.
+Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.de](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt. Die guten alten Foren sind mit die beste Quelle für Informationen.
 
 ## Vom Feedback nicht verwirren lassen!
 Bei den Kritikern ist das ja immer so eine Sache, es gibt da solche und solche.

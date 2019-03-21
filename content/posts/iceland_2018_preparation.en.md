@@ -66,3 +66,21 @@ There will probably be a separate article about the transport.
 We primarily got our information from friends and forums in the internet. There are also books and other sources for information and advices, but we haven't bought any books or such.
 
 We read a lot of articles like this. They were more or less helpful but as soon as we found photos of difficult/critical points (e.g. a ford), they helped us during the planing of our route.
+
+On **YouTube** there are a lot of videos of iceland, which is very helpful because you can see how deep a ford is or how the landscape actually looks like. There are also e.g. [timelapse videos](https://www.youtube.com/watch?v=GvdSu42BsCk), which give a good impression on the landscape, roads, weather and ground conditions.
+
+Furthermore there's also [reddit](https://reddit.com) where several subreddits (some kind of sub-category) exist about [ultra light](https://www.reddit.com/r/Ultralight/), [visiting iceland](https://www.reddit.com/r/VisitingIceland/) und [hiking](https://www.reddit.com/r/hiking/) in general. We also used **classical forums** like the german [outdoorseiten.de](https://www.outdoorseiten.net/forum/). Those good old forums are the most helpful source of information and there are also a lot of good english forums.
+
+## Don't get confused by feedback
+Critique is always a problematic thing: There's good and bad critisism.
+
+Some people are giving you good critique, showing alternatives or talk abut their experiences. Other people only say that your plan is absolutely stupid and don't offer a better solution.
+
+Dont't be confused or demotivated by such bad critisism, just **collect other peoples thoughts** and decide on your own what you change on your plan. Don't rely blindly on other people!
+
+## Our experience with critisism in the internet
+It was not our intention to do an easy-peasy hike in iceland. Many people see a hike (or maybe also trekking) as a kind of easy walk and discouraged us from doing such a journey as we planed it (you'll see the reason for that in later reports).
+
+When looking back, many people were'nt right. There was a lot of good and helpful feedback but we didn't followed a lot of advises and made compromises.
+
+For example: Everybody discouraged us from taking 30kg of food for the 24 days with us. But we did it, it wasn't easy but it worked.
