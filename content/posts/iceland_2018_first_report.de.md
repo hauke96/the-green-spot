@@ -6,10 +6,13 @@ date = 2019-03-25T09:15:18+01:00
 tags = ["island-2018"]
 author = "TODO"
 +++
+Nach unseren Vorbereitungen (TODO Artikel verlinken) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
+
 # Tag 1: Hamburg → Reykjavik
+Am Vortag noch schnell unsere Sachen gepackt und dann am 18.07.2018 hastig zum Flughafen. Seit einem Jahr war diese Reise unser Traum und dann ging es endlich los!
 
 ## Der Flug
-Am 18.07.2018 ging es los, um 14:05 ging unser Flieger von Hamburg nach Kefliavik. Geflogen sind wir mit IcelandAir, was vielleicht hochpreisiger ist, als mit den Günstig-Airlines, aber es war sehr entspannt. Gegen 15:15 sind wir in Keflavik gelandet, wo uns bereits ein Bus erwartete, der uns zum Terminal brachte.
+Um 14:05 ging unser Flieger von Hamburg nach Kefliavik. Geflogen sind wir mit IcelandAir, was vielleicht hochpreisiger ist, als mit den Günstig-Airlines, aber es war sehr entspannt. Gegen 15:15 sind wir in Keflavik gelandet, wo uns bereits ein Bus erwartete, der uns zum Terminal brachte.
 
 Bei den Gepäckbändern kam ein Rucksack sehr schnell, der zweite jedoch gar nicht. Nach etwas irritiertem und nervösem herumgesuche fanden wir ihn schließlich bei der Ausgabe vom Sperrgepäck. Das war lediglich eine Tür vor der ein Haufen Zeug lag, aber immerhin war er mit dabei.
 
