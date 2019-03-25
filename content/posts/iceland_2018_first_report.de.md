@@ -59,6 +59,25 @@ Bei der Rezeption half uns eine nette Frau und stellte mit ihrem Kollegen dann f
 
 Das Zeug hat ganz schön gerußt, aber dafür funktionierte es sehr gut. Wir haben es immer mit etwas Wasser verdünnt (je nach Temperatur und Wind), wodruch es länger und nicht so stark brannte. Ganz ohne Wasser war die Flamme viel zu hoch und stark, sodass selbst der Kocher Deckel das Feuer nicht löschen konnte!
 
-Nach der Mahlzeit sind wir direkt eingeschlafen und haben direkt festgestellt, dass es gar nicht dunkel wurde. Ein kleiner Schahl, den man sich um die Augen binden kann ist also sehr nützlich!
+Nach der Mahlzeit sind wir direkt eingeschlafen und haben direkt festgestellt, dass es gar nicht dunkel wurde. Ein kleiner Schahl, den man sich um die Augen binden kann, ist also sehr nützlich!
 
 # Tag 2: Reykjavik → Thorsmörk
+
+## Abreise aus Reykjavik
+Sind sehr früh aufgestanden (TODO 6:30?), da user Bus nach Thorsmörk um 7:15 fuhr. An der Bushaltestelle (direkt an der Einfahrt zum Campingplatz) warteten schon ein paar andere Wanderer. Unter anderem ein Pärchen aus Deutschland, welches ihr Rucksäcke hastig in große Mülltüten einpackte. Ihnen sei wohl zu Ohren gekommen, dass die Gepäckraume der Bussen durchaus geflutet werden können. Wir wurden etwas besorgt und haben auch schnell große Mülltüten rausgeholt (eigetlich für Schlafsach und Kleidung eingepackt) um unsere Rucksäcke darin zu verstauen. Diese waren jedoch viel zu groß und das ganze sah eher lustig als schützend aus.
+
+Nach ein paar Minuten kam der Bus und es ging los zum BSI. Was wir nicht wussten war, dass wir dort umsteigen mussten. Die Rucksäcke also raus, die Mülltüten wieder eingepackt und nach kurzer Wartezeit in den neuen Bus eingestiegen.
+
+## Fahrt nach Thorsmörk
+Die Fahrt war ruhig und wir konnten erste Eindrücke von der Landschaft und den Ortschaften sammeln. In (TODO da wo auch das Lava Center ist) mussten wir nochmals umsteigen, dieses mal in einen Geländefähigeren Bus. Dieser war etwas rustikaler und ein wenig älter als der vorherige normale Reisebus. Die Fahrt war jedoch deutlich interessanter, da es jetzt ins Hochland ging.
+
+Nach einer kurzen Fahrt weiter auf der Hauptstraße, ging es am Seljalandsfoss weiter ins Landesinnere. Die Straße wurde auch recht schnell abgelöst von einer Schotterpiste und uns kamen ein paar Wardens entgegen, welche diese gerade ausbesserten. Nach vielen kleinen Furten machte der Fahrer an einem Aussichtspunkt beim Gletscher (TODO) halt. Danach ging es weiter nach Thorsmörk, wo wir noch eine etwas größere Furt zu durchqueren hatten. An dieser stand auch eine mobile Brücke.
+
+## Umpacken und loslaufen
+Als wir angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind hieß es erst mal umpacken. Den Rucksack hatten wir am morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten. Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
+
+Als wir dann alles eingepackt und ein nettes Foto geschossen haben, ging es dann englich los. Thorsmörk ist wirklich schön, sehr grün und bewaldet (Thorsmörk = Wald des Thor), aber auch sehr steil. Uns sind viele Wanderer Begegnet, da wir quasi am Ende vom Laugavegur gestartet sind. Es war sogar so warm, dass wir ohne Jacke gelaufen sind.
+
+Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses mal ohne Wald -- wieder Bergauf. Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause. Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
+
+Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen. Etwas K.O. aber mit guter Laune markierten wir unsere erste Etappe auf der Karte.
