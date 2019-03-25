@@ -81,3 +81,5 @@ Als wir dann alles eingepackt und ein nettes Foto geschossen haben, ging es dann
 Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses mal ohne Wald -- wieder Bergauf. Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause. Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen. Etwas K.O. aber mit guter Laune markierten wir unsere erste Etappe auf der Karte.
+
+# Tag 3: Thmorsmörk → Bamur (TODO Titel ggf. korrigieren)
