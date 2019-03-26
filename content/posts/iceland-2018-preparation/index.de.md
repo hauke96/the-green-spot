@@ -21,7 +21,7 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
 
-{{< img "iceland-2018-map.jpg" "Unsere Route" >}}
+{{< "iceland-2018-map.jpg" "Unsere Route" >}}
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
