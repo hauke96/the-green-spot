@@ -69,7 +69,7 @@ We read a lot of articles like this. They were more or less helpful but as soon 
 
 On **YouTube** there are a lot of videos of iceland, which is very helpful because you can see how deep a ford is or how the landscape actually looks like. There are also e.g. [timelapse videos](https://www.youtube.com/watch?v=GvdSu42BsCk), which give a good impression on the landscape, roads, weather and ground conditions.
 
-Furthermore there's also **[reddit](https://reddit.com)** where several subreddits (some kind of sub-categories) exist about [ultra light](https://www.reddit.com/r/Ultralight/), [visiting iceland](https://www.reddit.com/r/VisitingIceland/) und [hiking](https://www.reddit.com/r/hiking/) in general. We also used **classical forums** like the german [outdoorseiten.de](https://www.outdoorseiten.net/forum/). Those good old forums are the most helpful source of information and there are also a lot of good english forums.
+Furthermore there's also **[reddit](https://reddit.com)** where several subreddits (some kind of sub-categories) exist about [ultra light](https://www.reddit.com/r/Ultralight/), [visiting iceland](https://www.reddit.com/r/VisitingIceland/) und [hiking](https://www.reddit.com/r/hiking/) in general. We also used **classical forums** like the german [outdoorseiten.net](https://www.outdoorseiten.net/forum/). Those good old forums are the most helpful source of information and there are also a lot of good english forums.
 
 ## Don't get confused by feedback
 Critique is always a problematic thing: There's good and bad criticism.
