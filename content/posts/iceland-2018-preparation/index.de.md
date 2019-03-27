@@ -7,7 +7,7 @@ tags = ["Island 2018"]
 author = "hauke"
 +++
 
-Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, gibts erst mal die Art und Weise, wie wir uns vorbereitet haben.
+Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, möchten wir dir von der Art und Weise berichten, wie wir uns vorbereitet haben.
 
 Irgendwann vor langer Zeit fiel der Entschluss nach Island zu reisen. Am 18.07.2018 war es dann endlich soweit und der Flieger startete, doch bis dahin musste erst mal Einiges geschehen.
 
@@ -79,7 +79,7 @@ Manche geben konstruktiv Kritik, nennen Alternativen oder berichten von Erfahrun
 Man darf sich mit manchen Äußerungen nicht verwirren oder einschüchtern lassen. **Sammle erst mal Meinungen** und wäge dann selber ab welche Verbesserungen/Änderungen du vornimmst. Nicht blind auf Andere vertrauen!
 
 ## Unsere Erfahrung mit Kritikern im Netz
-Wir sind nicht mit der Intention los gegangen, dass es ein Spaziergang wird. Viele betrachten eine Wanderung wohl als Spaziergang und haben uns abgeraten eine Reise, wie wir sie geplant haben, an zu treten (warum wirst du im Verlaufe der Berichte feststellen).
+Wir sind nicht mit der Intention los gegangen, dass es ein Spaziergang wird. Viele betrachten eine Wanderung (bzw. Trekking) wohl als einen entspannenden Spaziergang und haben uns abgeraten eine Reise, wie wir sie geplant haben, an zu treten (warum wirst du im Verlaufe der Berichte feststellen).
 
 Rückblickend kann man aber sagen, dass viele von den Kritikern/Pessimisten nicht so wirklich recht hatten. Es gab eine Menge konstruktives Feedback, aber auch das haben wir nicht immer befolgt und sind Kompromisse eingegangen.
 
@@ -95,7 +95,7 @@ Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns ein
 ## Kartenmaterial
 Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
 
-Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Karternmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren.
+Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Kartenmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren. Dennoch gibt es in Island viele schwach kartografierte Gebiete.
 
 Wer Bildkarten haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück. Hochauflösende Farbfotos von ganz Island (wie z.B. bei dem {{< imgUrl "iceland-2018-map.jpg" "Routen-Bild von oben" >}}).
 
@@ -104,14 +104,14 @@ Unsere digitale Karte mit der finalen Planung haben wir zudem an Freunde und Ver
 # Equipment
 Ein spannendes Thema.
 
-Wir haben im Netz Erfahrungsberichte gelesen, Leute in Foren gefragt und uns beim Ausstatter unseres Vertrauens erkundigt. Im Endeffekt haben wir aber, wie bei der Route auch, eine große Menge **gesunden Menschenverstand** angewandt.
+Wir haben im Netz Erfahrungsberichte gelesen was man einpacken sollte, Leute in Foren gefragt und uns beim Ausstatter unseres Vertrauens erkundigt. Im Endeffekt haben wir aber, wie bei der Route auch, eine große Menge **gesunden Menschenverstand** angewandt.
 
 Wenn du Freunde oder Bekannte hast, die eine ähnliche Tour gemacht haben, solltest du dich mit denen mal zusammensetzen. Menschen direkt anschreiben (in Foren mit einer privaten Nachricht oder generell per E-Mail) kann auch sehr helfen.
 
 ## Gewicht minimieren
 Interessant wurde es dann beim Thema Gewicht. Wir haben damit gerechnet so 25 bis 30kg zu schleppen. Wenn man da an diversen Stellen ein paar Gramm sparen kann, ist man darüber sehr froh.
 
-Wir haben zum Beispiel nur einen Kocher und ein Geschirr-Set (zwei Teller, große Tasse, kleine Tasse) mitgenommen. **Spart nicht am Schlafsack**, wir haben einen schweren 1,8kg durch einen leichten 0,7kg Schlafsack ersetzt, aber das empfehle ich niemandem! Bei Kälte schlafen ist nicht nur unangenehm, es kann auch schnell ungesund werden!
+Wir haben zum Beispiel nur einen Kocher und ein Geschirr-Set (zwei Teller, große Tasse, kleine Tasse) mitgenommen. **Spart nicht am Schlafsack**, wir haben einen schweren 1,8kg durch einen leichten 0,7kg Schlafsack ersetzt, aber das empfehle ich niemandem! Wenn es kalt wird (was sehr wahrscheinlich ist), ist es nicht nur unangenehm, es kann auch schnell ungesund werden!
 
 # Verpflegung
 Für uns ein noch spannenderes Thema als das Equipment.
@@ -121,7 +121,7 @@ Man kann an vielen Stellen nachlesen, dass man beim Wandern locker das doppelte 
 Mal rechnen...<br>
 Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt (geschätzter Durchschnitt von normalem Essen und Nüssen), schleppt man ein Kilogramm Essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24kg. Kann man sicherlich auch schaffen, war uns dann aber doch zu viel. Zudem braucht man dann einen richtigen Lastenrucksack und anderes Equipment.
 
-Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Es war also nicht unwahrscheinlich, dass man am Ende der Tour durchaus acht Kilo weniger wiegen kann.
+Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Lerne deinen Stoffwechsel kennen, es kann sein, dass du während der Tour einige Kilos verlieren wirst.
 
 ## Hinweis: Mehr Appetit zum Ende hin
 Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 (oder je nach generellem Appetit noch mehr) Portionen braucht um satt zu werden.
