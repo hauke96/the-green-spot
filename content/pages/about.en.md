@@ -1,7 +1,6 @@
 +++
 date = "2018-08-21T02:34:52+02:00"
 title = "About"
-description = "Information about this blog"
 tags = ['blog']
 summary = "The most important information about our blog *The green spot* can be found here."
 +++
