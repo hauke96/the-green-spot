@@ -3,12 +3,15 @@ date = "2018-08-21T02:34:52+02:00"
 title = "Über"
 tags = ['blog']
 summary = "Das wichtigste über unseren Blog *The green spot* erfährst du hier."
+author = "kristina-hauke"
 +++
 > "There's a pretty good chance you are going to die with that plan."
 > <small>Ein reddit.com Nutzer</small>
 
+Willkommen auf "The green spot"! :)
+
 # Was ist das hier?
-Du bist auf dem Blog *The green spot* gelandet, hier gehts es ums Trekking, wie es nicht unbedingt jeder macht. Wir berichten von unseren Touren und dem was uns gerade in den Sinn kommt.
+Hier gehts es um Wildnis-Trekking, wie es die wenigsten machen. Wir berichten von unseren Touren, Equipment und dem was uns gerade in den Sinn kommt.
 
 Wenn du das Wort *wir* liest, sind dabei Kristina und Hauke gemeint. Wir sind sehr gerne Draußen unterwegs und das am besten in Regionen in denen sonst keiner ist, mit Gepäck, was sonst keiner schleppt. Komfortable Hütten, Campingplätze oder gar Hotels sind uns fremd!
 
