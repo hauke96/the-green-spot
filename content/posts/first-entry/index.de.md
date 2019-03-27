@@ -10,4 +10,4 @@ Dies ist ein Beispielbeitrag eines Blog-Posts. Derzeit ist diese Website nur ein
 
 Wenn diese Seite fertig ist, wirst du hier coole Berichte über unsere Reisen, Fotos und Tipps finden. Bis dahin speichere die Seite schon mal in den Lesezeichen, du wirst es sonst bereuen ;)
 
-Mehr Informationen über diesen Blog findest du bereits [hier]({{< ref "pages/about.de.md" >}}).
+Mehr Informationen über diesen Blog findest du bereits [hier]({{< ref "pages/about/index.de.md" >}}).
