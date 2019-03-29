@@ -105,3 +105,6 @@ Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge seh
 Hier gab es keine Wege und die nächsten vier Tage sind wir keiner Menschenseele begegnet. Dadurch mussten wir auf der Karte etwas genau hin schauen wo wir waren und das erste mal unsere Fähigkeiten in der Navigation testen. Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen). Etwas vom Zelt entfernt floß der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt. Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.
 
 {{< imgScale "DSC00522_1600.JPG" "Unser Zelt am Bildufell" "500x" >}}
+
+# Fortsetzung folgt ...
+Ich hoffe dir hat der erste Teil des Berichtes gefallen. Wir waren 24 Tage unterwegs, als werden wohl noch so einige folgen. Ich verspreche aber, dass es nicht langweilig wird, eher im Gegenteil ;)
