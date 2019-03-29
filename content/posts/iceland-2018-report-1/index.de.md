@@ -63,6 +63,7 @@ Das Zeug hat ganz schön gerußt, aber dafür funktionierte es sehr gut. Wir hab
 Nach der Mahlzeit sind wir direkt eingeschlafen und haben direkt festgestellt, dass es gar nicht dunkel wurde. Ein kleiner Schahl, den man sich um die Augen binden kann, ist also sehr nützlich!
 
 # Tag 2: Reykjavik → Thorsmörk → Bjorgil
+{{< smallDate "2018-07-19" >}}
 
 ## Abreise aus Reykjavik
 Sind sehr früh aufgestanden (TODO 6:30?), da user Bus nach Thorsmörk um 7:15 fuhr. An der Bushaltestelle (direkt an der Einfahrt zum Campingplatz) warteten schon ein paar andere Wanderer. Unter anderem ein Pärchen aus Deutschland, welches ihr Rucksäcke hastig in große Mülltüten einpackte. Ihnen sei wohl zu Ohren gekommen, dass die Gepäckraume der Bussen durchaus geflutet werden können. Wir wurden etwas besorgt und haben auch schnell große Mülltüten rausgeholt (eigetlich für Schlafsach und Kleidung eingepackt) um unsere Rucksäcke darin zu verstauen. Diese waren jedoch viel zu groß und das ganze sah eher lustig als schützend aus.
@@ -84,4 +85,4 @@ Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses ma
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen. Etwas K.O. aber mit guter Laune markierten wir unsere erste Etappe auf der Karte.
 
 # Tag 3: Bjorgil → Bildufell
-W
+{{< smallDate "2018-07-20" >}}
