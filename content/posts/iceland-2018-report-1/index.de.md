@@ -6,7 +6,7 @@ date = 2019-03-25T09:15:18+01:00
 tags = ["island-2018"]
 author = "hauke"
 +++
-Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation/index.de.md" >}}) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
+Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
 
 # Tag 1: Hamburg → Reykjavik
 {{< smallDate "2018-07-18" >}}
