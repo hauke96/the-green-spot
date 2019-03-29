@@ -86,3 +86,12 @@ Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen
 
 # Tag 3: Bjorgil → Bildufell
 {{< smallDate "2018-07-20" >}}
+Um 8:30 klingelte für uns der Wecker. Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (ca. 7km entfernt) unglaublich früh aufgebrochen sein müssen. Irgendwie verständlich, da wir später am Tag sehr vielen Wandergruppen begegnet sind.
+
+Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten. Am abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
+
+Es ging weiter am Fluss Markarfljöt entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss. Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon. Aber nur, wenn man mal den Wanderweg verlassen hat!
+
+Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge sehr steil. Danach sind wir nicht wie die meisten den Hang hinauf zum Campinglatz, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
+
+Hier gab es keine Wege und die nächsten vier Tage sind wir keiner Menschenseele begegnet. Dadurch mussten wir auf der Karte etwas genau hin schauen wo wir waren und das erste mal unsere Fähigkeiten in der Navigation testen. Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen).
