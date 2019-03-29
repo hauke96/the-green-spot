@@ -21,7 +21,7 @@ This will be some kind of FAQ with some information, hints and experiences to pr
 * Experience: medium to little
 * Physical condition: Moderate to untrained
 
-{{< img "iceland-2018-map.jpg" "Our itinerary" >}}
+{{< imgScale "iceland-2018-map.jpg" "Our itinerary" "500x" >}}
 
 # Planning key details
 First we clarified the most basic information:
