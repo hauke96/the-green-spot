@@ -9,6 +9,7 @@ author = "TODO"
 Nach unseren Vorbereitungen (TODO Artikel verlinken) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
 
 # Tag 1: Hamburg → Reykjavik
+{{< smallDate "2018-07-18" >}}
 Am Vortag noch schnell unsere Sachen gepackt und dann am 18.07.2018 hastig zum Flughafen. Seit einem Jahr war diese Reise unser Traum und dann ging es endlich los!
 
 ## Der Flug
@@ -83,3 +84,4 @@ Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses ma
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen. Etwas K.O. aber mit guter Laune markierten wir unsere erste Etappe auf der Karte.
 
 # Tag 3: Bjorgil → Bildufell
+W
