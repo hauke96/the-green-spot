@@ -44,7 +44,7 @@ Sind an der Kirche vorbei in die Fußgängerzone, wo wir uns durch Touristenstö
 
 Beim Bonus kauften wir Parmesan (598ISK/ca. 4,80€), Gouda (889ISK/ca. 7,10€) und zwei Flaschen Cider-Softdrink (1,5L jeweils 198ISK/ca. 1,50€). Getränke sind im Vergleich zum Rest sehr günstig.
 
-Vor dem Supermarkt trafen wir noch eine ältere Frau mit ihrem Hund. Neben dem Hund lief eine Katze her, die wohl gar nicht ihr gehört, aber die mit dem Hund befreundet ist. Wir haben uns noch nett unterhalten und sind dann weiter zum Campingplatz gelaufen.
+Vor dem Supermarkt trafen wir eine ältere Frau mit ihrem Hund. Neben dem Hund lief eine Katze her, die wohl gar nicht ihr gehört, aber die mit dem Hund befreundet ist. Wir haben uns noch nett unterhalten und sind dann weiter zum Campingplatz gelaufen.
 
 ## Campingplatz in Reykjavik
 Man kann zum Campingplatz auch mit einer der vielen Buslinien fahren, da Reykjavik aber nicht so groß ist sind wir den Weg gelaufen. Auch mit den 30kg im Rücken war das kein Problem. Einen Teil der Strecke sind wir am Wasser entlang gegangen, was trotz einsetzendem Regen sehr schön war.
@@ -52,6 +52,8 @@ Man kann zum Campingplatz auch mit einer der vielen Buslinien fahren, da Reykjav
 Der Campingplatz lieg direkt neben einem großen Schwimmbad und ist ebenfalls sehr geräumig. Neben Zelten können da auch Wohnmobile und Wohnwagen campen. Die Rezeption ist in einem Häusschen in dem es auch eine Gemeinschaftsküche und einen kleinen Shop gibt. Draußen gibt es Bänke und gegenüber der Rezeption die Duschen und Toiletten. Alles mache einen recht gepflegten und sauberen Eindruck. Auch große Müllcontainer gab es.
 
 Der Preis ist für deutsche Verhältnisse aber sehr hoch: Eine Nacht für zwei Personen in einem Zelt kostete uns 4800ISK (also ca. 38,40€).
+
+{{< imgScale "DSC00366_1600.JPG" "Unser Zelt auf dem Campingplatz in Reykjavik" "500x" >}}
 
 ## Spiritus kaufen (zweiter Versuch)
 Als wir unser Zelt auf der schon recht gut gefüllten Wiese aufgebaut hatten und unsere erste Trekking-Mahlzeit zubereiten wollten, stellten wir fest, dass der "Spiritus", den wir gekauft hatten, nicht brannte. Verwirrt uns etwas nervös trotteten wir also zur Rezeption um uns rat zu holen.
@@ -80,6 +82,8 @@ Als wir angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz 
 
 Als wir dann alles eingepackt und ein nettes Foto geschossen haben, ging es dann englich los. Thorsmörk ist wirklich schön, sehr grün und bewaldet (Thorsmörk = Wald des Thor), aber auch sehr steil. Uns sind viele Wanderer Begegnet, da wir quasi am Ende vom Laugavegur gestartet sind. Es war sogar so warm, dass wir ohne Jacke gelaufen sind.
 
+{{< imgScale "DSC00391_0001_1600.JPG" "In Thorsmörk am Ufer vom Markarfljöt." "500x" >}}
+
 Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses mal ohne Wald -- wieder Bergauf. Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause. Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen. Etwas K.O. aber mit guter Laune markierten wir unsere erste Etappe auf der Karte.
@@ -92,6 +96,12 @@ Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt se
 
 Es ging weiter am Fluss Markarfljöt entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss. Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon. Aber nur, wenn man mal den Wanderweg verlassen hat!
 
+{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat" "500x" >}}
+
 Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge sehr steil. Danach sind wir nicht wie die meisten den Hang hinauf zum Campinglatz, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
-Hier gab es keine Wege und die nächsten vier Tage sind wir keiner Menschenseele begegnet. Dadurch mussten wir auf der Karte etwas genau hin schauen wo wir waren und das erste mal unsere Fähigkeiten in der Navigation testen. Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen).
+{{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Frennri-Emstrua war sehr abenteuerlich" "500x" >}}
+
+Hier gab es keine Wege und die nächsten vier Tage sind wir keiner Menschenseele begegnet. Dadurch mussten wir auf der Karte etwas genau hin schauen wo wir waren und das erste mal unsere Fähigkeiten in der Navigation testen. Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen). Etwas vom Zelt entfernt floß der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt. Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.
+
+{{< imgScale "DSC00522_1600.JPG" "Unser Zelt am Bildufell" "500x" >}}
