@@ -1,10 +1,10 @@
 +++
 draft = true
 title = "Island 2018: Reisebericht (Teil 1)"
-summary = "TODO"
+summary = "Die ersten drei Tage unserer Reise waren für uns ser aufregend und wir haben bereits hier so einiges erlebt."
 date = 2019-03-25T09:15:18+01:00
 tags = ["island-2018"]
-author = "TODO"
+author = "hauke"
 +++
 Nach unseren Vorbereitungen (TODO Artikel verlinken) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
 
