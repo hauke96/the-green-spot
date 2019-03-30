@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Iceland 2018: Preparations"
 summary = "After deciding to hike three weeks in Iceland, many preparations had to be done. We learned a lot and want to share our experience with you."
-date = "2018-09-21T01:10:03+02:00"
+date = 2019-03-27T02:29:32+02:00
 tags = ["Iceland 2018"]
 author = "kristina-hauke"
 +++
