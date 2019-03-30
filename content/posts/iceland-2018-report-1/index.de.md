@@ -2,7 +2,7 @@
 draft = true
 title = "Island 2018: Reisebericht (Teil 1)"
 summary = "Die ersten drei Tage unserer Reise waren für uns ser aufregend und wir haben bereits hier so einiges erlebt."
-date = 2019-03-25T09:15:18+01:00
+date = 2019-03-30T01:59:22+01:00
 tags = ["island-2018"]
 author = "hauke"
 +++
