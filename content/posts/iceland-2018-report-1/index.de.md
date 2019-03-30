@@ -96,7 +96,7 @@ Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt se
 
 Es ging weiter am Fluss Markarfljöt entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss. Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon. Aber nur, wenn man mal den Wanderweg verlassen hat!
 
-{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat" "500x" >}}
+{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat" "500x r90" >}}
 
 Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge sehr steil. Danach sind wir nicht wie die meisten den Hang hinauf zum Campinglatz, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
