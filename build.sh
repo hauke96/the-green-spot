@@ -4,7 +4,7 @@ echo "Clear folder ./public"
 rm -rf ./public/*
 
 echo "Build site"
-hugo -D -v
+hugo -v
 
 echo "Copy .htaccess file to ./public/"
 cp .htaccess_de public/.htaccess
