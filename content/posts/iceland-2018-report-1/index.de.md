@@ -153,30 +153,36 @@ Etwas K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der
 # Tag 3: Bjorgil → Bildufell
 {{< smallDate "2018-07-20" >}}
 Um 8:30 klingelte für uns der Wecker.
-Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (ca. 7km entfernt) unglaublich früh aufgebrochen sein müssen.
-Irgendwie verständlich, da wir später am Tag sehr vielen Wandergruppen begegnet sind.
+Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7km entfernt) unglaublich früh aufgebrochen sein mussten.
+Irgendwie verständlich, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
 
 Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten.
-Am abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
+Am Abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
 
-Es ging weiter am Fluss Markarfljöt entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss.
-Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon.
+Zunächst ging es aber weiter am Fluss Markarfljöt entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss.
+Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon (s.u.).
 Aber nur, wenn man mal den Wanderweg verlassen hat!
 
 {{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat" "500x r90" >}}
 
 Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge sehr steil.
-Danach sind wir nicht wie die meisten den Hang hinauf zum Campinglatz, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
+Danach sind wir _nicht_ wie die Meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
 {{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Frennri-Emstrua war sehr abenteuerlich" "500x r90" >}}
 
-Hier gab es keine Wege und die nächsten vier Tage sind wir keiner Menschenseele begegnet.
-Dadurch mussten wir auf der Karte etwas genau hin schauen wo wir waren und das erste mal unsere Fähigkeiten in der Navigation testen.
-Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen).
+{{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull" "500x" >}}
+
+Hier gab es keine Wanderwege (ab und zu Schaafswege) und die nächsten vier Tage sind wir keiner Menschenseele begegnet.
+Dadurch mussten wir auf der Karte unseren Standort etwas suchen und das erste mal unsere Fähigkeiten in der Navigation testen.
+
+Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen, s.u.).
+Die letzten ca. zwei Kilometer bestanden aus ehemaligem Flußbett und waren somit schwierig zu Wandern.
+Vor allem die sandigen Hügel waren sehr instabil und rutschig.
+
+{{< imgScale "DSC00522_1600.JPG" "Unser Zelt mit dem Bildufell im Hintergrund" "500x r90" >}}
+
 Etwas vom Zelt entfernt floß der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt.
 Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.
-
-{{< imgScale "DSC00522_1600.JPG" "Unser Zelt am Bildufell" "500x r90" >}}
 
 # Fortsetzung folgt ...
 Ich hoffe dir hat der erste Teil des Berichtes gefallen.
