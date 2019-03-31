@@ -59,7 +59,7 @@ Kauft kein "Grill Vökni" für einen Benzin/Spiritus Kocher!
 Motiviert und sehr glücklich, gingen wir mit unserem ca. 30kg schweren Rucksäcken in die Stadt.
 Bergauf.
 Na gut, Reykjavik liegt weniger auf einem Berg, mehr auf einem Hügel, aber es hat sich wie ein Berg angefühlt.
-Oben angekommen sind wir ab der (TODO Name der zentralen Kirche in reykjavik) Kirche vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durchkämpften.
+Oben angekommen sind wir an der Hallgrimskirkja vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durchkämpften.
 Island gilt als großes Wander-/Outdoor-Ziel, mit unseren großen Rucksäcken waren wir aber klare Außenseiter.
 
 Beim Bonus kauften wir Parmesan (598ISK/ca. 4,80€), Gouda (889ISK/ca. 7,10€) und zwei Flaschen Cider-Softdrink (1,5L jeweils 198ISK/ca. 1,50€).
@@ -120,7 +120,7 @@ Die Rucksäcke also raus, die Mülltüten wieder eingepackt (hätte im Zweifel e
 
 ## Fahrt nach Thorsmörk
 Die Fahrt war ruhig und wir konnten erste Eindrücke von der Landschaft und den Ortschaften sammeln.
-In (TODO da wo auch das Lava Center ist) mussten wir nochmals umsteigen, dieses mal in einen geländefähigeren Bus.
+In Hvolsvöllur mussten wir nochmals umsteigen, dieses mal in einen geländefähigeren Bus.
 Dieser war generell etwas rustikaler und ein wenig älter als der vorherige normale Reisebus.
 Die Fahrt war jedoch deutlich interessanter, da es jetzt ins Hochland ging.
 
