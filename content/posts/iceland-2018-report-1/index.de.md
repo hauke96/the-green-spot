@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Island 2018: Reisebericht (Teil 1)"
-summary = "Die ersten drei Tage unserer Reise waren für uns ser aufregend und wir haben bereits hier so einiges erlebt."
+summary = "Die ersten drei Tage unserer Reise waren für uns sehr aufregend und wir haben bereits hier so einiges erlebt."
 date = 2019-03-30T01:59:22+01:00
 tags = ["island-2018"]
 author = "hauke"
@@ -94,7 +94,7 @@ Um dann richtigen Spiritus zu finden sind wir dann los getiegert und haben etwas
 Dort haben wir dann drei Flaschen von "Coleman Bensin" (jeweils 1790ISK/ca. 14,30€) gekauft.
 Ziemlich teuer aber nun gut, wir waren hungrig, nervös, es war spät und wir mussten am nächsten Tag früh raus.
 
-> Richtiger Spipritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- keinen **white spirit** kaufen, das ist wohl Petroleum/Lampenöl!
+{{< note "Richtiger Spipritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- keinen **white spirit** kaufen, das ist wohl Petroleum/Lampenöl!" >}}
 
 Das Zeug hat ganz schön gerußt (war wohl irgendwas in richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
 Zu gut um genau zu sein:
