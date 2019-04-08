@@ -59,3 +59,4 @@ theme = "hamburg"
 	customCSS = ['hamburg.css']
 
 	ShowGDPRNotice = true
+	UseCommento = true
