@@ -48,9 +48,9 @@ Für uns sah es zu der Zeit (also ca. 16 Uhr) so aus, als ob einfach alle 15 bis
 
 Die Fahrt dauerte ca. 45 Minuten und wir haben bereits erste Eindrücke bekommen, was bei uns die Vorfreude nur noch größer werden ließ.
 
-Angekommen sind wir dann am BSI, dem zetralen Busbahnhof in Reykjavik.
+Angekommen sind wir dann am BSI, dem zentralen Busbahnhof in Reykjavik.
 Direkt am BSI gibt es eine N1-Tankstelle bei der wir Spiritus für unseren Kocher kaufen wollten.
-Da wir mit dem isländischen Begriffen nicht vertraut waren (unbedingt grundlegende Vokabeln und Produktnamen kennen!) und es mehrere potentielle Spiritusflaschen gab, haben wir einen Verkäufer gefragt.
+Da wir mit dem isländischen Begriffen nicht vertraut waren (unbedingt grundlegende Vokabeln und Produktnamen kennen!) und es mehrere potentielle Spiritus Flaschen gab, haben wir einen Verkäufer gefragt.
 Dieser riet uns zu "Grill Vökni", wovon wir drei Flaschen (jeweils 642ISK/ca. 5€) kauften.
 Später stellte sich heraus, dass es wohl Petroleum/Lampenöl ist.
 Kauft kein "Grill Vökni" für einen Benzin/Spiritus Kocher!
@@ -58,8 +58,8 @@ Kauft kein "Grill Vökni" für einen Benzin/Spiritus Kocher!
 ## Einkaufen in der Stadt
 Motiviert und sehr glücklich, gingen wir mit unserem ca. 30kg schweren Rucksäcken in die Stadt.
 Bergauf.
-Na gut, Reykjavik liegt weniger auf einem Berg, mehr auf einem Hügel, aber es hat sich wie ein Berg angefühlt.
-Oben angekommen sind wir an der Hallgrimskirkja vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durchkämpften.
+Na gut, Reykjavik liegt weniger auf einem Berg, mehr auf einem Hügel, aber es hat sich wie ein Berg an gefühlt.
+Oben angekommen sind wir an der Hallgrimskirkja vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durch kämpften.
 Island gilt als großes Wander-/Outdoor-Ziel, mit unseren großen Rucksäcken waren wir aber klare Außenseiter.
 
 Beim Bonus kauften wir Parmesan (598ISK/ca. 4,80€), Gouda (889ISK/ca. 7,10€) und zwei Flaschen Cider-Softdrink (1,5L jeweils 198ISK/ca. 1,50€).
@@ -74,7 +74,7 @@ Man kann zum Campingplatz auch mit einer der vielen Buslinien fahren, da Reykjav
 Auch mit den 30kg im Rücken war das kein Problem.
 Einen Teil der Strecke sind wir am Wasser entlang gegangen, was trotz einsetzendem Regen sehr schön war.
 
-Der Campingplatz lieg direkt neben einem großen Schwimmbad und ist ebenfalls sehr geräumig.
+Der Campingplatz liegt direkt neben einem großen Schwimmbad und ist ebenfalls sehr geräumig.
 Neben Zelten können da auch Wohnmobile und Wohnwagen campen.
 Die Rezeption ist in einem Häusschen in dem es auch eine Gemeinschaftsküche und einen kleinen Shop gibt.
 Draußen gibt es Bänke, Tische und gegenüber der Rezeption die Duschen, Toiletten und große Müllcontainer.
@@ -90,15 +90,15 @@ Wir wussten noch nicht, dass es Petroleum war und trotteten verwirrt und etwas n
 
 Bei der Rezeption half uns eine nette Frau weiter und stellte mit ihrem Kollegen dann fest, dass in unseren Flaschen Petroleum ist.
 Sie war sogar so nett und telefonierte mit der Tankstelle bei der wir die Flaschen gekauft hatten ob wir sie zurückgeben könnten.
-Um dann richtigen Spiritus zu finden sind wir dann los getiegert und haben etwas nervös und frustriert eine Tankstelle gesucht und schließlich auch gefunden.
+Um dann richtigen Spiritus zu finden sind wir dann los gesteigert und haben etwas nervös und frustriert eine Tankstelle gesucht und schließlich auch gefunden.
 Dort haben wir dann drei Flaschen von "Coleman Bensin" (jeweils 1790ISK/ca. 14,30€) gekauft.
 Ziemlich teuer aber nun gut, wir waren hungrig, nervös, es war spät und wir mussten am nächsten Tag früh raus.
 
-{{< note "Richtiger Spipritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- keinen **white spirit** kaufen, das ist wohl Petroleum/Lampenöl!" >}}
+{{< note "Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- keinen **white spirit** kaufen, das ist wohl Petroleum/Lampenöl!" >}}
 
-Das Zeug hat ganz schön gerußt (war wohl irgendwas in richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
+Das Zeug hat ganz schön gerußt (war wohl irgendwas in Richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
 Zu gut um genau zu sein:
-Wir haben es immer mit etwas Wasser verdünnt (je nach Temperatur und Wind), wodruch es länger und vor allem nicht so stark brannte.
+Wir haben es immer mit etwas Wasser verdünnt (je nach Temperatur und Wind), wodurch es länger und vor allem nicht so stark brannte.
 Ganz ohne Wasser war die Flamme viel zu hoch und stark, sodass selbst der Deckel vom Kocher das Feuer nicht löschen konnte!
 
 Nach der Mahlzeit sind wir direkt eingeschlafen und haben festgestellt, dass es gar nicht dunkel wurde.
@@ -131,12 +131,12 @@ Danach ging es weiter nach Thorsmörk, wo wir noch eine etwas größere Furt zu 
 
 {{< imgScale "DSC00390_1600.JPG" "Eine mobile Brücke über der Krossa bei Thorsmörk" "500x" >}}
 
-## Umpacken und loslaufen
-Als wir um (TODO uhrzeit. 14:00 oder so?) angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind, hieß es erst mal umpacken.
+## Umpacken und los laufen
+Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind, hieß es erst mal umpacken.
 Den Rucksack hatten wir am Morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten.
 Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
 
-Als wir dann alles eingepackt und ein nettes Foto geschossen haben (s.u.), ging es dann englich los.
+Als wir dann alles eingepackt und ein nettes Foto geschossen haben (s.u.), ging es dann endlich los.
 Thorsmörk ist wirklich schön, sehr grün, bewaldet (Thorsmörk = Wald des Thor), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
@@ -176,12 +176,12 @@ Hier gab es keine Wanderwege (ab und zu Schaafswege) und die nächsten vier Tage
 Dadurch mussten wir auf der Karte unseren Standort etwas suchen und das erste mal unsere Fähigkeiten in der Navigation testen.
 
 Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Flecken Erde aufgeschlagen (um nicht das Moos zu verletzen, s.u.).
-Die letzten ca. zwei Kilometer bestanden aus ehemaligem Flußbett und waren somit schwierig zu Wandern.
+Die letzten ca. zwei Kilometer bestanden aus ehemaligem Flussbett und waren somit schwierig zu Wandern.
 Vor allem die sandigen Hügel waren sehr instabil und rutschig.
 
 {{< imgScale "DSC00522_1600.JPG" "Unser Zelt mit dem Bildufell im Hintergrund" "500x r90" >}}
 
-Etwas vom Zelt entfernt floß der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt.
+Etwas vom Zelt entfernt floss der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt.
 Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.
 
 # Fortsetzung folgt ...
