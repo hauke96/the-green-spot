@@ -8,6 +8,8 @@ author = "hauke"
 +++
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Thorsmörk via Maelifell, Holmsarlon, Eldgja, Langisjor to Landmannalaugar was ready to start.
 
+{{< imgScale "iceland-2018-map-18-20.jpg" "The first part of our route with the first two camps." "500x" >}}
+
 # Day 1: Hamburg → Reykjavik
 {{< smallDate "2018-07-18" >}}
 At the day before the departure, we quickly packed our things and went on the Jul 18, 2018 to the airport in Hamburg, Germany.
