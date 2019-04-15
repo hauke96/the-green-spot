@@ -64,6 +64,8 @@ Na gut, Reykjavik liegt weniger auf einem Berg, mehr auf einem Hügel, aber es h
 Oben angekommen sind wir an der Hallgrimskirkja vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durch kämpften.
 Island gilt als großes Wander-/Outdoor-Ziel, mit unseren großen Rucksäcken waren wir aber klare Außenseiter.
 
+{{< imgScale "IMG_20180718_201522_1600.jpg" "Die Hauptkirche Hallgrimskirkja in Reykjavik." "500x" >}}
+
 Beim Bonus kauften wir Parmesan (598ISK/ca. 4,80€), Gouda (889ISK/ca. 7,10€) und zwei Flaschen Cider-Softdrink (1,5L jeweils 198ISK/ca. 1,50€).
 Getränke sind im Vergleich zum Rest sehr günstig.
 
@@ -126,6 +128,8 @@ In Hvolsvöllur mussten wir nochmals umsteigen, dieses mal in einen geländefäh
 Dieser war generell etwas rustikaler und ein wenig älter als der vorherige normale Reisebus.
 Die Fahrt war jedoch deutlich interessanter, da es jetzt ins Hochland ging.
 
+{{< imgScale "IMG_20180719_101552_1600.jpg" "Links der normale Reisebus mit dem wir gekommen sind, in der Mitte der geländefähigere Bus mit dem wir nach Thorsmörk gefahren sind." "500x" >}}
+
 Nach einer kurzen Fahrt weiter auf der Hauptstraße, ging es am Seljalandsfoss endlich ins Landesinnere.
 Die Straße wurde auch recht schnell abgelöst von einer Schotterpiste und uns kamen ein paar Wardens/Ranger entgegen, welche die Piste gerade ausbesserten.
 Nach vielen kleinen Furten machte der Fahrer an einem Aussichtspunkt beim Gletscher Gigjökull halt.
@@ -137,6 +141,8 @@ Danach ging es weiter nach Thorsmörk, wo wir noch eine etwas größere Furt zu 
 Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind, hieß es erst mal umpacken.
 Den Rucksack hatten wir am Morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten.
 Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
+
+{{< imgScale "IMG_20180719_140156_1600.jpg" "Island ist ein Paradies für Liebhaber großer Autos." "500x" >}}
 
 Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumindest herauszufinden ob es irgendwelche großen Stürme oder Gewitter geben könnte.
 Als Antwort bekam sie lediglich ein "Well, there will be weather".
@@ -161,6 +167,8 @@ Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf
 Um 8:30 klingelte für uns der Wecker.
 Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7km entfernt) unglaublich früh aufgebrochen sein mussten.
 Irgendwie nachvollziehbar, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
+
+{{< imgScale "IMG_20180719_211758_1600.jpg" "Unser camp am Morgen." "500x" >}}
 
 Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten.
 Am Abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.

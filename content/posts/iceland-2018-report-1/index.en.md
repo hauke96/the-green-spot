@@ -62,6 +62,8 @@ Reykjavik is not located on a mountain but on a hill, which however felt like a 
 When we arrived at the top we walked pass the Hallgrimskirkja to the shopping zone where walked through masses of tourists to a Bonus-supermarket.
 Iceland is known for hiking and outdoor activities but we were clear outsider with our big backpacks.
 
+{{< imgScale "IMG_20180718_201522_1600.jpg" "The main church Hallgrimskirkja in Reykjavik." "500x" >}}
+
 At the supermarket we bought Parmesan (598ISK/approx. 5,70$), Gouda (889ISK/approx. 8,50$) and two bottles of a cider softd rink (1.5L each 198ISK/1,90$).
 Soft drinks are not that expensive in comparison to food.
 
@@ -123,8 +125,7 @@ The journey was relaxing and we were able to gather some impressions.
 We had to change again in Hvolsvöllur but this time into an older and more robust bus suitable for the terrain.
 Now we drove into the highland, which was much more interesting for us.
 
-Kristina ask the guy in the campsite reception how the weather may look like to find out if there's any big storm coming up.
-The only answer she got was "Well, there will be weather".
+{{< imgScale "IMG_20180719_101552_1600.jpg" "The left bus is the normal coach we arrived with and the middle one is the robust one which brought us to Thorsmörk." "500x" >}}
 
 After a while on the main ring road we turned left, passed the Seljalandsfoss and went further into the inland.
 The normal road was quickly replaced by a gravel track which was maintained by some wardens/rangers coming towards us.
@@ -137,6 +138,11 @@ Afterwards the journey continued to Thorsmörk were we had to cross a larger riv
 We arrived at 2pm, admired the big jeeps and walked to the campsite to repack out backpacks.
 Because we had not much time in the morning, we packed our backpack very poorly.
 We also tested our cooker again to become familiar with its usage (due to the strange white spirit we bought).
+
+{{< imgScale "IMG_20180719_140156_1600.jpg" "Iceland is a paradise for people loving big cars." "500x" >}}
+
+Kristina ask the guy in the campsite reception how the weather may look like to find out if there's any big storm coming up.
+The only answer she got was "Well, there will be weather".
 
 After repacking and taking a nice photo in front of the Markarfljöt (s. below) it was time to start our journey.
 Thorsmörk is very beautiful, green, forested (Thorsmörk = forest of Thor) but also pretty steep.
@@ -158,6 +164,8 @@ Being pretty exhausted but in a good mood, we marked our first camp on our hikin
 The alarm clock rang at 8:30am for us.
 While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
 Somehow comprehensible, because there were a lot more hiking groups later in the day.
+
+{{< imgScale "IMG_20180719_211758_1600.jpg" "Our camp in the morning." "500x" >}}
 
 One couple crossed our way, we asked them how far the campsite Botnar is away and came to the conclusion that we hiked not as far as we thought we did.
 Later in the evening, we disillusioned corrected the position of our camp on the map.
