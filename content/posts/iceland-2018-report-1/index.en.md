@@ -82,7 +82,7 @@ Everything looked nice and clean.
 
 The price was -- for us Germans -- pretty expensive: One night for two persons in one tent costs about 4800ISK (approx. 45,70$).
 
-{{< imgScale "DSC00366_1600.JPG" "Our tent on the campsite in Reykjavik" "500x" >}}
+{{< imgScale "DSC00366_1600.JPG" "Our tent on the campsite in Reykjavik." "500x" >}}
 
 ## Buying white spirit (second attempt)
 After building up our tent on the rather full meadow and preparing our first trekking meal, we noticed that the "white spirit" be bought wasn't working.
@@ -163,7 +163,7 @@ But first we walked further along the Markarfljöt, which runs through a approx 
 Before entering the plain Sandar and passing the river Frennri-Emstrua, we had a breathtaking view through the canyon (s. below).
 But only because we left the normal hiking path!
 
-{{< imgScale "DSC00493_1600.JPG" "This view of the Markarfljöt is only accessible when leaving the normal Laguavegur hiking path" "500x r90" >}}
+{{< imgScale "DSC00493_1600.JPG" "This view of the Markarfljöt is only accessible when leaving the normal Laguavegur hiking path." "500x r90" >}}
 
 The Bridge over the Frennri-Emstrua looked pretty adventurous and the slopes were very steep.
 After passing the bridge, we did _not_ walked uphill to the Botnar campsite but turned right towards the Entujökull glacier.
