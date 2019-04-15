@@ -131,7 +131,7 @@ Die Straße wurde auch recht schnell abgelöst von einer Schotterpiste und uns k
 Nach vielen kleinen Furten machte der Fahrer an einem Aussichtspunkt beim Gletscher Gigjökull halt.
 Danach ging es weiter nach Thorsmörk, wo wir noch eine etwas größere Furt zu durchqueren hatten.
 
-{{< imgScale "DSC00390_1600.JPG" "Eine mobile Brücke über der Krossa bei Thorsmörk" "500x" >}}
+{{< imgScale "DSC00390_1600.JPG" "Eine mobile Brücke über der Krossa bei Thorsmörk." "500x" >}}
 
 ## Umpacken und los laufen
 Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind, hieß es erst mal umpacken.
