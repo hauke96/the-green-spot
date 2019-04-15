@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Iceland 2018: Travel report (part 1)"
 summary = "The first three days of our travel were very exciting and we experienced a lot of things."
-date = 2019-03-30T01:59:22+01:00
+date = "2019-04-15T21:25:03+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
 +++
