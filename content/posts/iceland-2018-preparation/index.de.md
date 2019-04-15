@@ -14,7 +14,7 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 
 # Eckdaten zur Reise
 * Island 18.07.2018 - 10.08.2018 (24 Tage)
-* Region Þórsmörk - Eldgja - Langisjor - Landmannalaugar
+* Region Þórsmörk - Eldgja - Langisjór - Landmannalaugar
 * Ohne Campingplatz, Hotel oder Supermarkt zwischendurch
 * Personen: Wir (Kristina und Hauke)
 * Erfahrung: Mittelmäßig bis wenig
