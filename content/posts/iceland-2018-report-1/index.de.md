@@ -84,7 +84,7 @@ Alles mache einen recht gepflegten und sauberen Eindruck.
 
 Der Preis ist für deutsche Verhältnisse aber sehr hoch: Eine Nacht für zwei Personen in einem Zelt kostete uns 4800ISK (also ca. 38,40€).
 
-{{< imgScale "DSC00366_1600.JPG" "Unser Zelt auf dem Campingplatz in Reykjavik" "500x" >}}
+{{< imgScale "DSC00366_1600.JPG" "Unser Zelt auf dem Campingplatz in Reykjavik." "500x" >}}
 
 ## Spiritus kaufen (zweiter Versuch)
 Als wir unser Zelt auf der schon recht gut gefüllten Wiese aufgebaut hatten und unsere erste Trekking-Mahlzeit zubereiten wollten, stellten wir fest, dass der gekaufte "Spiritus", nicht brannte.
@@ -138,7 +138,7 @@ Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Camp
 Den Rucksack hatten wir am Morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten.
 Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
 
-Als wir dann alles eingepackt und ein nettes Foto geschossen haben (s.u.), ging es dann endlich los.
+Als wir dann alles eingepackt und ein nettes Foto am Markarfljöt geschossen haben (s.u.), ging es dann endlich los.
 Thorsmörk ist wirklich schön, sehr grün, bewaldet (Thorsmörk = Wald des Thor), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
@@ -150,13 +150,14 @@ Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem klein
 Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen.
-Etwas K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der Karte.
+Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der Karte.
 
 # Tag 3: Bjorgil → Bildufell
 {{< smallDate "2018-07-20" >}}
+
 Um 8:30 klingelte für uns der Wecker.
 Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7km entfernt) unglaublich früh aufgebrochen sein mussten.
-Irgendwie verständlich, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
+Irgendwie nachvollziehbar, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
 
 Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten.
 Am Abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
@@ -165,14 +166,14 @@ Zunächst ging es aber weiter am Fluss Markarfljöt entlang, der weiter nördlic
 Kurz bevor es in die Ebene Sandar und über den Fluss Frennri-Emstrua ging hatte man nochmals einen atemberaubenden Blick in den Canyon (s.u.).
 Aber nur, wenn man mal den Wanderweg verlassen hat!
 
-{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat" "500x r90" >}}
+{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljöt konnte man nur genießen, wenn man den Laugavegur verlassen hat." "500x r90" >}}
 
 Die Brücke über den Frennri-Emstrua war etwas abenteuerlich und die Hänge sehr steil.
-Danach sind wir _nicht_ wie die Meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
+Danach sind wir _nicht_ wie die meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
-{{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Frennri-Emstrua war sehr abenteuerlich" "500x r90" >}}
+{{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Frennri-Emstrua war sehr abenteuerlich." "500x r90" >}}
 
-{{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull" "500x" >}}
+{{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull." "500x" >}}
 
 Hier gab es keine Wanderwege (ab und zu Schaafswege) und die nächsten vier Tage sind wir keiner Menschenseele begegnet.
 Dadurch mussten wir auf der Karte unseren Standort etwas suchen und das erste mal unsere Fähigkeiten in der Navigation testen.
@@ -181,7 +182,7 @@ Unser Zelt haben wir in der Nähe vom Berg Bildufell auf einem unbewachsenen Fle
 Die letzten ca. zwei Kilometer bestanden aus ehemaligem Flussbett und waren somit schwierig zu Wandern.
 Vor allem die sandigen Hügel waren sehr instabil und rutschig.
 
-{{< imgScale "DSC00522_1600.JPG" "Unser Zelt mit dem Bildufell im Hintergrund" "500x r90" >}}
+{{< imgScale "DSC00522_1600.JPG" "Unser Zelt mit dem Bildufell im Hintergrund." "500x r90" >}}
 
 Etwas vom Zelt entfernt floss der Frennri-Emstrua und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt.
 Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.
