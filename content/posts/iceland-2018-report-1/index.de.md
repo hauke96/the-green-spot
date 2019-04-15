@@ -92,11 +92,11 @@ Wir wussten noch nicht, dass es Petroleum war und trotteten verwirrt und etwas n
 
 Bei der Rezeption half uns eine nette Frau weiter und stellte mit ihrem Kollegen dann fest, dass in unseren Flaschen Petroleum ist.
 Sie war sogar so nett und telefonierte mit der Tankstelle bei der wir die Flaschen gekauft hatten ob wir sie zurückgeben könnten.
-Um dann richtigen Spiritus zu finden sind wir dann los gesteigert und haben etwas nervös und frustriert eine Tankstelle gesucht und schließlich auch gefunden.
+Um dann richtigen Spiritus zu finden sind wir dann los getiegert und haben etwas nervös und frustriert eine Tankstelle gesucht und schließlich auch gefunden.
 Dort haben wir dann drei Flaschen von "Coleman Bensin" (jeweils 1790ISK/ca. 14,30€) gekauft.
 Ziemlich teuer aber nun gut, wir waren hungrig, nervös, es war spät und wir mussten am nächsten Tag früh raus.
 
-{{< note "Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- keinen **white spirit** kaufen, das ist wohl Petroleum/Lampenöl!" >}}
+{{< note "Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- eigentlich ist **white spirit** Spiritus aber vielleicht auch Petroleum/Lampenöl? ..." >}}
 
 Das Zeug hat ganz schön gerußt (war wohl irgendwas in Richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
 Zu gut um genau zu sein:
