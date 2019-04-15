@@ -123,6 +123,9 @@ The journey was relaxing and we were able to gather some impressions.
 We had to change again in Hvolsvöllur but this time into an older and more robust bus suitable for the terrain.
 Now we drove into the highland, which was much more interesting for us.
 
+Kristina ask the guy in the campsite reception how the weather may look like to find out if there's any big storm coming up.
+The only answer she got was "Well, there will be weather".
+
 After a while on the main ring road we turned left, passed the Seljalandsfoss and went further into the inland.
 The normal road was quickly replaced by a gravel track which was maintained by some wardens/rangers coming towards us.
 After several smaller fords, the driver made a little break at the Gigjökull glacier so that we were able to take some pictures.

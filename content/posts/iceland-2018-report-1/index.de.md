@@ -138,6 +138,9 @@ Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Camp
 Den Rucksack hatten wir am Morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten.
 Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
 
+Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumindest herauszufinden ob es irgendwelche großen Stürme oder Gewitter geben könnte.
+Als Antwort bekam sie lediglich ein "Well, there will be weather".
+
 Als wir dann alles eingepackt und ein nettes Foto am Markarfljöt geschossen haben (s.u.), ging es dann endlich los.
 Thorsmörk ist wirklich schön, sehr grün, bewaldet (Thorsmörk = Wald des Thor), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
