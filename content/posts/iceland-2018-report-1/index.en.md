@@ -148,3 +148,45 @@ After taking some photos, filling up our water bottles and eating our dinner, we
 
 We then created our camp a bit downstream behind a larger bush.
 Being pretty exhausted but in a good mood, we marked our first camp on our hiking map.
+
+# Day 3: Bjorgil → Bildufell
+{{< smallDate "2018-07-20" >}}
+
+The alarm clock rang at 8:30am for us.
+While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
+Somehow comprehensible, because there were a lot more hiking groups later in the day.
+
+One couple crossed our way, we asked them how far the campsite Botnar is away and came to realize that we didn't hiked as far as we thought we did.
+Later in the evening, we disillusioned corrected the position of our camp on the map.
+
+But first we walked further along the Markarfljöt, which runs through a approx 80m (~260ft) deep canyon.
+Before entering the plain Sandar and passing the river Frennri-Emstrua, we had a breathtaking view through the canyon (s. below).
+But only because we left the normal hiking path!
+
+{{< imgScale "DSC00493_1600.JPG" "This view of the Markarfljöt is only accessible when leaving the normal Laguavegur hiking path" "500x r90" >}}
+
+The Bridge over the Frennri-Emstrua looked pretty adventurous and the slopes were very steep.
+After passing the bridge, we did _not_ walked uphill to the Botnar campsite but turned right towards the Entujökull glacier.
+
+{{< imgScale "DSC00509_1600.JPG" "The bridge above the Frennri-Emstrua was very adventurous." "500x r90" >}}
+
+{{< imgScale "DSC00515_1600.JPG" "After turning right, we hiked towards the Entujökull glacier." "500x" >}}
+
+At this point there were no hiking paths (sometimes trails from sheeps) and we should not meet any other human for the next four days.
+Therefore we had to use our navigation skills and needed to search our location on the hiking map.
+
+We placed our tent near the Bildufell on a place without vegetation on it (to not harm the sensitive moss, s. below).
+The last two kilometers for that day consisted of a former river bed and was therefore difficult for us to hike.
+Especially the hills were very steep and slippery.
+
+{{< imgScale "DSC00522_1600.JPG" "Our tent with the Bildufell in the background." "500x r90" >}}
+
+Not far from the tent runed the river Frennri-Emstrua, which consisted of very turbid water, so the water water filter was definitely worth it.
+Nevertheless, we let the water stand over night so the contained solids could settle.
+
+{{< imgScale "iceland-2018-map-18-20.jpg" "Here again the first part of our hike with the two camps." "500x" >}}
+
+# To be continues ...
+I hope you enjoyed this first part of our reports.
+We were 24 days in Iceland, so there will be a lot of reports.
+But I promise to you, it won't get boring ;)
