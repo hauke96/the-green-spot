@@ -6,7 +6,7 @@ tags = ["iceland-2018"]
 author = "hauke"
 +++
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
-After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgja, Langisjór to Landmannalaugar was ready to start.
+After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "The first part of our route with the first two camps." "500x" >}}
 

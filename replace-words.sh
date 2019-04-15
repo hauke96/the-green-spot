@@ -7,6 +7,7 @@ re[BSI]=BSÍ
 re[Bildufell]=Bíldufell
 re[Bjorgil]=Bjórgil
 #re[Botnar]=
+re[Eldgja]=Eldgjá
 #re[Entujökull]=
 re[Frennri-Emstrua]=Fremri-Emstruá # Spelling mistake whould also be translated
 re[Fremri-Emstrua]=Fremri-Emstruá
