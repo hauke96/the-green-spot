@@ -103,3 +103,48 @@ Without water the flame was to high and strong so that even the lid of the cooke
 
 After the meal we tried to sleep and directly noticed that the night is far from being dark.
 A small scarf, which can be used to cover your eyes, is very helpful in the Icelandic summer!
+
+# Day 2: Reykjavik → Thorsmörk → Bjorgil
+{{< smallDate "2018-07-19" >}}
+
+## Departure from Reykjavik
+We stood up at 6am and our bus leaved at 7:15am to Thorsmörk.
+There were already some people waiting at the bus stop, which is directly located at the entrance to the campsite.
+Among others there was a couple from Germany, which wrapped their backpacks in plastic bags very hastily.
+They heard, that the luggage compartments of the buses may be flooded (which is not unlikely on deeper fords).
+After hearing that, we got a bit worried and also wrapped our backpacks in huge plastic bags, which we originally wanted to use for clothes and the sleeping bag.
+Unfortunately our backpacks were way to large and everything looked more funny then helpful.
+
+After a few minutes, the bus arrived and drove us to the BSI, where we had to change.
+So we unloaded the backpacks, unwrapped them (in case of doubt, they weren't that helpful) and after a couple of minutes the actual bus leaved the BSI.
+
+## Drive to Thorsmörk
+The journey was relaxing and we were able to gather some impressions.
+We had to change again in Hvolsvöllur but this time into an older and more robust bus suitable for the terrain.
+Now we drove into the highland, which was much more interesting for us.
+
+After a while on the main ring road we turned left, passed the Seljalandsfoss and went further into the inland.
+The normal road was quickly replaced by a gravel track which was maintained by some warens/rangers coming towards us.
+After several smaller fords, the driver made a little break at the Gigjökull glacier so that we were able to take some pictures.
+Afterwards the journey continued to Thorsmörk were we had to cross a larger river.
+
+{{< imgScale "DSC00390_1600.JPG" "A mobile bridge over the Krossa river near Thorsmörk." "500x" >}}
+
+## Repack and let's go
+We arrived at 2pm, admired the big jeeps and walked to the campsite to repack out backpacks.
+Because we had not much time in the moring, we packed our backpack very poorly.
+We also tested our cooker again to become familiar with its usage (due to the strange white spirit we bought).
+
+After repacking and taking a nice photo in front of the Markarfljöt (s. below) it was time to start our journey.
+Thorsmörk is very beautiful, green, forested (Thorsmörk = forest of Thor) but also pretty steep.
+Because the first bit of our journey followed the Laugavegur, we met a lot of other people hiking towards Thorsmörk.
+It was so warm that day that we started hiking without even wearing any jacket.
+
+{{< imgScale "DSC00391_0001_1600.JPG" "In Thorsmörk at the Markarfljöt." "500x" >}}
+
+After completing our first ford, which wasn't deep but pretty cold, we hiked -- this time without a forest -- further uphill.
+Towards the evening the temperature dropped and did a little break at a small but wild river.
+After taking some photos, filling up our water bottles and eating our dinner, we passed a adventurous bridge to the other side.
+
+We then created our camp a bit downstream behind a larger bush.
+Being pretty exhausted but in a good mood, we marked our first camp on our hiking map.
