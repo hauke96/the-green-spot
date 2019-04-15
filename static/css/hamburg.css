@@ -10,3 +10,9 @@ article section img {
     top: 20px;
   }
 }
+
+/* Date usually below the heading of a section in a traveö report to indicate what day this section covers */
+.section-date {
+	margin-top: -4px;
+	margin-bottom: 10px;
+}
