@@ -5,6 +5,7 @@ date = "2019-04-15T21:25:03+02:00"
 tags = ["island-2018"]
 author = "hauke"
 +++
+Im Sommer 2018 sind Kristina und ich drei Wochen lang in Island wandern gewesen -- ohne Auto, Campingplatz oder feste Unterkunft.
 Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Thorsmörk über Maelifell, Holmsarlon, Eldgja, Langisjor nach Landmannalaugar endlich los gehen.
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "Der erste Teil unserer Route mit den ersten beiden Camps." "500x" >}}
