@@ -1,7 +1,5 @@
 #!/bin/bash
 
-set -e
-
 httpdocs=/httpdocs
 home=$httpdocs/the-green-spot
 
