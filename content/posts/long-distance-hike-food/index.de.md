@@ -50,11 +50,13 @@ Eine lange Wandertour verfolgt nun nicht das Ziel Stress auf zu bauen, sondern v
 Daher stellt Essen ein wichtiges Fundament dar, um Stress zu vermeiden.
 
 ## Welche Lebensmittel mitnehmen?
-Prinzipiell richtet es sich danach wie Lange man unterwegs ist und was man gerne mag.
-Ist man kürzer unterwegs, spricht nichts gegen Käse und Wurst wie z.B. ein Block Gouda oder eine Salami.
-Ist man nun allerdings länger unterwegs (eine Woche oder länger) bieten sich schnell verderblichen Lebensmitteln eher nicht an.
+Prinzipiell richtet es sich danach wie lange man unterwegs ist und was man gerne mag.
 
-  Wir haben uns in Anbetracht der großen Menge an benötigter Nahrung für gefriergetrocknete Gerichte entschieden, da diese nur mit heißem Wasser aufgegossen werden müssen und sehr leicht sind.
+Ist man kürzer unterwegs, spricht nichts gegen Käse und Wurst, da diese Dinge sich durchaus ein paar Tage halten.
+Ist man allerdings länger unterwegs (also eine Woche oder länger) bieten sich schnell verderblichen Lebensmitteln eher nicht an.
+
+  Wir haben uns, in Anbetracht der großen Menge an benötigter Nahrung, für gefriergetrocknete Gerichte entschieden.
+Diese müssen nur mit heißem Wasser aufgegossen werden und sind sehr leicht.
 Zudem besteht nicht die Gefahr das diese während der Tour verderben.
 
 # Frühstück
