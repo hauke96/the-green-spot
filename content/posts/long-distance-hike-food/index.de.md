@@ -34,17 +34,20 @@ Die Art der Ernährung auf solch einer Tour weicht deutlich von der im normalen 
 Führen kann das zu unangenehmen Zuständen von Verstopfung bis hin zu Durchfall.
 Zum Thema "der kleinen Reiseapotheke" kommt bestimmt noch ein separater Artikel!     
 
-## Zu wenig essen führt zu schlechter Stimmung
-Ein schlecht gefüllter Bauch lässt die Stimmung sinken und ist quasi ein Todesurteil für die Motivation, was in Gruppen tatsächlich zu unangenehmen Konflikten und Spannungen führen kann.
-Essen ist neben Schlafen, Wachen sich kleiden, etc. eines der Grundbedürfnisse des Menschen und bildet somit das Fundament der Zufriedenheit.
+## Zu wenig Essen führt zu schlechter Stimmung
+Ein schlecht gefüllter Bauch lässt die Stimmung sinken und ist quasi ein Todesurteil für die Motivation, was in Gruppen tatsächlich zu Konflikten und Spannungen führen kann.
+Essen ist neben Schlafen, Waschen sich kleiden, etc. eines der Grundbedürfnisse des Menschen und bildet somit das Fundament der Zufriedenheit.
 
-Werden diese Grundbedürfnisse nicht gestillt, führt dass ganze unweigerlich zu einem reduzierten Mental-zustand und zur Unzufriedenheit.
-Der Körper kommt quasi in eine Stresssituation und wird anfälliger für äußere Reize.
-Der Regen wird als noch unangenehmer empfunden, der Berg ist unnötig Steil und das gesuchte Gespräch des Mitwanderers ist gerade das letzte was man hören will.     
+Werden diese Grundbedürfnisse nicht gestillt, führt das unweigerlich zu einem reduzierten Mental-Zustand und zur Unzufriedenheit.
+Der Körper kommt quasi in eine Stresssituation und wird anfälliger für äußere Reize:
+Der Regen ist noch unangenehmer, der Berg ist unnötig Steil und das gesuchte Gespräch des Mitwanderers ist gerade das letzte was man hören will.     
 
 ## Kleiner Fun-Fakt bezüglich Stress
-Stress im allgemeinen kann sich so negativ auf den Körper auswirken, dass die Fähigkeit der Aufmerksamkeitslenkung und Fokussierung verloren geht, das Schmerzempfinden gesteigert ist und sogar die Wundheilung beeinträchtigt wird.
-Da eine Tour nun nicht das Ziel verfolgt Stress auf zu bauen und man eigentlich viele Eindrücke sammeln und erleben will stellt Essen ein wichtiges Fundament da, um eben diesen Stress zu vermeiden.
+Stress im allgemeinen kann sich so negativ auf den Körper auswirken, dass die Fähigkeit der Aufmerksamkeitslenkung und Fokussierung verloren geht.
+Tatsächlich geht das soweit, dass Stress das Schmerzempfinden steigert und sogar die Wundheilung beeinträchtigt.
+
+Eine lange Wandertour verfolgt nun nicht das Ziel Stress auf zu bauen, sondern viele Eindrücke zu sammeln und viel zu erleben.
+Daher stellt Essen ein wichtiges Fundament dar, um Stress zu vermeiden.
 
 ## Welche Lebensmittel mitnehmen?
 Prinzipiell richtet es sich danach wie Lange man unterwegs ist und was man gerne mag.
