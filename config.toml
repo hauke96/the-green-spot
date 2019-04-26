@@ -54,8 +54,9 @@ theme = "hamburg"
 	#ga_api_key = "Your Google Analytics tracking id"
 	# Mixpanel API key.
 	#mixpanel_api_key = "Your Mixpanel API key"
-	themecolor = "#555555" # Defines the tab color in Chrome for Android.
+	themecolor = "#9ccc65" # Defines the tab color in Chrome for Android.
 
 	customCSS = ['hamburg.css']
 
 	ShowGDPRNotice = true
+	UseCommento = true
