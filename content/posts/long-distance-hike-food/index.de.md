@@ -1,12 +1,12 @@
 +++
 title = "Verpflegung auf langen Touren"
 summary = ""
-date = 2019-04-12T01:34:08+02:00
+date = 2019-04-26T17:42:00+02:00
 tags = [""]
 author = "kristina"
 +++
 Schaut man auf unsere {{< linkTag "island-2018" "Island Tour von 2018" >}}, dann merkt man, dass wir ganz schön lange am Stück unterwegs waren.
-In Anbetracht der langen Dauer, die unsere Tour mit sich brachte, werfen sich einige Fragen bezüglich des Essens auf.
+In Anbetracht der langen Dauer (ca. drei Wochen am Stück), werfen sich einige Fragen bezüglich des Essens auf.
 
 * Was kann ich mit nehmen?
 * Was brauche ich ?
@@ -16,10 +16,10 @@ In Anbetracht der langen Dauer, die unsere Tour mit sich brachte, werfen sich ei
 * Was für Auswirkungen kann eine fehlerhafte Planung haben
 * Und vor allem: Was tue ich wenn ich mich verkalkuliert habe  ?
 
-Einer der uns am häufigsten entgegengebrachten Kommentare im Netz waren wohl das wir verhungern würden und das es Irrsinn ist für 24 Tage die komplette Verpflegung mit zu schleppen.
-Der wohl am drastischsten formulierte Kommentar war „Ihr werdet sterben“  .
-Vorab kann jedoch gesagt werden das es an einigen Punkten auf Verzicht hinaus lief.
-Die Komfortzone, die wir ansonsten jeden Tag hatten, deutlich verlassen mussten und das Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
+Einer der uns am häufigsten entgegengebrachten Kommentare im Netz war wohl, dass wir verhungern würden und, dass es Irrsinn ist für 24 Tage die komplette Verpflegung mit zu schleppen.
+Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben".
+Vorab kann man jedoch sagen, dass es an einigen Stellen auf Verzicht hinaus lief.
+Die Komfortzone, die wir ansonsten im Alltag haben, mussten wir deutlich verlassen und erfuhren hautnah, dass Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
 
 # Genug essen und trinken
 Durch die körperliche Anstrengung und Aktivität ist der Kalorienbedarf deutlich höher als normal (ca Doppelt so hoch 4000 – 5000 kcal).
