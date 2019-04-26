@@ -86,10 +86,11 @@ Wir hatten Müsliriegel, Schokoriegel, Bananenchips und diverse Nüsse eingepack
 Dies wurde meist nach hinten geschoben und oft mit dem Aufbau des Lagers verbunden.
 Alternativ wurde auch bei guter Wetterlage an Orten gekocht an denen man sich gerne aufgehalten hat (Berggipfel, Flüsse, Seen... wie es uns beliebte).
 
-Wir hatten uns zuvor mit gefriergetrockneter Nahrung eingedeckt (von *Trek'n Eat*, wobei es dazu  diverse vielleicht auch bessere Hersteller gibt), welches leider ein wenig auf den Geldbeutel gedrückt hatte da eine Mahlzeit gerne bei 6 bis 8 € liegen kann.
-Zudem mussten wir feststellen das man als Vegetarier dort deutlich in seiner Auswahl eingeschränkt ist und man doch froh ist wenn es nicht das dritte mal in folge Sojabolognese gibt!
+Wir hatten uns zuvor mit gefriergetrockneter Nahrung eingedeckt (von _Trek'n Eat_, wobei es diverse und vielleicht auch bessere Hersteller gibt).
+Das drückt leider ein wenig auf den Geldbeutel, da eine Mahlzeit gerne bei 6-8€ liegen kann.
+Zudem mussten wir feststellen, dass man als Vegetarier dort deutlich in seiner Auswahl eingeschränkt ist und man doch froh ist, wenn es nicht das dritte mal in Folge Sojabolognese gibt!
 
-In Summe waren wir mit den Produkten durchaus zufrieden.
+In Summe waren wir mit den Produkten aber durchaus zufrieden.
 
 # Abendessen
 Abends gab es vor der Nachtruhe oft nochmal eine Brühe, eine Suppe, oder eine Portion Kartoffelpüree mit Parmesan.
