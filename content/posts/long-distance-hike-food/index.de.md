@@ -60,25 +60,27 @@ Diese müssen nur mit heißem Wasser aufgegossen werden und sind sehr leicht.
 Zudem besteht nicht die Gefahr das diese während der Tour verderben.
 
 # Frühstück
-Morgens gab es eine Tasse Tee, wobei wir das nächste mal auch Instantkaffee mitnehmen werden.
-Der Tee wärmte nach einer Nacht bei 5°C nicht nur von innen, sondern weckte auch die Lebensgeister und das Immunsystem (kommt da natürlich auf den Tee an, wir hatten überwiegend heiße Zitrone dabei).
-Die Basis bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek ´n eat und waren geschmacklich positiv überrascht).  
-Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1/2  BP-WR Riegel (das ist Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
-Zusätzlich gab es eine gute Handvoll Nüsse (Wallnuss /, Cashewkerne, Erdnüsse, Makadamia, etc.), und Trockenobst (Pflaume, Feige, Dattel, Aprikose) um ein wenig Abwechslung zu haben.
+Neben dem eigentlichen Essen gab es morgens eine Tasse Tee, wobei wir das nächste mal auch löslichen Kaffee mitnehmen werden.
+Der Tee wärmte nach einer Nacht bei 5°C nicht nur von Innen, sondern weckte auch die Lebensgeister und das Immunsystem (kommt da natürlich auf den Tee an, wir hatten überwiegend heiße Zitrone dabei).
 
-Im großen und ganzen haben wir darauf geachtet ein Frühstück zusammen zu stellen was gut vorhält, so dass nicht direkt nach kurzer Zeit des Laufens ein Hungergefühl auftritt.
-Zudem sollte es Ballaststoffe für die Verdauung enthalten und sowohl lang als auch kurzkettige Zucker beinhaltet.
-Man hat somit kurz- und langfristig Energie zur Verfügung.
+Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek ´n eat und waren geschmacklich positiv überrascht).  
+Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1/2  BP-WR Riegel (das ist süßlich schmeckende Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
+Zusätzlich haben wir eine gute handvoll Nüsse (Walnuss, Cashewkerne, Erdnüsse, Macadamia, etc.) und Trockenobst (Pflaume, Feige, Dattel, Aprikose) unter gemischt um etwas Abwechslung zu haben.
 
-Gefühlt hatte das Rührei jedoch nicht so gut vorgehalten, wenn man dieses als alleiniges Frühstück zu sich genommen hatte.
+Im großen und ganzen haben wir darauf geachtet ein Frühstück zusammen zu stellen was lange sättigt, so dass nicht direkt nach kurzer Zeit des Laufens ein Hungergefühl auftritt.
+Zudem sollte es Ballaststoffe für die Verdauung enthalten und sowohl lang- als auch kurzkettige Zucker beinhalten, wodurch man kurz- und langfristig Energie zur Verfügung hat.
+
+Gefühlt hatte jedoch das Rührei als alleiniges Frühstück nicht so gut vorgehalten.
 Im Nachhinein werden wir allerdings noch etwas experimentieren da die vielen Nüsse mit dem hohen Fettgehalt leider auch ihre Schattenseiten bezüglich der Verdauung hatten ...
 
 ## Der Motivations-Riegel
-Wir haben die Erfahrung gemacht das es sich anbietet einen Motivations-Riegel leicht zugänglich parat zu haben.
-Dieser war sowohl für die Zeit gedacht in der sich der Hunger ein wenig anbahnt, als auch als Motivation für anstrengende Passagen.
-Es hebt die Stimmung und Pusht einen doch die Steigung hoch zu laufen und sich ein wenig durch zu beißen.
+Wir haben die Erfahrung gemacht, dass es sich anbietet einen _Motivations-Riegel_ leicht zugänglich parat zu haben.
+Das sollte ein Schokoriegel (oder Ähnliches) sein, den man sehr mag und auf den man sich freut.
 
-Dabei hatten wir: Müsliriegel, Schokoriegel, Bananenchips und diverse Nüsse.
+Dieser war sowohl für die Zeit gedacht in der sich der Hunger ein wenig anbahnt, als auch als Motivation für anstrengende Passagen.
+Es hebt die Stimmung und _motiviert_ einen doch die Steigung hoch zu laufen und sich ein wenig durch zu beißen.
+
+Wir hatten Müsliriegel, Schokoriegel, Bananenchips und diverse Nüsse eingepackt.
 
 # Mittagessen
 Dies wurde meist nach hinten geschoben und oft mit dem Aufbau des Lagers verbunden.
