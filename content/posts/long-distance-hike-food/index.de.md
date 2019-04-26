@@ -22,17 +22,17 @@ Vorab kann man jedoch sagen, dass es an einigen Stellen auf Verzicht hinaus lief
 Die Komfortzone, die wir ansonsten im Alltag haben, mussten wir deutlich verlassen und erfuhren hautnah, dass Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
 
 # Genug essen und trinken
-Durch die körperliche Anstrengung und Aktivität ist der Kalorienbedarf deutlich höher als normal (ca Doppelt so hoch 4000 – 5000 kcal).
+Durch die körperliche Anstrengung und Aktivität ist der **Kalorienbedarf deutlich höher** als normal (ca. doppelt so hoch 4000-5000 kcal).
 
-Durch die Außentemperatur (auch nachts im Schlaf), hat der Körper ordentlich zu schuften um die Körperkerntemperatur von 36 / 37 °C aufrecht zu erhalten.
-Es wird also mehr Energie auch in den Ruhephasen benötigt, was nicht nur den Bedarf an Kalorien erhöht sondern auch unterstreicht, wie notwendig passende Kleidung und ein guter Schlafsack ist.
+Bei niedriger Außentemperatur (auch nachts im Schlaf), hat der Körper ordentlich zu schuften um die Körperkerntemperatur von 36/37 °C aufrecht zu erhalten.
+Es wird also mehr Energie auch in den Ruhephasen benötigt, was nicht nur den Bedarf an Kalorien erhöht sondern auch unterstreicht, wie notwendig **passende Kleidung** und ein **guter Schlafsack** ist.
 
-Nimmt man nicht genügend Wasser, Salze und Mineralien zu sich, kann
-der Elektrolyt und Wasserhaushalt durch das Schwitzen ordentlich durcheinander kommen.
-Das wirkt sich sowohl negativ auf die Kreislaufsituation auswirken, als auch für die Nieren eine Belastung darstellt.     
+Nimmt man nicht genügend Wasser, Salze und Mineralien zu sich, kann der Elektrolyt- und Wasserhaushalt durch das Schwitzen ordentlich durcheinander kommen.
+Das kann sich sowohl negativ auf die Kreislaufsituation auswirken, als auch für die Nieren eine Belastung darstellt.     
 
-Die Art der Ernährung auf solch einer Tour weicht deutlich von der im normalen Alltag ab, was sich leider oftmals im Verdauungssystem bemerkbar macht und zu unangenehmen Zuständen von Verstopfung bis hin zu  Durchfall führen kann.
-Zum Thema „der kleinen Reiseapotheke“ kommt bestimmt noch ein separater Artikel!     
+Die Art der Ernährung auf solch einer Tour weicht deutlich von der im normalen Alltag ab, was sich leider oftmals im Verdauungssystem bemerkbar macht.
+Führen kann das zu unangenehmen Zuständen von Verstopfung bis hin zu Durchfall.
+Zum Thema "der kleinen Reiseapotheke" kommt bestimmt noch ein separater Artikel!     
 
 ## Zu wenig essen führt zu schlechter Stimmung
 Ein schlecht gefüllter Bauch lässt die Stimmung sinken und ist quasi ein Todesurteil für die Motivation, was in Gruppen tatsächlich zu unangenehmen Konflikten und Spannungen führen kann.
