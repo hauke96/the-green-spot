@@ -95,7 +95,8 @@ In Summe waren wir mit den Produkten aber durchaus zufrieden.
 # Abendessen
 Abends gab es vor der Nachtruhe oft nochmal eine Brühe, eine Suppe, oder eine Portion Kartoffelpüree mit Parmesan.
 
-Für die drei Etappenziele hatten wir uns Mousse au Chocolat mitgenommen (wie die oben von *Trak'n Eat*), was sich ebenfalls als tatsächlich hilfreich heraus stellte, da es als kulinarisches Highlight nochmal neuen Schwung und Durchhaltevermögen mit sich brachte!
+Wir hatten uns drei Etappenziele gesetzt und für jede Etappe jeweils ein Mousse au Chocolat mitgenommen (wie die oben ebenfalls von _Trak'n Eat_).
+Das stellte sich als tatsächlich hilfreich heraus, da es als kulinarisches Highlight nochmal neuen Schwung und Durchhaltevermögen mit sich brachte!
 
 # Zu wenig Kalorien
 In Summe sind wir bei weitem nicht auf die zuvor veranschlagten 4000-5000 kcal gekommen.
