@@ -102,13 +102,13 @@ Das stellte sich als tatsächlich hilfreich heraus, da es als kulinarisches High
 In Summe sind wir bei weitem nicht auf die zuvor veranschlagten 4000-5000 kcal gekommen.
 Aufgenommen hat Hauke ca. 2000 kcal (+- 500kcal) und ich ca. 1700 kcal (+- 500kcal).
 
-Interessanterweise hat Hauke in der Zeit 8 kg verloren, was wir bei der nächsten Tour definitiv versuchen werden zu vermeiden, ich jedoch mein Gewicht gehalten.
+Interessanterweise hat Hauke in der Zeit 8 kg verloren, was wir bei der nächsten Tour definitiv versuchen werden zu vermeiden, ich habe mein Gewicht jedoch gehalten.
 
 # Unser Fazit
-Wir haben in der Essensplanung durchaus noch Potential für Verbesserungen und werden uns demnächst mit dem Dörren von Speisen befassen (hierzu werdet ihr hier bestimmt noch was finden).
+Wir haben in der Essensplanung durchaus noch Potential für Verbesserungen und werden uns demnächst mit dem Dörren von Speisen befassen (hierzu werdet ihr hier in Zukunft bestimmt noch was finden).
 
 Jeder Stoffwechsel ist individuell!
 Der Unterschied zwischen Hauke und mir war da sehr gewaltig.
-Man sollte sich vorher schon mal mit sich selber befasst haben und mal austesten wie viel man am Tag ca. braucht und schauen wie der Körper mit solchen Rationen (z.B. dem Frühstück) klar kommt.
+Man sollte sich vorher schon mal mit sich selber befassen und mal austesten wie viel man am Tag ca. braucht und schauen wie der Körper mit solchen Rationen (z.B. dem Frühstück) klar kommt.
 
-Probekochen ist keine schlechte Idee ;)
+Probekochen und Probewandern ist keine schlechte Idee ;)
