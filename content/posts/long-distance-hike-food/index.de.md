@@ -9,15 +9,15 @@ Schaut man auf unsere {{< linkTag "island-2018" "Island Tour von 2018" >}}, dann
 In Anbetracht der langen Dauer (ca. drei Wochen am Stück), werfen sich einige Fragen bezüglich des Essens auf.
 
 * Was kann ich mit nehmen?
-* Was brauche ich ?
+* Was brauche ich?
 * Wie viel brauche ich am Tag ?
 * Wie oft muss ich am Tag essen ?
 * Was muss ich beachten wenn ich mein Proviant zusammenstelle?
-* Was für Auswirkungen kann eine fehlerhafte Planung haben
+* Was für Auswirkungen kann eine fehlerhafte Planung haben?
 * Und vor allem: Was tue ich wenn ich mich verkalkuliert habe  ?
 
 Einer der uns am häufigsten entgegengebrachten Kommentare im Netz war wohl, dass wir verhungern würden und, dass es Irrsinn ist für 24 Tage die komplette Verpflegung mit zu schleppen.
-Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben".
+Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben". (TODO Zitat nutzen?)
 Vorab kann man jedoch sagen, dass es an einigen Stellen auf Verzicht hinaus lief.
 Die Komfortzone, die wir ansonsten im Alltag haben, mussten wir deutlich verlassen und erfuhren hautnah, dass Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
 
