@@ -20,3 +20,17 @@ Most of the comments on the internet regarding our iceland tour said that we'll 
 One of the comments directly said that we're going to die. (TODO quote?)
 We had to do some compromises to make this all possible and left our every-day comfort zone.
 Variety is something very valuable and very much unerestimated in our normal life.
+
+# Eat and drink enough
+Our body needs **much more calories** when we're active over the whole day (about twice as much, so 4000-5000 kcal).
+
+When temperatures are low (also at night during sleep), it's harder for our body to keep its temperature of 36/37°C.
+This means that the body also need more energy while resting or sleeping.
+Good suitable **clothing** and a warm **sleeping bag** are needed to support our body keeping its temperature.
+
+If you don't consume enough water, salt and other minerals, the body can easily get stressed when sweating.
+This however can have a negative effect on the (TODO Kreislauf) and also on the (TODO Niere).
+
+The kind of food on such a tour differs a lot from the one of our daily life, which sadly has often a negative effect on our (TODO Verdauungssystem).
+This can lead to situations from (TODO Verstopfung) to (TODO Durchfall).
+A separate article regarding the "(TODO Reiseapotheke)" will probably come in the future.
