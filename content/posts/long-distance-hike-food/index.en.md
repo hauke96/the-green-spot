@@ -34,3 +34,18 @@ This however can have a negative effect on the (TODO Kreislauf) and also on the 
 The kind of food on such a tour differs a lot from the one of our daily life, which sadly has often a negative effect on our (TODO Verdauungssystem).
 This can lead to situations from (TODO Verstopfung) to (TODO Durchfall).
 A separate article regarding the "(TODO Reiseapotheke)" will probably come in the future.
+
+## Too less food results in a bad mood
+A badly filled stomach results in bad mood and more or less kills all motivation, which can lead to conflicts when hiking in groups (even when you're in a pair).
+Eating is, next to sleeping, washing and clothing, one of the most basic things a human needs and is the fundament of (TODO Zufriedenheit).
+
+When these basic things are not fully covered, it's very likely that you become unhappy over time.
+The body then is stressed and is more sensible to external (TODO Reize):
+The rain is more unpleasant, the hill is unnecessary steep and a conversation is the last thing you want.
+
+## Little fun fact about stress
+Stress has very negative effects on the body and you might loose the ability to control your focus.
+It can even to further and you may become more sensible to pain and even wounds might heal slower.
+
+A long distance hiking tour does definitely not have the goal to produce stress, but to collect a lot of nice impressions.
+Therefore is eating one key parts of hiking needed to prevent stress.
