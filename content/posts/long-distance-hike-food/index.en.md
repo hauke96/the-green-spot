@@ -49,3 +49,23 @@ It can even to further and you may become more sensible to pain and even wounds 
 
 A long distance hiking tour does definitely not have the goal to produce stress, but to collect a lot of nice impressions.
 Therefore is eating one key parts of hiking needed to prevent stress.
+
+# What food to take with you?
+It depends on how long the journey is and what you like to eat.
+
+If the journey is shorter, things like cheese and sausages probably stay fresh.
+For longer trips (a week and longer), quickly perishable food is not suitable.
+
+# Breakfast
+Next to the actual food, a cup of tee (and next time instant coffee) was part of our breakfast.
+The tea does not only warm up your inner body but motivates and also wakes up your immune system (depends on the tea, we had a lot of hot lemon tea).
+
+The basis of our breakfast was porridge or crambled egg (we took the Trek 'n eat kind of meal and liked it a lot).
+Normally we had 1x porridge + 1/2 BP-WR bar (sweat tasting emergency food and nearly the same as BP-5, NRG-5, NRG-M, EPA, MRE, ...).
+In addition to that we mixed the porridge with some nuts (walnuts, cashews, peanuts, macadamia nuts, etc.) and dried fruits (plums, figs, dates, apricots) to have some varieties.
+
+Generally we tried to create a breakfast sates for some time so that we didn't became hungry after a few steps.
+Furthermore the breakfast should contain a lot of fibre for the digestion as well as long and short chain sugar, which gives you short and long term energy.
+
+For us the scrambled egg was not as filling as the porridge.
+In hindsight we'll experiment a bit because all the Nuts with their high concentration of fat were not that good for the digestion.
