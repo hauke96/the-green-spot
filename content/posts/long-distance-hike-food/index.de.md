@@ -100,7 +100,7 @@ Das stellte sich als tatsächlich hilfreich heraus, da es als kulinarisches High
 
 # Zu wenig Kalorien
 In Summe sind wir bei weitem nicht auf die zuvor veranschlagten 4000-5000 kcal gekommen.
-Aufgenommen hat Hauke ca. 2000 kcal (+- 500kcal) und ich ca. 1700 kcal (+- 500kcal).
+Aufgenommen hat Hauke ca. 2000 kcal (+- 500 kcal) und ich ca. 1700 kcal (+- 500 kcal).
 
 Interessanterweise hat Hauke in der Zeit 8 kg verloren, was wir bei der nächsten Tour definitiv versuchen werden zu vermeiden, ich habe mein Gewicht jedoch gehalten.
 

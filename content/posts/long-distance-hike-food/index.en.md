@@ -78,3 +78,35 @@ We used it in the moment when you get slightly hungry but also for passages wher
 It improves the mood and _motivates_ to walk up the hill and to bite through.
 
 We took cereal bars, chocolate bars, banana chips and nuts with us.
+
+# Lunch
+We mostly moved the lunch to the evening after building up our camp.
+Alternatively we used good weather to cook at beautiful places (mountain peaks, rivers, lakes, ...).
+
+In advance we bought a lot of freeze-dried food (by _Track'n Eat_, but there are some other and maybe better manufacturers).
+Unfortunately this is quite expensive, because one meal can cost between 6-8€.
+Also we had to experience that vegetarians have a significantly lower variety of meals compared to non-vegetarians.
+We were quite happy not _not_ eat soy-bolognese all the time.
+
+However we were quite satisfied with the products we bought.
+
+# Dinner
+Before going to bed we often made a broth, soup or a portion mashed potatoes with parmesan.
+
+We also set up three milestones and bought for each milestone one portion mousse au chocolat (also from _Track'n Eat_).
+This was a very good idea because it was a culinary highlight and gave us a quite large portion of motivation and strength!
+
+# Too less calories
+We didn't reached our calories goal of 4000-5000 kcal at all.
+Hauke consumed 2000 kcal (+- 500 kcal) and I about 1700 kcal (+- 500 kcal) per day.
+
+Interestingly, Hauke lost about 8kg of weight, which we'll try to avoid next time, but I kept my weight.
+
+# Our conclusion
+We definitely have potential in our food planing process and will deal with drying own food (there will probably be articles in the future).
+
+Every metabolism if different!
+The difference between Hauke and me was huge.
+You should deal with this before the journey and testing how much you need per day might be a good idea.
+
+Cooking one of the meals and hiking with your backpack to test if the food was enough might be as good idea as well ;)
