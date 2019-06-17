@@ -63,7 +63,7 @@ Zudem besteht nicht die Gefahr das diese während der Tour verderben.
 Neben dem eigentlichen Essen gab es morgens eine Tasse Tee, wobei wir das nächste mal auch löslichen Kaffee mitnehmen werden.
 Der Tee wärmte nach einer Nacht bei 5°C nicht nur von Innen, sondern weckte auch die Lebensgeister und das Immunsystem (kommt da natürlich auf den Tee an, wir hatten überwiegend heiße Zitrone dabei).
 
-Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek ´n eat und waren geschmacklich positiv überrascht).  
+Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek 'n eat und waren geschmacklich positiv überrascht).  
 Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1/2  BP-WR Riegel (das ist süßlich schmeckende Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
 Zusätzlich haben wir eine gute handvoll Nüsse (Walnuss, Cashewkerne, Erdnüsse, Macadamia, etc.) und Trockenobst (Pflaume, Feige, Dattel, Aprikose) unter gemischt um etwas Abwechslung zu haben.
 

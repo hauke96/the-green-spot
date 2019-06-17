@@ -69,3 +69,12 @@ Furthermore the breakfast should contain a lot of fibre for the digestion as wel
 
 For us the scrambled egg was not as filling as the porridge.
 In hindsight we'll experiment a bit because all the Nuts with their high concentration of fat were not that good for the digestion.
+
+## The motivation bar
+We made the experience, that an easy accessible _motivation bar_ is a very good idea.
+This should be a chocolate bar (or similar) that tastes good and that you can look forward to.
+
+We used it in the moment when you get slightly hungry but also for passages where we needed some extra motivation.
+It improves the mood and _motivates_ to walk up the hill and to bite through.
+
+We took cereal bars, chocolate bars, banana chips and nuts with us.
