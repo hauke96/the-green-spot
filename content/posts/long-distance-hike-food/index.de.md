@@ -17,9 +17,12 @@ In Anbetracht der langen Dauer (ca. drei Wochen am Stück), werfen sich einige F
 * Und vor allem: Was tue ich wenn ich mich verkalkuliert habe  ?
 
 Einer der uns am häufigsten entgegengebrachten Kommentare im Netz war wohl, dass wir verhungern würden und, dass es Irrsinn ist für 24 Tage die komplette Verpflegung mit zu schleppen.
-Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben". (TODO Zitat nutzen?)
+Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben".
 Vorab kann man jedoch sagen, dass es an einigen Stellen auf Verzicht hinaus lief.
 Die Komfortzone, die wir ansonsten im Alltag haben, mussten wir deutlich verlassen und erfuhren hautnah, dass Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
+
+> "There's a pretty good chance you are going to die with that plan."
+> <small>A reddit.com user</small>
 
 # Genug essen und trinken
 Durch die körperliche Anstrengung und Aktivität ist der **Kalorienbedarf deutlich höher** als normal (ca. doppelt so hoch 4000-5000 kcal).
@@ -47,7 +50,7 @@ Stress im allgemeinen kann sich so negativ auf den Körper auswirken, dass die F
 Tatsächlich geht das soweit, dass Stress das Schmerzempfinden steigert und sogar die Wundheilung beeinträchtigt.
 
 Eine lange Wandertour verfolgt nun nicht das Ziel Stress auf zu bauen, sondern viele Eindrücke zu sammeln und viel zu erleben.
-Daher stellt Essen ein wichtiges Fundament dar, um Stress zu vermeiden.
+Daher stellt (gutes) Essen ein wichtiges Fundament dar, um Stress zu vermeiden.
 
 ## Welche Lebensmittel mitnehmen?
 Prinzipiell richtet es sich danach wie lange man unterwegs ist und was man gerne mag.
