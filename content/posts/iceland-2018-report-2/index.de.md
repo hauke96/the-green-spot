@@ -38,4 +38,11 @@ Dieser bestand hauptsächlich aus losem Geröll mit vereinzelt größeren Steine
 Während des Aufstieges an den teilweise über 45° steilen Hängen, achteten wir darauf, dass wir nicht direkt hintereinander gingen.
 Nicht selten passierte es nämlich, dass ein größerer Stein ins rollen kommt und ordentlich Geröll mit nach unten nimmt.
 
-{{< imgScale "DSC00553_1600.JPG" "" "500x" >}}
+Oben angekommen hatten wir eine sehr schöne Sicht auf das tiefer liegende Gebiet und auf den Gletscher.
+In die andere Richtung, also nach vorne, gab es dann so weit das Auge reicht nur plattes Land.
+
+{{< imgScale "DSC00553_1600.JPG" "Blick zurück in Richtung Gletscher." "500x" >}}
+
+{{< imgScale "DSC00558_1600.JPG" "Blick nach vorne Richtung Maelifellsandur." "500x" >}}
+
+## Nebel und Notlager aufschlagen
