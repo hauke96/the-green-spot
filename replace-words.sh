@@ -28,6 +28,8 @@ re[Reykjavik]=Reykjavík
 #re[Sandar]=
 #re[Seljalandsfoss]=
 re[Slettjökull]=Sléttjökull
+re[Strutsskali]=Strútsskáli
+re[Strutur]=Strútur
 re[Thorsmörk]=Þórsmörk
 
 for i in $(find ./content -type f -iname '*.md')

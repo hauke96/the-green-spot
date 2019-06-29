@@ -161,7 +161,7 @@ Dieser Tag war geplant, sodass wir dadurch nicht in Verzug gerieten.
 
 Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und hatten einen schönen Blick über die Landschaft.
 
-{{< imgScale "DSC00628_1600.JPG" "Rechts der Gletscher Öldufellsjökull, mittig der Maelifell und ganz links der in Regen gehülle Brennivinskvisl." "500x" >}}
+{{< imgScale "DSC00635_1600.JPG" "Rechts der Gletscher Öldufellsjökull, mittig der Maelifell und ganz links der in Regen gehülle Brennivinskvisl." "500x" >}}
 
 Uns wurde auch gesagt, dass der Handyempfang auf Hügeln besser sein soll.
 Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
@@ -170,3 +170,28 @@ TODO: Bild von mir mit Handy.
 
 # Tag 7: Maelifell → Holmsarlon
 {{< smallDate "2018-07-24" >}}
+
+Heute ging es dann weiter, Ziel war der See Holmsarlon.
+
+## Flussdelta und Wasserfall
+Zunächst sind wir am Brennivinskvisl entlang Richtung Strutur gewandert, wo wir ein größeres Flussdelta überqueren mussten, welches wir bereits aus dem Flugzeug gesehen haben.
+Die Flüsse waren nicht sonerlich tief, schnell oder anspruchsvoll, der Boden ware es jedoch umso mehr.
+Es gab eine Menge Treibsand in den wir stellenweise bis zum Knie eingesunden sind.
+
+{{% note %}}
+Fängt der Boden beim betreten an zu blubbern handelt ist die Wahrscheinlichkeit hoch, dass es Treibsand ist.
+{{% /note %}}
+
+{{< imgScale "DSC00650_1600.JPG" "Das Flussdelta, welches wir überquert haben. Links geht es zum Campingplatz Strutsskali." "500x" >}}
+
+{{< imgScale "IMG_20180718_164318_2800.jpg" "Das Flussdelta vom Flugzeug aus, man erkennt sogar den Maelifell (rechts neben der Unterseite vom Triebwerk)." "500x" >}}
+
+Da den Brennivinskvisl sehr nah an den angrenzenden Hügeln vorbei fließt und das Ufer entsprechend steil ist, sind wir kurzerhand über die Hügel rüber.
+Der Rest des Weges war sehr schön und angenehm.
+Nach kurzer Zeit sind wir einer nicht verzeichneten und unbenannten, aber sehr schönen Kaskade an kleinen Wasserfällen begegnet.
+
+{{< imgScale "DSC00690_1600.JPG" "" "500x" >}}
+
+## Roter Krater
+
+## Camp direkt am See
