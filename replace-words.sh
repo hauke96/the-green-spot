@@ -7,6 +7,7 @@ re[BSI]=BSÍ
 re[Bildufell]=Bíldufell
 re[Bjorgil]=Bjórgil
 #re[Botnar]=
+re[Brennivinskvisl]=Brennivínskvísl
 re[Eldgja]=Eldgjá
 #re[Entujökull]=
 re[Frennri-Emstrua]=Fremri-Emstruá # Spelling mistake whould also be translated
@@ -26,6 +27,7 @@ re[Markarfljöt]=Markarfljót
 re[Reykjavik]=Reykjavík
 #re[Sandar]=
 #re[Seljalandsfoss]=
+re[Slettjökull]=Sléttjökull
 re[Thorsmörk]=Þórsmörk
 
 for i in $(find ./content -type f -iname '*.md')

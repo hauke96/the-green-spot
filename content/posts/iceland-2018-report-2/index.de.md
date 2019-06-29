@@ -62,7 +62,7 @@ Leider fanden wir den Fluss nicht und hatten etwas Angst unsere geplante Route m
 Nach einer Weile beschlossen wir also das Zelt in einer etwas windgeschützten Senke hinter einem Stein aufzuschlagen, wo auch der Boden nicht ganz so steinig war.
 Leider war der Sand schon etwas nass, sodass er überall haften blieb, was uns allerdings nicht all zu stören sollte.
 
-# Tag 5: Innri-Emstruá → TODO
+# Tag 5: Innri-Emstruá → Maelifell
 Wir haben uns für 6 Uhr morgens einen "Luscher-Wecker" gestellt um mal aus dem Zelt zu luschern ob der Nebel noch da ist.
 Es war leider noch genau so nebelig wie am Abend zuvor, also haben wir uns noch mal hingelegt und sind gemütlich um 8 Uhr aufgestanden.
 Als wir dann unser Zelt zusammen gepackt haben und los gelaufen sind, stellten wir fest, dass wir ca. 50 Meter von dem geplanten Fluss entfernt gezeltet haben.
@@ -123,5 +123,28 @@ Ich hatte zudem nach diesem Fluss ca. ein halbes Jahr lang **taube Zehen**.
 Die Gefahr einer leichten Erfrierung ist als durchaus real und sollte nicht unterschätzt werden!
 {{% /note %}}
 
-## Endlose weite auf der Maelifellsandur
+## Endlose Weite auf der Maelifellsandur
 Nach dem Innri-Emstruá ging es relativ entspannt weiter, auch das Wetter wurde zunehmend besser.
+Nach einem kurzen Aufstieg erreichten wir einen See am Fuße des Slettjökull.
+
+{{< imgScale "DSC00571_1600.JPG" "Ein klarer See am Fuße des Slettjökull. Im Hintergrund sieht man die Spitze vom Maelifell (Luftlinie ca. 10km entfernt)." "500x" >}}
+
+Am See haben wir uns etwas aufgefrischt, die Wasservorräte aufgefüllt und sind dann los auf die Maelifellsandur Richtung Maelifell.
+
+{{< imgScale "DSC00574_1600.JPG" "Die sandige Ebene ist -- bis auf wenige Ausnahmen -- sehr trocken. Am Horizont der Maelifell." "500x" >}}
+
+Durch die wenige Hügel, war das Laufen recht angenehm und wir kamen gut vorran.
+Ab und zu kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohne dabei die Schuhe ausziehen zu müssen.
+
+{{< imgScale "DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
+
+Kurz vor dem Maelifell kamen wir an etwas größeren Fluss -- vermutlich der Brennivinskvisl -- den wir noch überqueren mussten.
+Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Maelifell, einer unserer Highlight der Reise.
+
+{{< imgScale "DSC00623_1600.JPG" "Der Maelifell von der F210 aus gesehen." "500x" >}}
+
+Wie sich das für fotogene Highlights gehört zogen direkt Wolken auf uns verhüllten den grünen Berg.
+
+{{< imgScale "DSC00628_1600.JPG" "Der Maelifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
+
+Nach einem 16-Stunden Wandertag sind wir nach dem Abendessen sofort ins Bett gefallen und eingeschlafen.
