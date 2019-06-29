@@ -206,3 +206,7 @@ Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten 
 Ich hoffe dir hat der erste Teil des Berichtes gefallen.
 Wir waren 24 Tage unterwegs, als werden wohl noch so einige folgen.
 Ich verspreche aber, dass es nicht langweilig wird, eher im Gegenteil ;)
+
+{{< note >}}
+**Nächster Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
+{{< /note >}}

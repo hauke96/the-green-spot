@@ -203,3 +203,7 @@ Nevertheless, we let the water stand over night so the contained solids could se
 I hope you enjoyed this first part of our reports.
 We were 24 days in Iceland, so there will be a lot of reports.
 But I promise to you, it won't get boring ;)
+
+{{< note >}}
+**Next part:** [part 2]({{< ref "/posts/iceland-2018-report-2" >}})
+{{< /note >}}
