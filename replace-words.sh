@@ -14,12 +14,14 @@ re[Fremri-Emstrua]=Fremri-Emstruá
 #re[Gigjökull]=
 re[Hallgrimskirkja]=Hallgrímskirkja
 re[Holmsarlon]=Hólmsárlón
+re[Innri-Emstrua]=Innri-Emstruá
 re[Keflavik]=Keflavík
 re[Krossa]=Krossá
 #re[Landmannalaugar]=
 re[Langisjor]=Langisjór
 #re[Laugavegur]=
 re[Maelifell]=Mælifell
+re[Maelifellsandur]=Mælifellsandur
 re[Markarfljöt]=Markarfljót
 re[Reykjavik]=Reykjavík
 #re[Sandar]=
@@ -32,10 +34,10 @@ do
 
 	for c in "${!re[@]}"
 	do
-		if grep -q "$c" "$i"
+		if grep -w -q "$c" "$i"
 		then
 			echo "    Replace: $c -> ${re[$c]}"
-			sed -i 's/'"$c"'/'"${re[$c]}"'/g' "$i";
+			sed -i 's/'"$c"'\b/'"${re[$c]}"'/g' "$i";
 		fi
 	done
 done
