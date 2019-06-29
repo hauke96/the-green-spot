@@ -96,7 +96,9 @@ To find real white spirit, we slightly edgy and frustrated searched for another 
 There we bought three bottles of "Coleman Bensin" (each 1790ISK/approx. 17$).
 Pretty expensive but we were hungry, nervous and had to get up early on the next day.
 
-{{< note "Actual white spirit is called **rodspirit/rödspirit**, **bensin** or also **vinandi** -- the **white spirit** we thought we bought might actually be lamp oil? ..." >}}
+{{< note >}}
+Actual white spirit is called **rodspirit/rödspirit**, **bensin** or also **vinandi** -- the **white spirit** we thought we bought might actually be lamp oil? ...
+{{< /note >}}
 
 The stuff we bought produces a lot of soot but worked very well.
 Too good to be true:

@@ -98,7 +98,9 @@ Um dann richtigen Spiritus zu finden sind wir dann los getiegert und haben etwas
 Dort haben wir dann drei Flaschen von "Coleman Bensin" (jeweils 1790ISK/ca. 14,30€) gekauft.
 Ziemlich teuer aber nun gut, wir waren hungrig, nervös, es war spät und wir mussten am nächsten Tag früh raus.
 
-{{< note "Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- eigentlich ist **white spirit** Spiritus aber vielleicht auch Petroleum/Lampenöl? ..." >}}
+{{< note >}}
+Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- eigentlich ist **white spirit** Spiritus aber vielleicht auch Petroleum/Lampenöl? ...
+{{< /note >}}
 
 Das Zeug hat ganz schön gerußt (war wohl irgendwas in Richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
 Zu gut um genau zu sein:
