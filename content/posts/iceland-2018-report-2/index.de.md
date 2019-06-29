@@ -6,9 +6,11 @@ date = 2019-04-26T18:33:58+02:00
 tags = ["island-2018"]
 author = "hauke"
 +++
-{{< note "**Vorheriger Teil:** [Teil 1]({{< ref '/posts/iceland-2018-report-1' >}})" >}}
+{{< note >}}
+**Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})
+{{< /note >}}
 
-# Tag 4: Bíldufell → TODO
+# Tag 4: Bíldufell → Innri-Emstruá
 {{< smallDate "2018-07-21" >}}
 
 Da wir an den Tagen zuvor nicht so viel Strecke geschafft hatten wie gehofft, wollten wir und beeilen und ordentlich Strecke machen.
@@ -43,6 +45,21 @@ In die andere Richtung, also nach vorne, gab es dann so weit das Auge reicht nur
 
 {{< imgScale "DSC00553_1600.JPG" "Blick zurück in Richtung Gletscher." "500x" >}}
 
-{{< imgScale "DSC00558_1600.JPG" "Blick nach vorne Richtung Maelifellsandur." "500x" >}}
+{{< imgScale "DSC00558_1600.JPG" "Blick nach vorne Richtung Mælifellsandur." "500x" >}}
 
 ## Nebel und Notlager aufschlagen
+Nachdem wir ein wenig weiter gewandert sind, zog dicker Nebel auf.
+Es könnten auf die tiefliegenden Wolken gewesen sein, der Übergang war fließend.
+Jedenfalls konnten wir immer schlechter sehen und hatten schon bald die Orientierung verloren.
+
+{{< note >}}
+Karten und Kompasse sind im Nebel goldwert!
+{{< /note >}}
+
+Durch die Karte wussten wir, dass ein Fluss ganz in der Nähe sein musste.
+Diesen wollten wir noch furten, um dann dahinter das Lager für die Nacht aufzuschlagen.
+Leider fanden wir den Fluss nicht und hatten etwas Angst unsere geplante Route mehr und mehr zu verlassen.
+Nach einer Weile beschlossen wir also das Zelt in einer etwas windgeschützten Senke hinter einem Stein aufzuschlagen, wo auch der Boden nicht ganz so steinig war.
+Leider war der Sand schon etwas nass, sodass er überall haften blieb, was uns allerdings nicht all zu stören sollte.
+
+# Tag 5: Innri-Emstruá → TODO
