@@ -95,7 +95,9 @@ Neben Tiefe, Strömung und Sicht war das Wasser sehr kalt, bei Gletscherflüssen
 Macht euch also auf eine Menge Schmerz bereit, wenn ihr länger als ein ein/zwei Minuten im Wasser seit.
 Wir haben für die Distant ca 15-20 Minuten gebraucht.
 
-### Alternative
+{{< imgScale "innri-emstrua.png" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er durchaus einen Meter tief. Der Schein trügt oftmals." "500x" >}}
+
+### Alternativen
 Wir hatten zwei Alternativen im nicht den Innri-Emstruá zu furten: Eine Brücke und den Gletscher.
 
 Die Brücke bedeutete einen Umweg von ca. 15km, für uns über einen Tagesmarsch, was ein mittelgroßes Problem darstellte.
@@ -114,8 +116,12 @@ Wikipedia sagt dazu:
 3. Grades (Congelatio gangränosa): Demarkierung bzw. beinahe schmerzfreies Absterben des Gewebes
 4. Grades: Vereisung und völlige Gewebezerstörung
 
-Ich hatte nach diesem Fluss ca. ein halbes Jahr lang **taube Zehen**.
+Unseren Beinen hat man nach dem Furten die mangelnde Durchblutung angesehen: Sie waren fast weiß.
+Ich hatte zudem nach diesem Fluss ca. ein halbes Jahr lang **taube Zehen**.
 
 {{% note %}}
 Die Gefahr einer leichten Erfrierung ist als durchaus real und sollte nicht unterschätzt werden!
 {{% /note %}}
+
+## Endlose weite auf der Maelifellsandur
+Nach dem Innri-Emstruá ging es relativ entspannt weiter, auch das Wetter wurde zunehmend besser.
