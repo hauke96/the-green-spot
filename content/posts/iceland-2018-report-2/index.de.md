@@ -63,6 +63,8 @@ Nach einer Weile beschlossen wir also das Zelt in einer etwas windgeschützten S
 Leider war der Sand schon etwas nass, sodass er überall haften blieb, was uns allerdings nicht all zu stören sollte.
 
 # Tag 5: Innri-Emstruá → Maelifell
+{{< smallDate "2018-07-22" >}}
+
 Wir haben uns für 6 Uhr morgens einen "Luscher-Wecker" gestellt um mal aus dem Zelt zu luschern ob der Nebel noch da ist.
 Es war leider noch genau so nebelig wie am Abend zuvor, also haben wir uns noch mal hingelegt und sind gemütlich um 8 Uhr aufgestanden.
 Als wir dann unser Zelt zusammen gepackt haben und los gelaufen sind, stellten wir fest, dass wir ca. 50 Meter von dem geplanten Fluss entfernt gezeltet haben.
@@ -145,6 +147,26 @@ Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Maelifell
 
 Wie sich das für fotogene Highlights gehört zogen direkt Wolken auf uns verhüllten den grünen Berg.
 
+TODO: Bild von kristina wo gerade Wolken aufziehen?
+
 {{< imgScale "DSC00628_1600.JPG" "Der Maelifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
 
 Nach einem 16-Stunden Wandertag sind wir nach dem Abendessen sofort ins Bett gefallen und eingeschlafen.
+
+# Tag 6: Maelifell
+{{< smallDate "2018-07-23" >}}
+
+Einen Tag sind wir am Maelifell geblieben um uns etwas auszuruhen.
+Dieser Tag war geplant, sodass wir dadurch nicht in Verzug gerieten.
+
+Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und hatten einen schönen Blick über die Landschaft.
+
+{{< imgScale "DSC00628_1600.JPG" "Rechts der Gletscher Öldufellsjökull, mittig der Maelifell und ganz links der in Regen gehülle Brennivinskvisl." "500x" >}}
+
+Uns wurde auch gesagt, dass der Handyempfang auf Hügeln besser sein soll.
+Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
+
+TODO: Bild von mir mit Handy.
+
+# Tag 7: Maelifell → Holmsarlon
+{{< smallDate "2018-07-24" >}}
