@@ -190,8 +190,26 @@ Da den Brennivínskvísl sehr nah an den angrenzenden Hügeln vorbei fließt und
 Der Rest des Weges war sehr schön und angenehm.
 Nach kurzer Zeit sind wir einer nicht verzeichneten und unbenannten, aber sehr schönen Kaskade an kleinen Wasserfällen begegnet.
 
-{{< imgScale "DSC00690_1600.JPG" "" "500x" >}}
+{{< imgScale "DSC00690_1600.JPG" "kleine aber schönes Wasserfälle am Brennivínskvísl." "500x" >}}
+
+Danach wurde es sehr grün und es wuchs neben dem Moos auch etwas Gras und wir gelangtem zum Fluss Hólmsá.
+Diesen zu furten war relativ leicht, aber trotzdem sehr kalt.
+Weiter flussaufwärts floss er durch einen Canycon und bildete weitere Wasserfällte.
+
+{{< imgScale "DSC00739_1600.JPG" "Canyon vom Fluss Hólmsá." "500x" >}}
 
 ## Roter Krater
+Nachdem wir etwas am Canycon entlang gewandert sind, kamen wir an einen alten und inaktiven kleinen Vulkankarter, der durch seine rote Farbe besticht.
+
+{{< imgScale "DSC00749_1600.JPG" "Der \"rote Krater\" eines ehemaligen Vulkans." "500x" >}}
+
+In dem kleinen Kratersee schwammen viele recht scheue Vögel.
+
+Wir hatten für die weitere Route zwei Optionen: Über den Fluss, der am See entspringt, oder außen entlang den Kraterrand hinauf.
+Da wir nicht erneut furten wollten entschieden wir uns für zweiteres, was wir nicht bereuen sollten.
+
+{{< imgScale "DSC00753_1600.JPG" "Großartige Aussicht auf die Gegend aus der wir kamen. Im Hintergrund der Sléttjökull und die Kerlingarhnúkur Berge." "500x" >}}
+
+Weiter oben ging es dann teilweise auf Schaafspfaden in Richtung des Sees Hólmsárlón.
 
 ## Camp direkt am See
