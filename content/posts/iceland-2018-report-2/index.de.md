@@ -223,3 +223,11 @@ Durch den Mangel an natürlichen Feinden, und knappen Nährstoffen sind allerdin
 
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
+
+# Fortsetzung folgt ...
+Ich hoffe dir haben der Bericht und die Bilder gefallen.
+Der nächste Teil kommt dann auch bald ;)
+
+{{< note >}}
+**Nächster Teil:** Teil 3 (folgt...)
+{{< /note >}}
