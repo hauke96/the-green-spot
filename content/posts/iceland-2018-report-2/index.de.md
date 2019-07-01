@@ -213,3 +213,13 @@ Da wir nicht erneut furten wollten entschieden wir uns für zweiteres, was wir n
 Weiter oben ging es dann teilweise auf Schaafspfaden in Richtung des Sees Hólmsárlón.
 
 ## Camp direkt am See
+Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Back um nach unten zu gelangen.
+Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und rutschig.
+
+{{< imgScale "DSC00749_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
+
+Wie wir später erfahren haben wurden im Hólmsárlón vor langer Zeit Fische ausgesetzt, welche sich schlagartig vermehrten.
+Durch den Mangel an natürlichen Feinden, und knappen Nährstoffen sind allerdings alle verendet, sodass es heute keine Fische mehr im Hólmsárlón gibt.
+
+Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
+Zum baden oder schwimmen war er uns eindeutig zu kalt.
