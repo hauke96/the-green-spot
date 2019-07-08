@@ -18,7 +18,7 @@ Because of this long time (about three weeks without breaks) there might appear 
 
 Most of the comments on the internet regarding our Iceland tour said that we'll probably starve and that it's insane to carry so much food with us.
 One of the comments directly said that we're going to die.
-We had to do some compromises and had to leave our every-day comfort zone, whereby we noticed, that variety is something very valuable and very much underestimated in our normal life.
+We had to do some compromises and had to leave our every-day comfort zone and noticed, that variety is something very valuable and is very underestimated in our normal life.
 
 > "There's a pretty good chance you are going to die with that plan."
 > <small>A reddit.com user</small>
@@ -46,11 +46,11 @@ The body then is stressed and is more sensible to external stimuli:
 The rain is more unpleasant, the hill is unnecessary steep and a conversation is the last thing you want.
 
 ## Little fun fact about stress
-Stress has very negative effects on the body and you might loose the ability to control your focus.
+Stress has very negative effects on the body and you might loose the ability to control your focus and attention.
 It can even go further and you may become more sensible to pain and even wounds may heal slower.
 
 A long distance hiking tour does definitely not have the goal to produce stress, but to experience many things and to collect a lot of nice impressions.
-Therefore eating and good food are one key parts of hiking and needed to prevent stress.
+Therefore eating (good) food are one key parts of hiking and needed to prevent stress.
 
 # What food to take with you?
 It depends on how long the journey is and what you like to eat.
@@ -58,12 +58,16 @@ It depends on how long the journey is and what you like to eat.
 If the journey is shorter, things like cheese and sausages probably stay fresh.
 For longer trips (a week and longer), quickly perishable food is not suitable.
 
+Due to the amount of food we needed, we chose freeze-dried food.
+Those meals are very light and just need hot water.
+Furthermore those meals wont spoil during the hike.
+
 # Breakfast
 Next to the actual food, a cup of tee (and next time instant coffee) was part of our breakfast.
 The tea does not only warm up your inner body but motivates and also wakes up your immune system (depends on the tea, we had a lot of hot lemon tea).
 
-The basis of our breakfast was porridge or scrambled egg (we took the Trek 'n eat kind of meal and liked it a lot).
-Normally we had 1x porridge + 1/2 BP-WR bar (sweat tasting emergency food and nearly the same as BP-5, NRG-5, NRG-M, EPA, MRE, ...).
+The basis of our breakfast was porridge or scrambled egg (we chose meals from Trek 'n eat and liked it a lot).
+Normally we had 1x porridge + 1-2 BP-WR bar (sweat tasting emergency food and nearly the same as BP-5, NRG-5, NRG-M, EPA, MRE, ...).
 In addition to that we mixed the porridge with some nuts (walnuts, cashews, peanuts, macadamia nuts, etc.) and dried fruits (plums, figs, dates, apricots) to have some varieties.
 
 Generally we tried to create a breakfast sates for some time so that we didn't became hungry after a few steps.
@@ -73,29 +77,29 @@ For us the scrambled egg was not as filling as the porridge.
 In hindsight we'll experiment a bit because all the Nuts with their high concentration of fat were not that good for the digestion.
 
 ## The motivation bar
-We made the experience, that an easy accessible _motivation bar_ is a very good idea.
+We made the experience, that an easy accessible **motivation bar** is a very good idea.
 This should be a chocolate bar (or similar) that tastes good and that you can look forward to.
 
 We used it in the moment when you get slightly hungry but also for passages where we needed some extra motivation.
-It improves the mood and _motivates_ to walk up the hill and to bite through.
+It improves the mood and **motivates** to walk up the hill and to bite through.
 
 We took cereal bars, chocolate bars, banana chips and nuts with us.
 
 # Lunch
 We mostly moved the lunch to the evening after building up our camp.
-Alternatively we used good weather to cook at beautiful places (mountain peaks, rivers, lakes, ...).
+Alternatively, when the weather was good, we cooked at beautiful places (mountain peaks, rivers, lakes, ...).
 
-In advance we bought a lot of freeze-dried food (by _Track'n Eat_, but there are some other and maybe better manufacturers).
+In advance we bought a lot of freeze-dried food (by **Track'n Eat**, but there are some other and maybe better manufacturers).
 Unfortunately this is quite expensive, because one meal can cost between 6-8€.
 Also we had to experience that vegetarians have a significantly lower variety of meals compared to non-vegetarians.
-We were quite happy not _not_ eat soy-bolognese all the time.
+We were quite happy when it's _not_ soy-bolognese the third time in a row!
 
 However we were quite satisfied with the products we bought.
 
 # Dinner
 Before going to bed we often made a broth, soup or a portion mashed potatoes with parmesan.
 
-We also set up three milestones and bought for each milestone one portion mousse au chocolat (also from _Track'n Eat_).
+We also set up three milestones and bought for each milestone one portion mousse au chocolat (also from Track'n Eat).
 This was a very good idea because it was a culinary highlight and gave us a quite large portion of motivation and strength!
 
 # Too less calories
@@ -111,4 +115,4 @@ Every metabolism if different!
 The difference between Hauke and me was huge.
 You should deal with this before the journey and testing how much you need per day might be a good idea.
 
-Cooking one of the meals and hiking with your backpack to test if the food was enough might be as good idea as well ;)
+Cooking one of the meals and hiking with your backpack, to test if the food was enough, might be a good idea as well ;)

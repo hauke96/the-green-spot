@@ -67,7 +67,7 @@ Neben dem eigentlichen Essen gab es morgens eine Tasse Tee, wobei wir das nächs
 Der Tee wärmte nach einer Nacht bei 5°C nicht nur von Innen, sondern weckte auch die Lebensgeister und das Immunsystem (kommt da natürlich auf den Tee an, wir hatten überwiegend heiße Zitrone dabei).
 
 Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek 'n eat und waren geschmacklich positiv überrascht).  
-Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1/2  BP-WR Riegel (das ist süßlich schmeckende Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
+Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1-2  BP-WR Riegel (das ist süßlich schmeckende Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
 Zusätzlich haben wir eine gute handvoll Nüsse (Walnuss, Cashewkerne, Erdnüsse, Macadamia, etc.) und Trockenobst (Pflaume, Feige, Dattel, Aprikose) unter gemischt um etwas Abwechslung zu haben.
 
 Im großen und ganzen haben wir darauf geachtet ein Frühstück zusammen zu stellen was lange sättigt, so dass nicht direkt nach kurzer Zeit des Laufens ein Hungergefühl auftritt.
@@ -77,11 +77,11 @@ Gefühlt hatte jedoch das Rührei als alleiniges Frühstück nicht so gut vorgeh
 Im Nachhinein werden wir allerdings noch etwas experimentieren da die vielen Nüsse mit dem hohen Fettgehalt leider auch ihre Schattenseiten bezüglich der Verdauung hatten ...
 
 ## Der Motivations-Riegel
-Wir haben die Erfahrung gemacht, dass es sich anbietet einen _Motivations-Riegel_ leicht zugänglich parat zu haben.
+Wir haben die Erfahrung gemacht, dass es sich anbietet einen **Motivations-Riegel** leicht zugänglich parat zu haben.
 Das sollte ein Schokoriegel (oder Ähnliches) sein, den man sehr mag und auf den man sich freut.
 
 Dieser war sowohl für die Zeit gedacht in der sich der Hunger ein wenig anbahnt, als auch als Motivation für anstrengende Passagen.
-Es hebt die Stimmung und _motiviert_ einen doch die Steigung hoch zu laufen und sich ein wenig durch zu beißen.
+Es hebt die Stimmung und **motiviert** einen doch die Steigung hoch zu laufen und sich ein wenig durch zu beißen.
 
 Wir hatten Müsliriegel, Schokoriegel, Bananenchips und diverse Nüsse eingepackt.
 
@@ -89,16 +89,16 @@ Wir hatten Müsliriegel, Schokoriegel, Bananenchips und diverse Nüsse eingepack
 Dies wurde meist nach hinten geschoben und oft mit dem Aufbau des Lagers verbunden.
 Alternativ wurde auch bei guter Wetterlage an Orten gekocht an denen man sich gerne aufgehalten hat (Berggipfel, Flüsse, Seen... wie es uns beliebte).
 
-Wir hatten uns zuvor mit gefriergetrockneter Nahrung eingedeckt (von _Trek'n Eat_, wobei es diverse und vielleicht auch bessere Hersteller gibt).
+Wir hatten uns zuvor mit gefriergetrockneter Nahrung eingedeckt (von **Trek'n Eat**, wobei es diverse und vielleicht auch bessere Hersteller gibt).
 Das drückt leider ein wenig auf den Geldbeutel, da eine Mahlzeit gerne bei 6-8€ liegen kann.
-Zudem mussten wir feststellen, dass man als Vegetarier dort deutlich in seiner Auswahl eingeschränkt ist und man doch froh ist, wenn es nicht das dritte mal in Folge Sojabolognese gibt!
+Zudem mussten wir feststellen, dass man als Vegetarier dort deutlich in seiner Auswahl eingeschränkt ist und man doch froh ist, wenn es _nicht_ das dritte mal in Folge Sojabolognese gibt!
 
 In Summe waren wir mit den Produkten aber durchaus zufrieden.
 
 # Abendessen
 Abends gab es vor der Nachtruhe oft nochmal eine Brühe, eine Suppe, oder eine Portion Kartoffelpüree mit Parmesan.
 
-Wir hatten uns drei Etappenziele gesetzt und für jede Etappe jeweils ein Mousse au Chocolat mitgenommen (wie die oben ebenfalls von _Trak'n Eat_).
+Wir hatten uns drei Etappenziele gesetzt und für jede Etappe jeweils ein Mousse au Chocolat mitgenommen (wie die oben ebenfalls von Trak'n Eat).
 Das stellte sich als tatsächlich hilfreich heraus, da es als kulinarisches Highlight nochmal neuen Schwung und Durchhaltevermögen mit sich brachte!
 
 # Zu wenig Kalorien
