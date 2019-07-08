@@ -1,7 +1,7 @@
 +++
 title = "Verpflegung auf langen Touren"
 summary = "Essen ist beim wandern essentiell und wir möchten von ein paar Erfahrungen berichten und versuchen Fragen zu klären. Was sollte ich mitnehmen? Und wie viel brauche ich überhaupt? Welche Inhaltsstoffe sind eigentlich wichtig?"
-date = 2019-04-26T17:42:00+02:00
+date = "2019-07-08T17:15:39+02:00"
 tags = ["essen", "erfahrungen"]
 author = "kristina"
 +++

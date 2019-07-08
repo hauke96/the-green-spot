@@ -1,7 +1,7 @@
 +++
 title = "Eating on long distance tours"
 summary = "Eating is an essential part of hiking and we want to share our experiences and answer potential questions. Was should I take with me? How much do I need? What ingredients are important?"
-date = 2019-04-26T17:42:00+02:00
+date = "2019-07-08T17:15:39+02:00"
 tags = ["food", "experiences"]
 author = "kristina"
 +++
