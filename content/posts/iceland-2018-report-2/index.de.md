@@ -1,7 +1,7 @@
 +++
 draft = true
 title = "Island 2018: Reisebericht (Teil 2)"
-summary = ""
+summary = "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landschaft wurde immer interessanter und schöner."
 date = "2019-07-08T17:28:02+02:00"
 tags = ["island-2018"]
 author = "hauke"
