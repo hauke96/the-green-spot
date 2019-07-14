@@ -70,36 +70,44 @@ Dort war der Boden nicht ganz so steinig, dafür aber etwas sandig.
 
 Wir haben uns für 6 Uhr morgens einen "Luscher-Wecker" gestellt um mal aus dem Zelt zu luschern ob der Nebel noch da ist.
 Es war leider noch genau so nebelig wie am Abend zuvor, also haben wir uns noch mal hingelegt und sind gemütlich um 8 Uhr aufgestanden.
-Als wir dann unser Zelt zusammen gepackt haben und los gelaufen sind, stellten wir fest, dass wir ca. 50 Meter von dem geplanten Fluss entfernt gezeltet haben.
+Als wir dann unser Zelt zusammen gepackt haben, war es schon nicht mehr so nebelig.
+Nach wir ein paar Meter gewandert sind, stellten wir fest, dass unser Zelt ca. 50 Meter von dem geplanten Fluss entfernt stand.
 Die Sicht war also wirklich nicht gut ;)
 
 ## Der Ar***loch-Fluss
-Etwas weiter kamen wir dann an den Fluss Innri-Emstruá, der bis hierhin größe, reißenste und tiefste Fluss.
-Zu dem Zeitpunkt als wir dort waren (also Ende Juli) war er ca. 20 Meter breit, furtet man etwas Diagonal muss man also eher ca. 25 Meter durchfurten.
-Er ist sehr trüb (gespeist vom naheliegenden Gletscher), somit konnten wir nicht genau sehen wie tief er war, haben sicherheitshalber unsere Hosen gleich ganz ausgezogen.
+Etwas weiter kamen wir dann am Fluss Innri-Emstruá an.
+Es war der bis hierhin der größe, reißenste und tiefste Fluss, den wir furten mussten.
+Zu dem Zeitpunkt als wir dort waren (also Ende Juli) war er ca. 20 Meter breit.
+Furtet man etwas Diagonal muss man also eher ca. 25 Meter durchfurten.
+
+Er ist sehr trüb (gespeist vom naheliegenden Gletscher), somit konnten wir nicht genau sehen wie tief er war.
+Daher haben wir unsere Hosen sicherheitshalber gleich ganz ausgezogen.
 Nachdem wir alle elektronischen Geräte, Kleidung und sonstiges Equipment in separate Beutel verpackt und unsere Gurte gelockert haben, ging es los.
 
-Die Tiefe betrug über einen Meter, sodass unsere Unterhosen teilweise nass wurden.
-Für mich reichte das Wasser bis zur Mitte des Oberschenkels, für Kristina eher bis zum Anfang der Hüfte.
-Die Kräfte, die dadurch auf einen wirken, waren enorm, sodass das Furten nur langsam möglich war.
+Die Stelle, an der wir gefurtet sind, betrug die Tiefe ca. 80cm, sodass unsere Unterhosen teilweise nass wurden.
+Für mich reichte das Wasser bis zum Anfagng des Schritts, für Kristina eher bis zum Anfang der Hüfte.
+Die Kräfte, die durch die Tiefe auf uns wirkten, waren enorm, sodass das Furten nur langsam möglich war.
 
 Das Wasser war zudem unglaublich schnell, unsere Trekking Stöcke wurden direkt mitgerissen.
-Wir mussten sie also gut zwei Meter weiter Fluss aufwärts ins Wasser tauchen, damit sie neben uns den Boden trafen.
+Wir mussten sie also weiter flussaufwärts ins Wasser tauchen, damit sie neben uns den Boden trafen.
 Der Boden war allerdings voller großer Steine, sodass man nicht immer guten Halt gefunden hat -- weder mit den Stöcken noch mit den Füßen.
 
 {{< note >}}
 **Felsen im Wasser**:<br>
-Sowohl vor, als auch hinter einem Stein ist der Grund tiefer, vor dem Stein staut sich das Wasser allerdings etwas. Hinter einem Stein ist die Strömung etwas ruhiger, an den Seiten dafür umso schneller.
+Sowohl direkt vor, als auch hinter einem Stein ist der Grund tiefer.
+Vor einem Stein staut sich das Wasser zudem etwas.
+Hinter einem Stein ist die Strömung etwas ruhiger, an den Seiten dafür umso schneller.
 
 Ich fand es einfacher mit etwas Abstand hinter großen Steinen entlang zu gehen.
 {{< /note >}}
 
 Zum Glück sind wir beide relativ trocken ans andere Ufer gelangt, das ganze war aber schon eine knappe Kiste.
-Neben Tiefe, Strömung und Sicht war das Wasser sehr kalt, bei Gletscherflüssen sagt man ca. 2-3°C, wenn sie gerade aus dem Gletscher kommen.
+Neben Tiefe, Strömung und Sicht war das Wasser sehr kalt, bei jungen Gletscherflüssen sagt man ca. 2-3°C.
 Macht euch also auf eine Menge Schmerz gefasst, wenn ihr länger als ein ein/zwei Minuten im Wasser seid.
-Wir haben für die Distanz ca 15-20 Minuten gebraucht.
 
-{{< imgScale "innri-emstrua.png" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er durchaus einen Meter tief. Der Schein trügt oftmals." "500x" >}}
+Wir haben für die Distanz von ca. 25 Metern 15-20 Minuten gebraucht.
+
+{{< imgScale "innri-emstrua.png" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
 
 ### Alternativen
 Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten: Eine Brücke der F261 weiter nördlich und den Gletscher weiter südlich.
@@ -119,7 +127,7 @@ Wikipedia sagt dazu:
 3. Grades (Congelatio gangränosa): Demarkierung bzw. beinahe schmerzfreies Absterben des Gewebes
 4. Grades: Vereisung und völlige Gewebezerstörung
 
-Unseren Beinen und Füßen hat man nach dem Furten die mangelnde Durchblutung angesehen: Sie waren fast weiß und blieben es auch relativ lange.
+Unseren Beinen und Füßen hat man nach dem Furten die mangelnde Durchblutung angesehen: Sie waren fast weiß und blieben es auch die ein oder andere Stunde lang.
 Ich hatte zudem nach diesem Fluss ca. ein halbes Jahr lang **taube Zehen**.
 
 {{% note %}}
@@ -132,23 +140,23 @@ Nach einem kurzen Aufstieg erreichten wir einen See am Fuße des Sléttjökull.
 
 {{< imgScale "DSC00571_1600.JPG" "Ein klarer See am Fuße des Sléttjökull. Im Hintergrund sieht man die Spitze vom Mælifell (Luftlinie ca. 10km entfernt)." "500x" >}}
 
-Am See haben wir uns etwas aufgefrischt, die Wasservorräte aufgefüllt und sind dann los auf die Mælifellsandur Richtung Mælifell.
+Am See haben wir uns etwas ausgeruht, die Wasservorräte aufgefüllt und sind dann los auf die Mælifellsandur Richtung Mælifell.
 
 {{< imgScale "DSC00574_1600.JPG" "Die sandige Ebene ist -- bis auf wenige Ausnahmen -- sehr trocken. Am Horizont der Mælifell." "500x" >}}
 
 Durch die wenige Hügel, war das Laufen recht angenehm und wir kamen gut vorran.
-Ab und zu kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohne dabei die Schuhe ausziehen zu müssen.
+Vereinzelt kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohne dabei die Schuhe ausziehen zu müssen.
 
 {{< imgScale "DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
 
-Kurz vor dem Mælifell kamen wir an etwas größeren Fluss -- vermutlich der Brennivínskvísl -- den wir noch überqueren mussten.
-Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Mælifell, einer unserer Highlight der Reise.
+Kurz vor dem Mælifell kamen wir an einen etwas größeren Fluss -- vermutlich der Brennivínskvísl -- den wir noch überqueren mussten.
+Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Mælifell, einer der Highlights unserer Reise.
 
 {{< imgScale "DSC00623_1600.JPG" "Der Mælifell von der F210 aus gesehen." "500x" >}}
 
-Wie sich das für fotogene Highlights gehört zogen direkt Wolken auf uns verhüllten den grünen Berg.
+Wie sich das für fotogene Highlights gehört, zogen direkt Wolken auf und verhüllten den grünen Berg.
 
-TODO: Bild von kristina wo gerade Wolken aufziehen?
+TODO: Bild von kristina wo gerade Wolken aufziehen
 
 {{< imgScale "DSC00628_1600.JPG" "Der Mælifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
 
