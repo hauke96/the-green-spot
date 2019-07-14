@@ -216,7 +216,7 @@ Weiter oben ging es dann teilweise auf Schaafspfaden in Richtung des Sees Hólms
 Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Back um nach unten zu gelangen.
 Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und rutschig.
 
-{{< imgScale "DSC00749_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
+{{< imgScale "DSC00759_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
 
 Wie wir später erfahren haben wurden im Hólmsárlón vor langer Zeit Fische ausgesetzt, welche sich schlagartig vermehrten.
 Durch den Mangel an natürlichen Feinden und knappen Nährstoffen sind allerdings alle verendet, sodass heute keine Fische mehr im Hólmsárlón leben.
