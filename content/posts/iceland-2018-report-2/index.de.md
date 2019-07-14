@@ -12,17 +12,18 @@ author = "hauke"
 
 {{< imgScale "iceland-2018-map-21-24.jpg" "Der zweite Teil unserer Route." "500x" >}}
 
+Am Tag zuvor haben wir de Laugavegur verlassen und unser Lager am Fremri-Emstruá in der Nähe vom Bíldufell aufgeschlagen.
+
 # Tag 4: Bíldufell → Innri-Emstruá
 {{< smallDate "2018-07-21" >}}
 
 Da wir an den Tagen zuvor nicht so viel Strecke geschafft hatten wie gehofft, wollten wir uns beeilen um etwas Zeit aufzuholen.
-Wir sind also recht früh aufgestanden und haben uns etwas beeilt, um wenig Zeit zu vergeuden.
-Auf der Wanderkarte konnten wir erkennen, dass uns ein ordentlicher Aufstieg bevor stand:
+Wir sind daher recht früh aufgestanden, da wir auf der Wanderkarte zudem erkannt haben, dass uns ein ordentlicher Aufstieg bevor stand:
 Erst 100 Meter in einem Schwung und danach nochmal 100.
 Insgesamt 200 Meter sind nicht so viel, es sollte aber sehr steil und unwegsam werden.
 
 ## Waschtag
-Bevor wir den ersten Aufstieg angingen, entdeckten wir einen kleinen, aber sehr schönen Wasserfall.
+Bevor wir allerdings den ersten Aufstieg angingen, entdeckten wir einen kleinen, aber sehr schönen Wasserfall.
 Da wir schon ein paar Tage unterwegs waren beschlossen wir uns und unsere getragene Wäsche zu waschen.
 
 {{< imgScale "DSC00532_1600.JPG" "Der Entujökull (hinten rechts) mit dem Wasserfall (hinten links)" "500x" >}}
@@ -30,20 +31,20 @@ Da wir schon ein paar Tage unterwegs waren beschlossen wir uns und unsere getrag
 {{< imgScale "DSC00543_1600.JPG" "Der Wasserfall von nahem." "500x" >}}
 
 Weiter entlang der Klippe gab es noch weitere Fasserfälle, aber dieser was am nächsten dran.
-Das Wasser was unglaublich kalt, aber es tat gut sich zu waschen und frische Wäsche anzuziehen.
+Das Wasser war unglaublich kalt, aber es tat gut sich zu waschen und frische Wäsche anzuziehen.
 
-Die nasse Wäsche haben wir außen an unsere Rucksäcke gebunden, in der Hoffnung sie würden etwas trocknen.
+Die nasse Wäsche haben wir außen an unsere Rucksäcke gebunden, in der Hoffnung sie würde etwas trocknen.
 Leider regnete es leicht.
 
 ## Aufstieg
-Der Aufstieg war wie zu erwarten sehr anstrengend, vor allem das Gewicht der Rucksäcke macht es so anstrengend.
-Wenig hilfreich war dabei der weiche und unwegsame Untergrund, welcher hauptsächlich aus losem Geröll mit vereinzelt größeren Steinen darin bestand.
-Während des Aufstieges an den teilweise über 45° steilen Hängen, achteten wir darauf, dass wir nicht direkt hintereinander gingen.
-Nicht selten passierte es nämlich, dass ein größerer Stein ins rollen kommt und ordentlich Geröll mit nach unten nimmt.
+Der Aufstieg war -- wie zu erwarten -- sehr anstrengend, vor allem das Gewicht der Rucksäcke machte uns zu schaffen.
+Wenig hilfreich war dabei der weiche und unwegsame Untergrund, welcher hauptsächlich aus losem Geröll mit vereinzelten größeren Steinen bestand.
+Während des Aufstiegs an den teilweise über 45° steilen Hängen, achteten wir darauf, dass wir nicht direkt hintereinander gingen.
+Nicht selten passierte es nämlich, dass ein größerer Stein ins rollen geraten ist und weiteres Geröll mit nach unten genommen hat.
 Dabei knickte Kristina einmal böse um und wir mussten eine Pause einlegen.
 
-Oben angekommen hatten wir eine sehr schöne Sicht auf das tiefer liegende Gebiet und auf den Gletscher.
-In die andere Richtung, also nach vorne, gab es dann so weit das Auge reicht nur plattes Land.
+Oben angekommen hatten wir eine sehr schöne Aussicht auf das tiefer liegende Gebiet und auf den Gletscher.
+In die andere Richtung, also nach vorne, gab es dann so weit das Auge reichte nur plattes Land.
 
 {{< imgScale "DSC00553_1600.JPG" "Blick zurück in Richtung Gletscher." "500x" >}}
 
@@ -61,8 +62,8 @@ Karten und Kompasse sind im Nebel goldwert!
 Durch die Karte wussten wir, dass ein größerer Fluss ganz in der Nähe sein musste.
 Diesen wollten wir noch furten, um dann dahinter das Lager für die Nacht aufzuschlagen.
 Leider fanden wir den Fluss nicht und hatten etwas Angst unsere geplante Route mehr und mehr zu verlassen.
-Nach einer Weile beschlossen wir also das Zelt in einer etwas windgeschützten Senke hinter einem Stein aufzuschlagen, wo auch der Boden nicht ganz so steinig war.
-Leider war der Sand schon etwas nass, sodass er überall haften blieb, was uns allerdings nicht all zu stören sollte, da wir sehr müde waren.
+Nach einer Weile beschlossen wir also das Zelt in einer etwas windgeschützten Senke hinter einem Stein aufzuschlagen.
+Dort war der Boden nicht ganz so steinig, dafür aber etwas sandig.
 
 # Tag 5: Innri-Emstruá → Mælifell
 {{< smallDate "2018-07-22" >}}
