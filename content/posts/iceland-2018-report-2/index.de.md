@@ -165,14 +165,14 @@ Nach einem 16-Stunden Wandertag sind wir nach dem Abendessen sofort ins Bett gef
 # Tag 6: Mælifell
 {{< smallDate "2018-07-23" >}}
 
-Einen Tag sind wir am Mælifell geblieben um uns etwas auszuruhen.
+Einen Tag lang sind wir am Mælifell geblieben um uns etwas auszuruhen.
 Dieser Tag war geplant, sodass wir dadurch nicht in Verzug gerieten.
 
 Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und hatten einen schönen Blick über die Landschaft.
 
-{{< imgScale "DSC00635_1600.JPG" "Rechts der Gletscher Öldufellsjökull, mittig der Mælifell und ganz links der in Regen gehülle Brennivínskvísl." "500x" >}}
+{{< imgScale "DSC00635_1600.JPG" "Ganz links der in Regen gehülle Brennivínskvísl, rechts der Gletscher Öldufellsjökull und mittig der Mælifell." "500x" >}}
 
-Uns wurde auch gesagt, dass der Handyempfang auf Hügeln besser sein soll.
+Uns wurde gesagt, dass der Handyempfang auf Hügeln besser sein soll.
 Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
 
 TODO: Bild von mir mit Handy.
