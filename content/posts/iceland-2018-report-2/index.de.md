@@ -2,13 +2,15 @@
 draft = true
 title = "Island 2018: Reisebericht (Teil 2)"
 summary = ""
-date = 2019-04-26T18:33:58+02:00
+date = "2019-07-08T17:28:02+02:00"
 tags = ["island-2018"]
 author = "hauke"
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})
 {{< /note >}}
+
+{{< imgScale "iceland-2018-map-21-24.jpg" "Der zweite Teil unserer Route." "500x" >}}
 
 # Tag 4: Bíldufell → Innri-Emstruá
 {{< smallDate "2018-07-21" >}}
@@ -192,7 +194,7 @@ Nach kurzer Zeit sind wir einer nicht verzeichneten und unbenannten, aber sehr s
 
 Danach wurde es sehr grün und es wuchs neben dem Moos auch etwas Gras und wir gelangtem zum Fluss Hólmsá.
 Diesen zu furten war relativ leicht, aber trotzdem sehr kalt.
-Weiter flussaufwärts floss er durch einen Canycon und bildete weitere Wasserfällte.
+Weiter flussaufwärts floss er durch einen Canycon und bildete weitere Wasserfälle.
 
 {{< imgScale "DSC00739_1600.JPG" "Canyon vom Fluss Hólmsá." "500x" >}}
 
@@ -217,10 +219,12 @@ Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und r
 {{< imgScale "DSC00749_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
 
 Wie wir später erfahren haben wurden im Hólmsárlón vor langer Zeit Fische ausgesetzt, welche sich schlagartig vermehrten.
-Durch den Mangel an natürlichen Feinden, und knappen Nährstoffen sind allerdings alle verendet, sodass es heute keine Fische mehr im Hólmsárlón gibt.
+Durch den Mangel an natürlichen Feinden und knappen Nährstoffen sind allerdings alle verendet, sodass heute keine Fische mehr im Hólmsárlón leben.
 
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
+
+TODO: Holmsarlon Bild von Kristina
 
 # Fortsetzung folgt ...
 Ich hoffe dir haben der Bericht und die Bilder gefallen.
