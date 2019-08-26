@@ -13,9 +13,9 @@ author = "hauke"
 
 {{< imgScale "iceland-2018-map-21-24.jpg" "The second part of our trip." "500x" >}}
 
-The day before, we followed the Laugavegur and slept at the Fremri-Emstrua near the Bildufell.
+The day before, we followed the Laugavegur and slept at the Fremri-Emstruá near the Bíldufell.
 
-# Day 4: Bildufell → Innri-Emstrua
+# Day 4: Bíldufell → Innri-Emstruá
 {{< smallDate "2018-07-21" >}}
 
 Because we haven't made it that far the day before, we wanted to hurry up a bit.
@@ -67,7 +67,7 @@ We decided to find and ford that river and camp on the other side but unfortunat
 After a while of searching, we built up our tent behind a larger rock, which gave us some wind protection.
 Also the ground was not stony but more sandy here.
 
-# Day 5: Innri-Emstrua → Maelifell
+# Day 5: Innri-Emstruá → Mælifell
 {{< smallDate "2018-07-22" >}}
 
 We set up a "peeky-timer" for 6am to see if the fog is still there.
@@ -77,7 +77,7 @@ After waling a few meters we saw that the river, we searched for the day before,
 So we sight was really not that good ;)
 
 ## The a**hole river
-The next big river we approached was the Innri-Emstrua.
+The next big river we approached was the Innri-Emstruá.
 Until now it was the largest, fastest and deepest river we had to ford.
 At the time we went there (so end of July) the river was about 20 meters wide.
 When fording more diagonal, the distance was about 25 meter to ford through.
@@ -109,18 +109,18 @@ Young glacier rivers have a temperature of about 2-3°C (35-37°F), so be prepar
 
 We neede for the distance of about 25 meters ca. 15-20 minutes.
 
-{{< imgScale "innri-emstrua.png" "The Innri-Emstrua after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
+{{< imgScale "innri-emstrua.png" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
 
 ### Danger of frostbites and nerve damages
 
-## Endless expanse on the Maelifellsandur
+## Endless expanse on the Mælifellsandur
 
-# Day 6: Maelifell
+# Day 6: Mælifell
 {{< smallDate "2018-07-23" >}}
 
-# Day 7: Maelifell → Holmsarlon
+# Day 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
 
 ## River delta and waterfall

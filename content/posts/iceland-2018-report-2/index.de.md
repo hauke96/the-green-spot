@@ -235,7 +235,7 @@ Durch den Mangel an natürlichen Feinden und knappen Nährstoffen sind allerding
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
 
-TODO: Holmsarlon Bild von Kristina
+TODO: Hólmsárlón Bild von Kristina
 
 # Fortsetzung folgt ...
 Ich hoffe dir haben der Bericht und die Bilder gefallen.
