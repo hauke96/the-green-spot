@@ -38,13 +38,78 @@ We tied our wet clothes onto our backpacks in the hope, that they might dry a bi
 Unfortunately it was slightly raining.
 
 ## The ascend
+The ascend was -- as expected -- very steep, especially the backpacks felt really heavy and caused us problems.
+Not helping either was the uneven and soft ground, consisting mainly of loose scree with some larger rocks in it.
+During the partly over 45° steep ascend, we focused on *not* climbing directly behind each other.
+It happened not rarely that a larger rock rolled down the hill and took further stones with it.
+When the stones became larger and the way more impassible, Kristina twisted her ankle quite badly so that we had to take a break.
+
+After reaching the top, we had a beautiful view all over the valley we came from including the glacier.
+Looking forward, we only saw nothing but flat and endless land.
+
+{{< imgScale "DSC00553_1600.JPG" "The view back to the valley and the glacier." "500x" >}}
+
+{{< imgScale "DSC00558_1600.JPG" "Looking forward to the Mælifellsandur." "500x" >}}
+
+The weather wasn't that bad (light rain and some wind) but upcoming fog became more and more dense ...
 
 ## Fog and emergency camp
+We weren't able to see anything through the fog after a while.
+It's also possible that it were some low flying clouds, the transition was smooth.
+Nevertheless we soon lost all of our orientation.
+
+{{< note >}}
+A map and a compass are very important withing thick fog!
+{{< /note >}}
+
+With our map we knew that a larger river was somewhere near us.
+We decided to find and ford that river and camp on the other side but unfortunately we haven't found that river.
+After a while of searching, we built up our tent behind a larger rock, which gave us some wind protection.
+Also the ground was not stony but more sandy here.
 
 # Day 5: Innri-Emstrua → Maelifell
 {{< smallDate "2018-07-22" >}}
 
+We set up a "peeky-timer" for 6am to see if the fog is still there.
+Unfortunately it was as foggy as the day before and so we kept sleeping until 8am.
+While collecting all our stuff and taking down the tent, the fog was nearly gone.
+After waling a few meters we saw that the river, we searched for the day before, was about 50 meters next to our tent.
+So we sight was really not that good ;)
+
 ## The a**hole river
+The next big river we approached was the Innri-Emstrua.
+Until now it was the largest, fastest and deepest river we had to ford.
+At the time we went there (so end of July) the river was about 20 meters wide.
+When fording more diagonal, the distance was about 25 meter to ford through.
+
+The water was very turbid (fed by the glacier near by) so we weren't able to see how deep it was.
+Therefore we completely took of our pants, just to be safe.
+After storing all electronic devices, clothes and other equipment in plastic bags and loosen our belts, we started fording.
+
+At the point we started fording, the water was about 80cm deep so that our underpants got wet.
+For me the water reached my crotch, for Kristina it reached hear hip.
+The forces affecting was were huge and we were only able to walk really slowly.
+
+In addition to the sight, the water was very fast so that our trekking poles were carried away after sticking them into the water.
+We tried to place them way above our position to they touched the ground next to us.
+The ground however was full of large rocks making it impossible to find a stable stand -- neither with the poles nor with the feet.
+
+{{< note >}}
+**Rocks in the water**:<br>
+The water directly in front as well as behind a rock deeper.
+Additionally the water in front of a rock is dammed a bit.
+Behind a rock the water is a bit more calm, at the sides however even faster.
+
+I found it the most easy way to go behind rocks with some distance to them.
+{{< /note >}}
+
+Luckily we made it relatively dry to the other side but that was quite a tight thing.
+Next to the fast flow, deepness and bad sight, the water was extremely cold.
+Young glacier rivers have a temperature of about 2-3°C (35-37°F), so be prepared for a lot of pain when staying in there fore more than one/two minutes.
+
+We neede for the distance of about 25 meters ca. 15-20 minutes.
+
+{{< imgScale "innri-emstrua.png" "The Innri-Emstrua after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
 

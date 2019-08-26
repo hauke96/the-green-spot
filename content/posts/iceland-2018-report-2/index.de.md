@@ -30,7 +30,7 @@ Da wir schon ein paar Tage unterwegs waren beschlossen wir uns und unsere getrag
 
 {{< imgScale "DSC00543_1600.JPG" "Der Wasserfall von nahem." "500x" >}}
 
-Weiter entlang der Klippe gab es noch weitere Fasserfälle, aber dieser was am nächsten dran.
+Weiter entlang der Klippe gab es noch weitere Wasserfälle, aber dieser was am nächsten dran.
 Das Wasser war unglaublich kalt, aber es tat gut sich zu waschen und frische Wäsche anzuziehen.
 
 Die nasse Wäsche haben wir außen an unsere Rucksäcke gebunden, in der Hoffnung sie würde etwas trocknen.
@@ -41,7 +41,7 @@ Der Aufstieg war -- wie zu erwarten -- sehr anstrengend, vor allem das Gewicht d
 Wenig hilfreich war dabei der weiche und unwegsame Untergrund, welcher hauptsächlich aus losem Geröll mit vereinzelten größeren Steinen bestand.
 Während des Aufstiegs an den teilweise über 45° steilen Hängen, achteten wir darauf, dass wir nicht direkt hintereinander gingen.
 Nicht selten passierte es nämlich, dass ein größerer Stein ins rollen geraten ist und weiteres Geröll mit nach unten genommen hat.
-Dabei knickte Kristina einmal böse um und wir mussten eine Pause einlegen.
+Als die Steine größer und unwegsamer wurden, knickte Kristina einmal böse um und wir mussten eine Pause einlegen.
 
 Oben angekommen hatten wir eine sehr schöne Aussicht auf das tiefer liegende Gebiet und auf den Gletscher.
 In die andere Richtung, also nach vorne, gab es dann so weit das Auge reichte nur plattes Land.
@@ -50,13 +50,15 @@ In die andere Richtung, also nach vorne, gab es dann so weit das Auge reichte nu
 
 {{< imgScale "DSC00558_1600.JPG" "Blick nach vorne Richtung Mælifellsandur." "500x" >}}
 
+Das Wetter war nicht all zu schlecht (ganz leichter Regen und etwas Wind), allerdings zog mehr und mehr Nebel auf ...
+
 ## Nebel und Notlager aufschlagen
-Nachdem wir ein wenig weiter gewandert sind, zog dicker Nebel auf.
+Irgendwann konnten wir durch den Nebel dann kaum noch was sehen.
 Es könnten auch die tiefliegenden Wolken gewesen sein, der Übergang war fließend.
-Jedenfalls konnten wir immer schlechter sehen und hatten schon bald jegliche Orientierung verloren.
+Jedenfalls hatten wir schon bald jegliche Orientierung verloren.
 
 {{< note >}}
-Karten und Kompasse sind im Nebel goldwert!
+Eine Karte und ein Kompass sind im Nebel goldwert!
 {{< /note >}}
 
 Durch die Karte wussten wir, dass ein größerer Fluss ganz in der Nähe sein musste.
@@ -80,12 +82,12 @@ Es war der bis hierhin der größe, reißenste und tiefste Fluss, den wir furten
 Zu dem Zeitpunkt als wir dort waren (also Ende Juli) war er ca. 20 Meter breit.
 Furtet man etwas Diagonal muss man also eher ca. 25 Meter durchfurten.
 
-Er ist sehr trüb (gespeist vom naheliegenden Gletscher), somit konnten wir nicht genau sehen wie tief er war.
+Das Wasser war sehr trüb (gespeist vom naheliegenden Gletscher), somit konnten wir nicht genau sehen wie tief er war.
 Daher haben wir unsere Hosen sicherheitshalber gleich ganz ausgezogen.
 Nachdem wir alle elektronischen Geräte, Kleidung und sonstiges Equipment in separate Beutel verpackt und unsere Gurte gelockert haben, ging es los.
 
 Die Stelle, an der wir gefurtet sind, betrug die Tiefe ca. 80cm, sodass unsere Unterhosen teilweise nass wurden.
-Für mich reichte das Wasser bis zum Anfagng des Schritts, für Kristina eher bis zum Anfang der Hüfte.
+Für mich reichte das Wasser bis zum Anfang des Schritts, für Kristina eher bis zum Anfang der Hüfte.
 Die Kräfte, die durch die Tiefe auf uns wirkten, waren enorm, sodass das Furten nur langsam möglich war.
 
 Das Wasser war zudem unglaublich schnell, unsere Trekking Stöcke wurden direkt mitgerissen.
