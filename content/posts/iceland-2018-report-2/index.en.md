@@ -183,10 +183,66 @@ TODO: Photo of me with my smartphone.
 # Day 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
 
+Today we continued to the lake Holmsarlon.
+
 ## River delta and waterfall
+First we went along the Brennivínskvísl towards the Strutur where we had to cross a large river delta we already saw from the airplane.
+The rivers were not that deep, fast and difficult, however the ground was even more difficult.
+There was a lot of quicksand we sometimes sunk in up to our knees.
+
+{{% note %}}
+Are bubbles coming out of the sand when stepping on it, the probability is high that this is quicksand.
+{{% /note %}}
+
+{{< imgScale "DSC00650_1600.JPG" "The river delta we crossed. To the left is the campsite Strutskali." "500x" >}}
+
+{{< imgScale "IMG_20180718_164318_2800.jpg" "The river delta from as we saw it from the airplane. To the right of the engine you can even see the Maelifell." "500x" >}}
+
+Because the Brennivínskvísl flows directly next to some hills and the river bank is quite steep, we just went over those hills.
+The rest of the trip was very beautiful and easy.
+After some time we arrived at a cascade of waterfalls, which were not marked on our map.
+
+{{< imgScale "DSC00690_1600.JPG" "Small but beautiful waterfalls at the Brennivínskvísl." "500x" >}}
+
+From there the landscape became more and more green and next to the moss there was even grass growing.
+Finally we crossed the river Holmsa which was quite cold but not that difficult.
+Further upstream the Holmsa flowed throgh a smaller canyon with further waterfalls.
+
+{{< imgScale "DSC00739_1600.JPG" "Canyon of the river Hólmsá." "500x" >}}
 
 ## Red crater
+After hiking along side the canyon for a while, we arrives at an old volcanic crater, which was very beautiful due to its red color.
+
+{{< imgScale "DSC00749_1600.JPG" "The \"red crater\" of a former volcano." "500x" >}}
+
+In the small crater lake there were some birds swimming.
+
+For the further route we had two options: Crossing the river coming out of the lake or climbing up to the top of the crater edge.
+Because we didn't want to ford another river, we decided to go up to the edge and walk around the crater. A decision we didn't regret.
+
+{{< imgScale "DSC00753_1600.JPG" "Awesome view from above the crater with Slettjökull in the background and the Kerlingarhnúkur mountains." "500x" >}}
+
+Fruther on the top there were some sheep paths leading to the lake Holmsarlon.
 
 ## Camp on the lakeside
+The slopes at the lake were very steep and we used a smaller stream to go down to the shore.
+Even though the stream was less steep, it was very slippery.
+
+{{< imgScale "DSC00759_1600.JPG" "The lake Hólmsárlón at evening." "500x" >}}
+
+As we learned later, there were a lot of fishes set free in the Holmsarlon lake which bred very fast.
+Due to the lack of predators and food, they all died.
+Therefore there are no fishes anymore in the Holmsarlon lake.
+
+Although there're no fish in the lake, we camped directly at the water and washed us and our clothes.
+However the water was way to old to swim in the lake.
+
+TODO: Holmsarlon photo from Kristina.
 
 # To be continued ...
+I hope you like this report and photos.
+The next part is coming coon ;)
+
+{{< note >}}
+**Next part:** part 3 (coming soon...)
+{{< /note >}}
