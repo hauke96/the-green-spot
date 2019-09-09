@@ -126,7 +126,7 @@ Wikipedia sagt dazu:
 
 1. Grades (Congelatio erythematosa): taubes und blasses Hautareal, Schwellung der Hautpartie, Schmerzen
 2. Grades (Congelatio bullosa): Rötung oder blau-rote Hautfarbe, Schwellung und Blasenbildung
-3. Grades (Congelatio gangränosa): Demarkierung bzw. beinahe schmerzfreies Absterben des Gewebes
+3. Grades (Congelatio gangraenosa): Demarkierung bzw. beinahe schmerzfreies Absterben des Gewebes
 4. Grades: Vereisung und völlige Gewebezerstörung
 
 Unseren Beinen und Füßen hat man nach dem Furten die mangelnde Durchblutung angesehen: Sie waren fast weiß und blieben es auch die ein oder andere Stunde lang.

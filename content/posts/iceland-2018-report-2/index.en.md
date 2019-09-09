@@ -112,14 +112,14 @@ We neede for the distance of about 25 meters ca. 15-20 minutes.
 {{< imgScale "innri-emstrua.png" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
-We had two alternatives to not cross the Innri-Emstrua:
+We had two alternatives to not cross the Innri-Emstruá:
 A bridge of the F261 in the north and the glacier in the south.
 
 Using the bridge would have cost about 15km (for us a whole day of hiking), which was actually a problem.
 The glacier was the other possible choice, but due to the lack of experience with glacier hiking, this wasn't safe at all.
 
 We wrote about the search of alternatives in our article about the [planing of our trip]({{< ref "posts/iceland-2018-preparation" >}}).
-If crossing the Innri-Emstrua would not have worked, we had two possible alternatives.
+If crossing the Innri-Emstruá would not have worked, we had two possible alternatives.
 
 ### Danger of frostbites and nerve damages
 There are four grades of frostbites (medical term: congelatio).
@@ -138,6 +138,32 @@ The danger of light frostbites is real and should not be underestimated!
 {{% /note %}}
 
 ## Endless expanse on the Mælifellsandur
+After the Innri-Emstruá the trip was quite relaxing and also the weather became better.
+After a short ascend we arrived at a late at the bottom of the Sléttjökull.
+
+{{< imgScale "DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10km)." "500x" >}}
+
+We relaxed a bit at the lake, filled up our water bottles and continued via the Mælifellsandur towards the Mælifell.
+
+{{< imgScale "DSC00574_1600.JPG" "The vulcanic sand plain was -- with some exceptions -- very dry. At the horizon the Mælifell." "500x" >}}
+
+This plain was very flat, walking on it was quite comfortable and so we were relatively fast.
+There were some smaller streams we had to cross but that was possible without even taking our shoes off.
+
+{{< imgScale "DSC00580_1600.JPG" "Very wide  but also very shallow: We were able to just walk through them." "500x" >}}
+
+Right before the Mælifell we encountered a larger river -- probably the Brennivínskvísl -- we had to cross.
+After that we finally arrived at the Mælifell after seven hours of volcanic plain.
+
+{{< imgScale "DSC00623_1600.JPG" "The Mælifell from the F210." "500x" >}}
+
+As it should be for photogenic highlights, thick low hanging clouds came up and cloaked the green mountain.
+
+TODO: Photo of Kristina with clouds.
+
+{{< imgScale "DSC00628_1600.JPG" "The Mælifell half an hour later. This was the moment we found a name for our blog ;)" "500x" >}}
+
+After a 16-hour hiking days we directly fell asleep after lunch.
 
 # Day 6: Mælifell
 {{< smallDate "2018-07-23" >}}
