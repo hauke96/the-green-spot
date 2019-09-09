@@ -168,6 +168,18 @@ After a 16-hour hiking days we directly fell asleep after lunch.
 # Day 6: Mælifell
 {{< smallDate "2018-07-23" >}}
 
+We stayed at the Maelifell for a day to get some rest.
+This day was planned in our timetable, so we didn't fell behind.
+
+After sleeping quite long we climbed up a near hill and had an awesome view over the whole landscape.
+
+{{< imgScale "DSC00635_1600.JPG" "Far left is the rain covered Brennivínskvísl, to the right the glacier Öldufellsjökull and in the middle the Maelifell." "500x" >}}
+
+We were told that the mobile reception is better when staying on a hill.
+This was true unless -- due to Murphys law -- you want to send a SMS or call somebody.
+
+TODO: Photo of me with my smartphone.
+
 # Day 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
 
