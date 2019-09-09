@@ -112,8 +112,30 @@ We neede for the distance of about 25 meters ca. 15-20 minutes.
 {{< imgScale "innri-emstrua.png" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
+We had two alternatives to not cross the Innri-Emstrua:
+A bridge of the F261 in the north and the glacier in the south.
+
+Using the bridge would have cost about 15km (for us a whole day of hiking), which was actually a problem.
+The glacier was the other possible choice, but due to the lack of experience with glacier hiking, this wasn't safe at all.
+
+We wrote about the search of alternatives in our article about the [planing of our trip]({{< ref "posts/iceland-2018-preparation" >}}).
+If crossing the Innri-Emstrua would not have worked, we had two possible alternatives.
 
 ### Danger of frostbites and nerve damages
+There are four grades of frostbites (medical term: congelatio).
+Wikipedia says:
+
+1. grade (congelatio erythematosa): numb and pale skin, swelling of the skin, pain
+2. grade (congelatio bullosa): red or blue-red skin color, swelling and blisters
+3. grade (congelatio gangraenosa): (nearly) dead tissue
+4. grade: completely destroyed and/or frozen tissue
+
+We were able to see the missing blood circulation in our legs after fording the river: They were nearly white and stayed so for an hour or another.
+After this river, I had **numb feeling toes** for half a year.
+
+{{% note %}}
+The danger of light frostbites is real and should not be underestimated!
+{{% /note %}}
 
 ## Endless expanse on the Mælifellsandur
 
