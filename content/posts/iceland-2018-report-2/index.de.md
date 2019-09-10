@@ -177,7 +177,7 @@ Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und 
 Uns wurde gesagt, dass der Handyempfang auf Hügeln besser sein soll.
 Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
 
-TODO: Bild von mir mit Handy.
+{{< imgScale "DSC00376_1600.JPG" "Ich, wie ich versuche eine SMS zu senden." "500x" >}}
 
 # Tag 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
