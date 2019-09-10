@@ -159,7 +159,7 @@ After that we finally arrived at the Mælifell after seven hours of volcanic pla
 
 As it should be for photogenic highlights, thick low hanging clouds came up and cloaked the green mountain.
 
-TODO: Photo of Kristina with clouds.
+{{< imgScale "DSC00355_edit_1600.JPG" "" "500x" >}}
 
 {{< imgScale "DSC00628_1600.JPG" "The Mælifell half an hour later. This was the moment we found a name for our blog ;)" "500x" >}}
 

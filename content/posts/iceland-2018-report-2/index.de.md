@@ -158,7 +158,7 @@ Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Mælifell
 
 Wie sich das für fotogene Highlights gehört, zogen direkt Wolken auf und verhüllten den grünen Berg.
 
-TODO: Bild von kristina wo gerade Wolken aufziehen
+{{< imgScale "DSC00355_edit_1600.JPG" "Der Maelifell mit aufkommenden Wolken." "500x" >}}
 
 {{< imgScale "DSC00628_1600.JPG" "Der Mælifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
 
