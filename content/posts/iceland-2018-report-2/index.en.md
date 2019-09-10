@@ -168,12 +168,12 @@ After a 16-hour hiking days we directly fell asleep after lunch.
 # Day 6: Mælifell
 {{< smallDate "2018-07-23" >}}
 
-We stayed at the Maelifell for a day to get some rest.
+We stayed at the Mælifell for a day to get some rest.
 This day was planned in our timetable, so we didn't fell behind.
 
 After sleeping quite long we climbed up a near hill and had an awesome view over the whole landscape.
 
-{{< imgScale "DSC00635_1600.JPG" "Far left is the rain covered Brennivínskvísl, to the right the glacier Öldufellsjökull and in the middle the Maelifell." "500x" >}}
+{{< imgScale "DSC00635_1600.JPG" "Far left is the rain covered Brennivínskvísl, to the right the glacier Öldufellsjökull and in the middle the Mælifell." "500x" >}}
 
 We were told that the mobile reception is better when staying on a hill.
 This was true unless -- due to Murphys law -- you want to send a SMS or call somebody.
@@ -183,10 +183,10 @@ TODO: Photo of me with my smartphone.
 # Day 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
 
-Today we continued to the lake Holmsarlon.
+Today we continued to the lake Hólmsárlón.
 
 ## River delta and waterfall
-First we went along the Brennivínskvísl towards the Strutur where we had to cross a large river delta we already saw from the airplane.
+First we went along the Brennivínskvísl towards the Strútur where we had to cross a large river delta we already saw from the airplane.
 The rivers were not that deep, fast and difficult, however the ground was even more difficult.
 There was a lot of quicksand we sometimes sunk in up to our knees.
 
@@ -196,7 +196,7 @@ Are bubbles coming out of the sand when stepping on it, the probability is high 
 
 {{< imgScale "DSC00650_1600.JPG" "The river delta we crossed. To the left is the campsite Strutskali." "500x" >}}
 
-{{< imgScale "IMG_20180718_164318_2800.jpg" "The river delta from as we saw it from the airplane. To the right of the engine you can even see the Maelifell." "500x" >}}
+{{< imgScale "IMG_20180718_164318_2800.jpg" "The river delta from as we saw it from the airplane. To the right of the engine you can even see the Mælifell." "500x" >}}
 
 Because the Brennivínskvísl flows directly next to some hills and the river bank is quite steep, we just went over those hills.
 The rest of the trip was very beautiful and easy.
@@ -205,8 +205,8 @@ After some time we arrived at a cascade of waterfalls, which were not marked on 
 {{< imgScale "DSC00690_1600.JPG" "Small but beautiful waterfalls at the Brennivínskvísl." "500x" >}}
 
 From there the landscape became more and more green and next to the moss there was even grass growing.
-Finally we crossed the river Holmsa which was quite cold but not that difficult.
-Further upstream the Holmsa flowed throgh a smaller canyon with further waterfalls.
+Finally we crossed the river Hólmsá which was quite cold but not that difficult.
+Further upstream the Hólmsá flowed throgh a smaller canyon with further waterfalls.
 
 {{< imgScale "DSC00739_1600.JPG" "Canyon of the river Hólmsá." "500x" >}}
 
@@ -220,9 +220,9 @@ In the small crater lake there were some birds swimming.
 For the further route we had two options: Crossing the river coming out of the lake or climbing up to the top of the crater edge.
 Because we didn't want to ford another river, we decided to go up to the edge and walk around the crater. A decision we didn't regret.
 
-{{< imgScale "DSC00753_1600.JPG" "Awesome view from above the crater with Slettjökull in the background and the Kerlingarhnúkur mountains." "500x" >}}
+{{< imgScale "DSC00753_1600.JPG" "Awesome view from above the crater with Sléttjökull in the background and the Kerlingarhnúkur mountains." "500x" >}}
 
-Fruther on the top there were some sheep paths leading to the lake Holmsarlon.
+Fruther on the top there were some sheep paths leading to the lake Hólmsárlón.
 
 ## Camp on the lakeside
 The slopes at the lake were very steep and we used a smaller stream to go down to the shore.
@@ -230,14 +230,14 @@ Even though the stream was less steep, it was very slippery.
 
 {{< imgScale "DSC00759_1600.JPG" "The lake Hólmsárlón at evening." "500x" >}}
 
-As we learned later, there were a lot of fishes set free in the Holmsarlon lake which bred very fast.
+As we learned later, there were a lot of fishes set free in the Hólmsárlón lake which bred very fast.
 Due to the lack of predators and food, they all died.
-Therefore there are no fishes anymore in the Holmsarlon lake.
+Therefore there are no fishes anymore in the Hólmsárlón lake.
 
 Although there're no fish in the lake, we camped directly at the water and washed us and our clothes.
 However the water was way to old to swim in the lake.
 
-TODO: Holmsarlon photo from Kristina.
+TODO: Hólmsárlón photo from Kristina.
 
 # To be continued ...
 I hope you like this report and photos.
