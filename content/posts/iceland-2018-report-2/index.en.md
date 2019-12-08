@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Iceland 2018: Travel report (part 2)"
 summary = "Finally we left civilization behind us and the landscape became more and more interesting and beautiful. Besides nice waterfalls and rivers there was also bad weather and quicksand."
 date = "2019-12-08T12:29:08+01:00"
