@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Island 2018: Reisebericht (Teil 2)"
-summary = "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landschaft wurde immer interessanter und schöner."
-date = "2019-07-08T17:28:02+02:00"
+summary = "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landschaft wurde immer interessanter und schöner. Neben schönen Wasserfällen und Flüssen gab es allerdings auch schlechtes Wetter und Treibsand."
+date = "2019-12-08T12:29:08+01:00"
 tags = ["island-2018"]
 author = "hauke"
 +++
@@ -235,8 +234,6 @@ Durch den Mangel an natürlichen Feinden, die die Population kontrollieren, und 
 
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
-
-TODO: Hólmsárlón Bild von Kristina
 
 # Fortsetzung folgt ...
 Ich hoffe dir haben der Bericht und die Bilder gefallen.
