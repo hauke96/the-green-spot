@@ -34,7 +34,7 @@ hline
 echo "4. Upload new data"
 hline
 echo "    Upload public-folder to '$username@the-green-spot.de:$home/beta/'"
-#sshpass -p $password scp -r ./public/. $username@the-green-spot.de:$home/beta/
-scp -r ./public/. $username@the-green-spot.de:$home/beta/
+sshpass -p $password scp -r ./public/. $username@the-green-spot.de:$home/beta/
+#scp -r ./public/. $username@the-green-spot.de:$home/beta/
 echo "    Uploading done. For possible errors see above."
 hline
