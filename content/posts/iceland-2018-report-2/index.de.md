@@ -112,7 +112,8 @@ Wir haben für die Distanz von ca. 25 Metern 15-20 Minuten gebraucht.
 {{< imgScale "innri-emstrua.png" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
 
 ### Alternativen
-Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten: Eine Brücke der F261 weiter nördlich und den Gletscher weiter südlich.
+Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten:
+Eine Brücke der F261 weiter nördlich und den Gletscher weiter südlich.
 
 Die Brücke bedeutete einen Umweg von ca. 15km (für uns über einen Tagesmarsch), was ein mittelgroßes Problem darstellte.
 Der Gletscher wäre die andere Möglichkeit gewesen, die mangels Erfahrung nicht unbedingt sicherer gewesen wäre.
@@ -146,7 +147,7 @@ Am See haben wir uns etwas ausgeruht, die Wasservorräte aufgefüllt und sind da
 
 {{< imgScale "DSC00574_1600.JPG" "Die sandige Ebene ist -- bis auf wenige Ausnahmen -- sehr trocken. Am Horizont der Mælifell." "500x" >}}
 
-Durch die wenige Hügel, war das Laufen recht angenehm und wir kamen gut vorran.
+Durch die wenigen Hügel war das Laufen meist recht angenehm und wir kamen gut vorran.
 Vereinzelt kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohne dabei die Schuhe ausziehen zu müssen.
 
 {{< imgScale "DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
@@ -186,14 +187,14 @@ Heute ging es dann weiter, Ziel war der See Hólmsárlón.
 
 ## Flussdelta und Wasserfall
 Zunächst sind wir am Brennivínskvísl entlang Richtung Strútur gewandert, wo wir ein größeres Flussdelta überqueren mussten, welches wir bereits aus dem Flugzeug gesehen haben.
-Die Flüsse waren nicht sonerlich tief, schnell oder anspruchsvoll, der Boden ware es jedoch umso mehr.
+Die Flüsse waren nicht sonderlich tief, schnell oder anspruchsvoll, der Boden ware es jedoch umso mehr.
 Es gab eine Menge Treibsand in den wir stellenweise bis zum Knie eingesunden sind.
 
-{{% note %}}
+{{< note >}}
 Fängt der Boden beim betreten an zu blubbern handelt ist die Wahrscheinlichkeit hoch, dass es Treibsand ist.
-{{% /note %}}
+{{< /note >}}
 
-{{< imgScale "DSC00650_1600.JPG" "Das Flussdelta, welches wir überquert haben. Links geht es zum Campingplatz Strútsskáli." "500x" >}}
+{{< imgScale "DSC00650_1600.JPG" "Das Flussdelta, welches wir überquert haben. Rechts geht es zum Campingplatz Strútsskáli." "500x" >}}
 
 {{< imgScale "IMG_20180718_164318_2800.jpg" "Das Flussdelta vom Flugzeug aus, man erkennt sogar den Mælifell (rechts neben der Unterseite vom Triebwerk)." "500x" >}}
 
@@ -205,32 +206,32 @@ Nach kurzer Zeit sind wir einer nicht verzeichneten und unbenannten, aber sehr s
 
 Danach wurde es sehr grün und es wuchs neben dem Moos auch etwas Gras und wir gelangtem zum Fluss Hólmsá.
 Diesen zu furten war relativ leicht, aber trotzdem sehr kalt.
-Weiter flussaufwärts floss er durch einen Canycon und bildete weitere Wasserfälle.
+Weiter flussaufwärts floss er durch einen Canyon und bildete weitere Wasserfälle.
 
 {{< imgScale "DSC00739_1600.JPG" "Canyon vom Fluss Hólmsá." "500x" >}}
 
 ## Roter Krater
-Nachdem wir etwas am Canycon entlang gewandert sind, kamen wir an einen alten und inaktiven kleinen Vulkankarter, der durch seine rote Farbe besticht.
+Nachdem wir etwas am Canycon entlang gewandert sind, kamen wir an einen alten und inaktiven kleinen Vulkankarter, der durch seine rot, grün und türkis Töne besticht.
 
 {{< imgScale "DSC00749_1600.JPG" "Der \"rote Krater\" eines ehemaligen Vulkans." "500x" >}}
 
-In dem kleinen Kratersee schwammen viele recht scheue Vögel.
+In dem kleinen Kratersee schwammen viele recht scheue Vögel (wahrscheinlich Wildenten).
 
 Wir hatten für die weitere Route zwei Optionen: Über den Fluss, der am See entspringt, oder außen entlang den Kraterrand hinauf.
 Da wir nicht erneut furten wollten entschieden wir uns für zweiteres, was wir nicht bereuen sollten.
 
 {{< imgScale "DSC00753_1600.JPG" "Großartige Aussicht auf die Gegend aus der wir kamen. Im Hintergrund der Sléttjökull und die Kerlingarhnúkur Berge." "500x" >}}
 
-Weiter oben ging es dann teilweise auf Schaafspfaden in Richtung des Sees Hólmsárlón.
+Weiter oben ging es dann auf Schaafspfaden in Richtung des Sees Hólmsárlón.
 
 ## Camp direkt am See
-Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Back um nach unten zu gelangen.
+Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Bach um nach unten zu gelangen.
 Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und rutschig.
 
 {{< imgScale "DSC00759_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
 
 Wie wir später erfahren haben wurden im Hólmsárlón vor langer Zeit Fische ausgesetzt, welche sich schlagartig vermehrten.
-Durch den Mangel an natürlichen Feinden und knappen Nährstoffen sind allerdings alle verendet, sodass heute keine Fische mehr im Hólmsárlón leben.
+Durch den Mangel an natürlichen Feinden, die die Population kontrollieren, und knappen Nährstoffen sind allerdings alle verendet, sodass heute keine Fische mehr im Hólmsárlón leben.
 
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
