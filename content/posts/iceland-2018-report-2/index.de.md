@@ -240,5 +240,5 @@ Ich hoffe dir haben der Bericht und die Bilder gefallen.
 Der nächste Teil kommt dann auch bald ;)
 
 {{< note >}}
-**Nächster Teil:** Teil 3 (folgt...)
+**Nächster Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
