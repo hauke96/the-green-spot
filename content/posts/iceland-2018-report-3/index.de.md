@@ -10,8 +10,7 @@ author = "hauke"
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
 {{< /note >}}
 
-{{ < imgScale "iceland-2018-map-21-24.jpg" "Der dritte Teil unserer Route." "500x" >}}
-//TODO Bild anpassen
+{{< imgScale "iceland-2018-map-25-29.jpg" "Der dritte Teil unserer Route." "500x" >}}
 
 # Tag 8: Hólmsárlón → Strutslaug
 {{< smallDate "2018-07-25" >}}
