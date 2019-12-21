@@ -117,6 +117,76 @@ Kurze Zeit später zog es sich auch bereits zu, eine Wolkenfront schob sich in d
 Wir haben also unsere sieben Sachen gepackt und sind weiter in die Eldgja hinein.
 Dort war es sehr sumpfig und man konnte nur am Rand wirklich laufen, weiter hinten wurde es aber besser.
 Da es mittlerweile sehr nebelig und spät war (ca. 23 Uhr), haben wir -- um nicht entdeckt zu werden -- hinter einem großen Findling auf einer trockenen Stelle unser Zelt aufgeschlagen.
+Das campen in der Eldgja ist nicht erlaubt, uns bliebt aber nichts anderes übrig.
+
+# Tag 11: Eldgja → Skaelingar Hütte
+{{< smallDate "2018-07-28" >}}
+
+Um nicht entdeckt zu werden haben wir den Wecker auf 5 Uhr morgens gestellt und sich um 6 Uhr dann los.
+Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf Nummer sicher gehen.
+
+Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn Pflöcke.
+Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
+Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser hellen hölzernen Pflöcke gefunden.
+
+Der Wanderweg aus der Schlucht heraus ist sehr steil, besteht nur aus Sand und ist keineswegs befestigt.
+Durch den Nebel konnten wir irgendwann weder den Buden der Schlucht noch die obere Kante sehen.
+
+// TODO Bild
+
+Nach ca. einer halben Stunde kamen wir dann aber oben an und haben uns erst mal eine Pause gegönnt.
+
+// TODO Bild
+
+Danach ging es weiter in Richtung der Hütte Skaelingar.
+Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder was sehen.
+Es war zwar kein Wanderweg erkennbar, aber immerhin gab es die Pflöcke, welche uns an ein paar Bäche führte, die wir furten mussten.
+
+Zwischendrin fanden wir den Kadaver eines Schaafes, welcher sehr zerpflückt aussah.
+Es gibt auf Island aber keine größeren Tiere, die Schaafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben ist.
+
+Nach einigen weiteren Furten erreichten wir die Hütte, die sehr nah an der Skafta liegt.
+Die Hütte gehört dem Verein Utivist und ist per se für alle geöffnet.
+Man kann sie allerdings auch mieten/reservieren und dann haben natürlich die Mieter Vorrang.
+
+// TODO Bild
+
+Im Schutze der Hütte hat sich Kristina den Luxus gegönnt ihre Haare zu waschen, wir haben also warmes Wasser gemacht und so sparsam wie möglich ihre Haare gewaschen.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
