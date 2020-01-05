@@ -29,13 +29,17 @@ Das haben wir vor Ort gemacht.
 
 Einmal mussten wir dann doch aus dem Wasser raus und über eine kleine Landzunge klettern, ansonsten konnten wir aber am Ufer entlang gehen.
 
+## Das Flussdelta
+
 Nach ca. drei Stunden waren wir auf der anderen Seite des Sees, wo viele Bäche ihn speisen.
-Dort bilden sie alle zusammen ein großes Delta (ca. 2x2km groß TODO prüfen). über das wir einmal komplett rüber mussten.
+Dort bilden sie alle zusammen ein großes Delta (ca. 2x2km groß). über das wir einmal komplett rüber mussten.
 Schon am Holmsarlon fing es an zu regnen und der Wind wurde stärker, sodass das laufen durch kalte Bäche und sumpfiges Gelände gleich doppelt Spaß machte.
 
 {{< imgScale "DSC00769_1600.JPG" "Bäche, Schlamm, Treibsand und viel viel Wasser erwarten einen am nördlichen Ende vom Holmsarlon." "500x" >}}
 
 Nach ca. einer weiteren Stunde erreichten wir die andere Seite des Deltas, wo die heiße Quelle Strutslaug auf uns wartete.
+
+## Das heiße Bad
 
 Wir waren dort tatsächlich nicht alleine, eine amerikanische Familie mit einem isländischen Reisebegleiter kam gerade aus dem schlammigen, aber sehr warmen Wasser.
 Der Reiseführer konnte sogar recht gut Deutsch und wir haben uns kurz unterhalten.
@@ -54,9 +58,9 @@ Der nächste Tag war der einzige der ganzen Reise an dem ich kein einziges Bild 
 Es hat konstant und stark geregnet, zudem sind wir durch teilweise dichten Nebel gelaufen.
 Man sagt zwar, dass Regen und Nebel nicht zusammen auftreten, aber Thor sieht das wohl anders.
 
-Die ganeu Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Osten und dann nach Süd-Ost durch die Eldgja (weltgrößte Vulkanschlucht), was wir aber gar nicht bemerkt haben.
+Die genaue Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Nord-Osten und dann nach Süd-Osten durch die Eldgja (weltgrößte Vulkanschlucht), was wir aber gar nicht bemerkt haben.
 
-Eigentlich hätten wir die ganze Zeit auf Wanderwegen laufen sollen, irgendwann verloren wir diese aber oder sind fälschlicherweise Schaafspfaden gefolgt.
+Eigentlich hätten wir die ganze Zeit auf Wanderwegen laufen sollen, irgendwann verloren wir diese aber oder sind fälschlicherweise Schafspfaden gefolgt.
 Zudem gab es eine Kreuzung vor der Eldgja, an der wir eigentlich nach Norden abbiegen wollten.
 Ohne Wanderweg haben wir aber diese Kreuzung natürlich verpasst und sind zu weit gelaufen, was wir aber auch erst am Abend festgestellt haben.
 
@@ -75,15 +79,18 @@ Unsere nassen Hosen, Schuhe und Jacken konnten wir aber nicht wirklich aufhänge
 {{< smallDate "2018-07-27" >}}
 
 Der nächste Morgen sah nicht besser aus.
-Der dritte Regentag in Folge, die Stimmung war ziemlich im Keller.
+Der dritte Regentag in Folge, die Stimmung war also ziemlich im Keller.
 
 Dennoch ging es weiter und direkt nach dem Frühstück stand eine Furt an.
+Suuuper.
 Also bei Regen und immer noch nasser Kleidung ab durchs kalte Wasser.
 
 {{< imgScale "DSC00775_1600.JPG" "Blick zurück, im Hintergrund sieht man die Sydri-Ofaera." "500x" >}}
 
-Mit relativ schlechter Laune sind wir auf Schaafspfaden dann weiter entlang des Flusses, den wir soeben durchquert haben.
+Mit relativ schlechter Laune sind wir auf Schafspfaden dann weiter entlang des Flusses, den wir soeben durchquert haben.
 Nach kurzer Zeit haben wir dann an eine Autofurt der F233 durch die Sydri-Ofaera gefunden.
+
+## Es werde Licht
 
 Dort änderte sich das Wetter binnen weniger Minuten von 5°C Regen in 20°C Sonnenschein.
 Bei einer Pause an der Furt haben wir schnell all unsere nassen Sachen an unsere Rucksäcke gehängt.
@@ -96,7 +103,9 @@ Wir konnten zudem den Unterschied beim Furten zwischen Touristen und Einheimisch
 Langes überlegen, zögern, besprechen, zusammen erneut etwas ratloser überlegen und dann abbrechen oder auf gut Glück durch fahren.
 
 **Einheimische:**\
-Frau steigt aus, zieht sich die Hose aus, läuft in den Fluss (Wasser geht bis zur Hüfte), geht etwas umher, geht zurück zum Auto und ab gehts an der geeignetsten Stelle durch den Fluss.
+Frau steigt aus, zieht sich die Hose aus, läuft in den Fluss (Wasser geht ca. bis zum Schritt), geht etwas umher, geht zurück zum Auto und ab gehts an der geeignetsten Stelle durch den Fluss.
+
+## Erneut durch die Eldgja
 
 Der F233 sind wir auch erst mal etwas gefolgt bis wir dann auf einen Wanderweg in der Nähe gewechselt sind.
 Dem Weg folgten wir dann bis in die Eldgja hinein.
@@ -125,6 +134,8 @@ Das campen in der Eldgja ist nicht erlaubt, uns bliebt aber nichts anderes übri
 Um nicht entdeckt zu werden haben wir den Wecker auf 5 Uhr morgens gestellt und sich um 6 Uhr dann los.
 Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf Nummer sicher gehen.
 
+## Das Ende der Schlucht
+
 Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn Pflöcke.
 Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
 Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser hellen hölzernen Pflöcke gefunden.
@@ -132,61 +143,95 @@ Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser hellen h
 Der Wanderweg aus der Schlucht heraus ist sehr steil, besteht nur aus Sand und ist keineswegs befestigt.
 Durch den Nebel konnten wir irgendwann weder den Buden der Schlucht noch die obere Kante sehen.
 
-// TODO Bild
+{{< imgScale "DSC00817_1600.JPG" "Am Ende vom Pfad erkennt man gerade noch so einen Pflock mit gelber Markierung." "500x" >}}
 
 Nach ca. einer halben Stunde kamen wir dann aber oben an und haben uns erst mal eine Pause gegönnt.
 
-// TODO Bild
+{{< imgScale "DSC00835_1600.JPG" "Kante zur Eldgja. Von rechts sind wir rauf gekommen." "500x" >}}
+
+## Ab zur Hütte
 
 Danach ging es weiter in Richtung der Hütte Skaelingar.
 Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder was sehen.
 Es war zwar kein Wanderweg erkennbar, aber immerhin gab es die Pflöcke, welche uns an ein paar Bäche führte, die wir furten mussten.
 
-Zwischendrin fanden wir den Kadaver eines Schaafes, welcher sehr zerpflückt aussah.
-Es gibt auf Island aber keine größeren Tiere, die Schaafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben ist.
+Allerdings: Helles Holz mit gelber Markierung auf gelb-grünem hellen Moos.
+Es darf ja auch nicht zu leicht sein!
+
+Zwischen drin fanden wir den Kadaver eines Schafs, welcher sehr zerpflückt aussah.
+Es gibt auf Island aber keine größeren Tiere, die Schafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben ist.
 
 Nach einigen weiteren Furten erreichten wir die Hütte, die sehr nah an der Skafta liegt.
 Die Hütte gehört dem Verein Utivist und ist per se für alle geöffnet.
 Man kann sie allerdings auch mieten/reservieren und dann haben natürlich die Mieter Vorrang.
 
-// TODO Bild
+{{< imgScale "DSC00862_1600.JPG" "Die Skaelingar-Hütte vom Eingang aus." "500x" >}}
+{{< imgScale "DSC00864_1600.JPG" "Sogar eine Koch-Ecke gibt es." "500x" >}}
 
 Im Schutze der Hütte hat sich Kristina den Luxus gegönnt ihre Haare zu waschen, wir haben also warmes Wasser gemacht und so sparsam wie möglich ihre Haare gewaschen.
+In jeder Hütte liegt ein Hüttenbuch, in das man sich **unbedingt eintragen** sollte!
+Warum erfahrt ihr in einem der nächsten Teile dieser Serie ;)
 
+{{< imgScale "DSC00866_1600.JPG" "Etwas unbeholfen haben wir uns ins Hüttenbuch eingetragen." "500x" >}}
 
+Nach pappigem Kartoffelpüree, welches wir notdürftig mit Nüssen und Hartkäse "verfeinert" haben um überhaupt Geschmack zu bekommen, ging es dann auch ins Bett.
+Jaja, dieses mal ein richtiges, trockenes Bett.
 
+# Tag 12: Skaelingar Hütte → Sveinstindur Nothütte
+{{< smallDate "2018-07-29" >}}
 
+Als wir am morgen ausgeschlafen aufgewacht sind, haben wir am Fenster der Hütte drei sehr große Raben gesehen.
+In dem Moment wussten wir auch, was wahrscheinlich das Schaf vom Vortag erlegt hat.
 
+Nach einem guten Frühstück ging es recht spät (ca. 11:30) weiter bei windigem Wetter in Richtung Sveinstindur.
+Dort war auf unserer Karte erneut eine Hütte eingetragen, bei der wir wieder übernachten wollten.
 
+{{< imgScale "DSC00869_1600.JPG" "Nochmal die Hütte von außen." "500x" >}}
 
+## Nebel ... erneut ...
 
+Als wir nach kurzer Zeit auf einer sehr selten benutzten Piste einen Hügelkamm hoch gingen wurde es erneut nebelig (stellenweise ca. 20 Meter Sicht).
+Wir waren zwar auf der richtigen Piste, mussten aber den Moment abpassen an dem sie eine Linkskurve nach Westen einschlägt.
+Wir haben also irgendwann unseren Kompass raus geholt um zu prüfen ob wir noch nach Norden oder bereits nach Westen laufen.
 
+Irgendwann sahen wir aus dem Neben einen Wegweise auftauchen und wir wussten, dass wir hier die Piste verlassen mussten.
+Genau in dem Moment verschwand binnen kürzester Zeit der Nebel und wir hatten freie Sicht über die Landschaft.
 
+{{< imgScale "DSC00876_1600.JPG" "Die Autos müssen nach Links, für uns ging es aber weiter geradeaus. Aufnahmezeitpunkt 15:32." "500x" >}}
+{{< imgScale "DSC00877_1600.JPG" "Gleiche Stelle, Aufnahmezeitpunkt 15:34." "500x" >}}
+{{< imgScale "DSC00895_1600.JPG" "Großartige Sicht über die Landschaft mit vorbei ziehenden Wolken." "500x" >}}
 
+Der Nebel war in Wirklichkeit also eine tief hängende Wolke, die nun vorbei gezogen ist.
+An der Stelle machten wir auch erst mal Pause und schauten uns die Landschaft an. Wir konnten sogar schon den Uxatindar sehen, drei markante Gipfel, um die wir herum mussten.
 
+{{< imgScale "DSC00902_1600.JPG" "Der Uxatindar" "500x" >}}
 
+## Entlang der Skafta zur Nothütte
 
+Westlich um den Uxatindar herum gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
+Unten angekommen standen wir vor einem See, der etwas über die Ufer getreten war, somit stand der Wanderweg unter Wasser.
+Am Ufer entlang ging es dann auf die andere Seite, wo es nach einer Pause direkt wieder bergauf ging.
+Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skafta.
 
+{{< imgScale "DSC00924_1600.JPG" "Die Skafta Richtung Süden, rechts der Hang vom Uxatindar." "500x" >}}
 
+Der Wind wurde ab hier immer stärker und es begann richtig anstrengend zu werden gegen ihn an zu laufen.
+Manchmal kamen so starke Böen, dass wir einfach umgeweht wurden.
+Schließlich ging es wieder etwas hinab zur Skafta auf eine art Plateau über das die Skafta ohne erkennbares Flussbett floss.
 
+{{< imgScale "DSC00937_1600.JPG" "Die Skafta" "500x" >}}
 
+Nach einer kurzen letzten Etappe kamen wir dann an der Nothütte an.
+Ausgestattet war sie mit dem aller nötigsten: Ein Gaskocher, etwas Geschirr, ein paar Suppen, zwei simple Betten, ein Tisch, zwei Stühle.
+Fertig.
+Da wir bei dem Wind unser Zelt kaum hätten aufbauen können, waren wir über die Hütte sehr froh.
 
+{{< imgScale "DSC00938_1600.JPG" "Die Nothütte bei Sveinstindur." "500x" >}}
 
+# Fortsetzung folgt ...
+Ich hoffe dir haben der Bericht und die Bilder gefallen.
+Der nächste Teil kommt dann auch bald ;)
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+{{< note >}}
+**Nächster Teil:** Teil 4 (coming soon ...)
+{{< /note >}}
