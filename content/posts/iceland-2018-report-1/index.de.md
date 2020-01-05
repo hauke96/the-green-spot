@@ -202,7 +202,7 @@ Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten 
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "Hier nochmal der erste Teil unserer Route mit den ersten beiden Camps." "500x" >}}
 
-# Fortsetzung folgt ...
+# Fortsetzung (Teil 2)
 Ich hoffe dir hat der erste Teil des Berichtes gefallen.
 Wir waren 24 Tage unterwegs, als werden wohl noch so einige folgen.
 Ich verspreche aber, dass es nicht langweilig wird, eher im Gegenteil ;)

@@ -199,7 +199,7 @@ Nevertheless, we let the water stand over night so the contained solids could se
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "Here again the first part of our hike with the two camps." "500x" >}}
 
-# To be continued ...
+# Next report (part 2)
 I hope you enjoyed this first part of our reports.
 We were 24 days in Iceland, so there will be a lot of reports.
 But I promise to you, it won't get boring ;)

@@ -237,10 +237,9 @@ Therefore there are no fishes anymore in the Hólmsárlón lake.
 Although there're no fish in the lake, we camped directly at the water and washed us and our clothes.
 Clearly the water was way to old to swim.
 
-# To be continued ...
-I hope you like this report and photos.
-The next part is coming coon ;)
+# Next report (part 3)
+I hope you liked this report and the photos.
 
 {{< note >}}
-**Next part:** part 3 (coming soon...)
+**Next part:** [part 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}

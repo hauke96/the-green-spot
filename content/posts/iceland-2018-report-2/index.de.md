@@ -235,9 +235,8 @@ Durch den Mangel an natürlichen Feinden, die die Population kontrollieren, und 
 Auch ohne frischen Fisch haben wir unser Lager direkt am See aufgeschlagen und uns im See gewaschen.
 Zum baden oder schwimmen war er uns eindeutig zu kalt.
 
-# Fortsetzung folgt ...
+# Fortsetzung (Teil 3)
 Ich hoffe dir haben der Bericht und die Bilder gefallen.
-Der nächste Teil kommt dann auch bald ;)
 
 {{< note >}}
 **Nächster Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
