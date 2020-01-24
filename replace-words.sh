@@ -33,6 +33,7 @@ re[Skaelingar]=Skælingar
 re[Reykjavik]=Reykjavík
 #re[Sandar]=
 #re[Seljalandsfoss]=
+re[Skafta]=Skaftá
 re[Slettjökull]=Sléttjökull
 re[Strutslaug]=Strútslaug
 re[Strutsskali]=Strútsskáli

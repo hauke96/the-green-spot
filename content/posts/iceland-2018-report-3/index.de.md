@@ -137,7 +137,7 @@ Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf 
 
 ## Das Ende der Schlucht
 
-Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn Pflöcke.
+Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn hölzerne Pflöcke.
 Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
 Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser hellen hölzernen Pflöcke gefunden.
 
@@ -154,38 +154,41 @@ Nach ca. einer halben Stunde kamen wir dann aber oben an und haben uns erst mal 
 
 Danach ging es weiter in Richtung der Hütte Skælingar.
 Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder was sehen.
-Es war zwar kein Wanderweg erkennbar, aber immerhin gab es die Pflöcke, welche uns an ein paar Bäche führte, die wir furten mussten.
+Es war zwar kein Wanderweg erkennbar, aber immerhin gab es einzelne Pflöcke, welche uns an ein paar Bäche führten, die wir furten mussten.
 
-Allerdings: Helles Holz mit gelber Markierung auf gelb-grünem hellen Moos.
-Es darf ja auch nicht zu leicht sein!
+Allerdings: Helles Holz mit gelber Markierung auf gelb-grünem hellen Moos ist nicht sonderlich gut sichtbar.
+Es darf aber ja auch nicht zu leicht sein!
 
 Zwischen drin fanden wir den Kadaver eines Schafs, welcher sehr zerpflückt aussah.
-Es gibt auf Island aber keine größeren Tiere, die Schafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben ist.
+Es gibt auf Island aber keine größeren Tiere, die Schafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben sein könnte.
 
-Nach einigen weiteren Furten erreichten wir die Hütte, die sehr nah an der Skafta liegt.
+Nach einigen weiteren Furten erreichten wir die Hütte, die sehr nah an der Skaftá liegt.
 Die Hütte gehört dem Verein Útivist und ist per se für alle geöffnet.
 Man kann sie allerdings auch mieten/reservieren und dann haben natürlich die Mieter Vorrang.
 
 {{< imgScale "DSC00862_1600.JPG" "Die Skælingar-Hütte vom Eingang aus." "500x" >}}
 {{< imgScale "DSC00864_1600.JPG" "Sogar eine Koch-Ecke gibt es." "500x" >}}
 
-Im Schutze der Hütte hat sich Kristina den Luxus gegönnt ihre Haare zu waschen, wir haben also warmes Wasser gemacht und so sparsam wie möglich ihre Haare gewaschen.
+Im Schutze der Hütte hat sich Kristina den Luxus gegönnt ihre Haare zu waschen, wir haben also warmes Wasser gemacht und so sparsam wie möglich ihre langen Haare gewaschen.
+Da wir nichts zum bezahlen dabei hatten, haben wir auch kein Equipment (wie z.B. den Gas-Herd) der Hütte genutzt.
+
 In jeder Hütte liegt ein Hüttenbuch, in das man sich **unbedingt eintragen** sollte!
 Warum erfahrt ihr in einem der nächsten Teile dieser Serie ;)
 
 {{< imgScale "DSC00866_1600.JPG" "Etwas unbeholfen haben wir uns ins Hüttenbuch eingetragen." "500x" >}}
 
 Nach pappigem Kartoffelpüree, welches wir notdürftig mit Nüssen und Hartkäse "verfeinert" haben um überhaupt Geschmack zu bekommen, ging es dann auch ins Bett.
-Jaja, dieses mal ein richtiges, trockenes Bett.
+Dieses mal sogar ein richtiges, trockenes Bett.
 
 # Tag 12: Skælingar Hütte → Sveinstindur Nothütte
 {{< smallDate "2018-07-29" >}}
 
 Als wir am morgen ausgeschlafen aufgewacht sind, haben wir am Fenster der Hütte drei sehr große Raben gesehen.
-In dem Moment wussten wir auch, was wahrscheinlich das Schaf vom Vortag erlegt hat.
+Diese können gut und gerne mal über 60cm groß werden.
+In dem Moment wussten wir auch, was wahrscheinlich das Schaf vom Vortag erlegt oder zumindest verspeist hat.
 
 Nach einem guten Frühstück ging es recht spät (ca. 11:30) weiter bei windigem Wetter in Richtung Sveinstindur.
-Dort war auf unserer Karte erneut eine Hütte eingetragen, bei der wir wieder übernachten wollten.
+Dort war auf unserer Karte erneut eine Hütte eingetragen, in der wir wieder übernachten wollten.
 
 {{< imgScale "DSC00869_1600.JPG" "Nochmal die Hütte von außen." "500x" >}}
 
@@ -195,7 +198,7 @@ Als wir nach kurzer Zeit auf einer sehr selten benutzten Piste einen Hügelkamm 
 Wir waren zwar auf der richtigen Piste, mussten aber den Moment abpassen an dem sie eine Linkskurve nach Westen einschlägt.
 Wir haben also irgendwann unseren Kompass raus geholt um zu prüfen ob wir noch nach Norden oder bereits nach Westen laufen.
 
-Irgendwann sahen wir aus dem Neben einen Wegweise auftauchen und wir wussten, dass wir hier die Piste verlassen mussten.
+Irgendwann sahen wir aus dem Nebel einen Wegweise auftauchen und wir wussten, dass wir hier die Piste verlassen mussten.
 Genau in dem Moment verschwand binnen kürzester Zeit der Nebel und wir hatten freie Sicht über die Landschaft.
 
 {{< imgScale "DSC00876_1600.JPG" "Die Autos müssen nach Links, für uns ging es aber weiter geradeaus. Aufnahmezeitpunkt 15:32." "500x" >}}
@@ -207,20 +210,20 @@ An der Stelle machten wir auch erst mal Pause und schauten uns die Landschaft an
 
 {{< imgScale "DSC00902_1600.JPG" "Der Uxatindar" "500x" >}}
 
-## Entlang der Skafta zur Nothütte
+## Entlang der Skaftá zur Nothütte
 
 Westlich um den Uxatindar herum gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
 Unten angekommen standen wir vor einem See, der etwas über die Ufer getreten war, somit stand der Wanderweg unter Wasser.
 Am Ufer entlang ging es dann auf die andere Seite, wo es nach einer Pause direkt wieder bergauf ging.
-Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skafta.
+Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skaftá.
 
-{{< imgScale "DSC00924_1600.JPG" "Die Skafta Richtung Süden, rechts der Hang vom Uxatindar." "500x" >}}
+{{< imgScale "DSC00924_1600.JPG" "Die Skaftá Richtung Süden, rechts der Hang vom Uxatindar." "500x" >}}
 
 Der Wind wurde ab hier immer stärker und es begann richtig anstrengend zu werden gegen ihn an zu laufen.
 Manchmal kamen so starke Böen, dass wir einfach umgeweht wurden.
-Schließlich ging es wieder etwas hinab zur Skafta auf eine art Plateau über das die Skafta ohne erkennbares Flussbett floss.
+Schließlich ging es wieder etwas hinab zur Skaftá auf eine art Plateau über das die Skaftá ohne erkennbares Flussbett floss.
 
-{{< imgScale "DSC00937_1600.JPG" "Die Skafta" "500x" >}}
+{{< imgScale "DSC00937_1600.JPG" "Die Skaftá" "500x" >}}
 
 Nach einer kurzen letzten Etappe kamen wir dann an der Nothütte an.
 Ausgestattet war sie mit dem aller nötigsten: Ein Gaskocher, etwas Geschirr, ein paar Suppen, zwei simple Betten, ein Tisch, zwei Stühle.
