@@ -26,9 +26,9 @@ re[Langisjor]=Langisjór
 re[Maelifell]=Mælifell
 re[Maelifellsandur]=Mælifellsandur
 re[Markarfljöt]=Markarfljót
-re[Ofaerufoss]=Ofaerusofoss # TODO
-re[Sydri-Ofaera]=Sydri-Ofaera # TODO
-re[Skaelingar]=Skaelingar # TODO
+re[Ofaerufoss]=Ófærufoss
+re[Sydri-Ofaera]=Syðri–Ófæra
+re[Skaelingar]=Skælingar
 re[Reykjavik]=Reykjavík
 #re[Sandar]=
 #re[Seljalandsfoss]=
@@ -36,7 +36,7 @@ re[Slettjökull]=Sléttjökull
 re[Strutsskali]=Strútsskáli
 re[Strutur]=Strútur
 re[Thorsmörk]=Þórsmörk
-re[Utivist]=Utivist # TODO
+re[Utivist]=Útivist
 
 for i in $(find ./content -type f -iname '*.md')
 do
