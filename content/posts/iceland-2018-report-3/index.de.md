@@ -32,7 +32,7 @@ Einmal mussten wir dann doch über eine kleine Landzunge klettern, ansonsten kon
 ## Das Flussdelta Hólmsárbotnar
 
 Nach ca. drei Stunden waren wir auf der anderen Seite des Sees, wo viele Bäche und kleine Flüsse ihn speisen.
-Dort bilden sie alle zusammen ein großes Delta (ca. 2x2km groß). über das wir einmal komplett überqueren mussten.
+Dort bilden sie alle zusammen ein großes Delta (ca. 2 km² groß) über das wir einmal komplett überqueren mussten.
 Schon am Hólmsárlón fing es an zu regnen und der Wind wurde stärker, sodass das laufen durch kalte Bäche und sumpfiges Gelände gleich doppelt Spaß machte.
 
 {{< imgScale "DSC00769_1600.JPG" "Bäche, Schlamm, Treibsand und viel viel Wasser erwarten einen am nördlichen Ende vom Hólmsárlón." "500x" >}}
@@ -49,7 +49,7 @@ Die Temperatur war wirklich sehr warm und entspannte sehr, vor allem weil Regen 
 
 Der Ausstieg war umso kälter und im Regen haben wir uns "abgetrocknet" und unsere Sachen wieder angezogen.
 Da wir nicht groß weiter laufen wollten und es schon Abend war, haben wir das Zelt am Fluss Hólmsá nördlich der heißen Quelle aufgeschlagen und unsere nassen Badesachen im Zelt zum trocknen aufgehangen.
-Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose.
+Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose -- Gewicht sparen inden man sie gar nicht erst mit nimmt.
 
 # Tag 9: Strútslaug → Syðri–Ófæra
 {{< smallDate "2018-07-26" >}}
@@ -58,8 +58,8 @@ Der nächste Tag war der einzige der ganzen Reise an dem ich kein einziges Bild 
 Es hat den ganzen Tag konstant und stark geregnet, zudem sind wir durch teilweise dichten Nebel gelaufen.
 Man sagt zwar, dass Regen und Nebel nicht zusammen auftreten, aber Thor sieht das wohl anders ;)
 
-Die genaue Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Nord-Osten und dann nach Süd-Osten.
-Zunächst zwischen Syðri–Ófæra und Svartahnúksfjöll entlang und später durch die Eldgjá (weltgrößte Vulkanschlucht), was wir allerdings gar nicht bemerkt haben.
+Die genaue Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Nord-Osten und dann nach Osten.
+Zunächst zwischen dem Fluss Syðri–Ófæra und dem Plateau Svartahnúksfjöll entlang und später durch die Eldgjá (weltgrößte Vulkanschlucht), was wir allerdings gar nicht bemerkt haben.
 
 Eigentlich hätten wir die ganze Zeit auf Wanderwegen laufen sollen, irgendwann verloren wir diese aber oder sind fälschlicherweise Schafspfaden gefolgt.
 Zudem gab es eine Kreuzung vor der Eldgjá, an der wir eigentlich nach Norden abbiegen wollten.
@@ -89,7 +89,7 @@ Also bei Regen und immer noch nasser Kleidung ab durchs kalte Wasser.
 {{< imgScale "DSC00775_1600.JPG" "Blick zurück, im Hintergrund sieht man die Syðri–Ófæra." "500x" >}}
 
 Mit relativ schlechter Laune sind wir auf Schafspfaden dann weiter entlang des Flusses gewandert, den wir soeben durchquert haben.
-Nach kurzer Zeit haben wir dann an eine Autofurt der F233 durch die Syðri–Ófæra gefunden.
+Nach kurzer Zeit haben wir dann an eine Autofurt der F233 durch die Syðri–Ófæra gefunden, aber glücklicherweise waren wir schon auf der richtigen Flussseite.
 
 ## Es werde Licht
 
@@ -109,12 +109,12 @@ Frau steigt aus, zieht sich die Hose aus, läuft in den Fluss (Wasser geht ca. b
 ## Erneut durch die Eldgjá
 
 Der F233 sind wir auch erst mal etwas gefolgt bis wir dann auf einen Wanderweg in der Nähe gewechselt sind.
-Dem Weg folgten wir dann entlang Eldgjá zum Ófærufoss.
+Dem Weg folgten wir dann entlang Eldgjá zum Wasserfall Ófærufoss.
 
 {{< imgScale "DSC00800_1600.JPG" "Eine Brücke zeigt: Wir nähern uns einer touristischen Attraktion. Die Schlucht im Hintergrund ist Teil der Eldgjá." "500x" >}}
 
 Bald landeten wir auf der F223, welche in die Eldgjá und zum Ófærufoss führt.
-An einem großen Parkplatz samt Toiletten, Infohäuschen und Bänken ging es dann nur noch zu Fuß auf einem gepflegten Wanderweg weiter.
+Am Ende der F223 ist ein großer Parkplatz samt Toiletten, Infohäuschen und Bänken ging es dann nur noch zu Fuß auf einem gepflegten Wanderweg weiter.
 
 Beim Wasserfall angekommen waren wir fast alleine, nur ein Vater mit seinem Sohn war auch dort.
 
@@ -139,7 +139,7 @@ Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf 
 
 Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn hölzerne Pflöcke.
 Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
-Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser hellen hölzernen Pflöcke gefunden.
+Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser gelb angemalten hölzernen Pflöcke gefunden.
 
 Der Wanderweg aus der Schlucht heraus ist sehr steil, besteht nur aus Sand und ist keineswegs befestigt.
 Durch den Nebel konnten wir irgendwann weder den Buden der Schlucht noch die obere Kante sehen.
@@ -152,7 +152,7 @@ Nach ca. einer halben Stunde kamen wir dann aber oben an und haben uns erst mal 
 
 ## Ab zur Hütte
 
-Danach ging es weiter in Richtung der Hütte Skælingar.
+Danach ging es weiter in Richtung der Hütte Skælingar am Fluss Skaftá.
 Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder was sehen.
 Es war zwar kein Wanderweg erkennbar, aber immerhin gab es einzelne Pflöcke, welche uns an ein paar Bäche führten, die wir furten mussten.
 
@@ -206,13 +206,14 @@ Genau in dem Moment verschwand binnen kürzester Zeit der Nebel und wir hatten f
 {{< imgScale "DSC00895_1600.JPG" "Großartige Sicht über die Landschaft mit vorbei ziehenden Wolken." "500x" >}}
 
 Der Nebel war in Wirklichkeit also eine tief hängende Wolke, die nun vorbei gezogen ist.
-An der Stelle machten wir auch erst mal Pause und schauten uns die Landschaft an. Wir konnten sogar schon den Uxatindar sehen, drei markante Gipfel, um die wir herum mussten.
+An der Stelle machten wir auch erst mal Pause und schauten uns die Landschaft an.
+Wir konnten sogar schon den Uxatindar sehen, drei markante Gipfel, um die wir herum mussten.
 
 {{< imgScale "DSC00902_1600.JPG" "Der Uxatindar" "500x" >}}
 
 ## Entlang der Skaftá zur Nothütte
 
-Westlich um den Uxatindar herum gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
+Westlich um den Uxatindar herum (östlich kann man wahrscheinlich nicht entlang, da ist direkt die Skaftá) gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
 Unten angekommen standen wir vor einem See, der etwas über die Ufer getreten war, somit stand der Wanderweg unter Wasser.
 Am Ufer entlang ging es dann auf die andere Seite, wo es nach einer Pause direkt wieder bergauf ging.
 Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skaftá.
