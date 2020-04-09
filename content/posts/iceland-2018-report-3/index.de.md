@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Island 2018: Reisebericht (Teil 3)"
-summary = ""
-date = 2019-12-15T21:10:49+01:00
+summary = "Begleitet von Regen, Nebel und Wind ging es durch die weltgrößte Vulkanschlucht Eldgjá und entlang des Flusses Skaftá nach Norden."
+date = "2020-04-09T21:34:30+02:00"
 tags = ["island-2018"]
 author = "hauke"
 +++
@@ -18,11 +17,11 @@ author = "hauke"
 Nach der einen Nacht am Hólmsárlón hatten wir am nächsten Morgen drei Optionen:
 
 1. Ein Stück zurück laufen und den Fluss Hólmsá furten, der am See entspringt.
-2. Den Hügel, den wir am Tag zuvor herunter gekommen sind, wieder rauf laufen und oben am See entlang gehen. Den Höhenlinien auf unserer Karte zu urteilen, kämen wir dann aber am anderen Ende vom See nicht mehr herunter.
+2. Den Hügel, den wir am Tag zuvor herunter gekommen sind, wieder rauf laufen und oben am See entlang gehen. Den Höhenlinien auf unserer Karte nach zu urteilen, kämen wir dann aber am anderen Ende vom See nicht mehr herunter.
 3. Unten am See weiter laufen, allerdings wurde das Ufer in der Nähe bereits deutlich schmaler
 
-Wir entschieden uns für die dritte Option unten direkt am See weiter zu gehen.
-Wie wir unserer [Planung der Reise]({{< ref "posts/iceland-2018-preparation" >}}) noch wissen, ist es gut sich bei Entscheidungen Alternativen heraus zu suchen.
+Wir entschieden uns für die dritte Option direkt unten am See weiter zu gehen.
+Wie wir aus dem [Artikel über Reisevorbereitungen]({{< ref "posts/iceland-2018-preparation" >}}) noch wissen, ist es gut sich bei Entscheidungen Alternativen heraus zu suchen.
 Das haben wir vor Ort gemacht und erst mal die angenehmste Option gewählt.
 
 {{< imgScale "DSC00764_1600.JPG" "Das Ufer von Hólmsárlón wurde sehr schnell sehr schmal, teilweise mussten wird ein Stück durchs Wasser." "500x" >}}
@@ -31,9 +30,9 @@ Einmal mussten wir dann doch über eine kleine Landzunge klettern, ansonsten kon
 
 ## Das Flussdelta Hólmsárbotnar
 
-Nach ca. drei Stunden waren wir auf der anderen Seite des Sees, wo viele Bäche und kleine Flüsse ihn speisen.
-Dort bilden sie alle zusammen ein großes Delta (ca. 2 km² groß) über das wir einmal komplett überqueren mussten.
-Schon am Hólmsárlón fing es an zu regnen und der Wind wurde stärker, sodass das laufen durch kalte Bäche und sumpfiges Gelände gleich doppelt Spaß machte.
+Nach ca. drei Stunden waren wir auf der anderen Seite des Sees, wo viele Bäche und kleine Flüsse ihn speisten.
+Dort bildeten sie alle zusammen ein großes Delta (ca. 2 km² groß), das wir einmal komplett überqueren mussten.
+Schon am Hólmsárlón fing es zu regnen an und der Wind wurde stärker, sodass das Laufen durch kalte Bäche und sumpfiges Gelände gleich doppelt Spaß machte.
 
 {{< imgScale "DSC00769_1600.JPG" "Bäche, Schlamm, Treibsand und viel viel Wasser erwarten einen am nördlichen Ende vom Hólmsárlón." "500x" >}}
 
@@ -44,7 +43,7 @@ Nach ca. einer weiteren Stunde erreichten wir die andere Seite des Deltas, wo di
 Wir waren dort tatsächlich nicht alleine, eine amerikanische Familie mit einem isländischen Reisebegleiter kam gerade aus dem schlammigen und sehr warmen Wasser.
 Der Reiseführer konnte sogar recht gut Deutsch und wir haben uns kurz unterhalten.
 
-Nachdem die Familie samt Begleiter auf den Rückweg zum Campingplatz (vermutlich Strútur) gemacht hat, haben wir die Badesachen rausgeholt und sind ins herrlich warme Wasser getaucht.
+Nachdem die Familie samt Begleiter auf den Rückweg zum Campingplatz (vermutlich Strútur) gemacht hat, haben wir die Badesachen raus geholt und sind ins herrlich warme Wasser gestiegen.
 Die Temperatur war wirklich sehr warm und entspannte sehr, vor allem weil Regen und Wind zunahmen und man trotzdem im Warmen lag.
 
 Der Ausstieg war umso kälter und im Regen haben wir uns "abgetrocknet" und unsere Sachen wieder angezogen.

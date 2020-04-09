@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Iceland 2018: Travel report (part 3)"
-summary = ""
-date = 2019-12-15T21:10:49+01:00
+summary = "Accompanied by rain, fog and wind, we went on through the worlds largest volcanic rift Eldgjá and along the river Skaftá heading north."
+date = "2020-04-09T21:34:30+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
 +++
@@ -22,26 +21,26 @@ After one night at the Hólmsárlón, we had three options on the next day:
 3. Follow the shore or the lake which looked quite challenging.
 
 We decided to try the third option and walked directly next to the water.
-As we discussed in out article about [travel preparations]({{< ref "posts/iceland-2018-preparation" >}}), we had three alternatives here, so we first chose the most comfortable option.
+As we discussed in out [article about travel preparations]({{< ref "posts/iceland-2018-preparation" >}}), we searched for alternatives and choosed the most comfortable one.
 
-{{< imgScale "DSC00764_1600.JPG" "The shore of the Hólmsárlón became small very quickly, we even had to go through the water sometimes." "500x" >}}
+{{< imgScale "DSC00764_1600.JPG" "The shore of the Hólmsárlón became small very quickly, sometimes we even had to go through the water." "500x" >}}
 
 After some time we had to climb over a small cliff going into the lake.
 But apart from that, we were able to walk along the lake the whole time.
 
 ## The river delta Hólmsárbotnar
 
-After approx. three hours we reached the other side (the norhtest part) of the lake where a lot of smaller and larger streams and rivers flowed into the lake.
-They all together formed a huge river delta (approx 2 km² / 1.2 mi² large) we had to cross.
+After approx. three hours we reached the other side (the northern part) of the lake where a lot of smaller and larger streams and rivers flowed into the lake.
+They all together formed a huge river delta we had to cross (approx 2 km² / 1.2 mi² large).
 Shortly after we reached the delta, it began to rain and it was getting stronger as we crossed the cold streams and the swampy terrain.
 
-{{< imgScale "DSC00769_1600.JPG" "Streams, mud, quicksand and alot of water are waiting on the northern end of the Hólmsárlón." "500x" >}}
+{{< imgScale "DSC00769_1600.JPG" "Streams, mud, quicksand and a lot of water are waiting on the northern end of the Hólmsárlón." "500x" >}}
 
 After an hours, we reached the other side of the delta, where the hot spring Strútslaug was waiting for us.
 
 ## The hot bath
 
-At the Strútslaug we werent alone, a family from the USA was guided by an icelandig tour guide to this beautiful place and they just came out of the warm water.
+At the Strútslaug we weren't alone, a family from the USA was brought by an Icelandic tour guide to this beautiful place and they just came out of the warm water.
 The tour guide even spoke very fluent German and we had a little chat.
 
 After the family left to probably go back to the Strútur campsite, we put on our swimsuits and also took a bath in the wonderfully warm water.
@@ -49,89 +48,89 @@ The temperature was really warm and very relaxing, especially because of the rai
 
 Going out of the water after some time was not so nice and we tried to "dry" ourselves as good as possible.
 We didn't want to hike much longer so we decided to build our camp a bit further north near the river Hólmsá and tried to dry our wet swimsuits.
-My "swimsuit" was by the way just by underwear -- saving weight by not taking swimming trunks/swimsuits with you.
+My "swimsuit" was by the way just my underpants -- save some weight by not taking swimming trunks/swimsuits with you.
 
 # Tag 9: Strútslaug → Syðri–Ófæra
 {{< smallDate "2018-07-26" >}}
 
-The next day was the only day where I took not a single photo and that had a reason:
+The next day was the only day where I haven't made a single photo and that had a reason:
 It was constantly raining the whole day long and additionally we had a lot of fog.
-Although they say that rain and fog never appears together, but Thor has a different opinion on that ;)
+Although they say that rain and fog never appears together, Thor has a different opinion on that ;)
 
-This had another effect: We have no idea where exactly we went but definitely first north-east and then east.
-First between the river Syðri–Ófæra and the plateau Svartahnúksfjöll and later through the Eldgjá (world largest vulcanic rift), which we havenÄt noticed.
+This had another effect: We have no idea where exactly we went but approximately a few kilometers north-east and then east.
+First between the river Syðri–Ófæra and the plateau Svartahnúksfjöll and later we crossed the southern end of the Eldgjá (world largest volcanic rift), which we haven't noticed.
 
 Actually, we should have been walking on hiking trails the whole time, but we lost them and maybe followed some sheep paths.
 Also we expected to come along a crossing shortly before entering the Eldgjá where we wanted to go north, but: No trail, no crossing.
-So we missed it and went too far to the east heading to the F233, which we only notices in the evening.
+So we missed it and went too far to the east heading towards the F233, which we only notices in the evening.
 
-Because it was raining the whole day, our rain gear was not water proof enough and everything got wet -- down to our skin.
-Even our hiking shoes and socks were wet inside.
+Because it was raining the whole day, our rain gear was not water proof enough for this amount of water and everything became wet -- down to our skin.
+Even our hiking shoes and socks were wet from the inside inside.
 
-I constantly collected water on my elbow (because I used hiking poles) and I was able to pur out the water through my sleeves.
+I constantly collected water on my elbow (because I used hiking poles) and I was able to pour out the water through my sleeves.
 
 After finding a piste leading to a ford through the Syðri–Ófæra, we build up our camp at that ford.
-In the evening, we took on some dry and -- again -- tried to dry our wet clothes but were not able to dry our wet trousers and jackets.
+In the evening, we took on some dry clothes and -- again -- tried to dry our wet clothes but we had no space to dry our wet trousers and jackets.
 
 {{< imgScale "DSC00774_1600.JPG" "Still wet on the next day: Our wet clothes on our \"laundry line\"." "500x" >}}
 
 # Tag 10: Syðri–Ófæra → Eldgjá
 {{< smallDate "2018-07-27" >}}
 
-The next morning looked the same as the day before.
+The next morning looked as bad as the day before.
 This was the third day with constant rain and our mood was at rock bottom.
 
 Nevertheless, we had to move on and after the breakfast, we crossed that ford.
 Reeeeeally great.
-Going into wet clothes during rain and directly ford an ice cold river.
+Going into wet clothes and directly ford an ice cold river during rain.
 
 {{< imgScale "DSC00775_1600.JPG" "Looking back, in the background you can see the Syðri–Ófæra." "500x" >}}
 
 With relatively bad mood, we went on following some sheep paths along the river.
 After some time we reached the F233 road at a ford through the Syðri–Ófæra but luckily we already were on the right river side.
 
-## It was light
+## And it was light
 
-Suddenly the weather changed completely from 5°C / 41°F into sunshine with 20°C / 68°F.
+Suddenly the weather changed completely from rain with 5°C / 41°F into sunshine with 20°C / 68°F.
 We made a break at the ford and tied all our wet clothes to the outside of our backpacks.
 
-{{< imgScale "DSC00790_1600.JPG" "Quickly tie all things to our backpacks." "500x" >}}
+{{< imgScale "DSC00790_1600.JPG" "Quickly tie all things onto our backpacks." "500x" >}}
 
-While doing the break and getting some rest, we were able to see the difference between tourists and locals, when fording a river.
+While having a little break and getting some rest, we were able to see the difference between tourists and locals, when fording a river.
 
 **Tourists:**\
-Consider everything very long, hesitate, discuss, thing together a bit helpless and then cancel the whole thing.
+A couple considers everything very long and carefully, hesitates, discusses, thinks together, feels helpless and then cancels the whole thing.
 
 **Locals:**\
-Woman gets out of the car, takes of her pants, walks into the middle of the river (water went up to her crotch), walk a bit around, goes back to the car and off they go through the water.
+Woman gets out of the car, takes of her pants, walks into the middle of the river (water went up to her crotch), walks a bit around, goes back to her car and off she goes through the water.
 
 ## Again through the Eldgjá
 
 We followed the F233 for some time until we switched to a hiking path near by.
-This path lead us along the Eldgjá to the waterfall Ófærufoss.
+This path led us along the Eldgjá to the waterfall Ófærufoss.
 
-{{< imgScale "DSC00800_1600.JPG" "A bridge says us: We are near a touristic attraction. The canyon in the background belongs to the Eldgjá." "500x" >}}
+{{< imgScale "DSC00800_1600.JPG" "A bridge says us: We are near a tourist attraction. The small canyon in the background belongs to the Eldgjá." "500x" >}}
 
-Soon we reached the F223, which leads to Eldgjá and Ófærufoss.
-At the end of the F223 there's a big parking area with toilets, an information hut and benches and a well maintained hiking path to the Ófærufoss.
+Soon we reached the F223, which leads to the Eldgjá and Ófærufoss.
+At the end of the F223 there was a big parking area with toilets, an information hut and benches and a well maintained hiking path to the Ófærufoss.
 
 We were nearly alone when we reached the waterfall, only a father and his son were also there.
 
-{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss we just saw from a distance. We went on to the rear right corner." "500x" >}}
+{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss, which we only saw from the distance. We went further into the valley." "500x" >}}
 
 A short time later, it became foggy and some clouds flew into the Canyon.
 
 {{< imgScale "DSC00807_1600.JPG" "A cloud suddenly moved into the canyon." "500x" >}}
 
 We quickly went further into the Eldgjá canyon.
-The ground became a swamp and we were only able to walk on the side of the valley but further toward the end it became a bit better.
+The ground became a swamp and we were only able to walk on the side of the valley but it became a bit better towards the end.
 Because it was late (11pm) and very foggy, we decided to build up our camp and hide it behind a big rock (to not get caught).
-It is officially not allowed to camp inside the Eldgjá but it was the only opportunity for us.
+You are officially not allowed to camp inside the Eldgjá but it was the only opportunity for us.
 
 # Tag 11: Eldgjá → Skælingar hut
 {{< smallDate "2018-07-28" >}}
 
-Not not getting caught, we woke up at 5am and started hiking at 6am.
+To not getting caught, we woke up at 5am and started hiking at 6am.
 It was still foggy, so nobody was able to see us, but we just wanted to be safe.
 
 ## End of the canyon
