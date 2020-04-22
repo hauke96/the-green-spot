@@ -47,6 +47,8 @@ Der Reiseführer konnte sogar recht gut Deutsch und wir haben uns kurz unterhalt
 Nachdem die Familie samt Begleiter auf den Rückweg zum Campingplatz (vermutlich Strútur) gemacht hat, haben wir die Badesachen raus geholt und sind ins herrlich warme Wasser gestiegen.
 Die Temperatur war wirklich sehr warm und entspannte sehr, vor allem weil Regen und Wind zunahmen und man trotzdem im Warmen lag.
 
+{{< imgScale "DSC00771_1600.JPG" "Nahe der heißen Quelle Strútslaug kann man ein schönes Bad nehmen." "500x" >}}
+
 Der Ausstieg war umso kälter und im Regen haben wir uns "abgetrocknet" und unsere Sachen wieder angezogen.
 Da wir nicht groß weiter laufen wollten und es schon Abend war, haben wir das Zelt am Fluss Hólmsá nördlich der heißen Quelle aufgeschlagen und unsere nassen Badesachen im Zelt zum trocknen aufgehangen.
 Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose -- Gewicht sparen indem man Sachen gar nicht erst mit nimmt.
