@@ -150,7 +150,7 @@ Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumi
 Als Antwort bekam sie lediglich ein "Well, there will be weather".
 
 Als wir dann alles eingepackt und ein nettes Foto am Markarfljót geschossen haben (s.u.), ging es dann endlich los.
-Þórsmörk ist wirklich schön, sehr grün, bewaldet (Þórsmörk = Wald des Thor), aber auch sehr steil.
+Þórsmörk ist wirklich schön, sehr grün, bewaldet (Þórsmörk = Wald des Þór), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
 
@@ -202,7 +202,7 @@ Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten 
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "Hier nochmal der erste Teil unserer Route mit den ersten beiden Camps." "500x" >}}
 
-# Fortsetzung folgt ...
+# Fortsetzung (Teil 2)
 Ich hoffe dir hat der erste Teil des Berichtes gefallen.
 Wir waren 24 Tage unterwegs, als werden wohl noch so einige folgen.
 Ich verspreche aber, dass es nicht langweilig wird, eher im Gegenteil ;)

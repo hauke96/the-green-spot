@@ -147,7 +147,7 @@ Kristina ask the guy in the campsite reception how the weather may look like to 
 The only answer she got was "Well, there will be weather".
 
 After repacking and taking a nice photo in front of the Markarfljót (s. below) it was time to start our journey.
-Þórsmörk is very beautiful, green, forested (Þórsmörk = forest of Thor) but also pretty steep.
+Þórsmörk is very beautiful, green, forested (Þórsmörk = forest of Þór) but also pretty steep.
 Because the first bit of our journey followed the Laugavegur, we met a lot of other people hiking towards Þórsmörk.
 It was so warm that day that we started hiking without even wearing any jacket.
 
@@ -199,7 +199,7 @@ Nevertheless, we let the water stand over night so the contained solids could se
 
 {{< imgScale "iceland-2018-map-18-20.jpg" "Here again the first part of our hike with the two camps." "500x" >}}
 
-# To be continued ...
+# Next report (part 2)
 I hope you enjoyed this first part of our reports.
 We were 24 days in Iceland, so there will be a lot of reports.
 But I promise to you, it won't get boring ;)

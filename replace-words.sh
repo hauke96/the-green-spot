@@ -15,6 +15,7 @@ re[Fremri-Emstrua]=Fremri-Emstruá
 #re[Gigjökull]=
 re[Hallgrimskirkja]=Hallgrímskirkja
 re[Holmsa]=Hólmsá
+re[Holmsarbotnar]=Hólmsárbotnar
 re[Holmsarlon]=Hólmsárlón
 re[Innri-Emstrua]=Innri-Emstruá
 re[Keflavik]=Keflavík
@@ -26,13 +27,22 @@ re[Langisjor]=Langisjór
 re[Maelifell]=Mælifell
 re[Maelifellsandur]=Mælifellsandur
 re[Markarfljöt]=Markarfljót
+re[Ofaerufoss]=Ófærufoss
+re[Sydri-Ofaera]=Syðri–Ófæra
+re[Skaelingar]=Skælingar
 re[Reykjavik]=Reykjavík
 #re[Sandar]=
 #re[Seljalandsfoss]=
+re[Skafta]=Skaftá
 re[Slettjökull]=Sléttjökull
+re[Strutslaug]=Strútslaug
 re[Strutsskali]=Strútsskáli
 re[Strutur]=Strútur
+re[Svartahnuksfjöll]=Svartahnúksfjöll
+#re[Sveinstindur]=
 re[Thorsmörk]=Þórsmörk
+re[Thor]=Þór
+re[Utivist]=Útivist
 
 for i in $(find ./content -type f -iname '*.md')
 do
