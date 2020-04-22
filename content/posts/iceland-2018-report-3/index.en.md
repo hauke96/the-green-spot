@@ -4,6 +4,7 @@ summary = "Accompanied by rain, fog and wind, we went on through the worlds larg
 date = "2020-04-09T21:34:30+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
@@ -45,6 +46,8 @@ The tour guide even spoke very fluent German and we had a little chat.
 
 After the family left to probably go back to the Strútur campsite, we put on our swimsuits and also took a bath in the wonderfully warm water.
 The temperature was really warm and very relaxing, especially because of the rain and wind around us.
+
+{{< imgScale "DSC00771_1600.JPG" "Near the hot spring Strútslaug you can take a nice hot bath." "500x" >}}
 
 Going out of the water after some time was not so nice and we tried to "dry" ourselves as good as possible.
 We didn't want to hike much longer so we decided to build our camp a bit further north near the river Hólmsá and tried to dry our wet swimsuits.

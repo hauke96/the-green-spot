@@ -4,6 +4,7 @@ summary = "Begleitet von Regen, Nebel und Wind ging es durch die weltgrößte Vu
 date = "2020-04-09T21:34:30+02:00"
 tags = ["island-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
@@ -45,6 +46,8 @@ Der Reiseführer konnte sogar recht gut Deutsch und wir haben uns kurz unterhalt
 
 Nachdem die Familie samt Begleiter auf den Rückweg zum Campingplatz (vermutlich Strútur) gemacht hat, haben wir die Badesachen raus geholt und sind ins herrlich warme Wasser gestiegen.
 Die Temperatur war wirklich sehr warm und entspannte sehr, vor allem weil Regen und Wind zunahmen und man trotzdem im Warmen lag.
+
+{{< imgScale "DSC00771_1600.JPG" "Nahe der heißen Quelle Strútslaug kann man ein schönes Bad nehmen." "500x" >}}
 
 Der Ausstieg war umso kälter und im Regen haben wir uns "abgetrocknet" und unsere Sachen wieder angezogen.
 Da wir nicht groß weiter laufen wollten und es schon Abend war, haben wir das Zelt am Fluss Hólmsá nördlich der heißen Quelle aufgeschlagen und unsere nassen Badesachen im Zelt zum trocknen aufgehangen.
