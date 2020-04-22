@@ -150,7 +150,7 @@ Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumi
 Als Antwort bekam sie lediglich ein "Well, there will be weather".
 
 Als wir dann alles eingepackt und ein nettes Foto am Markarfljót geschossen haben (s.u.), ging es dann endlich los.
-Þórsmörk ist wirklich schön, sehr grün, bewaldet (Þórsmörk = Wald des Thor), aber auch sehr steil.
+Þórsmörk ist wirklich schön, sehr grün, bewaldet (Þórsmörk = Wald des Þór), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
 

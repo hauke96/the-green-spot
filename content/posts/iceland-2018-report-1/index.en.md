@@ -147,7 +147,7 @@ Kristina ask the guy in the campsite reception how the weather may look like to 
 The only answer she got was "Well, there will be weather".
 
 After repacking and taking a nice photo in front of the Markarfljót (s. below) it was time to start our journey.
-Þórsmörk is very beautiful, green, forested (Þórsmörk = forest of Thor) but also pretty steep.
+Þórsmörk is very beautiful, green, forested (Þórsmörk = forest of Þór) but also pretty steep.
 Because the first bit of our journey followed the Laugavegur, we met a lot of other people hiking towards Þórsmörk.
 It was so warm that day that we started hiking without even wearing any jacket.
 

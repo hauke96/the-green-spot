@@ -55,7 +55,7 @@ My "swimsuit" was by the way just my underpants -- save some weight by not takin
 
 The next day was the only day where I haven't made a single photo and that had a reason:
 It was constantly raining the whole day long and additionally we had a lot of fog.
-Although they say that rain and fog never appears together, Thor has a different opinion on that ;)
+Although they say that rain and fog never appears together, Þór has a different opinion on that ;)
 
 This had another effect: We have no idea where exactly we went but approximately a few kilometers north-east and then east.
 First between the river Syðri–Ófæra and the plateau Svartahnúksfjöll and later we crossed the southern end of the Eldgjá (world largest volcanic rift), which we haven't noticed.

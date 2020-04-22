@@ -55,7 +55,7 @@ Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose -- Gewicht spar
 
 Der nächste Tag war der einzige der ganzen Reise an dem ich kein einziges Bild gemacht habe und das hatte einen Grund:
 Es hat den ganzen Tag konstant und stark geregnet, zudem sind wir durch teilweise dichten Nebel gelaufen.
-Man sagt zwar, dass Regen und Nebel nicht zusammen auftreten, aber Thor sieht das wohl anders ;)
+Man sagt zwar, dass Regen und Nebel nicht zusammen auftreten, aber Þór sieht das wohl anders ;)
 
 Die genaue Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Nord-Osten und dann nach Osten.
 Zunächst zwischen dem Fluss Syðri–Ófæra und dem Plateau Svartahnúksfjöll entlang und später durch die Eldgjá (weltgrößte Vulkanschlucht), was wir allerdings gar nicht bemerkt haben.
