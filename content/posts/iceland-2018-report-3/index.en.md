@@ -4,6 +4,7 @@ summary = "Accompanied by rain, fog and wind, we went on through the worlds larg
 date = "2020-04-09T21:34:30+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
