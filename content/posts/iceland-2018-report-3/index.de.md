@@ -48,7 +48,7 @@ Die Temperatur war wirklich sehr warm und entspannte sehr, vor allem weil Regen 
 
 Der Ausstieg war umso kälter und im Regen haben wir uns "abgetrocknet" und unsere Sachen wieder angezogen.
 Da wir nicht groß weiter laufen wollten und es schon Abend war, haben wir das Zelt am Fluss Hólmsá nördlich der heißen Quelle aufgeschlagen und unsere nassen Badesachen im Zelt zum trocknen aufgehangen.
-Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose -- Gewicht sparen inden man sie gar nicht erst mit nimmt.
+Meine "Badesachen" beschränkten sich hierbei auf eine Unterhose -- Gewicht sparen indem man Sachen gar nicht erst mit nimmt.
 
 # Tag 9: Strútslaug → Syðri–Ófæra
 {{< smallDate "2018-07-26" >}}
@@ -113,8 +113,9 @@ Dem Weg folgten wir dann entlang Eldgjá zum Wasserfall Ófærufoss.
 {{< imgScale "DSC00800_1600.JPG" "Eine Brücke zeigt: Wir nähern uns einer touristischen Attraktion. Die Schlucht im Hintergrund ist Teil der Eldgjá." "500x" >}}
 
 Bald landeten wir auf der F223, welche in die Eldgjá und zum Ófærufoss führt.
-Am Ende der F223 ist ein großer Parkplatz samt Toiletten, Infohäuschen und Bänken ging es dann nur noch zu Fuß auf einem gepflegten Wanderweg weiter.
+Am Ende der F223 ist ein großer Parkplatz samt Toiletten, Infohäuschen und Bänken.
 
+Ab da an ging es dann nur noch zu Fuß auf einem gepflegten Wanderweg weiter.
 Beim Wasserfall angekommen waren wir fast alleine, nur ein Vater mit seinem Sohn war auch dort.
 
 {{< imgScale "DSC00805_1600.JPG" "Der Ófærufoss, den wir allerdings nur aus der Ferne betrachteten. Für uns ging es nach hinten rechts weiter." "500x" >}}
@@ -136,7 +137,7 @@ Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf 
 
 ## Das Ende der Schlucht
 
-Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen geschweige denn hölzerne Pflöcke.
+Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen, geschweige denn hölzerne Pflöcke.
 Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
 Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser gelb angemalten hölzernen Pflöcke gefunden.
 
@@ -152,11 +153,11 @@ Nach ca. einer halben Stunde kamen wir dann aber oben an und haben uns erst mal 
 ## Ab zur Hütte
 
 Danach ging es weiter in Richtung der Hütte Skælingar am Fluss Skaftá.
-Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder was sehen.
+Nach kurzer Zeit lichtete sich auch der Nebel und wir konnten wieder etwas sehen.
 Es war zwar kein Wanderweg erkennbar, aber immerhin gab es einzelne Pflöcke, welche uns an ein paar Bäche führten, die wir furten mussten.
 
 Allerdings: Helles Holz mit gelber Markierung auf gelb-grünem hellen Moos ist nicht sonderlich gut sichtbar.
-Es darf aber ja auch nicht zu leicht sein!
+Es macht aber ja auch keinen Spaß, wenn es zu leicht ist!
 
 Zwischen drin fanden wir den Kadaver eines Schafs, welcher sehr zerpflückt aussah.
 Es gibt auf Island aber keine größeren Tiere, die Schafe reißen (wie z.B. Wölfe), also rätselten wir woran es wohl gestorben sein könnte.
@@ -172,7 +173,7 @@ Im Schutze der Hütte hat sich Kristina den Luxus gegönnt ihre Haare zu waschen
 Da wir nichts zum bezahlen dabei hatten, haben wir auch kein Equipment (wie z.B. den Gas-Herd) der Hütte genutzt.
 
 In jeder Hütte liegt ein Hüttenbuch, in das man sich **unbedingt eintragen** sollte!
-Warum erfahrt ihr in einem der nächsten Teile dieser Serie ;)
+Warum erfahrt ihr in einem der nächsten Reiseberichte ;)
 
 {{< imgScale "DSC00866_1600.JPG" "Etwas unbeholfen haben wir uns ins Hüttenbuch eingetragen." "500x" >}}
 
@@ -194,8 +195,8 @@ Dort war auf unserer Karte erneut eine Hütte eingetragen, in der wir wieder üb
 ## Nebel ... erneut ...
 
 Als wir nach kurzer Zeit auf einer sehr selten benutzten Piste einen Hügelkamm hoch gingen wurde es erneut nebelig (stellenweise ca. 20 Meter Sicht).
-Wir waren zwar auf der richtigen Piste, mussten aber den Moment abpassen an dem sie eine Linkskurve nach Westen einschlägt.
-Wir haben also irgendwann unseren Kompass raus geholt um zu prüfen ob wir noch nach Norden oder bereits nach Westen laufen.
+Wir waren zwar auf der richtigen Piste, mussten aber den Moment abpassen an dem sie eine Linkskurve nach Westen einschlägt um sie dort zu verlassen.
+Wir haben also beide unsere Kompanden ... Kompässe ... Kompasse ... raus geholt und waren konstant am prüfen, ob wir noch nach Norden oder bereits nach Westen laufen.
 
 Irgendwann sahen wir aus dem Nebel einen Wegweise auftauchen und wir wussten, dass wir hier die Piste verlassen mussten.
 Genau in dem Moment verschwand binnen kürzester Zeit der Nebel und wir hatten freie Sicht über die Landschaft.
@@ -212,7 +213,9 @@ Wir konnten sogar schon den Uxatindar sehen, drei markante Gipfel, um die wir he
 
 ## Entlang der Skaftá zur Nothütte
 
-Westlich um den Uxatindar herum (östlich kann man wahrscheinlich nicht entlang, da ist direkt die Skaftá) gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
+Westlich um den Uxatindar herum gibt es sogar einen recht guten Wanderweg, der sich entlang eines Baches durch einen Mini-Canyon schlängelt.
+Östlich kann man wahrscheinlich nicht entlang, da direkt am Hang die Skaftá entlang fließt.
+
 Unten angekommen standen wir vor einem See, der etwas über die Ufer getreten war, somit stand der Wanderweg unter Wasser.
 Am Ufer entlang ging es dann auf die andere Seite, wo es nach einer Pause direkt wieder bergauf ging.
 Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skaftá.
@@ -225,12 +228,15 @@ Schließlich ging es wieder etwas hinab zur Skaftá auf eine art Plateau über d
 
 {{< imgScale "DSC00937_1600.JPG" "Die Skaftá" "500x" >}}
 
-Nach einer kurzen letzten Etappe kamen wir dann an der Nothütte an.
-Ausgestattet war sie mit dem aller nötigsten: Ein Gaskocher, etwas Geschirr, ein paar Suppen, zwei simple Betten, ein Tisch, zwei Stühle.
+Nach einer kurzen letzten Etappe kamen wir dann an der Hütte an, welche tatsächlich eine richtige Nothütte war.
+Ausgestattet war sie nur mit dem aller Nötigsten: Ein Gaskocher, etwas Geschirr, ein paar Suppen, zwei simple Betten, ein Tisch, zwei Stühle.
 Fertig.
-Da wir bei dem Wind unser Zelt kaum hätten aufbauen können, waren wir über die Hütte sehr froh.
+Da wir bei dem Wind unser Zelt nicht hätten aufbauen können, waren wir über die Hütte sehr froh.
 
 {{< imgScale "DSC00938_1600.JPG" "Die Nothütte bei Sveinstindur." "500x" >}}
+
+Nebenan gab es noch eine zweite Hütte (in braun auf dem Bild), was wahrscheinlich eine Art Messtation für Wind oder Fluss ist.
+So genau wissen wir das aber nicht.
 
 # Fortsetzung folgt ...
 Ich hoffe dir haben der Bericht und die Bilder gefallen.
