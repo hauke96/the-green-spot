@@ -50,7 +50,7 @@ Paginate = 5
 	#keybase = "Your keybase.io username"
 	#instagram = "Your Instagram username"
 	# Disqus shortname
-	#disqus = "Your disqus shortname"
+	disqus = "the-green-spot"
 	# Google Analytics API key.
 	#ga_api_key = "Your Google Analytics tracking id"
 	# Mixpanel API key.
@@ -60,4 +60,3 @@ Paginate = 5
 	customCSS = ['hamburg.css']
 
 	ShowGDPRNotice = true
-	UseCommento = true
