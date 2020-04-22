@@ -135,7 +135,7 @@ It was still foggy, so nobody was able to see us, but we just wanted to be safe.
 
 ## End of the canyon
 
-It was foggy the whole morning over and we didn't found a hiking trail or wooden sticks for orientation.
+It was foggy the whole morning over and we didn't found a hiking trail or wooden sticks to follow.
 However, we only knew one way out of the valley, so we started searching for a hiking path.
 While doing a small break, Kristina finally found it and we followed the wooden sticks with yellow color on it.
 
@@ -143,25 +143,23 @@ The way out was very steep, consisted only of sand and was not in any way paved 
 
 {{< imgScale "DSC00817_1600.JPG" "At the end of the path you can barely see the stick with the yellow color." "500x" >}}
 
-After approximately half an hours, we finally reached the top of the cliff that surrounded the end of the Eldgjá and made a little break.
+After approximately half an hour, we finally reached the top of the cliff that surrounded the end of the Eldgjá and made a little break.
 
 {{< imgScale "DSC00835_1600.JPG" "Edge to the Eldgjá. We came up from the right side." "500x" >}}
 
 ## To the hut
 
-After that, we moved on to the Skælingar hut at the Skaftá river.
-Shortly after our break, we moved out of the clouds and finally had sunshine.
-However, there was no hiking trail, just these wooden sticks, but better than nothing and we soon reached some streams to ford.
-
-However: Light colored wood with yellow markings on it on a green-yellow-mossy background is really hard to see.
-It's not good if it's too easy!
+We moved on to the Skælingar hut near the shore of the Skaftá river.
+As soon as we left the Eldgjá, we moved out of the clouds and finally had sunshine.
+However, there was still no real hiking trail, just these wooden sticks with yellow markings on it on a green-yellow-mossy background.
+That was really hard to see, but it's not fun when it's too easy :D
 
 During the hike to the hut, we found a dead sheep which looked quite dismembered.
 Because Iceland doesn't have large predators (like e.g. wolfs), we wondered how it died.
 
-After some ford, we reached the hut wich is quite near the Skaftá river.
+After some fords through small streams, we reached the hut which is quite near the Skaftá river.
 The hut belongs to Útivist and is generally open.
-One can also rent a hut and then the people renting the hut have of course priority.
+One can also rent a hut and then the people renting the hut have priority of course.
 
 {{< imgScale "DSC00862_1600.JPG" "The Skælingar hut from the entrance." "500x" >}}
 {{< imgScale "DSC00864_1600.JPG" "There was even a little kitchen." "500x" >}}
@@ -170,64 +168,69 @@ In the protection of the hut, Kristina indulged herself the luxury of washing he
 Because we didn't had anything to pay, we also didn't used any of the materials there (like e.g. the gas cooker).
 
 In every hut, there's a small book where everybody **should definitely** write something in!
-You'll see the reason for that in the next travel report ;)
+You'll see the reason for that in one of the next travel reports ;)
 
 {{< imgScale "DSC00866_1600.JPG" "Our clumsy attempt to write something meaningful." "500x" >}}
 
 After some sticky mashed potatoes, which we "refined" with some hard cheese and nuts, we directly went sleeping.
 This time in a real and dry bed.
+Awesome!
 
 # Tag 12: Skælingar hut → Sveinstindur emergency shelter
 {{< smallDate "2018-07-29" >}}
 
-After waking up, we saw outside the window three large black ravens, which can grow up to 60cm / 2ft.
+After waking up, we saw three large black ravens outside the window, which can grow up to 60cm / 2ft.
 At that moment, we knew who hunted, killed or at least ate the sheep from the day before.
 
 After some good breakfast, we started pretty late (at 11:30am) towards Sveinstindur and had lots of wind.
 Near Sveinstindur was another hut marked on our map and we planned to stay there.
 
-{{< imgScale "DSC00869_1600.JPG" "Again the hut from the outside." "500x" >}}
+{{< imgScale "DSC00869_1600.JPG" "The Skælingar hut from the outside." "500x" >}}
 
 ## Fog ... again ...
 
-As we walked up a hill on a piste it became foggy again, this time we only were able to see approx. 20m / 65ft far.
-We were at least on the correct piste but hat to watch out for a left turn where we wanted to leave the piste.
-Luckily we both had a compass the check the direction we were walking to.
+As we walked up a hill on a piste, it became foggy again, we only were able to see approx. 20m / 65ft far this time.
+At least we were on the correct piste but had to watch out for a left turn where we wanted to leave the piste.
+Luckily we both had a compass and constantly checked the direction we were walking to.
 
 After some time we saw a guidepost coming out of the forest and we knew that we have to leave the piste at this point.
-Right in that moment, the fog disappeared and withing seconds we had a great view over the landscape.
+Right in that moment, the fog disappeared and withing seconds we had a clear and great view over the landscape.
 
-{{< imgScale "DSC00876_1600.JPG" "Cars have to go left, we had to keep going straight. Time of photo: 15:32." "500x" >}}
-{{< imgScale "DSC00877_1600.JPG" "Same spot but 15:34." "500x" >}}
+{{< imgScale "DSC00876_1600.JPG" "Cars have to go left, we had to keep going straight. Time of photo: 3:32pm." "500x" >}}
+{{< imgScale "DSC00877_1600.JPG" "Same spot but at 3:34pm." "500x" >}}
 {{< imgScale "DSC00895_1600.JPG" "Awesome view over the landscape with clouds passing by." "500x" >}}
 
-The fog was actually a low hanging cloud which just passed towards us.
-At this spot we enjoyed the view and made a little break.
+The fog was actually a low hanging cloud which just passed by and so we enjoyed the view and made a little break.
 We even were able to see the Uxatindar, three peaks we had to go around.
 
 {{< imgScale "DSC00902_1600.JPG" "The Uxatindar" "500x" >}}
 
 ## Along the Skaftá to the emergency shelter
 
-We went around the Uxatindar on the west side (it's probably impossible to go around the east, there's directly the Skaftá river) on a very good hiking path through a beautiful mini-canyon.
+We went around the Uxatindar on the west side on a very good hiking path through a beautiful mini-canyon.
+It's probably impossible to go around the east, the Skaftá river is directly next to the mountain.
+
 At the foot of the mountain is a lake and the surroundings were a bit flooded so the trail was under water.
 On the other side of the lake we made a little break and followed the hiking path up a hill.
-At least we had a great view over the Skaftá and Uxatindar.
+It was wind and cold but at least we had a great view over the Skaftá and Uxatindar.
 
 {{< imgScale "DSC00924_1600.JPG" "The Skaftá heading south, to the right the east side of the Uxatindar." "500x" >}}
 
 From here the wind became stronger and stronger and it was really exhausting to walk against it.
 Sometimes the gusts were so strong we were blown over.
-Finally we were heading a bit down towards the Skaftá and reached a plateau where the river flows over bare rocks without visible river bed.
+After a while we headed a bit down towards the Skaftá and reached a plateau where the river flows over bare rocks without visible river bed.
 
 {{< imgScale "DSC00937_1600.JPG" "The Skaftá" "500x" >}}
 
-After a last and short bit of hiking, we finally ended up at the emergency shelter.
-It was also equipped with an gas cooker, some dishes, some soups, two simple beds, a table and two chairs.
-That's it.
+After a last and short bit of hiking, we finally ended up at the hit, which was actually an emergency shelter.
+It was also equipped with a gas cooker, some dishes, some soups, two simple beds, a table and two chairs.
+Nothing more, nothing less.
 Because the wind was way to strong for our tent, we stayed here and were quite happy about this little old hut.
 
 {{< imgScale "DSC00938_1600.JPG" "The emergency shelter at Sveinstindur." "500x" >}}
+
+Next to the hut was a second hut (the brown one on the photo), which is some kind of measuring station for maybe weather and the river.
+We don't know what's actually for.
 
 # To be continued ...
 I hope you liked the report and the pictured.
