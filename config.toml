@@ -6,6 +6,7 @@ defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "hamburg"
+Paginate = 5
 
 [blackfriday]
 	hrefTargetBlank = true
@@ -49,7 +50,7 @@ theme = "hamburg"
 	#keybase = "Your keybase.io username"
 	#instagram = "Your Instagram username"
 	# Disqus shortname
-	#disqus = "Your disqus shortname"
+	disqus = "the-green-spot"
 	# Google Analytics API key.
 	#ga_api_key = "Your Google Analytics tracking id"
 	# Mixpanel API key.
@@ -59,4 +60,3 @@ theme = "hamburg"
 	customCSS = ['hamburg.css']
 
 	ShowGDPRNotice = true
-	UseCommento = true
