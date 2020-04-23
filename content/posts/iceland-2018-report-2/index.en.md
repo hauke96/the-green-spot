@@ -4,6 +4,7 @@ summary = "Finally we left civilization behind us and the landscape became more 
 date = "2019-12-08T12:29:08+01:00"
 tags = ["iceland-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
 +++
 
 {{< note >}}
