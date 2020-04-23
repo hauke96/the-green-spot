@@ -4,6 +4,7 @@ summary = "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landsch
 date = "2019-12-08T12:29:08+01:00"
 tags = ["island-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})

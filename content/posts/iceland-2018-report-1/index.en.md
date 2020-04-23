@@ -4,6 +4,7 @@ summary = "The first three days of our travel were very exciting and we experien
 date = "2019-04-15T21:25:03+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
+images = ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
 +++
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
