@@ -23,6 +23,11 @@ Paginate = 5
 				name = "About"
 				identifier = "about"
 				url = "pages/about"
+			[[languages.en.menu.main]]
+				name = "Gear"
+				identifier = "gear"
+				url = "pages/gear"
+				weight = 2
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
@@ -34,6 +39,10 @@ Paginate = 5
 				name = "Über"
 				identifier = "about"
 				url = "pages/about"
+			[[languages.de.menu.main]]
+				name = "Ausrüstung"
+				identifier = "gear"
+				url = "pages/gear"
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and
