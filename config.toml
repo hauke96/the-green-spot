@@ -1,11 +1,12 @@
-baseurl = "https://the-green-spot.de/"
+#baseurl = "https://the-green-spot.de/"
 #baseurl = "https://the-green-spot.de/beta/"
 #baseUrl = "http://localhost:1313/foo"
-#baseurl = "http://localhost:1313/"
+baseurl = "http://localhost:1313/"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "hamburg"
+Paginate = 5
 
 [blackfriday]
 	hrefTargetBlank = true
@@ -49,12 +50,12 @@ theme = "hamburg"
 	#keybase = "Your keybase.io username"
 	#instagram = "Your Instagram username"
 	# Disqus shortname
-	#disqus = "Your disqus shortname"
+	disqus = "the-green-spot"
 	# Google Analytics API key.
 	#ga_api_key = "Your Google Analytics tracking id"
 	# Mixpanel API key.
 	#mixpanel_api_key = "Your Mixpanel API key"
-	themecolor = "#555555" # Defines the tab color in Chrome for Android.
+	themecolor = "#9ccc65" # Defines the tab color in Chrome for Android.
 
 	customCSS = ['hamburg.css']
 

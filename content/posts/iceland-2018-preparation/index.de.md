@@ -1,8 +1,7 @@
 +++
-draft = true
 title = "Island 2018: Vorbereitungen"
 summary = "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
-date = 2018-08-28T16:34:32+02:00
+date = 2019-03-27T02:29:32+02:00
 tags = ["Island 2018"]
 author = "kristina-hauke"
 +++
@@ -15,13 +14,13 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 
 # Eckdaten zur Reise
 * Island 18.07.2018 - 10.08.2018 (24 Tage)
-* Region Þórsmörk - Eldgja - Langisjor - Landmannalaugar
+* Region Þórsmörk - Eldgjá - Langisjór - Landmannalaugar
 * Ohne Campingplatz, Hotel oder Supermarkt zwischendurch
 * Personen: Wir (Kristina und Hauke)
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
 
-{{< img "iceland-2018-map.jpg" "Unsere Route" >}}
+{{< imgScale "iceland-2018-map.jpg" "Unsere Route" "500x" >}}
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
@@ -69,7 +68,7 @@ Wir haben viele Berichte wie diesen gelesen. Die waren mehr oder weniger hilfrei
 
 Auf **YouTube** gibt es viele Videos, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
 
-Ansonsten gibt es auf **[Reddit](reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.net](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt. Die guten alten Foren sind mit die beste Quelle für Informationen.
+Ansonsten gibt es auf **[Reddit](https://reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.net](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt. Die guten alten Foren sind mit die beste Quelle für Informationen.
 
 ## Vom Feedback nicht verwirren lassen!
 Bei den Kritikern ist das ja immer so eine Sache, es gibt da solche und solche.

@@ -1,10 +1,15 @@
 #!/bin/bash
 
+if [[ $1 == "-D" ]]
+then
+	BUILD_DRAFTS="$1"
+fi
+
 echo "Clear folder ./public"
 rm -rf ./public/*
 
 echo "Build site"
-hugo -D -v
+hugo -v $BUILD_DRAFTS
 
 echo "Copy .htaccess file to ./public/"
 cp .htaccess_de public/.htaccess

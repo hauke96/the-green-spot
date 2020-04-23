@@ -135,3 +135,9 @@ convert -strip -interlace Plane -sampling-factor 4:2:0 -quality 65% -resize x650
 ```bash
 convert -interlace Plane -resize x32 favicon.jpg favicon.ico
 ```
+
+## Photos for posts
+```bash
+convert -resize 1600x DSC00835.JPG DSC00835_1600.JPG
+convert -resize 1600x -rotate -90 DSC00835.JPG DSC00835_1600.JPG
+```

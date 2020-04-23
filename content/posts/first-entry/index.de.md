@@ -1,7 +1,6 @@
 +++
 date = "2018-08-13T15:38:27+02:00"
 title = "Erster Eintrag"
-draft = true
 author = "hauke"
 summary = "Dies ist nur ein Testbeitrag um die Website zu testen."
 +++

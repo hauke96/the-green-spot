@@ -1,7 +1,6 @@
 +++
 date = "2018-08-13T15:38:27+02:00"
 title = "First entry"
-draft = true
 author = "hauke"
 summary = "This is just a test entry for me to test the website."
 +++
