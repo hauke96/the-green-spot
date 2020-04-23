@@ -10,10 +10,10 @@ author = "kristina-hauke"
 
 Welcome to _The green spot_ :)
 
-Travel and experience reports all about trekking as only very few poeple do.
+Travel and experience reports about trekking, always trying to be where no civilization is.
 
 ## Who is writing here?
-When you hear the word *we*, Kristina and Hauke (we're both from Germany) are ment. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
+When you hear the word *we*, Kristina and Hauke (we're both from Germany) are meant. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
 
 ## The special thing about this blog
 Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things. Most of the people, however, use (well known) hiking trails, which is not the case with us. We love to go off-road ... or off-trail.

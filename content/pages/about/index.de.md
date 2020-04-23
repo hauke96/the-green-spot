@@ -10,7 +10,7 @@ author = "kristina-hauke"
 
 Willkommen auf _The green spot_ :)
 
-Reise- und Erfahrungsberichte rund um Wildnis-Trekking, wie es die wenigsten machen.
+Reise- und Erfahrungsberichte rund um Trekking, immer möglich fern ab der Zivilisation.
 
 ## Wer schreibt hier?
 Wenn du das Wort *wir* liest, sind dabei Kristina und Hauke gemeint. Wir sind sehr gerne Draußen unterwegs und das am besten in Regionen in denen sonst keiner ist, mit Gepäck, was sonst keiner schleppt. Komfortable Hütten, Campingplätze oder gar Hotels sind uns fremd!
