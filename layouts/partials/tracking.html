@@ -1,3 +1,5 @@
 <!-- Matomo Image Tracker-->
-<img src="https://the-green-spot.de/analytics/matomo.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+{{ if not (in (.Site.BaseURL | string) "localhost") }}
+	<img src="https://the-green-spot.de/analytics/matomo.php?idsite=1&amp;rec=1" style="border:0" alt="" />
+{{ end }}
 <!-- End Matomo -->
