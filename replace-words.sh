@@ -36,6 +36,7 @@ re[Reykjavik]=Reykjavík
 #re[Seljalandsfoss]=
 re[Skafta]=Skaftá
 re[Slettjökull]=Sléttjökull
+re[Stakihnukur]=Stakihnúkur
 re[Strutslaug]=Strútslaug
 re[Strutsskali]=Strútsskáli
 re[Strutur]=Strútur
