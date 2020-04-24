@@ -186,6 +186,8 @@ After passing the bridge, we did _not_ walked uphill to the Botnar campsite but 
 
 {{< imgScale "DSC00509_1600.JPG" "The bridge above the Fremri-Emstruá was very adventurous." "500x r90" >}}
 
+{{< imgScale "DSC00513_1600.JPG" "The bridge after crossing it." "500x r90" >}}
+
 {{< imgScale "DSC00515_1600.JPG" "After turning right, we hiked towards the Entujökull glacier." "500x" >}}
 
 At this point there were no hiking paths (sometimes trails from sheeps) and we should not meet any other human for the next four days.

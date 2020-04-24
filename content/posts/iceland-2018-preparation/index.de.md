@@ -68,6 +68,7 @@ Informationen haben wir hauptsächlich über Bekannte und Foren im Internet bezo
 Wir haben viele Berichte wie diesen gelesen. Die waren mehr oder weniger hilfreich, aber sobald wir Bilder eines schwierigen/kritischen Ortes hatten (z.B. einer Furt), half es uns zum Teil bei der Routenplanung.
 
 Auf **YouTube** gibt es viele Videos, was sehr hilfreich ist, da man so sehen kann wie tief die Furten wirklich sind und wie die Landschaft tatsächlich aussieht. Es gibt auch z.B. [Zeitrafferfahrten](https://www.youtube.com/watch?v=GvdSu42BsCk), die einen guten Eindruck der Landschaft, Straßen, Wetter und Bodenverhältnisse geben.
+Sie sind zudem recht witzig, weil es sich anfühlt, als säße man in einem Rennauto mit sprechenden Mäusen :D
 
 Ansonsten gibt es auf **[Reddit](https://reddit.com)** verschiedene Subreddits (das sind quasi Unterkategorien) zum Thema [Ultra leicht](https://www.reddit.com/r/Ultralight/), [Island besuchen](https://www.reddit.com/r/VisitingIceland/) und [Wandern](https://www.reddit.com/r/hiking/) allgemein. Darüber hinaus haben wir auf dem **Forum [outdoorseiten.net](https://www.outdoorseiten.net/forum/)** nach Feedback gefragt. Die guten alten Foren sind mit die beste Quelle für Informationen.
 
@@ -91,6 +92,8 @@ Hat man gewisse Ziele, muss man nur noch eine Route finden. Man sollte dabei ein
 Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Flüsse sind. Alles Hindernisse, die nicht überwindbar sind.
 
 Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, z.B. eine Brücke weiter flussabwärts.
+
+{{< imgScale "map-alternatives_1000.jpg" "Ausgedruckte Kopie unserer Wanderkarte zum Planen und Einzeichnen von Alternativen." "500x" >}}
 
 ## Kartenmaterial
 Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
@@ -122,6 +125,8 @@ Mal rechnen...<br>
 Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt (geschätzter Durchschnitt von normalem Essen und Nüssen), schleppt man ein Kilogramm Essen pro Tag mit sich rum. Bei 24 Tagen sind das entsprechend 24kg. Kann man sicherlich auch schaffen, war uns dann aber doch zu viel. Zudem braucht man dann einen richtigen Lastenrucksack und anderes Equipment.
 
 Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Lerne deinen Stoffwechsel kennen, es kann sein, dass du während der Tour einige Kilos verlieren wirst.
+
+{{< imgScale "DSC00350_0001_cut_small_edit.jpg" "Das meiste unserer Verpflegung." "500x" >}}
 
 ## Hinweis: Mehr Appetit zum Ende hin
 Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 (oder je nach generellem Appetit noch mehr) Portionen braucht um satt zu werden.

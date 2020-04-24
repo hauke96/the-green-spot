@@ -189,6 +189,8 @@ Danach sind wir _nicht_ wie die meisten den Hang hinauf zum Campinglatz Botnar, 
 
 {{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Fremri-Emstruá war sehr abenteuerlich." "500x r90" >}}
 
+{{< imgScale "DSC00513_1600.JPG" "Die Brücke nach der Überquerung." "500x r90" >}}
+
 {{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull." "500x" >}}
 
 Hier gab es keine Wanderwege (ab und zu Schaafswege) und die nächsten vier Tage sind wir keiner Menschenseele begegnet.
