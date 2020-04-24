@@ -158,6 +158,8 @@ After completing our first ford, which wasn't deep but pretty cold, we hiked -- 
 Towards the evening the temperature dropped and did a little break at a small but wild river.
 After taking some photos, filling up our water bottles and eating our dinner, we passed an adventurous bridge to the other side.
 
+{{< imgScale "laugavegur-first-bridge_1600.JPG" "The bridge over the Ljósá." "500x" >}}
+
 We then created our camp a bit downstream behind a larger bush.
 Being pretty exhausted but in a good mood, we marked our first camp on our hiking map.
 
@@ -183,6 +185,8 @@ The Bridge over the Fremri-Emstruá looked pretty adventurous and the slopes wer
 After passing the bridge, we did _not_ walked uphill to the Botnar campsite but turned right towards the Entujökull glacier.
 
 {{< imgScale "DSC00509_1600.JPG" "The bridge above the Fremri-Emstruá was very adventurous." "500x r90" >}}
+
+{{< imgScale "DSC00513_1600.JPG" "The bridge after crossing it." "500x r90" >}}
 
 {{< imgScale "DSC00515_1600.JPG" "After turning right, we hiked towards the Entujökull glacier." "500x" >}}
 

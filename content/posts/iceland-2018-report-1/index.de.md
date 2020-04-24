@@ -161,6 +161,8 @@ Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses ma
 Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause.
 Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
+{{< imgScale "laugavegur-first-bridge_1600.JPG" "Die Brücke über die Ljósá." "500x" >}}
+
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen.
 Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der Karte.
 
@@ -186,6 +188,8 @@ Die Brücke über den Fremri-Emstruá war etwas abenteuerlich und die Hänge seh
 Danach sind wir _nicht_ wie die meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
 {{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Fremri-Emstruá war sehr abenteuerlich." "500x r90" >}}
+
+{{< imgScale "DSC00513_1600.JPG" "Die Brücke nach der Überquerung." "500x r90" >}}
 
 {{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull." "500x" >}}
 

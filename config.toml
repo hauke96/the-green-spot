@@ -23,6 +23,11 @@ Paginate = 5
 				name = "About"
 				identifier = "about"
 				url = "pages/about"
+			[[languages.en.menu.main]]
+				name = "Iceland 2018"
+				identifier = "iceland-2018"
+				url = "pages/iceland-2018"
+				weight = 2
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
@@ -34,6 +39,10 @@ Paginate = 5
 				name = "Über"
 				identifier = "about"
 				url = "pages/about"
+			[[languages.de.menu.main]]
+				name = "Island 2018"
+				identifier = "iceland-2018"
+				url = "pages/iceland-2018"
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and

@@ -68,6 +68,7 @@ We primarily got our information from friends and forums in the internet. There 
 We read a lot of articles like this. They were more or less helpful but as soon as we found photos of difficult/critical points (e.g. a ford), they helped us during the planing of our route.
 
 On **YouTube** there are a lot of videos of iceland, which is very helpful because you can see how deep a ford is or how the landscape actually looks like. There are also e.g. [timelapse videos](https://www.youtube.com/watch?v=GvdSu42BsCk), which give a good impression on the landscape, roads, weather and ground conditions.
+They are also funny because it feels like sitting in a race car with speaking mice :D
 
 Furthermore there's also **[reddit](https://reddit.com)** where several subreddits (some kind of sub-categories) exist about [ultra light](https://www.reddit.com/r/Ultralight/), [visiting iceland](https://www.reddit.com/r/VisitingIceland/) und [hiking](https://www.reddit.com/r/hiking/) in general. We also used **classical forums** like the german [outdoorseiten.net](https://www.outdoorseiten.net/forum/). Those good old forums are the most helpful source of information and there are also a lot of good english forums.
 
@@ -91,6 +92,8 @@ Once you have some travel destinations, you can start to create your route. Here
 First we looked at interesting parts like cliffs or rivers, that cannot be crossed. Generally all kind of obstacles.
 
 We marked everything we saw (e.g. a ford) and searched for alternatives, e.g. a bridge down the river.
+
+{{< imgScale "map-alternatives_1000.jpg" "Printed copy of our hiking map for planning and marking alternatives." "500x" >}}
 
 ## Maps
 We bought a hiking map, scanned it and digitally marked our route on it. We then were able to search for alternatives and change the route without making the actual hiking map unreadable.
@@ -122,6 +125,8 @@ Lets calculate...<br>
 If we say that the average calories are 450kcal/100g (roughly the average of normal food and nuts), each person has to carry one kilogram of food per day. For 24 days this makes 24kg of food. Probably this is possible to carry with you but that was too much for us. You also need a special back pack and some other equipment to carry all of your stuff.
 
 Each of us had 13kg of food in Iceland. Clearly we didn't reached our 4000-5000kcal goal. Get to know you body, it's possible that you loose some kilos during the hike.
+
+{{< imgScale "DSC00350_0001_cut_small_edit.jpg" "Most of our food." "500x" >}}
 
 ## Note: More hunger near the end
 An important note at this point: Approximately after half of the tour, we were more hungry. It's better to calculate with 1,5 meals at the end to not be hungry after eating.
