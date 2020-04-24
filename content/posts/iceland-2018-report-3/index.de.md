@@ -223,7 +223,7 @@ Unten angekommen standen wir vor einem See, der etwas über die Ufer getreten wa
 Am Ufer entlang ging es dann auf die andere Seite, wo es nach einer Pause direkt wieder bergauf ging.
 Immerhin hatten wir von dort oben eine grandiose Aussicht über die Skaftá.
 
-{{< imgScale "DSC00924_1600.JPG" "Die Skaftá Richtung Süden, rechts der Hang vom Uxatindar." "500x" >}}
+{{< imgScale "DSC00931_1600.JPG" "Blick Richtung Süden. Die Skaftá mit direktem Hang vom Uxatindar." "500x" >}}
 
 Der Wind wurde ab hier immer stärker und es begann richtig anstrengend zu werden gegen ihn an zu laufen.
 Manchmal kamen so starke Böen, dass wir einfach umgeweht wurden.

@@ -217,7 +217,7 @@ At the foot of the mountain is a lake and the surroundings were a bit flooded so
 On the other side of the lake we made a little break and followed the hiking path up a hill.
 It was wind and cold but at least we had a great view over the Skaftá and Uxatindar.
 
-{{< imgScale "DSC00924_1600.JPG" "The Skaftá heading south, to the right the east side of the Uxatindar." "500x" >}}
+{{< imgScale "DSC00931_1600.JPG" "View heading south. The Skaftá with the direct hillside of the Uxatindar." "500x" >}}
 
 From here the wind became stronger and stronger and it was really exhausting to walk against it.
 Sometimes the gusts were so strong we were blown over.
