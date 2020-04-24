@@ -161,6 +161,8 @@ Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses ma
 Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause.
 Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
+{{< imgScale "laugavegur-first-bridge_1600.JPG" "Die Brücke über die Ljósá." "500x" >}}
+
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen.
 Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der Karte.
 

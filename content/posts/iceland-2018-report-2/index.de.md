@@ -224,6 +224,12 @@ Da wir nicht erneut furten wollten entschieden wir uns für zweiteres, was wir n
 
 Weiter oben ging es dann auf Schaafspfaden in Richtung des Sees Hólmsárlón.
 
+{{< imgScale "DSC00757_1600.JPG" "Eigenartige Kreise im Moos." "500x" >}}
+
+Die ganze Reise über entdeckten wir seltsame Kreise im Moos (s.o.), welche Nornabaugar (Hexenkreise) genannt werden.
+Sie entstehen durch einen Pilz, der das Moos befällt und absterben lässt.
+Durch die Wechselnden Jahreszeiten entstehen dann diese Kreise.
+
 ## Camp direkt am See
 Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Bach um nach unten zu gelangen.
 Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und rutschig.

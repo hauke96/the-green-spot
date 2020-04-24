@@ -225,6 +225,12 @@ A decision we didn't regret.
 
 Fruther on the top we followed some sheep paths leading to the lake Hólmsárlón.
 
+{{< imgScale "DSC00757_1600.JPG" "Strange circles in the moss." "500x" >}}
+
+All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (whitch circles).
+They are a result of a mushroom growing in the moss, which unfortunately also kills the moss.
+Due to the seasons, the moss cannot always grow and this builds these circles.
+
 ## Camp on the lakeside
 The slopes at the lake were very steep and we used the valley of a smaller stream to go down to the shore.
 Even though the stream was less steep, it was very slippery.
