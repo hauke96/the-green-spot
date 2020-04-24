@@ -60,6 +60,8 @@ The next day was the only day where I haven't made a single photo and that had a
 It was constantly raining the whole day long and additionally we had a lot of fog.
 Although they say that rain and fog never appears together, Þór has a different opinion on that ;)
 
+{{< imgScale "DSC00773_1600.JPG" "From day 8 but day 9 looked the same way: Lots of rain and fog. Here the Hólmsárlón (far in the back) seen from Strútslaug." "500x" >}}
+
 This had another effect: We have no idea where exactly we went but approximately a few kilometers north-east and then east.
 First between the river Syðri–Ófæra and the plateau Svartahnúksfjöll and later we crossed the southern end of the Eldgjá (world largest volcanic rift), which we haven't noticed.
 
@@ -142,7 +144,10 @@ It was foggy the whole morning over and we didn't found a hiking trail or wooden
 However, we only knew one way out of the valley, so we started searching for a hiking path.
 While doing a small break, Kristina finally found it and we followed the wooden sticks with yellow color on it.
 
+{{< imgScale "DSC00812_1600.JPG" "A compass is very very helpful when hiking through fog and rough terrain." "500x" >}}
+
 The way out was very steep, consisted only of sand and was not in any way paved or even somehow maintained.
+Due to the fog, we neither saw the top nor the bottom of the track.
 
 {{< imgScale "DSC00817_1600.JPG" "At the end of the path you can barely see the stick with the yellow color." "500x" >}}
 

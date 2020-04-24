@@ -60,6 +60,8 @@ Der nächste Tag war der einzige der ganzen Reise an dem ich kein einziges Bild 
 Es hat den ganzen Tag konstant und stark geregnet, zudem sind wir durch teilweise dichten Nebel gelaufen.
 Man sagt zwar, dass Regen und Nebel nicht zusammen auftreten, aber Þór sieht das wohl anders ;)
 
+{{< imgScale "DSC00773_1600.JPG" "Zwar von Tag 8, aber Tag 9 sah genauso aus: Viel Regen und Nebel. Hier der Hólmsárlón (hinten) aus Richtung Strútslaug." "500x" >}}
+
 Die genaue Route wissen wir auf Grund der Sichtverhältnisse nicht, sie führte uns aber auf jeden Fall erst nach Nord-Osten und dann nach Osten.
 Zunächst zwischen dem Fluss Syðri–Ófæra und dem Plateau Svartahnúksfjöll entlang und später durch die Eldgjá (weltgrößte Vulkanschlucht), was wir allerdings gar nicht bemerkt haben.
 
@@ -143,6 +145,8 @@ Nicht, dass uns jemand bei dem Nebel hätte sehen können, aber wir wollten auf 
 Den ganzen Vormittag über blieb es sehr nebelig und wir konnten keinen Wanderweg erkennen, geschweige denn hölzerne Pflöcke.
 Allerdings war uns nur ein Weg bekannt, der aus der Schlucht wieder heraus führt, somit haben wir angefangen diesen Weg zu suchen.
 Bei einer kleinen Pause hat Kristina tatsächlich im Nebel einen dieser gelb angemalten hölzernen Pflöcke gefunden.
+
+{{< imgScale "DSC00812_1600.JPG" "Ein Kompass ist sehr sehr hilfreich, wenn man durch Nebel und unwegsames Gelände geht." "500x" >}}
 
 Der Wanderweg aus der Schlucht heraus ist sehr steil, besteht nur aus Sand und ist keineswegs befestigt.
 Durch den Nebel konnten wir irgendwann weder den Buden der Schlucht noch die obere Kante sehen.
