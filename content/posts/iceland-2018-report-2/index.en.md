@@ -227,7 +227,7 @@ Fruther on the top we followed some sheep paths leading to the lake Hólmsárló
 
 {{< imgScale "DSC00757_1600.JPG" "Strange circles in the moss." "500x" >}}
 
-All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (whitch circles).
+All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (witch's rings).
 They are a result of a mushroom growing in the moss, which unfortunately also kills the moss.
 Due to the seasons, the moss cannot always grow and this builds these circles.
 
