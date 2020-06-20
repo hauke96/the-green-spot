@@ -121,11 +121,11 @@ At the end of the F223 there was a big parking area with toilets, an information
 
 We were nearly alone when we reached the waterfall, only a father and his son were also there.
 
-{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss, which we only saw from the distance. We went further into the valley." "500x" >}}
+{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss in the Eldgjá, which we only saw from the distance. We went further into the valley." "500x" >}}
 
 A short time later, it became foggy and some clouds flew into the Canyon.
 
-{{< imgScale "DSC00807_1600.JPG" "A cloud suddenly moved into the canyon." "500x" >}}
+{{< imgScale "DSC00807_1600.JPG" "A cloud suddenly moved into the Eldgjá canyon." "500x" >}}
 
 We quickly went further into the Eldgjá canyon.
 The ground became a swamp and we were only able to walk on the side of the valley but it became a bit better towards the end.
