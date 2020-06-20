@@ -44,6 +44,7 @@ re[Svartahnuksfjöll]=Svartahnúksfjöll
 #re[Sveinstindur]=
 re[Thorsmörk]=Þórsmörk
 re[Thor]=Þór
+re[Tungnaa]=Tungnaá
 re[Utivist]=Útivist
 
 for i in $(find ./content -type f -iname '*.md')
