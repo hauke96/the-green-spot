@@ -126,6 +126,7 @@ Nicht sie Welt, aber der Hang verläuft im 45 Grad Winkel.
 
 Beim Frühstück haben wir die zunächst die zweite von unseren drei Flaschen Brennstoff angebrochen.
 Haben also viel zu viel davon gekauft, aber besser zu viel, als zu wenig.
+Heißt also auch: Für zwei Personen reicht ein Liter Reinigungsbenzin etwas über zwei Wochen.
 
 Mit leichten Gepäck (Kamera, Trinken, Knabberzeug) sind wir dann also auf den Stakihnúkur rauf.
 Der Untergrund war zwar fest (also kein loser Sand), aber hier und da etwas brüchig, sodass man schon aufpassen musste.
@@ -145,5 +146,37 @@ Unser Solarpanel hatte auch gut zu Schuften, die Investition darin war also gold
 
 Erst am Abend wurde es ungemütlich und es find mal wieder an zu regnen, aber das war nicht schlimm, sondern hat die Mücken etwas vertrieben.
 
-# Tag 18: Stakihnúkur → Tjörvafell
-{{< smallDate "2018-08-04" >}}
+# Tag 18: Stakihnúkur
+{{< smallDate "2018-08-05" >}}
+
+Das Wetter war bereits morgens das genaue Gegenteil von gestern: Stürmisch und regnerisch.
+Da wir noch einige Tage Reserve haben, beschlossen wir den Tag im Zelt zu verbringen ohne irgendwas spannendes zu machen.
+Aber so ein kompletter Ruhetag tat auch ganz gut.
+
+# Tag 19: Stakihnúkur → Tjörvafell
+{{< smallDate "2018-08-06" >}}
+
+Das Wetter war an diesem Tag zwar nicht großartig aber definitiv besser als gestern, ab und zu kam sogar die Sonne heraus.
+Sind am späten Vormittag dann los in Richtung F208, die nach Landmannalaugar führt.
+
+Wegen des Flusses Jökuldalakvísl haben wir uns etwas sorgen gemacht, da er auf unserer Wanderkarte recht groß eingezeichnet war.
+Ein paar Warnschilder bezüglich Treibsand und starker Strömungen machten und da nicht gerade Mut.
+Zum Glück führte aber eine Mischung aus Furt und Brücke über den Fluss: Man hat einfach riesige Rohre ins Wasser gelegt, sodass man relativ bequem den Fluss queren konnte.
+
+Auf der anderen Seite ging es dann entlang der Hütte "Höll" zur F208 auf der es gespenstisch ruhig war.
+Wir hatten erwartet, dass dort einiges los ist, da es *die* Verbindung von Landmannalaugar nach Süden ist.
+
+Als wir nach einiger Zeit die Kreuzung mit der F224 (Einfahrt zum Campingplatz) erreichten sahen wir, dass die F208 eigentlich gesperrt war.
+Während unserer kurzen Pause kam ein Jeep aus dem gesperrten Bereich und der Fahrer fragte uns ob wir Deutsche seien, was wir natürlich bejahten.
+Daraufhin fragte er ob wir an der Skaftá entlang gegangen seien und uns in die Hüttenbücher eingetragen hätte, was wir ebenfalls bestätigten.
+Er meinte dann (auf Englisch) "Dann seid ihr vielleicht die Deutschen, die wir seit Tagen suchen".
+Da ist uns erst mal das Herz in die Hose gerutscht.
+
+Er erklärte, dass es unter dem Vatnajökull eine Eruption gegeben hat woraufhin es eine Gletscherflut gab bei der die Skaftá über ihre Ufer getreten ist.
+Das ganze Areal bis hin zu Landmannalaugar wurde daraufhin abgesperrt und das Gebiet um die Skaftá evakuiert.
+Bei der Evakuierung wurde dann ein Deutsches Pärchen vermisst, welches sich in die Hüttenbücher eingetragen hat.
+
+Wenig Später kam eine Frau der Rettungsorganisation und gab Entwarnung: Die Deutschen wurden von der Skaftá eingeschlossen und haben einen Notruf angesetzt, woraufhin sie gefunden wurden.
+
+Nach diesem Schrecken ging es dann aber weiter zu einer vermeintlichen Ruine am nördlichen Ende des Frostastaðavatn, welche wird jedoch nicht fanden.
+Da es langsam Abend wurde schlugen wir unser Zelt etwas östlichen am Fuße des Tjörvafell auf.
