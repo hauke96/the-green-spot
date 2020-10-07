@@ -179,4 +179,106 @@ Bei der Evakuierung wurde dann ein Deutsches Pärchen vermisst, welches sich in 
 Wenig Später kam eine Frau der Rettungsorganisation und gab Entwarnung: Die Deutschen wurden von der Skaftá eingeschlossen und haben einen Notruf angesetzt, woraufhin sie gefunden wurden.
 
 Nach diesem Schrecken ging es dann aber weiter zu einer vermeintlichen Ruine am nördlichen Ende des Frostastaðavatn, welche wird jedoch nicht fanden.
-Da es langsam Abend wurde schlugen wir unser Zelt etwas östlichen am Fuße des Tjörvafell auf.
+Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unser Zelt etwas östlichen am Fuße des Tjörvafell auf.
+
+# Tag 20: Tjörvafell
+{{< smallDate "2018-08-07" >}}
+
+Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16 m/s also knapp 60km/h), es wurde sogar ein Hering (22cm lang) aus dem recht festen Boden gerissen.
+
+Während wir frühstückten wurde es draußen immer diesiger und irgendwann konnten wir die ca. 700m entfernten Hänge vom Ljótipollur nicht mehr erkennen.
+Als ich kurz draußen war stellte ich dann fest, dass wir in einem Sandsturm feststeckten.
+
+Auch im Zelt sammelte sich allmählich Sand, jedoch nicht viel, alles knirschte aber etwas.
+
+Da man draußen sofort Sand in den Augen hatte, blieben wir heute wiedermal im Zelt und hofften, dass der böhige Wind unser Zelt heile ließ.
+Am Abend versuchten wir dann etwas warmes zu kochen, für einen halben Liter Wasser brauchten wir durch den Wind allerdings über eine halbe Stunde, bis es kochte.
+
+# Tag 21: Tjörvafell → Landmannalaugar
+{{< smallDate "2018-08-08" >}}
+
+Zum Glück flaute der Wind über Nacht ab und auch die Luft wurde wieder klar.
+Sind also nach dem Frühstück aufgebrochen und haben uns den Ljótipollur (zu Deutsch etwa "hässliche Pfütze") angeschaut.
+So hässlich war die Pfütze aber gar nicht, hatten aber schon schönere Ecken gesehen.
+
+Vorbei an einer Seismologischen Messstation ging es dann auf Wanderwegen zum Vulkan Stútur auf den es ebenfalls einen Wanderweg hoch gibt.
+Kurz Pause gemacht und weiter nach Landmannalaugar.
+
+Einen reinen Fußweg zum Campingplatz gibt es nicht, man läuft permanent auf der viel befahrenen Schotterpiste F224.
+Alternativ gibt es aber auch ein paar Wanderwege durch die nahen Berge.
+
+Als dann der Campingplatz in Sicht kam waren wir etwas geschockt: Bereist einen halben Kilometer vor dem Platz gab es große Parkplätze, die komplett überfüllt waren.
+Selbst um den eigentlichen Zeltplatz gibt es diverse Parkplätze, die alle voll waren.
+
+Der Platz selbst ist zwar groß aber eigentlich nicht zum zelten geeignet: Steinharter, unebener mit spitzen Steinen versehener Untergrund.
+Eine Nacht für zwei Personen im Zelt kostete uns 4000ISK/32€ und fürs Duschen sollte man weitere 500ISK/4€ zahlen.
+
+Wir haben also unser zelt aufgeschlagen und fingen ein wenig an zu trauern, denn hiermit war unsere Wanderung vorbei.
+
+Vor Ort gibt es neben dem Info-Häuschen an dem man auch kleinere Snacks kaufen kann, einen Mini-mini-Supermarkt in einem alten Schulbus.
+Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500ISK/4€) und zwei Äpfel (jeweils 100ISK/0,80€) gegönnt.
+
+Am nächsten Tag sollte unser Bus am Nachmittag gehen und wir haben es sogar ohne Probleme geschafft vor Ort per Telefon das Ticket umzubuchen, sodass wir schon Mittags fuhren.
+Ohne extra Gebühren, ohne Storno-Kosten, einfach so!
+
+# Tag 22: Landmannalaugar → Reykjavík → Keflavík
+{{< smallDate "2018-08-09" >}}
+
+Über die Nacht reden wir mal lieber nicht weiter (laut, ungemütlich, der harte Untergrund...) aber das Frühstück war umso besser, denn wir haben uns beim Mini-Supermarkt eine "Koko-Mjöll" (also eine Schokomilch für jeweils 250ISK/2€) und Blaubeer-Muffins gegönnt (jeweils 500ISK/4€ aber das war es uns wert).
+
+Vormittags waren wir noch kurz im angrenzenden Lavafeld wandern, aber um 13 Uhr ging dann auch schon unser Bus zurück nach Reykjavík.
+Der Bus war letztendlich ein LKW bei dem man den hinteren Teil zu einem Bus umgebaut hat.
+Mega geiles Teil!
+Die Fahrt bis zur Hekla war recht ruppig, aber ab dort gab es eine asphaltierte Straße, sodass die restliche Fahrt sehr angenehm war.
+
+Sind vom BSÍ in Reykjavík dieselbe Route gelaufen wir vor drei Wochen: Erst zur Kirche und dann in die Innenstadt.
+Bei einem Bonus-Supermarkt haben wir Lakritz und isländischen Trockenfisch gekauft.
+
+Anschließen - wie es sich für richtige Touristen gehört - haben wir in diversen Läden nach Souveniers geschaut und bemerkt, dass alle Läden das gleiche haben und kein Laden signifikant günstiger ist.
+Die Wahl fiel dann auf zwei Schnapsgläser mit Þór und Freya drauf.
+
+Im Fischrestaurant "Reykjavík Fish" haben wir dann leckeres Fish-and-Chips gegessen.
+Als Nachtisch gab es von der Eisdiele "Valdis" nebenan sehr sehr sehr leckeres Lakritz-Eis (je Kugel 300ISK/2,50€).
+
+In der Eisdiele trafen wir ein Touristenpärchen aus dem Fischrestaurant wieder, welche auf der anderen Straßenseite in einem Ferienhaus wohnten.
+Wir haben uns bei Travis und Vanessa dann noch nett unterhalten und mussten dann hastig zum BSÍ aufbrechen.
+Hatten noch 20 Minuten bis der Bus fuhr und man kann also sagen: Die Zeit reicht. Gerade so. Und auch nur, wenn man im Laufschritt geht und die Rucksäcke nicht mehr all zu schwer sind.
+
+Haben den Bus jedenfalls noch bekommen und ab ging es zum Flughafen nach Keflavík.
+Da unser Flug aber erst am nächsten Tag ging, übernachteten wir im "Alex Guesthouse", die einen Shuttle-Service zum Flughafen anboten.
+Sehr praktisch!
+
+Wir hatten ein kleines Häusschen dann ganz für uns alleine und konten eine schöne Dusche in thermal gewärmtem Wasser nehmen.
+Ein perfekter Abschluss.
+
+# Tag 22: Keflavík → Hamburg
+{{< smallDate "2018-08-10" >}}
+
+Tja, um 4:15 klingelte unser Wecke und nach ca. fünf Stunden Schlaf ging es also zum Frühstück und dann mit dem Shuttle-Service weiter zum Flughafen.
+Dort haben wir einen self-check-in gemacht, das restliche Reinigungsbenzin abgegeben (darf man ja eh nicht mitnehmen) und unsere Rucksäcke als Sperrgepäck aufgegeben.
+
+Bei den Duty-Free Geschäften haben wir uns dann mit isländischem Schnaps eingedeckt und sind etwas durch die anderen Souvenierläden geschlendert.
+Die Preise hier sind - wie zu erwarten - erheblich höher als in der Stadt.
+
+Das beste Souvenier, das wir dort gefunden haben waren unbearbeitete Lavasteine (ca. 2-3cm groß) für 1080ISK/8,60€.
+Da wir unterwegs immer mal wieder solche Steine aufgesammelt und eingesteckt haben, haben wir in unserem Rucksack also ein Vermögen dabei!
+Also merke: Kauft keine Souveniers am Flughafen und überlegt besser kurz nach, bevor ihr irgendwas kauft ;)
+
+Als wir dann im Flieger saßen, kam etwas Trauer auf, eigentlich wären wir gerne geblieben.
+Aber eins steht fest: Wir kommen wieder!
+
+# Ende und ein paar Gedanken am Rande
+
+Island ist wunderschön und so viele großartige Ecken werden von (fast) niemandem besucht, was schade ist, denn die touristischen hot-spots werden immer voller, dreckiger und bebauter.
+Solltest du dich dazu entscheiden in Island wandern zu gehen, dann kann ich dir nur wärmstens empfehlen das Auto mal stehen zu lassen (oder erst gar keins zu mieten) und die Wanderwege zu gehen bei denen man im Internet keine oder nur sehr wenige Infos zu findet.
+
+Die Reise hat bei mir, neben Begeisterung und Ehrfurcht vor der Natur, im Kopf ein Umdenken in Gang gesetzt:
+Wir hatten während der Wanderung zwar Fertignahrung dabei, mussten uns aber doch in vielen Dingen auf ein Minimum beschränken.
+Zuhause habe ich dann erst gemerkt in welchem Überfluss wir leben.
+Plötzlich kam mir geriebener Käse im Supermarkt absurd dekadent vor und fertig geschmierte Sandwiches in Plastikverpackung widerten mich an.
+Noch heute, zwei Jahre später, geht es mir nicht anders.
+
+Solche Erfahrungen und Erlebnisse erlebt man glaube ich nicht, wenn man sich ein Auto mietet, in Hostels übernachtet oder nur die touristischen Hot-Spots besucht.
+
+Wie dem auch sei, ich hoffe dir haben die Berichte gefallen und eventuell sogar bei deiner Urlaubsplanung geholfen.
+Ich freue mich natürlich immer über Fragen, Anregungen, deine eigenen Erfahrungen, etc. etc., lass also gerne ein Kommentar da :)

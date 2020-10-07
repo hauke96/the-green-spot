@@ -27,6 +27,7 @@ re[Krossa]=Krossá
 re[Langisjor]=Langisjór
 #re[Laugavegur]=
 re[Ljosa]=Ljósá
+re[Ljotipollur]=Ljótipollur
 re[Maelifell]=Mælifell
 re[Maelifellsandur]=Mælifellsandur
 re[Markarfljöt]=Markarfljót
