@@ -10,7 +10,16 @@ images = []
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
 
-{ {< imgScale "iceland-2018-map-25-29.jpg" "TODO: Der vierte Teil unserer Route." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/64.0626/-18.7537">
+</iframe>
+<a href="//umap.openstreetmap.de/en/map/balzac-coffee-in-hamburg_3508">
+	See full screen
+</a>
 
 # Tag 13: Sveinstindur Nothütte → Langisjór
 {{< smallDate "2018-07-30" >}}
