@@ -1,13 +1,13 @@
 +++
 title = "Iceland 2018: Travel report (part 4)"
-summary = ""
+summary = "The last third of our hike was really exciting: Awesome landscape, strong storms, evacuated areas and a sandstorm. This completes our Iceland hike but also leaves some long-term changes."
 date = "2020-06-20T16:36:49+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
 images = []
 +++
 {{< note >}}
-**Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
+**Previous part:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
 
 <iframe
