@@ -1,6 +1,6 @@
 +++
 title = "Island 2018: Reisebericht (Teil 4)"
-summary = ""
+summary = "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Großartige Landschaft, starke Unwetter, evakuierte Gebiete und ein Sandsturm. Damit endet auch unsere Island Tour 2018 und lässt durchaus auch langfristige Veränderungen da."
 date = "2020-06-20T16:36:49+02:00"
 tags = ["island-2018"]
 author = "hauke"
@@ -272,13 +272,19 @@ Aber eins steht fest: Wir kommen wieder!
 Island ist wunderschön und so viele großartige Ecken werden von (fast) niemandem besucht, was schade ist, denn die touristischen hot-spots werden immer voller, dreckiger und bebauter.
 Solltest du dich dazu entscheiden in Island wandern zu gehen, dann kann ich dir nur wärmstens empfehlen das Auto mal stehen zu lassen (oder erst gar keins zu mieten) und die Wanderwege zu gehen bei denen man im Internet keine oder nur sehr wenige Infos zu findet.
 
-Die Reise hat bei mir, neben Begeisterung und Ehrfurcht vor der Natur, im Kopf ein Umdenken in Gang gesetzt:
-Wir hatten während der Wanderung zwar Fertignahrung dabei, mussten uns aber doch in vielen Dingen auf ein Minimum beschränken.
-Zuhause habe ich dann erst gemerkt in welchem Überfluss wir leben.
-Plötzlich kam mir geriebener Käse im Supermarkt absurd dekadent vor und fertig geschmierte Sandwiches in Plastikverpackung widerten mich an.
-Noch heute, zwei Jahre später, geht es mir nicht anders.
+Die Reise hat bei mir im Kopf, neben Begeisterung und Ehrfurcht vor der Natur, einen Umdenkprozess hervorgerufen:
+Wir hatten während der Wanderung zwar Fertignahrung und alles nötige dabei, mussten uns aber doch in vielen Dingen auf ein Minimum beschränken.
+Zuhause habe ich dann erst gemerkt in welchem Überfluss wir leben, während der Wanderung mussten wir unsere Toilettenpapier-Blätter einzelnd abzählen aber hier steht nur die Frage "10er oder 12er Packung Klopapier?" zur Debatte.
+Plötzlich kamen mit alltägliche Dinge, wie geriebener Käse im Supermarkt absurd dekadent vor und fertig geschmierte Sandwiches in Plastikverpackung widerten mich an.
+Noch heute, zwei Jahre später, geht es mir nicht viel anders.
 
-Solche Erfahrungen und Erlebnisse erlebt man glaube ich nicht, wenn man sich ein Auto mietet, in Hostels übernachtet oder nur die touristischen Hot-Spots besucht.
+Solche Erfahrungen und Erlebnisse erlebt man glaube ich nicht, wenn man sich ein Auto mietet, in Hostels übernachtet oder nur die touristischen Hot-Spots mit angeschlossenen Restaurants besucht.
+
+Abseits der mentalen Langzeitfolgen blieben uns auch ein paar physische Folgen:
+Kristina hat unterwegs von Schmerzen im Fuß geklagt und wir befürchteten schon, dass etwa ein Band oder Muskel gerissen sei.
+Nach langer Zeit hat sich dann jedoch herausgestellt, dass vermutlich ein Knochenbruch durch Überbelastung der Grund für die Schmerzen war.
+Bei mir blieb meine Taubheit der Zehen, die durch die leichte Erfrierung in der [Furt des Innri-Emstruá]({{< ref "/posts/iceland-2018-report-2#der-arloch-fluss" >}}) davongetragen habe, noch ca. ein halbes Jahr lang bestehen, danach kehrte das Gefühl dann zurück.
 
 Wie dem auch sei, ich hoffe dir haben die Berichte gefallen und eventuell sogar bei deiner Urlaubsplanung geholfen.
-Ich freue mich natürlich immer über Fragen, Anregungen, deine eigenen Erfahrungen, etc. etc., lass also gerne ein Kommentar da :)
+Ich freue mich natürlich immer über Fragen, Anregungen, deine eigenen Erfahrungen und alles, was du zu sagen hast.
+Lass also gerne ein Kommentar da :)
