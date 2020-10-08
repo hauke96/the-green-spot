@@ -10,7 +10,16 @@ images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
 {{< /note >}}
 
-{{< imgScale "iceland-2018-map-25-29.jpg" "Der dritte Teil unserer Route." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/63.99/-18.67">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Vollständige Karte anzeigen
+</a>
 
 # Tag 8: Hólmsárlón → Strútslaug
 {{< smallDate "2018-07-25" >}}

@@ -10,7 +10,16 @@ images = []
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
 
-{ {< imgScale "iceland-2018-map-25-29.jpg" "TODO: The fourth part of our trip." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/64.06/-18.75">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Show complete map
+</a>
 
 # Tag 13: Sveinstindur emergency shelter → TODO
 {{< smallDate "2018-07-30" >}}

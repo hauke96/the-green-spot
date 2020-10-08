@@ -15,10 +15,10 @@ images = []
 	height="500px"
 	frameborder="0"
 	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/64.0626/-18.7537">
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/64.06/-18.75">
 </iframe>
-<a href="//umap.openstreetmap.de/en/map/balzac-coffee-in-hamburg_3508">
-	See full screen
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Vollständige Karte anzeigen
 </a>
 
 # Tag 13: Sveinstindur Nothütte → Langisjór

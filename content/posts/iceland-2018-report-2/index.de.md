@@ -10,7 +10,16 @@ images = ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
 **Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})
 {{< /note >}}
 
-{{< imgScale "iceland-2018-map-21-24.jpg" "Der zweite Teil unserer Route." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.825/-19.03">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Vollständige Karte anzeigen
+</a>
 
 Am Tag zuvor haben wir de Laugavegur verlassen und unser Lager am Fremri-Emstruá in der Nähe vom Bíldufell aufgeschlagen.
 
