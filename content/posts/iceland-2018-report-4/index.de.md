@@ -145,7 +145,7 @@ Sind am Faxafit mit einer nicht all zu kleinen Furt über den Bach gestartet, di
 Danach ging es dann weiter entlang der Tungnaá Richtung Süd-Westen.
 Ein paar kleinere Furten hatten wir zu bewältigen, aber nichts erstens.
 
-{{< imgScale "DSC01019_1600.JPG" "Diese Piste führt parallel zur Tungnaa und ihr sind wir eine ganze Weile lang gefolgt." "500x" >}}
+{{< imgScale "DSC01019_1600.JPG" "Diese Piste führt parallel zur Tungnaá und ihr sind wir eine ganze Weile lang gefolgt." "500x" >}}
 
 Später erreichten wir ein Feuchtgebiet bei dem wir die Piste auch wieder verlassen haben und auf eigene Faust weiter näher an der Tungnaá entlang gegangen sind.
 Hier wurde es auch immer grüner und abwechslungsreicher.
@@ -173,7 +173,7 @@ Nach Norden konnte man die komplette Tungnaá entlang bis zum Vatnajökull schau
 
 {{< imgScale "DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50km Entfernung." "500x" >}}
 
-{{< imgScale "DSC01050_x1000.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaa." "500x" >}}
+{{< imgScale "DSC01050_x1000.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
 
 Am Fuße des Berges unweit des Sees stand ein alter Bus, den jemand schwarz angemalt hat (aus Tarnung? Zum aufheizen?) und als Fischer-/Urlaubshütte benutzt.
 Innen drin lagen auf jeden Fall Fischerutensilien herum und etwas Whisky.
@@ -249,12 +249,12 @@ Zum Glück flaute der Wind über Nacht ab und auch die Luft wurde wieder klar.
 Sind also nach dem Frühstück aufgebrochen und haben uns den Ljótipollur (zu Deutsch etwa "hässliche Pfütze") angeschaut.
 So hässlich war die Pfütze aber gar nicht, hatten aber schon schönere Ecken gesehen.
 
-{{< imgScale "DSC01105_1600.JPG" "Der Ljotipollur." "500x" >}}
+{{< imgScale "DSC01105_1600.JPG" "Der Ljótipollur." "500x" >}}
 
 Vorbei an einer Seismologischen Messstation ging es dann auf Wanderwegen zum Vulkan Stútur auf den es ebenfalls einen Wanderweg hoch gibt.
 Kurz Pause gemacht und weiter nach Landmannalaugar.
 
-{{< imgScale "DSC01107_1600.JPG" "Eine kleine (eventuell inaktive?) seismologische Station am Ljotipollur." "500x" >}}
+{{< imgScale "DSC01107_1600.JPG" "Eine kleine (eventuell inaktive?) seismologische Station am Ljótipollur." "500x" >}}
 
 Einen reinen Fußweg zum Campingplatz gibt es nicht, man läuft permanent auf der viel befahrenen Schotterpiste F224.
 Alternativ gibt es aber auch ein paar Wanderwege durch die nahen Berge.
