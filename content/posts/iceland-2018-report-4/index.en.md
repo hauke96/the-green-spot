@@ -4,7 +4,7 @@ summary = "The last third of our hike was really exciting: Awesome landscape, st
 date = "2020-06-20T16:36:49+02:00"
 tags = ["iceland-2018"]
 author = "hauke"
-images = []
+images = ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
 +++
 {{< note >}}
 **Previous part:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})

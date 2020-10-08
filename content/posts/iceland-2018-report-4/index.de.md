@@ -4,7 +4,7 @@ summary = "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Gr
 date = "2020-06-20T16:36:49+02:00"
 tags = ["island-2018"]
 author = "hauke"
-images = []
+images = ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
 +++
 {{< note >}}
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
