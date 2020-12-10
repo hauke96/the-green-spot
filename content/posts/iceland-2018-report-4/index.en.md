@@ -130,3 +130,32 @@ This place was called Faxafit but we don't know if this is the name of the canyo
 Because it was noon and this place was quite nice, we stayed here and pitched up our tent.
 Unfortunately this place was a hotspot for mosquitos and we covered ourselves with towels and scarfs because these little creatures are really annoying.
 However they fortunately don't bite so that we were able to wash us and our clothes in the stream.
+
+# Day 16: Faxafit
+{{< smallDate "2018-08-02" >}}
+
+Today was a pure rest day and we relaxed and chilled the whole day over, talked, ate something and went to bed early.
+[When we planned our hiking route]({{< ref "posts/iceland-2018-preparation" >}}) we added some days as a kind of security buffer, which we can now use up.
+
+# Day 17: Faxafit → Stakihnúkur
+{{< smallDate "2018-08-03" >}}
+
+The ford over the stream at Faxafit wasn't too small but wasn't a big problem and quite refreshing.
+
+After that we headed south-west in parallel to the Tungnaá.
+We encountered some smaller fords but nothing serious.
+
+{{< imgScale "DSC01019_1600.JPG" "This track follows the flow of the Tungnaá and we walked on it for a while." "500x" >}}
+
+Later during the day we reached an area of swamp and wetland where we left the track and just followed the Tungnaá off road.
+It soon became more green and more diversed which was quite nice.
+
+After avoiding hills and streams with magnificent slaloms, we reached a turquoise-blue lake at the bottom of the inactive volcano Stakihnúkur.
+The lake and our campsite were amazing and we pitched up our tent next to an old and bit overgrown track.
+
+# Day 18: Stakihnúkur
+{{< smallDate "2018-08-04" >}}
+
+We again decided to make this a resting day, but we weren't just chilling and lying around.
+Instead we had the idea to climb the Stakihnúkur (810m / 1650ft above sea level or approx. 210m / 688ft above our camp).
+Nothing really serious, but the slope is quite steep with a 45° angle.

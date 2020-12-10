@@ -124,7 +124,7 @@ Danach ging es weiter entlang einer Piste durch eine Schlucht zwischen der Bergk
 Parallel zur Tungnaá verläuft nämlich eine Piste, die in recht guten Zustand ist und ohne Schwierigkeiten bewandert oder befahren werden kann.
 Genau das Richtige für den Schluss auch, wenn es manchmal etwas monoton war.
 
-Etwa einen halben Kilometer entlang der Tungnaá, führt eine weitere kleine Schlucht durch die Bergkette an der es entsprechend auch einen Bach gibt.
+Etwa einen halben Kilometer entlang der Tungnaá später, führt eine weitere kleine Schlucht durch die Bergkette an der es entsprechend auch einen Bach gibt.
 Die Ecke wird Faxafit genannt, aber wir wissen nicht, ob damit die Schlucht oder Region gemeint ist.
 
 Da es zu dem Zeitpunkt Nachmittag war und wir hier ein schönes Plätzchen hatten, haben wir dort unser Zelt aufgeschlagen.
@@ -135,7 +135,7 @@ Zum Glück stechen sie aber nicht, sodass wir trotzdem uns und unsere Wäsche am
 {{< smallDate "2018-08-02" >}}
 
 Heute war ein reiner Ausruhtag und wir haben den ganzen lieben langen Tag rumgesessen und uns unterhalten, aber und zu was gegessen und sind früh schlafen gegangen.
-Beim Planen der Route haben wir ein paar Tage Sicherheitspuffer eingebaut, den wir am Ende der Tour langsam aufbrauchen konnten.
+[Beim Planen der Route]({{< ref "posts/iceland-2018-preparation" >}}) haben wir ein paar Tage Sicherheitspuffer eingebaut, den wir am Ende der Tour langsam aufbrauchen konnten.
 
 # Tag 17: Faxafit → Stakihnúkur
 {{< smallDate "2018-08-03" >}}
@@ -150,10 +150,10 @@ Ein paar kleinere Furten hatten wir zu bewältigen, aber nichts erstens.
 Später erreichten wir ein Feuchtgebiet bei dem wir die Piste auch wieder verlassen haben und auf eigene Faust weiter näher an der Tungnaá entlang gegangen sind.
 Hier wurde es auch immer grüner und abwechslungsreicher.
 
-Nach dem wir einige Zeit durch die Gegend geschlängelt sind (wir haben versucht Anhöhen und Bächen in grandiosen Slalom auszuweichen), erreichten wir einen türkis-blauen See am Fuße des Stakihnúkur.
+Nachdem wir einige Zeit durch die Gegend geschlängelt sind (wir haben versucht Anhöhen und Bächen in grandiosen Slalom auszuweichen), erreichten wir einen türkis-blauen See am Fuße des Stakihnúkur.
 Der See und der Platz war unglaublich schön, sodass wir direkt an einer alten, fast zugewachsenen Piste unser Zelt aufgeschlagen haben.
 
-# Tag 17: Stakihnúkur
+# Tag 18: Stakihnúkur
 {{< smallDate "2018-08-04" >}}
 
 Wir haben beschlossen wieder einen Ruhetag einzulegen, bei dem wir jedoch nicht den ganzen Tag faul rumliegen wollten.
@@ -188,14 +188,14 @@ Unser Solarpanel hatte auch gut zu Schuften, die Investition darin war also gold
 
 Erst am Abend wurde es ungemütlich und es find mal wieder an zu regnen, aber das war nicht schlimm, sondern hat die Mücken etwas vertrieben.
 
-# Tag 18: Stakihnúkur
+# Tag 19: Stakihnúkur
 {{< smallDate "2018-08-05" >}}
 
 Das Wetter war bereits morgens das genaue Gegenteil von gestern: Stürmisch und regnerisch.
 Da wir noch einige Tage Reserve haben, beschlossen wir den Tag im Zelt zu verbringen ohne irgendwas spannendes zu machen.
 Aber so ein kompletter Ruhetag tat auch ganz gut.
 
-# Tag 19: Stakihnúkur → Tjörvafell
+# Tag 20: Stakihnúkur → Tjörvafell
 {{< smallDate "2018-08-06" >}}
 
 Das Wetter war an diesem Tag zwar nicht großartig aber definitiv besser als gestern, ab und zu kam sogar die Sonne heraus.
@@ -227,7 +227,7 @@ Wenig Später kam eine Frau der Rettungsorganisation und gab Entwarnung: Die Deu
 Nach diesem Schrecken ging es dann aber weiter zu einer vermeintlichen Ruine am nördlichen Ende des Frostastaðavatn, welche wird jedoch nicht fanden.
 Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unser Zelt etwas östlichen am Fuße des Tjörvafell auf.
 
-# Tag 20: Tjörvafell
+# Tag 21: Tjörvafell
 {{< smallDate "2018-08-07" >}}
 
 Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16 m/s also knapp 60km/h), es wurde sogar ein Hering (22cm lang) aus dem recht festen Boden gerissen.
@@ -242,7 +242,7 @@ Am Abend versuchten wir dann etwas warmes zu kochen, für einen halben Liter Was
 
 {{< imgScale "DSC01080_1600.JPG" "Am Abend hatten wir bereits etwas mehr Sicht. Der Hügel am rechten Bildrand war zuvor nur schemenhaft zu erkennen." "500x" >}}
 
-# Tag 21: Tjörvafell → Landmannalaugar
+# Tag 22: Tjörvafell → Landmannalaugar
 {{< smallDate "2018-08-08" >}}
 
 Zum Glück flaute der Wind über Nacht ab und auch die Luft wurde wieder klar.
@@ -281,7 +281,7 @@ Ohne extra Gebühren, ohne Storno-Kosten, einfach so!
 
 {{< imgScale "IMG_20180809_111117_1600.jpg" "Uns gingen irgendwann die Gummibänder aus, also: Schnell zusammengeknotet und schon ist es wie neu." "500x" >}}
 
-# Tag 22: Landmannalaugar → Reykjavík → Keflavík
+# Tag 23: Landmannalaugar → Reykjavík → Keflavík
 {{< smallDate "2018-08-09" >}}
 
 Über die Nacht reden wir mal lieber nicht weiter (laut, ungemütlich, der harte Untergrund...) aber das Frühstück war umso besser, denn wir haben uns beim Mini-Supermarkt eine "Koko-Mjöll" (also eine Schokomilch für jeweils 250ISK/2€) und Blaubeer-Muffins gegönnt (jeweils 500ISK/4€ aber das war es uns wert).
@@ -313,7 +313,7 @@ Sehr praktisch!
 Wir hatten ein kleines Häusschen dann ganz für uns alleine und konten eine schöne Dusche in thermal gewärmtem Wasser nehmen.
 Ein perfekter Abschluss.
 
-# Tag 22: Keflavík → Hamburg
+# Tag 24: Keflavík → Hamburg
 {{< smallDate "2018-08-10" >}}
 
 Tja, um 4:15 klingelte unser Wecke und nach ca. fünf Stunden Schlaf ging es also zum Frühstück und dann mit dem Shuttle-Service weiter zum Flughafen.
