@@ -21,7 +21,7 @@ images = ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
 	Show complete map
 </a>
 
-# Tag 13: Sveinstindur emergency shelter → Langisjór
+# Day 13: Sveinstindur emergency shelter → Langisjór
 {{< smallDate "2018-07-30" >}}
 
 Made a nice breakfast in the hut, which was very nice, small, old but cosy.

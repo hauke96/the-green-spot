@@ -62,7 +62,7 @@ Going out of the water after some time was not so nice and we tried to "dry" our
 We didn't want to hike much longer so we decided to build our camp a bit further north near the river Hólmsá and tried to dry our wet swimsuits.
 My "swimsuit" was by the way just my underpants -- save some weight by not taking swimming trunks/swimsuits with you.
 
-# Tag 9: Strútslaug → Syðri–Ófæra
+# Day 9: Strútslaug → Syðri–Ófæra
 {{< smallDate "2018-07-26" >}}
 
 The next day was the only day where I haven't made a single photo and that had a reason:
@@ -88,7 +88,7 @@ In the evening, we took on some dry clothes and -- again -- tried to dry our wet
 
 {{< imgScale "DSC00774_1600.JPG" "Still wet on the next day: Our wet clothes on our \"laundry line\"." "500x" >}}
 
-# Tag 10: Syðri–Ófæra → Eldgjá
+# Day 10: Syðri–Ófæra → Eldgjá
 {{< smallDate "2018-07-27" >}}
 
 The next morning looked as bad as the day before.
@@ -141,7 +141,7 @@ The ground became a swamp and we were only able to walk on the side of the valle
 Because it was late (11pm) and very foggy, we decided to build up our camp and hide it behind a big rock (to not get caught).
 You are officially not allowed to camp inside the Eldgjá but it was the only opportunity for us.
 
-# Tag 11: Eldgjá → Skælingar hut
+# Day 11: Eldgjá → Skælingar hut
 {{< smallDate "2018-07-28" >}}
 
 To not getting caught, we woke up at 5am and started hiking at 6am.
@@ -193,7 +193,7 @@ After some sticky mashed potatoes, which we "refined" with some hard cheese and 
 This time in a real and dry bed.
 Awesome!
 
-# Tag 12: Skælingar hut → Sveinstindur emergency shelter
+# Day 12: Skælingar hut → Sveinstindur emergency shelter
 {{< smallDate "2018-07-29" >}}
 
 After waking up, we saw three large black ravens outside the window, which can grow up to 60cm / 2ft.
