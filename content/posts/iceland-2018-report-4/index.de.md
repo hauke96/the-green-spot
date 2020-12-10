@@ -66,7 +66,7 @@ Dank der Gasheizung war es auch schön warm und wir sind sofort eingeschlafen.
 Wir haben wunderbar geschlafen.
 In einem Bett schlafen zu können (bzw. in einer Schlafcouch) ist einfach unglaublicher Luxus.
 
-Als Frühstück haben wir unser Porridge gegessen, was die Familie etwas eigenartig fand, da wir immer einen BP-WR Block ins Porridge hineingrkrümelt haben.
+Als Frühstück haben wir unser Porridge gegessen, was die Familie etwas eigenartig fand, da wir immer einen BP-WR Block ins Porridge hineingekrümelt haben.
 Dazu gab es dann für mich noch Kokosflocken und für uns beide wahlweise Nüsse oder Trockenfrüchte.
 Bei der Familie mussten ein paar YumYum-instant-Nudeln als Frühstück her halten.
 
@@ -89,7 +89,7 @@ Die Landschaft war auf die typisch isländische Art und Weise schön: Schwarzer 
 Unser Ziel war ein See am Fluss Lónakvísl, an dem es ebenfalls eine Hütte geben sollte.
 
 Auf einer Anhöhe hatten wir dann einen wunderschönen Blick über die Gegend und konnten bereits die Hütte sehen.
-Der Abstieg war etwas abenteuerlich (da der Hang der Steil war) und wir hatten einen kleinen Back zu überqueren, aber dann waren wir auch schon da.
+Der Abstieg war etwas abenteuerlich (da der Hang der Steil war) und wir hatten einen kleinen Bach zu überqueren, aber dann waren wir auch schon da.
 
 {{< imgScale "DSC00958_x1000.JPG" "Aussicht vor dem Abstieg zur Hütte (schwach zu erkennen am hinteren See)." "500x" >}}
 

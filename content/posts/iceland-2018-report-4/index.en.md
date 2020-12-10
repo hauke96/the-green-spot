@@ -66,3 +66,41 @@ The hut even has a gas heating so that it was nice warm and cosy and we directly
 
 The night was awesome.
 Sleeping in a real bed (even if it's a sleeping couch) is pure luxury.
+
+We ate our usual porridge for breakfast, which was unusual for the family because we both crumbled one BP-WR bar into it.
+In addition to that, we both also put nuts and dried fruits into it and I also added coconut flakes.
+The family had some YumYum instant noodles as breakfast.
+
+They also gave us some leftover supplies like tea and German alphabet soup with Icelandic label glued onto it.
+It was even better that they took our garbage bag with them, because it had some serious weight and started to smell.
+
+We then said good bye, they left to Keflavík and we stepped through wind and rain towards Faxasund.
+We never experienced such a lovely encounter before, unbelievable!
+
+{{< imgScale "DSC00945_1600.JPG" "We walked along the perfectly visible track to Faxasund." "500x" >}}
+
+Our mood was good and we considered the starting second half of our hike as the way back.
+The weather suddenly became better as we passed the mountain ridge between Hrútabjörg and Grænifjallgarður heading for the Tungnaá.
+Note: Mountain ridges are sometimes like weather borders.
+
+{{< imgScale "DSC00948_1600.JPG" "Still slightly misty and a bit of rain on the horizon but nevertheless some awesome landscape." "500x" >}}
+
+The landscape was beautiful in its typical Icelandic way: Black sand and endless expense.
+Our goal for this day was a lake near the river Lonakvisl where another hut was located on our hiking map.
+
+On a hill we had a good view over the landscape and were even seeing the hut on the lake.
+The descend was a bit adventurous (the slope was very steep) and we had to cross a smaller stream.
+
+{{< imgScale "DSC00958_x1000.JPG" "The view before descend with the hut in the background (on the rear lake)" "500x" >}}
+
+Unfortunately was the hut a private one but also not rented to someone so that we just pitched up our tent next to the hut.
+Because it wasn't too late, we were able to relax and watch the beautiful sunset.
+
+{{< imgScale "DSC00961_1600.JPG" "Comfy evening in our tent next to the lake." "500x r90" >}}
+
+{{< imgScale "DSC00984_edit_01_1600.JPG" "A bit of macro photography in the evening." "500x" >}}
+
+{{< imgScale "DSC00987_edit_1600.JPG" "And some more, unfortunately I had no macro lens with me." "500x" >}}
+
+# Day 15: Lónakvísl → Faxafit
+{{< smallDate "2018-08-01" >}}
