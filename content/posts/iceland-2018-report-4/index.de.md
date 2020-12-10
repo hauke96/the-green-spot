@@ -118,9 +118,9 @@ Dadurch, dass die Sonne so früh schon durch die Wolken schien, bildete sich unt
 Ein Stück weiter sind wir dann auf einen Gipfel nördlich vom Faxi rauf geklettert und haben oben unser Mittagessen gemacht.
 Von dort aus hatten wir einen großartigen Blick über die Landschaft, die Tungnaá und einen See am Fuße des Gipfels an dem es auch eine Hütte gab (sehr wahrscheinlich eine private).
 
-{{< imgScale "DSC01013-14_x1000.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der rechten Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt." "500x" >}}
+{{< imgScale "DSC01013-14_x1000.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der linken Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt und aus der wir kamen." "500x" >}}
 
-Danach ging es weiter englang einer Piste durch eine Schlucht zwischen der Bergkette mit dem Faxi Gipfel hindurch Richtung Tungnaá.
+Danach ging es weiter entlang einer Piste durch eine Schlucht zwischen der Bergkette mit dem Faxi Gipfel hindurch Richtung Tungnaá.
 Parallel zur Tungnaá verläuft nämlich eine Piste, die in recht guten Zustand ist und ohne Schwierigkeiten bewandert oder befahren werden kann.
 Genau das Richtige für den Schluss auch, wenn es manchmal etwas monoton war.
 

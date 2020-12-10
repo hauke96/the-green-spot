@@ -104,3 +104,29 @@ Because it wasn't too late, we were able to relax and watch the beautiful sunset
 
 # Day 15: Lónakvísl → Faxafit
 {{< smallDate "2018-08-01" >}}
+
+Because we didn't want to get caught camping on private property, we stood up and left pretty early.
+
+{{< imgScale "DSC00992_1600.JPG" "View over the vast wetland. Behind the hill Kristina stands on, there was our camp." "500x" >}}
+
+{{< imgScale "DSC01005_x1000.JPG" "A little bit further, there was a nice waterfall in the Lonakvisl." "500x" >}}
+
+Because there were very little clouds, ground fog was building up and we made a break to also take some photos.
+
+{{< imgScale "DSC01009_1600.JPG" "Mentioned mystical ground fog." "500x" >}}
+
+At noon, we climed onto a mountain peak a bit north of Faxi and ate lunch there.
+We had an awesome view over the landscape, the Tungnaá and a lake with another small hut (probably a private one).
+
+{{< imgScale "DSC01013-14_x1000.JPG" "270° Panorama: The right half shows the Tungnaá and the lake, on the left half you can the the region behind the Faxi mountain ridge where we came from." "500x" >}}
+
+After having lunch, we followed a track through a small canyon through the Faxi mountain ridge to the other side where the Tungnaá flows.
+In parallel with the Tungnaá there's a track in quite good condition where you can hike or drive without any problems.
+This was quite nice for the end of our hike, even if this was a bit monotone.
+
+About half a kilometer later, there was another small canyon through the mountain ridge with a stream as well.
+This place was called Faxafit but we don't know if this is the name of the canyon or the region.
+
+Because it was noon and this place was quite nice, we stayed here and pitched up our tent.
+Unfortunately this place was a hotspot for mosquitos and we covered ourselves with towels and scarfs because these little creatures are really annoying.
+However they fortunately don't bite so that we were able to wash us and our clothes in the stream.
