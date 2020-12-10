@@ -158,7 +158,7 @@ Der See und der Platz war unglaublich schön, sodass wir direkt an einer alten, 
 
 Wir haben beschlossen wieder einen Ruhetag einzulegen, bei dem wir jedoch nicht den ganzen Tag faul rumliegen wollten.
 Stattdessen haben wir uns in den Kopf gesetzt den Stakihnúkur zu besteigen (810m über NHN, bzw. ca. 210m über unserem Camp).
-Nicht sie Welt, aber der Hang verläuft im 45 Grad Winkel.
+Nicht die Welt, aber der Hang verläuft im 45 Grad Winkel.
 
 Beim Frühstück haben wir die zunächst die zweite von unseren drei Flaschen Brennstoff angebrochen.
 Haben also viel zu viel davon gekauft, aber besser zu viel, als zu wenig.
