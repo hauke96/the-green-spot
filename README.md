@@ -13,6 +13,8 @@ Make sure you have the following applications installed:
 To build and deploy this, there's a script (`deploy.sh`).
 It's tailored exactly to the server of [the-green-spot](https://the-green-spot.de), so you might want to change it.
 
+Call this script with `--beta` to deploy into the beta sub-folder.
+
 Nevertheless, you need some things in addition to the ones above in order to use the script:
 * an interpreter (something like `gnome-terminal`)
 * `ssh`

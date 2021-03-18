@@ -10,7 +10,16 @@ images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
 {{< /note >}}
 
-{{< imgScale "iceland-2018-map-25-29.jpg" "The third part of our trip." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/63.99/-18.67">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Show complete map
+</a>
 
 # Day 8: Hólmsárlón → Strútslaug
 {{< smallDate "2018-07-25" >}}
@@ -53,7 +62,7 @@ Going out of the water after some time was not so nice and we tried to "dry" our
 We didn't want to hike much longer so we decided to build our camp a bit further north near the river Hólmsá and tried to dry our wet swimsuits.
 My "swimsuit" was by the way just my underpants -- save some weight by not taking swimming trunks/swimsuits with you.
 
-# Tag 9: Strútslaug → Syðri–Ófæra
+# Day 9: Strútslaug → Syðri–Ófæra
 {{< smallDate "2018-07-26" >}}
 
 The next day was the only day where I haven't made a single photo and that had a reason:
@@ -79,7 +88,7 @@ In the evening, we took on some dry clothes and -- again -- tried to dry our wet
 
 {{< imgScale "DSC00774_1600.JPG" "Still wet on the next day: Our wet clothes on our \"laundry line\"." "500x" >}}
 
-# Tag 10: Syðri–Ófæra → Eldgjá
+# Day 10: Syðri–Ófæra → Eldgjá
 {{< smallDate "2018-07-27" >}}
 
 The next morning looked as bad as the day before.
@@ -121,18 +130,18 @@ At the end of the F223 there was a big parking area with toilets, an information
 
 We were nearly alone when we reached the waterfall, only a father and his son were also there.
 
-{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss, which we only saw from the distance. We went further into the valley." "500x" >}}
+{{< imgScale "DSC00805_1600.JPG" "The Ófærufoss in the Eldgjá, which we only saw from the distance. We went further into the valley." "500x" >}}
 
 A short time later, it became foggy and some clouds flew into the Canyon.
 
-{{< imgScale "DSC00807_1600.JPG" "A cloud suddenly moved into the canyon." "500x" >}}
+{{< imgScale "DSC00807_1600.JPG" "A cloud suddenly moved into the Eldgjá canyon." "500x" >}}
 
 We quickly went further into the Eldgjá canyon.
 The ground became a swamp and we were only able to walk on the side of the valley but it became a bit better towards the end.
 Because it was late (11pm) and very foggy, we decided to build up our camp and hide it behind a big rock (to not get caught).
 You are officially not allowed to camp inside the Eldgjá but it was the only opportunity for us.
 
-# Tag 11: Eldgjá → Skælingar hut
+# Day 11: Eldgjá → Skælingar hut
 {{< smallDate "2018-07-28" >}}
 
 To not getting caught, we woke up at 5am and started hiking at 6am.
@@ -184,7 +193,7 @@ After some sticky mashed potatoes, which we "refined" with some hard cheese and 
 This time in a real and dry bed.
 Awesome!
 
-# Tag 12: Skælingar hut → Sveinstindur emergency shelter
+# Day 12: Skælingar hut → Sveinstindur emergency shelter
 {{< smallDate "2018-07-29" >}}
 
 After waking up, we saw three large black ravens outside the window, which can grow up to 60cm / 2ft.

@@ -10,7 +10,16 @@ images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
 {{< /note >}}
 
-{{< imgScale "iceland-2018-map-25-29.jpg" "Der dritte Teil unserer Route." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/63.99/-18.67">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Vollständige Karte anzeigen
+</a>
 
 # Tag 8: Hólmsárlón → Strútslaug
 {{< smallDate "2018-07-25" >}}
@@ -123,11 +132,11 @@ Am Ende der F223 ist ein großer Parkplatz samt Toiletten, Infohäuschen und Bä
 Ab da an ging es dann nur noch zu Fuß auf einem gepflegten Wanderweg weiter.
 Beim Wasserfall angekommen waren wir fast alleine, nur ein Vater mit seinem Sohn war auch dort.
 
-{{< imgScale "DSC00805_1600.JPG" "Der Ófærufoss, den wir allerdings nur aus der Ferne betrachteten. Für uns ging es nach hinten rechts weiter." "500x" >}}
+{{< imgScale "DSC00805_1600.JPG" "Der Ófærufoss in der Eldgjá, den wir allerdings nur aus der Ferne betrachteten. Für uns ging es nach hinten rechts weiter." "500x" >}}
 
 Kurze Zeit später zog es sich auch bereits zu, eine Wolkenfront schob sich in die Schlucht hinein.
 
-{{< imgScale "DSC00807_1600.JPG" "Eine Wolke schob sich langsam in die Schlucht hinein." "500x" >}}
+{{< imgScale "DSC00807_1600.JPG" "Eine Wolke schob sich langsam in die Eldgjá hinein." "500x" >}}
 
 Wir haben also unsere sieben Sachen gepackt und sind weiter in die Eldgjá hinein.
 Dort war es sehr sumpfig und man konnte nur am Rand wirklich laufen, weiter hinten wurde es aber besser.

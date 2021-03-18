@@ -8,6 +8,10 @@ title = "The green spot"
 theme = "hamburg"
 Paginate = 5
 
+# Render uMap frames
+[markup.goldmark.renderer]
+	unsafe= true
+
 [blackfriday]
 	hrefTargetBlank = true
 
