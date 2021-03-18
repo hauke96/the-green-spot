@@ -227,7 +227,7 @@ What a coincidence, that a couple also German hiked the same route just a few da
 After that fright we went on and searched for a ruin near the Frostastaðavatn lake, which we dodn't found.
 In the evening the wind became really strong and we built our camp a bit east of the Tjörvafell mountain.
 
-# Tag 21: Tjörvafell
+# Day 21: Tjörvafell
 {{< smallDate "2018-08-07" >}}
 
 The wind became even stronger during night and shock us through (according to an online wind map at about 16m/s, so about 60km/h or 37mph) and even pulled a tent peg (22cm/9in) out of the ground.
@@ -242,7 +242,7 @@ In the evening we tried to cook something warm but due to the wind half a liter 
 
 {{< imgScale "DSC01080_1600.JPG" "In the evening the sight became better. The hill on the right side was barely visible earlier." "500x" >}}
 
-# Tag 22: Tjörvafell → Landmannalaugar
+# Day 22: Tjörvafell → Landmannalaugar
 {{< smallDate "2018-08-08" >}}
 
 Luckily the wind subsided over night and also the air became clearer.
@@ -281,7 +281,7 @@ Changing the ticket without extra costs, without cancellation fees, simply chang
 
 {{< imgScale "IMG_20180809_111117_1600.jpg" "We ran out of rubber bands so: knot the broken ends together and it's good as new." "500x" >}}
 
-# Tag 23: Landmannalaugar → Reykjavík → Keflavík
+# Day 23: Landmannalaugar → Reykjavík → Keflavík
 {{< smallDate "2018-08-09" >}}
 
 Let us not talk about the night (noisy, uncomfortable, hard ground, ...) but the breakfast was really good, because we bought some "Koko-Mjöll" (so chocolate milk for each 250ISK/2€/2$) and blueberry muffins (each 500ISK/4€/5$ but definitely worth it).
@@ -313,7 +313,7 @@ Very nice!
 We had the hut all for us alone and really enjoyed the thermally heated water in the shower even though it smelled a bit like sulfur of course.
 A perfect ending for our trip.
 
-# Tag 24: Keflavík → Hamburg
+# Day 24: Keflavík → Hamburg
 {{< smallDate "2018-08-10" >}}
 
 Well, at 4:15 our alarm clock rang after ca. five hours of sleep and we went straight for the breakfast and the shuttle service which brought us back to the airport.
