@@ -293,7 +293,7 @@ The drive to the Hekla volcano was quite rough but until then the road was paved
 
 {{< imgScale "IMG_20180809_125052_1600.jpg" "Half truck half bus. The ride in it was quite fun." "500x" >}}
 
-In Reykjavík we went the same route as three weeks earlier from the BSI to the inner city.
+In Reykjavík we went the same route as three weeks earlier from the BSÍ to the inner city.
 At a Bonus supermarket we bought some licorice and Icelandic fish jerky.
 
 Finally - as it should be for real tourists - we went to several souvenier shops and noticed that all the shops sell the same stuff and none of them is significantly cheaper than the others.
@@ -303,8 +303,8 @@ We then had some delicious fish and chips at the fish restaurant "Reykjavík Fis
 
 At the ice cream shop we met two americans we saw earlier at the fish restaurant which rented a B&B flat on the other side fo the street.
 We then hat a nice chat with them, Travis and Vanessa, and nearly forgot our bus so that we had to leave quickly.
-We had 20 minutes left to catch our bus and barely made it to the BSI.
-So when you walk fast enough, you can walk in 20 minutes from the BSI to the inner city.
+We had 20 minutes left to catch our bus and barely made it to the BSÍ.
+So when you walk fast enough, you can walk in 20 minutes from the BSÍ to the inner city.
 
 However we catched the bus and went to Keflavík.
 Because our flight leaves on the next day, we booked a small hut in Keflavík at "Alex Guesthouse", which offers a shuttle service from/to the airport.
