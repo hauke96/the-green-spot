@@ -283,3 +283,69 @@ Changing the ticket without extra costs, without cancellation fees, simply chang
 
 # Tag 23: Landmannalaugar → Reykjavík → Keflavík
 {{< smallDate "2018-08-09" >}}
+
+Let us not talk about the night (noisy, uncomfortable, hard ground, ...) but the breakfast was really good, because we bought some "Koko-Mjöll" (so chocolate milk for each 250ISK/2€/2$) and blueberry muffins (each 500ISK/4€/5$ but definitely worth it).
+
+In the morning we went for a small hike in the nearby Laugahraun lava field but the bus to Reykjavík left at 1pm.
+The bus was actually a modified truck with the rear part built into a bus.
+Awesome vehicle!
+The drive to the Hekla volcano was quite rough but until then the road was paved and therefore the journey became more comfortable.
+
+{{< imgScale "IMG_20180809_125052_1600.jpg" "Half truck half bus. The ride in it was quite fun." "500x" >}}
+
+In Reykjavík we went the same route as three weeks earlier from the BSI to the inner city.
+At a Bonus supermarket we bought some licorice and Icelandic fish jerky.
+
+Finally - as it should be for real tourists - we went to several souvenier shops and noticed that all the shops sell the same stuff and none of them is significantly cheaper than the others.
+We then bought two shot glasses with pictures of thor and Freya on them.
+
+We then had some delicious fish and chips at the fish restaurant "Reykjavík Fish" and got some good licorice ice cream at "Valdis" right next to the restaurant (300ISK/2,50€/3$ per scoop).
+
+At the ice cream shop we met two americans we saw earlier at the fish restaurant which rented a B&B flat on the other side fo the street.
+We then hat a nice chat with them, Travis and Vanessa, and nearly forgot our bus so that we had to leave quickly.
+We had 20 minutes left to catch our bus and barely made it to the BSI.
+So when you walk fast enough, you can walk in 20 minutes from the BSI to the inner city.
+
+However we catched the bus and went to Keflavík.
+Because our flight leaves on the next day, we booked a small hut in Keflavík at "Alex Guesthouse", which offers a shuttle service from/to the airport.
+Very nice!
+
+We had the hut all for us alone and really enjoyed the thermally heated water in the shower even though it smelled a bit like sulfur of course.
+A perfect ending for our trip.
+
+# Tag 24: Keflavík → Hamburg
+{{< smallDate "2018-08-10" >}}
+
+Well, at 4:15 our alarm clock rang after ca. five hours of sleep and we went straight for the breakfast and the shuttle service which brought us back to the airport.
+There we did a self-check-in, gave the remaining fuel to the personell there and checked our backpacks as bulk luggage in.
+
+Of course we went to all the duty-free shops, bought some Icelandic Schnapps and looked at the overpriced souveniers.
+The prices at the airport were even more expensive than in Reykjavík.
+
+The best souvenier we found there was a lava stone (about 3cm/1in large) for 1080ISK/8€/10$.
+We took several stones during our hike with us but we didn't knew that we had treasures in our pockets!
+Note: Don't buy souvenier at the airport. Just don't.
+
+We were quite sad once the plane took off because we actually wanted to stay in Iceland.
+But one thing is clear: We'll come back!
+
+# The end and some thoughts
+
+Iceland is absolutely beautiful and has really great spot to offer (nearly) nobody visits, which is sad because the main touristic hot spots become more crowded, more dirty and more built-up over time.
+If you want to visit Iceland I can really recommend you to not travel there by car but go hiking on trails nearly no one else hikes on.
+You won't experience all the things we did when sleeping in hotels, travel by car and just visit touristic hot spots.
+
+Apart from all the memories and mental long-term effects, we also had some physical effects afterwards:
+Kristina had some pain in her foot and we feared that she had torn a muscle or a ligament.
+In the end it turned our that she broke a bone within her foot.
+I also had a long-term effect on my toes that felt numb for half a year thanks to the [Innri-Emstruá ford]({{< ref "/posts/iceland-2018-report-2#the-ahole-river" >}}).
+
+Anyway, I hope you enjoyed this travel report and maybe we helped or inspired you on your own travel planning.
+I'm happy about any questions, suggestions or your own experiences.
+Feel free to leave a comment below :)
+
+<hr>
+
+{{< note >}}
+[All articles about our Island 2018 journey]({{< ref "/pages/iceland-2018" >}})
+{{< /note >}}
