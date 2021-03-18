@@ -18,4 +18,4 @@ summary: "Alle Beiträge zu unserer Island Reise in 2018."
 * [Bericht 1]({{< ref "/posts/iceland-2018-report-1" >}}) (Tag 1 - 3: Anreise, Þórsmörk, Bíldufell)
 * [Bericht 2]({{< ref "/posts/iceland-2018-report-2" >}}) (Tag 4 - 7: Innri-Emstruá, Mælifell, Hólmsárlón)
 * [Bericht 3]({{< ref "/posts/iceland-2018-report-3" >}}) (Tag 8 - 12: Strútslaug, Syðri–Ófæra, Eldgjá, Skælingar Hütte, Sveinstindur Nothütte)
-* [Bericht 4]({{< ref "/posts/iceland-2018-report-4" >}}) (Tag 13 - 22: Langisjór, Landmannalaugar, Abreise)
+* [Bericht 4]({{< ref "/posts/iceland-2018-report-4" >}}) (Tag 13 - 24: Langisjór, Landmannalaugar, Abreise)
