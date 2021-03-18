@@ -7,7 +7,7 @@ author = "hauke"
 images = ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
 +++
 {{< note >}}
-**Previous part:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
+**Previous part:** [Part 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
 
 <iframe
