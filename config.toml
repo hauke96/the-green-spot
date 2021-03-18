@@ -52,7 +52,7 @@ Paginate = 5
 	# Social accounts. Link to these accounts are displayed in the header and
 	# footer.
 	#twitter = "Your Twitter username"
-	github = "hauke96"
+	github = "hauke96/the-green-spot"
 	#gitlab = "Your GitLab username"
 	#linkedin = "Your LinkedIn username"
 	#googleplus = "Your Google+ user id"
