@@ -1,7 +1,7 @@
 +++
 title = "Island 2018: Reisebericht (Teil 4)"
 summary = "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Großartige Landschaft, starke Unwetter, evakuierte Gebiete und ein Sandsturm. Damit endet auch unsere Island Tour 2018 und lässt durchaus auch langfristige Veränderungen da."
-date = "2020-06-20T16:36:49+02:00"
+date = "2021-03-18T20:10:40+01:00"
 tags = ["island-2018"]
 author = "hauke"
 images = ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
@@ -287,7 +287,7 @@ Ohne extra Gebühren, ohne Storno-Kosten, einfach so per Telefon! Mega gut, sowa
 
 Über die Nacht reden wir mal lieber nicht weiter (laut, ungemütlich, der harte Untergrund...) aber das Frühstück war umso besser, denn wir haben uns beim Mini-Supermarkt eine "Koko-Mjöll" (also eine Schokomilch für jeweils 250ISK/2€) und Blaubeer-Muffins gegönnt (jeweils 500ISK/4€ aber das war es uns wert).
 
-Vormittags waren wir noch kurz im angrenzenden Lavafeld wandern, aber um 13 Uhr ging dann auch schon unser Bus zurück nach Reykjavík.
+Vormittags waren wir noch kurz im angrenzenden Lavafeld Laugahraun wandern, aber um 13 Uhr ging dann auch schon unser Bus zurück nach Reykjavík.
 Der Bus war letztendlich ein LKW bei dem man den hinteren Teil zu einem Bus umgebaut hat.
 Mega geiles Teil!
 Die Fahrt bis zur Hekla war recht ruppig, aber ab dort gab es eine asphaltierte Straße, sodass die restliche Fahrt sehr angenehm war.
@@ -304,14 +304,14 @@ Im Fischrestaurant "Reykjavík Fish" haben wir dann leckeres Fish-and-Chips gege
 Als Nachtisch gab es von der Eisdiele "Valdis" nebenan sehr sehr sehr leckeres Lakritz-Eis (je Kugel 300ISK/2,50€).
 
 In der Eisdiele trafen wir ein Touristenpärchen aus dem Fischrestaurant wieder, welche auf der anderen Straßenseite in einem Ferienhaus wohnten.
-Wir haben uns bei Travis und Vanessa dann noch nett unterhalten und mussten dann hastig zum BSÍ aufbrechen.
+Wir haben uns bei den beiden, Travis und Vanessa, dann noch nett unterhalten und mussten dann hastig zum BSÍ aufbrechen.
 Hatten noch 20 Minuten bis der Bus fuhr und man kann also sagen: Die Zeit reicht. Gerade so. Und auch nur, wenn man im Laufschritt geht und die Rucksäcke nicht mehr all zu schwer sind.
 
 Haben den Bus jedenfalls noch bekommen und ab ging es zum Flughafen nach Keflavík.
 Da unser Flug aber erst am nächsten Tag ging, übernachteten wir im "Alex Guesthouse", die einen Shuttle-Service zum Flughafen anboten.
 Sehr praktisch!
 
-Wir hatten ein kleines Häusschen dann ganz für uns alleine und konten eine schöne Dusche in thermal gewärmtem Wasser nehmen.
+Wir hatten ein kleines Häuschen dann ganz für uns alleine und konnten eine schöne Dusche in thermal gewärmtem Wasser nehmen.
 Ein perfekter Abschluss.
 
 # Tag 24: Keflavík → Hamburg
@@ -323,7 +323,7 @@ Dort haben wir einen self-check-in gemacht, das restliche Reinigungsbenzin abgeg
 Bei den Duty-Free Geschäften haben wir uns dann mit isländischem Schnaps eingedeckt und sind etwas durch die anderen Souvenierläden geschlendert.
 Die Preise hier sind - wie zu erwarten - erheblich höher als in der Stadt.
 
-Das beste Souvenier, das wir dort gefunden haben waren unbearbeitete Lavasteine (ca. 2-3cm groß) für 1080ISK/8,60€.
+Das beste Souvenier, das wir dort gefunden haben waren unbearbeitete Lavasteine (ca. 2-3cm groß) für 1080ISK/8€.
 Da wir unterwegs immer mal wieder solche Steine aufgesammelt und eingesteckt haben, haben wir in unserem Rucksack also ein Vermögen dabei!
 Also merke: Kauft keine Souveniers am Flughafen und überlegt besser kurz nach, bevor ihr irgendwas kauft ;)
 
@@ -334,16 +334,9 @@ Aber eins steht fest: Wir kommen wieder!
 
 Island ist wunderschön und so viele großartige Ecken werden von (fast) niemandem besucht, was schade ist, denn die touristischen hot-spots werden immer voller, dreckiger und bebauter.
 Solltest du dich dazu entscheiden in Island wandern zu gehen, dann kann ich dir nur wärmstens empfehlen das Auto mal stehen zu lassen (oder erst gar keins zu mieten) und die Wanderwege zu gehen bei denen man im Internet keine oder nur sehr wenige Infos zu findet.
+Die Erlebnisse und Erfahrungen, die wir erlebt haben, erfährt man glaube ich nicht, wenn man sich ein Auto mietet, in Hostels übernachtet oder nur die touristischen Hot-Spots mit angeschlossenen Restaurants besucht.
 
-Die Reise hat bei mir im Kopf, neben Begeisterung und Ehrfurcht vor der Natur, einen Umdenkprozess hervorgerufen:
-Wir hatten während der Wanderung zwar Fertignahrung und alles nötige dabei, mussten uns aber doch in vielen Dingen auf ein Minimum beschränken.
-Zuhause habe ich dann erst gemerkt in welchem Überfluss wir leben, während der Wanderung mussten wir unsere Toilettenpapier-Blätter einzelnd abzählen aber hier steht nur die Frage "10er oder 12er Packung Klopapier?" zur Debatte.
-Plötzlich kamen mit alltägliche Dinge, wie geriebener Käse im Supermarkt absurd dekadent vor und fertig geschmierte Sandwiches in Plastikverpackung widerten mich an.
-Noch heute, zwei Jahre später, geht es mir nicht viel anders.
-
-Solche Erfahrungen und Erlebnisse erlebt man glaube ich nicht, wenn man sich ein Auto mietet, in Hostels übernachtet oder nur die touristischen Hot-Spots mit angeschlossenen Restaurants besucht.
-
-Abseits der mentalen Langzeitfolgen blieben uns auch ein paar physische Folgen:
+Abseits der Erinnerungen und einiger mentalen Langzeitfolgen blieben uns auch ein paar physische Folgen:
 Kristina hat unterwegs von Schmerzen im Fuß geklagt und wir befürchteten schon, dass etwa ein Band oder Muskel gerissen sei.
 Nach langer Zeit hat sich dann jedoch herausgestellt, dass vermutlich ein Knochenbruch durch Überbelastung der Grund für die Schmerzen war.
 Bei mir blieb meine Taubheit der Zehen, die durch die leichte Erfrierung in der [Furt des Innri-Emstruá]({{< ref "/posts/iceland-2018-report-2#der-arloch-fluss" >}}) davongetragen habe, noch ca. ein halbes Jahr lang bestehen, danach kehrte das Gefühl dann zurück.
