@@ -211,7 +211,7 @@ We expected a lot of traffic, because it's *the* connection between Landmannalau
 
 {{< imgScale "DSC01064_1600.JPG" "The completely empty F208." "500x" >}}
 
-Once we reached the crossing with the F214, which leads to the campsite, we saw that the F208 was actually closed.
+Once we reached the crossing with the F224, which leads to the campsite, we saw that the F208 was actually closed.
 While having a break, we saw a jeep coming towars us from the closed side of the road, the driver stopped and asked whether we are Germans and of course we affirmed.
 The he asked if we hiked along the Skaftá and wrote something into the books on the huts there, which we also affirmed.
 Then he said "Well maybe you are the two Germans we are searching for a few days".
@@ -244,3 +244,42 @@ In the evening we tried to cook something warm but due to the wind half a liter 
 
 # Tag 22: Tjörvafell → Landmannalaugar
 {{< smallDate "2018-08-08" >}}
+
+Luckily the wind subsided over night and also the air became clearer.
+We went off after breakfast and visited the Ljótipollur (which means in English "ugly puddle").
+It wasn't ugly at al but on the other hand also not really beautiful compared to other places we saw.
+
+{{< imgScale "DSC01105_1600.JPG" "The Ljótipollur." "500x" >}}
+
+After passing by an old seismologic measuring station we went on to the top of the volcano Stutur and made a break there.
+After that we finally went to the Landmannalaugar campsite.
+
+{{< imgScale "DSC01107_1600.JPG" "A small (inactive?) seismologic measuring station at the Ljótipollur." "500x" >}}
+
+There is no pure footpath towards the Landmannalaugar campsite, so you constantly walk on the F224 road.
+Alternatively you can also use hiking trails over the nearby mountains.
+
+Once the campsite came in sight we were a bit shocked: Already half a kilometer before reaching it there was a huge parking area crowded with cars and buses which were even parking right on the street because there wasn't enough space left.
+Even the parking spaces around the actual campground were completely crowded.
+
+{{< imgScale "DSC01108_1600.JPG" "the parking spaces were crowded way before reaching the actual campsite." "500x" >}}
+
+the campsite itself was large and not really suitable for camping: Rock hard soil and a lot of sharp stones on the ground.
+One night with two adults cost us 4000ISK/32€/38$ and showering was an additional 500ISK/4€/5$.
+
+{{< imgScale "DSC01115_1600.JPG" "A good campsite looks differently but at least the landscape is beautiful." "500x" >}}
+
+So we pitched up our tent and started to mourn because our journey finally came to an end.
+
+On the campsite there was next to an information hut also a tiny tiny supermarket in an old school bus.
+We bought some very expensive triple-choc-cookies (500ISK/4€/5$) and two apples (each 100ISK/1€/1$).
+
+{{< imgScale "IMG_20180809_124718_1600.jpg" "A tiny supermarket in the left bus and a small cafe in the right." "500x" >}}
+
+On the next day at noon our bus back to Reykjavík left but we were able to change our bus ticket so that we will arrived earlier in Reykjavík.
+Changing the ticket without extra costs, without cancellation fees, simply changed it by phone! Awesome, not imaginable in Germany.
+
+{{< imgScale "IMG_20180809_111117_1600.jpg" "We ran out of rubber bands so: knot the broken ends together and it's good as new." "500x" >}}
+
+# Tag 23: Landmannalaugar → Reykjavík → Keflavík
+{{< smallDate "2018-08-09" >}}

@@ -231,7 +231,7 @@ Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unse
 # Tag 21: Tjörvafell
 {{< smallDate "2018-08-07" >}}
 
-Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16 m/s also knapp 60km/h), es wurde sogar ein Hering (22cm lang) aus dem recht festen Boden gerissen.
+Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16m/s also knapp 60km/h), es wurde sogar ein Hering (22cm lang) aus dem recht festen Boden gerissen.
 
 Während wir frühstückten wurde es draußen immer diesiger und irgendwann konnten wir die ca. 700m entfernten Hänge vom Ljótipollur nicht mehr erkennen.
 Als ich kurz draußen war stellte ich dann fest, dass wir in einem Sandsturm feststeckten.
@@ -253,14 +253,14 @@ So hässlich war die Pfütze aber gar nicht, hatten aber schon schönere Ecken g
 {{< imgScale "DSC01105_1600.JPG" "Der Ljótipollur." "500x" >}}
 
 Vorbei an einer Seismologischen Messstation ging es dann auf Wanderwegen zum Vulkan Stútur auf den es ebenfalls einen Wanderweg hoch gibt.
-Kurz Pause gemacht und weiter nach Landmannalaugar.
+Kurz Pause gemacht und weiter zum Landmannalaugar Campingplatz.
 
 {{< imgScale "DSC01107_1600.JPG" "Eine kleine (eventuell inaktive?) seismologische Station am Ljótipollur." "500x" >}}
 
 Einen reinen Fußweg zum Campingplatz gibt es nicht, man läuft permanent auf der viel befahrenen Schotterpiste F224.
 Alternativ gibt es aber auch ein paar Wanderwege durch die nahen Berge.
 
-Als dann der Campingplatz in Sicht kam waren wir etwas geschockt: Bereist einen halben Kilometer vor dem Platz gab es große Parkplätze, die komplett überfüllt waren und auf denen Busse bereits einfach auf der Straße parkten.
+Als dann der Campingplatz in Sicht kam waren wir etwas geschockt: Bereits einen halben Kilometer vor dem Platz gab es große Parkplätze, die komplett überfüllt waren und auf denen Busse bereits einfach auf der Straße parkten.
 Selbst um den eigentlichen Zeltplatz gibt es diverse Parkplätze, die alle voll waren.
 
 {{< imgScale "DSC01108_1600.JPG" "Noch weit vor dem Campingplatz waren die Parkplätze überfüllt." "500x" >}}
@@ -270,7 +270,7 @@ Eine Nacht für zwei Personen im Zelt kostete uns 4000ISK/32€ und fürs Dusche
 
 {{< imgScale "DSC01115_1600.JPG" "Ein schöner Zeltplatz sieht anders aus, aber immerhin ist die Landschaft schön." "500x" >}}
 
-Wir haben also unser zelt aufgeschlagen und fingen ein wenig an zu trauern, denn hiermit war unsere Wanderung vorbei.
+Wir haben also unser Zelt aufgeschlagen und fingen ein wenig an zu trauern, denn hiermit war unsere Wanderung vorbei.
 
 Vor Ort gibt es neben dem Info-Häuschen an dem man auch kleinere Snacks kaufen kann, einen Mini-mini-Supermarkt in einem alten Schulbus.
 Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500ISK/4€) und zwei Äpfel (jeweils 100ISK/0,80€) gegönnt.
@@ -278,7 +278,7 @@ Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500ISK/4€) und zwei Äpf
 {{< imgScale "IMG_20180809_124718_1600.jpg" "Ein Mini-Supermarkt im linken Schulbus und im rechten ein kleines Cafe." "500x" >}}
 
 Am nächsten Tag sollte unser Bus am Nachmittag gehen und wir haben es sogar ohne Probleme geschafft vor Ort per Telefon das Ticket umzubuchen, sodass wir schon Mittags fuhren.
-Ohne extra Gebühren, ohne Storno-Kosten, einfach so!
+Ohne extra Gebühren, ohne Storno-Kosten, einfach so per Telefon! Mega gut, sowas kann man in Deutschland vergessen.
 
 {{< imgScale "IMG_20180809_111117_1600.jpg" "Uns gingen irgendwann die Gummibänder aus, also: Schnell zusammengeknotet und schon ist es wie neu." "500x" >}}
 
