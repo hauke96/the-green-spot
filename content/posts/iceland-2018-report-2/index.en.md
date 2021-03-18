@@ -11,7 +11,16 @@ images = ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
 **Previous part:** [part 1]({{< ref "/posts/iceland-2018-report-1" >}})
 {{< /note >}}
 
-{{< imgScale "iceland-2018-map-21-24.jpg" "The second part of our trip." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.825/-19.03">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Show complete map
+</a>
 
 The day before, we followed the Laugavegur and slept at the Fremri-Emstruá near the Bíldufell.
 
@@ -227,7 +236,7 @@ Fruther on the top we followed some sheep paths leading to the lake Hólmsárló
 
 {{< imgScale "DSC00757_1600.JPG" "Strange circles in the moss." "500x" >}}
 
-All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (whitch circles).
+All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (witch's rings).
 They are a result of a mushroom growing in the moss, which unfortunately also kills the moss.
 Due to the seasons, the moss cannot always grow and this builds these circles.
 

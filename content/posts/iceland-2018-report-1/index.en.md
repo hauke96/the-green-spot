@@ -9,7 +9,16 @@ images = ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
 
-{{< imgScale "iceland-2018-map-18-20.jpg" "The first part of our route with the first two camps." "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.75/-19.35">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Show complete map
+</a>
 
 # Day 1: Hamburg → Reykjavík
 {{< smallDate "2018-07-18" >}}
@@ -201,8 +210,6 @@ Especially the hills were very steep and slippery.
 
 Not far from the tent ran the river Fremri-Emstruá, which consisted of very turbid water, so the water filter was definitely worth it.
 Nevertheless, we let the water stand over night so the contained solids could settle.
-
-{{< imgScale "iceland-2018-map-18-20.jpg" "Here again the first part of our hike with the two camps." "500x" >}}
 
 # Next report (part 2)
 I hope you enjoyed this first part of our reports.

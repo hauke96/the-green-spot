@@ -18,7 +18,4 @@ summary: "All posts regarding our Iceland 2018 trip."
 * [Report 1]({{< ref "/posts/iceland-2018-report-1" >}}) (Day 1 - 3: Arrival, Þórsmörk, Bíldufell)
 * [Report 2]({{< ref "/posts/iceland-2018-report-2" >}}) (Day 4 - 7: Innri-Emstruá, Mælifell, Hólmsárlón)
 * [Report 3]({{< ref "/posts/iceland-2018-report-3" >}}) (Day 8 - 12: Strútslaug, Syðri–Ófæra, Eldgjá, Skælingar hut, Sveinstindur emergency hut)
-
-Coming soon:
-* Report 4 (Day 13 - ?: Langisjór, Stakihnúkur)
-* Report 5 (Day ? - ?: Landmannalaugar)
+* [Report 4]({{< ref "/posts/iceland-2018-report-4" >}}) (Day 13 - 24: Langisjór, Landmannalaugar, Departure)

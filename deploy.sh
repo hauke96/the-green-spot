@@ -1,45 +1,56 @@
 #!/bin/bash
 
+set -e
+
 httpdocs=/httpdocs
 home=$httpdocs/the-green-spot
 
+if [ "$1" == "--beta" ]
+then
+	home="$home/beta"
+fi
+
 function hline {
+	echo
     printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
+	echo " $1"
+    printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
+	echo
 }
 
-hline
-echo "1. Build"
-hline
+hline "1. Build"
+
+rm -rf public
 ./build.sh
 
-hline
-echo "2. Login into server"
-hline
+hline "2. Build package"
+
+date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
+file="the-green-spot_$date_str.zip"
+
+cd public 
+zip -r -9 ../$file ./*
+cd ..
+echo
+ls -alh $file
+
+hline "3. Login into server"
+
 echo -n "Username: "
 read username
 echo -n "Password: "
 read -s password
 echo
 
-hline
-echo "3. Backup old installation"
-hline
-# Generates the UTC ISO 8601 date string
-date_str=$(date --iso-8601=seconds -u)
-backup_folder="$httpdocs/backup_$date_str"
+hline "4. Upload package"
 
-echo "    Create backup folder"
-sshpass -p $password ssh $username@the-green-spot.de "mkdir $backup_folder"
-echo "    Move files"
-sshpass -p $password ssh $username@the-green-spot.de "mv $home/* $home/.* $backup_folder"
-sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder/beta $backup_folder/analytics $backup_folder/google*.html $home/"
-echo "    Move backup to $backup_folder"
-sshpass -p $password ssh $username@the-green-spot.de "mv $backup_folder $home"
+sshpass -p $password scp -r $file $username@the-green-spot.de:$home/
 
-hline
-echo "4. Upload new data"
-hline
-echo "    Upload public-folder to '$username@the-green-spot.de:$home/'"
-sshpass -p $password scp -r ./public/. $username@the-green-spot.de:$home/
-echo "    Uploading done. For possible errors see above."
-hline
+hline "5. Extract package"
+
+sshpass -p $password ssh $username@the-green-spot.de "cd $home && unzip -o $file"
+
+echo
+echo
+echo
+echo "Deployment done. For possible errors see above."
