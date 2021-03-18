@@ -159,3 +159,33 @@ The lake and our campsite were amazing and we pitched up our tent next to an old
 We again decided to make this a resting day, but we weren't just chilling and lying around.
 Instead we had the idea to climb the Stakihnúkur (810m / 1650ft above sea level or approx. 210m / 688ft above our camp).
 Nothing really serious, but the slope is quite steep with a 45° angle.
+
+During breakfast we opened the second of our three bottles of fuel, so we bought way too much of it but at least we're safe and didn't ran out of fuel.
+That also means: One liter of fuel is enough for two persons for about two weeks.
+
+After breakfast we climbed the Stakihnúkur with some light gear (camera, something to drink and some snacks).
+The ground was solid (no loose sand or gravel) but sometimes a bit fragile, so you need to be careful there.
+So definitely feasible, even without mountaineering equipment.
+
+On the summit you'll probably have one the greatest views that exist on Iceland:
+To the north you can see the complete Tungnaá all the way to the Vatnajökull glacier and to the south/west we had a great panorama view over the Landmannalaugar region.
+
+{{< imgScale "DSC01026_1600.JPG" "Rewarding climb! This is to the direction we came from. The white area between clouds and the horizon is the Vatnajökull glacier about 50km/31mi away." "500x" >}}
+
+{{< imgScale "DSC01050_x1000.JPG" "Looking into the other direction to Landmannalaugar. The Jökuldalakvísl comes from the right and flows into the Tungnaá." "500x" >}}
+
+At the foot of the mountain there was an old bus, which was painted completely black (as comouflage? For heating?) and was used as a kind of fishing hut.
+On the inside there was all kind of fishing nets, equipment and some whickey.
+
+{{< imgScale "DSC01021_1600.JPG" "The 'fishing hut' at Stakihnúkur." "500x" >}}
+
+Later during the day it became really warm (about 25°C/33°F) and the took a bath in the lake.
+Kristina was even swimming a little bit, I just cleaned myself up.
+Because the lake was very shallow (you can walk right through to the other side), the water wasn't completely ice cold anymore.
+
+Our solar panel also had to work hard that day, best investment ever!
+
+Only in the evening it became uncomfortable and started to rain, but that wasn't too bad because it expelled all the mosquitos.
+
+# Day 19: Stakihnúkur
+{{< smallDate "2018-08-05" >}}
