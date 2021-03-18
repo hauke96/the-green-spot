@@ -189,3 +189,58 @@ Only in the evening it became uncomfortable and started to rain, but that wasn't
 
 # Day 19: Stakihnúkur
 {{< smallDate "2018-08-05" >}}
+
+In the morning the weather was already to complete opposite of yesterday: Stormy and rainy.
+We had one reserve day so we decided to stay inside and did nothing interesting.
+But a complete resting day was quite refreshing.
+
+# Day 20: Stakihnúkur → Tjörvafell
+{{< smallDate "2018-08-06" >}}
+
+The weather on this day wasn't great but definitely better then the weather on the day before, we even had sunshine from time to time.
+On the late morning we went off in the direction of the F208, the main road to Landmannalaugar.
+
+However the river Jökuldalakvísl was between us and the F208 and we were worried a bit because it was quite large on our hiking map.
+Warning signs about quicksand and strong current didn't gave us courage at all.
+But luckily there was a mixture between a bridge and a ford: They just put huge pipes into the water so that the river flows through and you can drive/walk over them.
+
+{{< imgScale "DSC01056_1600.JPG" "First a warning about quicksand and now another warning about the river itself." "500x" >}}
+
+On the other side of the river we visited the hut "Höll" and reached the spooky calm F208.
+We expected a lot of traffic, because it's *the* connection between Landmannalaugar and the south.
+
+{{< imgScale "DSC01064_1600.JPG" "The completely empty F208." "500x" >}}
+
+Once we reached the crossing with the F214, which leads to the campsite, we saw that the F208 was actually closed.
+While having a break, we saw a jeep coming towars us from the closed side of the road, the driver stopped and asked whether we are Germans and of course we affirmed.
+The he asked if we hiked along the Skaftá and wrote something into the books on the huts there, which we also affirmed.
+Then he said "Well maybe you are the two Germans we are searching for a few days".
+In that moment our hearts sank into our boots.
+
+He told us that the Vatnajökull had a little eruption and that there was a glacier flood at the Skaftá.
+The whole area around the Skaftá was closed and evacuated up until Landmannalaugar.
+During the evacuation a Germans couple was missing, which wrote down their hiking plans in the books of the huts there.
+
+Some minutes later and woman from a rescue team arrived and gave the all-clear: They found and rescued the Germans which were enclosed by the Skaftá and made an emergency call.
+What a coincidence, that a couple also German hiked the same route just a few days after we went there!
+
+After that fright we went on and searched for a ruin near the Frostastaðavatn lake, which we dodn't found.
+In the evening the wind became really strong and we built our camp a bit east of the Tjörvafell mountain.
+
+# Tag 21: Tjörvafell
+{{< smallDate "2018-08-07" >}}
+
+The wind became even stronger during night and shock us through (according to an online wind map at about 16m/s, so about 60km/h or 37mph) and even pulled a tent peg (22cm/9in) out of the ground.
+
+During breakfast the air outside became more and more hazy and after a while we weren't able to see the hills of the Ljótipollur 700m/2300ft away from us.
+Once I went outside I noticed that we were trapped inside a sandstorm.
+
+The sand even came into our tent to that everything started to scrunch a little bit.
+
+We stayed the whole day inside, because we directly had sand in our eyes once we went outside, and hoped that the wind won't destroy out tent.
+In the evening we tried to cook something warm but due to the wind half a liter took us half an hours to cook.
+
+{{< imgScale "DSC01080_1600.JPG" "In the evening the sight became better. The hill on the right side was barely visible earlier." "500x" >}}
+
+# Tag 22: Tjörvafell → Landmannalaugar
+{{< smallDate "2018-08-08" >}}

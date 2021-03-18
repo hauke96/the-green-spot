@@ -202,12 +202,12 @@ Das Wetter war an diesem Tag zwar nicht großartig aber definitiv besser als ges
 Sind am späten Vormittag dann los in Richtung F208, die nach Landmannalaugar führt.
 
 Wegen des Flusses Jökuldalakvísl haben wir uns etwas sorgen gemacht, da er auf unserer Wanderkarte recht groß eingezeichnet war.
-Ein paar Warnschilder bezüglich Treibsand und starker Strömungen machten und da nicht gerade Mut.
+Ein paar Warnschilder bezüglich Treibsand und starker Strömungen machten uns da nicht gerade Mut.
 Zum Glück führte aber eine Mischung aus Furt und Brücke über den Fluss: Man hat einfach riesige Rohre ins Wasser gelegt, sodass man relativ bequem den Fluss queren konnte.
 
 {{< imgScale "DSC01056_1600.JPG" "Erst wurden wir vor Treibsand gewarnt und jetzt noch ein Warnschild vor dem Fluss selbst." "500x" >}}
 
-Auf der anderen Seite ging es dann entlang der Hütte "Höll" zur F208 auf der es gespenstisch ruhig war.
+Auf der anderen Seite besuchten wir die Hütte "Höll" und erreichten die F208, auf der es gespenstisch ruhig war.
 Wir hatten erwartet, dass dort einiges los ist, da es *die* Verbindung von Landmannalaugar nach Süden ist.
 
 {{< imgScale "DSC01064_1600.JPG" "Gähnende Leere auf der F208." "500x" >}}
@@ -223,6 +223,7 @@ Das ganze Areal bis hin zu Landmannalaugar wurde daraufhin abgesperrt und das Ge
 Bei der Evakuierung wurde dann ein Deutsches Pärchen vermisst, welches sich in die Hüttenbücher eingetragen hat.
 
 Wenig Später kam eine Frau der Rettungsorganisation und gab Entwarnung: Die Deutschen wurden von der Skaftá eingeschlossen und haben einen Notruf angesetzt, woraufhin sie gefunden wurden.
+Was für ein Zufall, dass nur wenige Tage später ebenfalls ein Deutsches Pärchen die gleiche Route gegangen war.
 
 Nach diesem Schrecken ging es dann aber weiter zu einer vermeintlichen Ruine am nördlichen Ende des Frostastaðavatn, welche wird jedoch nicht fanden.
 Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unser Zelt etwas östlichen am Fuße des Tjörvafell auf.
