@@ -12,9 +12,6 @@ Paginate = 5
 [markup.goldmark.renderer]
 	unsafe= true
 
-[blackfriday]
-	hrefTargetBlank = true
-
 [languages]
 	[languages.en]
 		languageCode = "en"

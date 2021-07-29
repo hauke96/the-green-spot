@@ -1,26 +1,25 @@
 +++
-title = "Rundtour: Dove und Gose Elbe mit dem Rebel 2K"
-summary = "Dieses mal geht es gemütlich mit einem gemieteten Packraft die Gose und Dove Elbe bei Hamburg entlang."
+title = "Roundtrip: Dove and Gose Elbe with the Rebel 2K"
+summary = "This time it goes leisurely with a rented packraft along the Gose and Dove Elbe near Hamburg, Germany."
 date = "2021-07-29T20:11:55+02:00"
 tags = ["Hamburg", "Elbe", "Packraft"]
 author = "hauke"
 images = ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 +++
 
-Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern gehen kann (zumindest keine langen Touren mit schwerem Gepäck), plane ich eine längere Paddeltour.
-Ein leichtes Packraft scheint mir dafür genau die richtige Wahl zu sein um es später auch mal auf Wanderungen mit zu nehmen.
+Due to medical reasons at the time of this article I'm not able to to hikes with heavy backpacks, so I'm planning a longer boat tour.
+A light packraft is probably the best choice since I just can take it with me on a hike.
 
-Um aber nicht die Katze im Sack zu kaufen, habe ich mir zunächst das **Anfibio Rebel 2K** für ein Wochenende gemietet.
-Zu meinen Erfahrungen zur Vermietung solche Packrafts kommt ggf. nochmal ein eigener Artikel.
+To not buy a pig in a poke, I rented the **Anfibio Rebel 2K** for one weekend.
+Regarding my experiences with the rental service, there might be a separate article coming.
 
-# Die Route
+# The tour
 
-Geplant habe ich schon seit einiger Zeit eine Rundtour auf der Dove und Gose Elbe bei Hamburg.
-Das sind zwei Altarme der Elbe, die teilweise vor über 600 Jahren vom Hauptstrom getrennt wurden.[^1]
-Entsprechend sind sie keine Bundeswasserstraße und nur private Böötchenfahrer und Paddler tummeln hier sich.
+I planned this tour for a while now and it's a round trip over the Dove and Gose Elbe near Hamburg, Germany.
+Those are two closed anabranches of the river Elbe which have been separated from the main stream about 600 years ago.[^1]
+Therefore those parts of the Elbe are not part of the federal waterway system and thus ideal for paddling and boat drivers.
 
-Die Dove Elbe ist dabei gar nicht so doof, für Paddler ist sie Ideal.
-Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* was *taub* bedeutet und *gose* was *trocken* oder *flach* bedeutet.
+The Dove Elbe however has nothing to do with the bird but the name comes from the low German word *dov* for *deaf* and Gose Elbe means *dry* or *shallow* in low German.
 
 <iframe
 	width="100%"
@@ -31,40 +30,40 @@ Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* w
 </iframe>
 <p>
 	<a target="_blank" href="//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448">
-		Vollständige Karte anzeigen
+		Show complete map
 	</a>
 </p>
 
-Gestartet bin ich beim roten Marker am Allermöher Deich und zunächst die Dove Elbe hinunter (also nach Westen).
-Am Naturschutzgebiet *Die Reit* ging es dann die Gose Elbe hinauf und durch den *Neuengammer Durchstich* zurück in die Dove Elbe Richtung Anleger.
+I started at the red marker near the Allermöher Deich road and first paddled down the Dove Elbe (so towards west).
+From the natural reserve area *Die Reit* I paddled the Gose Elbe upstream, through the canal *Neuengammer Durchstich* back to my starting point.
 
-Die Tour ist insgesamt ca. 18km lang und ich habe dafür ohne Wind, ohne Strömung und inklusive Pausen rund acht Stunden gebraucht.
+The tour is about 18km / 11mi long and without wind, without current and with breaks it took me about eight hours.
 
-Einige Teile stehen unter Naturschutz und dürfen nur mit einem *nicht*-motorisierten Gefährt (Stand-Up Paddel, Kanu, Kajak, Packraft, etc.) befahren werden und auch das nicht das ganze Jahr über.
-Dazu aber später mehr.
+Some parts are under nature protection and only *non*-motorized boats are allowed there (so SUP, kanoe, kayak, packraft, etc.) and even that not during the entire year.
+But more about that later.
 
-# Los gehts
+# Let's go
 
-Ich wollte gerne sehr sehr früh los, bin daher kurz nach 4 aufgestanden und mit Bus und Bahn zum Anleger gefahren, sodass ich ca. 5:45 am Startpunkt war.
-Am Startpunkt gibt es einen [sehr netten Anleger](https://osm.org/go/0HoK2mFI0?m=), der uneingeschränkt erreichbar ist und sich perfekt zum Einstieg eignet.
+I wanted to start early, so I stood up at 4am and went to my starting point by bus and train so that I arrived there at around 5:45 am.
+The starting point has a [very nice pier](https://osm.org/go/0HoK2mFI0?m=) that's unrestrictedly accessible and is perfect to start a tour.
 
-{{< imgScale "DSC03479.JPG" "Das einsatzbereite Packraft in mein Rucksack daneben." "500x" >}}
+{{< imgScale "DSC03479.JPG" "The packraft with my backpack next to it." "500x" >}}
 
-{{< imgScale "DSC03480.JPG" "Die Anlegestelle am Allermöher Deich." "500x" >}}
+{{< imgScale "DSC03480.JPG" "The pier at the Allermöher Deich road." "500x" >}}
 
-Es ist das erste mal, dass ich paddeln gehe und entsprechend auch das erste mal, dass ich ein Packraft aufbaue.
-Zugegeben habe ich es Zuhause einmal probiert, entsprechend war nach knapp einer halben Stunde das Packraft im Wasser.
+This is the first time ever I go paddling and therefore it was the first time ever I set up a packraft.
+To be honest, I tried it earlier at home, so after about half an hour my packraft was ready.
 
-Der Einstieg ging auch super, dank der breiten Bauform liegt es sehr stabil im Wasser und man kann ganz bequem einsteigen.
+Entering it was really easy, thanks to the high width of the boat it's very stable.
 
-Die ersten Paddelzüge gingen noch, aber schon nach ein paar Minuten zeigte sich: Ich bin fürs paddeln nicht trainiert.
-Ü-ber-haupt nicht trainiert, das wird schönen Muskelkater geben und ich habe erst 100m zurückgelegt.
-Suuuuper...
+The first paddle moves were ok but after a few minutes I noticed: I'm not trained for paddling.
+Not trained at all, this will give sore muscled tomorrow and I only traveled the first 100m.
+Greeeeeat...
 
-Dennoch war es sehr entspannend und absolut ruhig auf dem Wasser, vor allem wenn man kurz aufhört zu paddeln gleitet man lautlos dahin.
-Großartig!
+At least it was incredibly relaxing and very silent on the water, especially when I stopped paddling for a while it was completely silent.
+Awesome!
 
-{{< imgScale "DSC03481_edit_02.jpg" "Kurz nach dem Ablegen und Sonnenaufgang." "500x" >}}
+{{< imgScale "DSC03481_edit_02.jpg" "Shortly after I started and after sunrise." "500x" >}}
 
 # Pause und die ersten Menschen
 
