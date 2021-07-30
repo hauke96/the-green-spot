@@ -1,10 +1,10 @@
-+++
-date = "2018-08-21T02:34:52+02:00"
-title = "About"
-tags = ['blog']
-summary = "The most important information about our blog *The green spot* can be found here."
-author = "kristina-hauke"
-+++
+---
+date: "2018-08-21T02:34:52+02:00"
+title: "About"
+tags: ['blog']
+summary: "The most important information about our blog *The green spot* can be found here."
+author: "kristina-hauke"
+---
 > "There's a pretty good chance you are going to die with that plan."
 > <small>A reddit.com user</small>
 

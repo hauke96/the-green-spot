@@ -1,11 +1,11 @@
-+++
-title = "Iceland 2018: Travel report (part 1)"
-summary = "The first three days of our travel were very exciting and we experienced a lot of things."
-date = "2019-04-15T21:25:03+02:00"
-tags = ["iceland-2018"]
-author = "hauke"
-images = ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
-+++
+---
+title: "Iceland 2018: Travel report (part 1)"
+summary: "The first three days of our travel were very exciting and we experienced a lot of things."
+date: "2019-04-15T21:25:03+02:00"
+tags: ["iceland-2018"]
+author: "hauke"
+images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
+---
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
 
@@ -157,7 +157,7 @@ Kristina ask the guy in the campsite reception how the weather may look like to 
 The only answer she got was "Well, there will be weather".
 
 After repacking and taking a nice photo in front of the Markarfljót (s. below) it was time to start our journey.
-Þórsmörk is very beautiful, green, forested (Þórsmörk = forest of Þór) but also pretty steep.
+Þórsmörk is very beautiful, green, forested (*Þórsmörk* means something like *forest of Þór*) but also pretty steep.
 Because the first bit of our journey followed the Laugavegur, we met a lot of other people hiking towards Þórsmörk.
 It was so warm that day that we started hiking without even wearing any jacket.
 

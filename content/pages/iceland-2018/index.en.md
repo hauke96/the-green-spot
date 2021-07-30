@@ -3,7 +3,7 @@ title: "Iceland 2018"
 date: 2020-04-24T16:39:08+02:00
 tags: ["iceland-2018"]
 author: "hauke"
-images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
+images: ["pages/iceland-2018/DSC00515_1600.JPG"]
 summary: "All posts regarding our Iceland 2018 trip."
 ---
 

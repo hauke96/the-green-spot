@@ -1,11 +1,11 @@
-+++
-title = "Island 2018: Reisebericht (Teil 1)"
-summary = "Die ersten drei Tage unserer Reise waren für uns sehr aufregend und wir haben bereits hier so einiges erlebt."
-date = "2019-04-15T21:25:03+02:00"
-tags = ["island-2018"]
-author = "hauke"
-images = ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
-+++
+---
+title: "Island 2018: Reisebericht (Teil 1)"
+summary: "Die ersten drei Tage unserer Reise waren für uns sehr aufregend und wir haben bereits hier so einiges erlebt."
+date: "2019-04-15T21:25:03+02:00"
+tags: ["island-2018"]
+author: "hauke"
+images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
+---
 Im Sommer 2018 sind Kristina und ich drei Wochen lang in Island wandern gewesen -- ohne Auto, Campingplatz oder feste Unterkunft.
 Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Þórsmörk über Mælifell, Hólmsárlón, Eldgjá, Langisjór nach Landmannalaugar endlich los gehen.
 
@@ -160,7 +160,7 @@ Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumi
 Als Antwort bekam sie lediglich ein "Well, there will be weather".
 
 Als wir dann alles eingepackt und ein nettes Foto am Markarfljót geschossen haben (s.u.), ging es dann endlich los.
-Þórsmörk ist wirklich schön, sehr grün, bewaldet (Þórsmörk = Wald des Þór), aber auch sehr steil.
+Þórsmörk ist wirklich schön, sehr grün, bewaldet (*Þórsmörk* bedeutet so viel wie *Wald des Þór*), aber auch sehr steil.
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
 

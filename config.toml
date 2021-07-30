@@ -12,16 +12,13 @@ Paginate = 5
 [markup.goldmark.renderer]
 	unsafe= true
 
-[blackfriday]
-	hrefTargetBlank = true
-
 [languages]
 	[languages.en]
 		languageCode = "en"
 		languageName = "English"
 		weight = 2
 		subtitle = "Trekking experiences of a different kind"
-		copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				name = "About"
@@ -32,12 +29,17 @@ Paginate = 5
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
 				weight = 2
+			[[languages.en.menu.main]]
+				name = "Paddling"
+				identifier = "paddling"
+				url = "pages/paddling"
+				weight = 1
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
 		weight = 1
 		subtitle = "Erfahrungen vom Trekking der etwas anderen Art"
-		copyright = "&copy; Alles steht unter CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
 				name = "Über"
@@ -47,6 +49,12 @@ Paginate = 5
 				name = "Island 2018"
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
+				weight = 2
+			[[languages.de.menu.main]]
+				name = "Paddeln"
+				identifier = "paddling"
+				url = "pages/paddling"
+				weight = 1
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and

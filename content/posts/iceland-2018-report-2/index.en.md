@@ -1,11 +1,11 @@
-+++
-title = "Iceland 2018: Travel report (part 2)"
-summary = "Finally we left civilization behind us and the landscape became more and more interesting and beautiful. Besides nice waterfalls and rivers there was also bad weather and quicksand."
-date = "2019-12-08T12:29:08+01:00"
-tags = ["iceland-2018"]
-author = "hauke"
-images = ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
-+++
+---
+title: "Iceland 2018: Travel report (part 2)"
+summary: "Finally we left civilization behind us and the landscape became more and more interesting and beautiful. Besides nice waterfalls and rivers there was also bad weather and quicksand."
+date: "2019-12-08T12:29:08+01:00"
+tags: ["iceland-2018"]
+author: "hauke"
+images: ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
+---
 
 {{< note >}}
 **Previous part:** [part 1]({{< ref "/posts/iceland-2018-report-1" >}})
