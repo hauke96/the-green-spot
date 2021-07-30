@@ -65,31 +65,31 @@ Awesome!
 
 {{< imgScale "DSC03481_edit_02.jpg" "Shortly after I started and after sunrise." "500x" >}}
 
-# Pause und die ersten Menschen
+# Break and the first people
 
-Nach einiger Zeit begegnete ich ein paar Ruderern, die flott an mit vorbei zogen und bei meiner ersten [Pause an der Ruderrennstrecke](https://osm.org/go/0HoKV37zI?m=) begegnete ich dem ersten Böötje-Fahrer.
+After a while I met the first rowers passing by very quickly and during my first [break at the rowing course](https://osm.org/go/0HoKV37zI?m=) the first boaters arrived.
 
-Danach war ich wieder alleine, nur einem Angler am Naturschutzgebiet *Die Reit* bin ich begegnet. [^2]
-Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook was auf Platt *Reet* (also Schilfrohr) bedeutet und davon wuchs da wohl schon vor 800 Jahren jede Menge.
+Once I moved on, I was alone, except one fisherman near the nature protection area *Die Reit*. [^2]
+The name comes from the city district *Reit*brook and on low German *reit* means *reed* and there must have been a lot of it growing here 800 years ago, when the first settlements were established.
 
 # Gose Elbe
 
-An der Reit mündet die Gose Elbe in die Dove Elbe, für mich ging es ab da an also gegen den Strom die Gose Elbe hinauf.
-Zum Glück ist die Strömung -- wenn überhaupt vorhanden -- sehr schwach.
+Next to the Reit, the Gose Elbe enters the Dove Elbe, so from here on I paddled up the Gose Elbe.
+Luckily the current is -- if present at all -- very weak.
 
-**Wichtig:** Das Befahren der Gose Elbe mit motorisierten Booten ist **verboten**! Sie ist -- wie der Name schon sagt -- zudem stellenweise sehr flach, also weniger als einen Meter tief.
+**Important:** Driving with motorized boats is **forbidden** here! The river is -- as the name says -- quite shallow and often less than a meter deep.
 
-{{< imgScale "DSC03486_edit_02.jpg" "Teichrosen säumen den Rand der Gose Elbe. Die Büsche rechts im Bild gehören zu einer [kleinen Insel](https://osm.org/go/0HoKR2Op4--?m=) in der Gose Elbe." "500x" >}}
+{{< imgScale "DSC03486_edit_02.jpg" "Pond roses line the edge of the Gose Elbe. The bushes on the right in the picture belong to a [small island](https://osm.org/go/0HoKR2Op4--?m=) within the Gose Elbe." "500x" >}}
 
-Nachdem ich einige Kanuten und eine Yoga-Gruppe passiert habe, die für eine Extraportion Gleichgewichtstraining ihre Übungen auf SUP boards gemacht haben, wurde die Gose Elbe kontinuierlich schmaler.
-Noch konnten zwei Paddler leicht aneinander vorbei, aber später wurde das echt kniffelig.
+After I passed some canoeists and a yoga group, who did their exercises on SUP-board for an extra training of their sense of balance, the Gose Elbe became more and more narrow.
+Two paddlers could still padd but it became tricky later on.
 
-{{< imgScale "DSC03489_edit.jpg" "Die Gose Elbe wurde immer schmaler und die Teichrosen immer zahlreicher." "500x" >}}
+{{< imgScale "DSC03489_edit.jpg" "The Gose Elbe became more and more narrow and the number of pond roses increased." "500x" >}}
 
-Irgendwann führte nur noch eine schmale Schneise zwischen den zahllosen Teichrosen hindurch.
-Das Paddeln wurde dadurch nicht leichter, da man dauernd an den Dingern hängen blieb und an der Finne von meinem Packraft sammelten sich so manche Äste und Blätter.
+Finally just a small path was passable through all the pond roses.
+Paddling didn't became easier by that, the paddle constandly got stuck in all the roses and the fin of my boat collected a lot of branches and leafs.
 
-{{< imgScale "DSC03493.JPG" "Teichrosen: Schön anzusehen aber unpraktisch zum paddeln." "500x" >}}
+{{< imgScale "DSC03493.JPG" "Pond roses: Beautiful to look at but impractical for paddling." "500x" >}}
 
 # Neuengammer Durchstich
 

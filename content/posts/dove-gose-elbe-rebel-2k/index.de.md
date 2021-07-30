@@ -71,7 +71,7 @@ Großartig!
 Nach einiger Zeit begegnete ich ein paar Ruderern, die flott an mit vorbei zogen und bei meiner ersten [Pause an der Ruderrennstrecke](https://osm.org/go/0HoKV37zI?m=) begegnete ich dem ersten Böötje-Fahrer.
 
 Danach war ich wieder alleine, nur einem Angler am Naturschutzgebiet *Die Reit* bin ich begegnet. [^2]
-Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook was auf Platt *Reet* (also Schilfrohr) bedeutet und davon wuchs da wohl schon vor 800 Jahren jede Menge.
+Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook was auf Platt *Reet* (also Schilfrohr) bedeutet und davon wuchs da wohl schon vor 800 Jahren jede Menge, als die ersten Siedlungen entstanden.
 
 # Gose Elbe
 
