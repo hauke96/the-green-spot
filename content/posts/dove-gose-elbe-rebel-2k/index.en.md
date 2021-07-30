@@ -2,7 +2,7 @@
 title = "Roundtrip: Dove and Gose Elbe with the Rebel 2K"
 summary = "This time it goes leisurely with a rented packraft along the Gose and Dove Elbe near Hamburg, Germany."
 date = "2021-07-29T20:11:55+02:00"
-tags = ["Hamburg", "Elbe", "Packraft"]
+tags = ["hamburg", "elbe", "paddling"]
 author = "hauke"
 images = ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 +++

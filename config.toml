@@ -1,7 +1,7 @@
 #baseurl = "https://the-green-spot.de/"
-#baseurl = "https://the-green-spot.de/beta/"
+baseurl = "https://the-green-spot.de/beta/"
 #baseUrl = "http://localhost:1313/foo"
-baseurl = "http://localhost:1313/"
+#baseurl = "http://localhost:1313/"
 defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
@@ -29,6 +29,11 @@ Paginate = 5
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
 				weight = 2
+			[[languages.en.menu.main]]
+				name = "Paddling"
+				identifier = "paddling"
+				url = "pages/paddling"
+				weight = 1
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
@@ -44,6 +49,12 @@ Paginate = 5
 				name = "Island 2018"
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
+				weight = 2
+			[[languages.de.menu.main]]
+				name = "Paddeln"
+				identifier = "paddling"
+				url = "pages/paddling"
+				weight = 1
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and
