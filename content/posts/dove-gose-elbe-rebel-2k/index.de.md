@@ -11,7 +11,7 @@ Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern
 Ein leichtes Packraft scheint mir dafür genau die richtige Wahl zu sein um es später auch mal auf Wanderungen mit zu nehmen.
 
 Um aber nicht die Katze im Sack zu kaufen, habe ich mir zunächst das **Anfibio Rebel 2K** für ein Wochenende gemietet.
-Zu meinen Erfahrungen zur Vermietung solche Packrafts kommt ggf. nochmal ein eigener Artikel.
+Bezüglich meiner Erfahrungen mit der Vermietung solcher Packrafts kommt ggf. nochmal ein eigener Artikel.
 
 # Die Route
 
@@ -35,7 +35,7 @@ Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* w
 	</a>
 </p>
 
-Gestartet bin ich beim roten Marker am Allermöher Deich und zunächst die Dove Elbe hinunter (also nach Westen).
+Gestartet bin ich beim roten Marker am *Allermöher Deich* und zunächst die Dove Elbe hinunter (also nach Westen).
 Am Naturschutzgebiet *Die Reit* ging es dann die Gose Elbe hinauf und durch den *Neuengammer Durchstich* zurück in die Dove Elbe Richtung Anleger.
 
 Die Tour ist insgesamt ca. 18km lang und ich habe dafür ohne Wind, ohne Strömung und inklusive Pausen rund acht Stunden gebraucht.
@@ -46,7 +46,7 @@ Dazu aber später mehr.
 # Los gehts
 
 Ich wollte gerne sehr sehr früh los, bin daher kurz nach 4 aufgestanden und mit Bus und Bahn zum Anleger gefahren, sodass ich ca. 5:45 am Startpunkt war.
-Am Startpunkt gibt es einen [sehr netten Anleger](https://osm.org/go/0HoK2mFI0?m=), der uneingeschränkt erreichbar ist und sich perfekt zum Einstieg eignet.
+Dort gibt es einen [sehr netten Anleger](https://osm.org/go/0HoK2mFI0?m=), der uneingeschränkt erreichbar ist und sich perfekt zum Einstieg eignet.
 
 {{< imgScale "DSC03479.JPG" "Das einsatzbereite Packraft in mein Rucksack daneben." "500x" >}}
 
@@ -68,10 +68,10 @@ Großartig!
 
 # Pause und die ersten Menschen
 
-Nach einiger Zeit begegnete ich ein paar Ruderern, die flott an mit vorbei zogen und bei meiner ersten [Pause an der Ruderrennstrecke](https://osm.org/go/0HoKV37zI?m=) begegnete ich dem ersten Böötje-Fahrer.
+Nach einiger Zeit begegnete ich ein paar Ruderern, die flott an mir vorbei zogen und bei meiner ersten [Pause an der Ruderrennstrecke](https://osm.org/go/0HoKV37zI?m=) begegnete ich dem ersten Böötje-Fahrer.
 
 Danach war ich wieder alleine, nur einem Angler am Naturschutzgebiet *Die Reit* bin ich begegnet. [^2]
-Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook was auf Platt *Reet* (also Schilfrohr) bedeutet und davon wuchs da wohl schon vor 800 Jahren jede Menge, als die ersten Siedlungen entstanden.
+Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook und *reit* bedeutet auf Platt *Reet* (also Schilfrohr) und davon wuchs da wohl schon vor 850 Jahren jede Menge, als Reitbrook das erste mal urkundlich erwähnt wurde.
 
 # Gose Elbe
 
@@ -82,7 +82,7 @@ Zum Glück ist die Strömung -- wenn überhaupt vorhanden -- sehr schwach.
 
 {{< imgScale "DSC03486_edit_02.jpg" "Teichrosen säumen den Rand der Gose Elbe. Die Büsche rechts im Bild gehören zu einer [kleinen Insel](https://osm.org/go/0HoKR2Op4--?m=) in der Gose Elbe." "500x" >}}
 
-Nachdem ich einige Kanuten und eine Yoga-Gruppe passiert habe, die für eine Extraportion Gleichgewichtstraining ihre Übungen auf SUP boards gemacht haben, wurde die Gose Elbe kontinuierlich schmaler.
+Nachdem ich einige Kanuten und eine Yoga-Gruppe passiert habe, die für eine Extraportion Gleichgewichtstraining ihre Übungen auf SUP-Boards gemacht haben, wurde die Gose Elbe kontinuierlich schmaler.
 Noch konnten zwei Paddler leicht aneinander vorbei, aber später wurde das echt kniffelig.
 
 {{< imgScale "DSC03489_edit.jpg" "Die Gose Elbe wurde immer schmaler und die Teichrosen immer zahlreicher." "500x" >}}
@@ -99,12 +99,12 @@ Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen 
 
 {{< imgScale "DSC03495_edit.jpg" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
 
-Ab und zu kamen mir Paddlergruppen oder Menschen auf ihrem SUP entgegen.
+Ab und zu kamen mir Paddlergruppen oder Menschen auf ihrem SUP-Board entgegen.
 Bei der geringen Breite des Durchstichs musste ich als wendiger Packrafter schon mal rechts ran fahren um die Gruppen vorbei zu lassen.
 
-In der Mitte vom Durchstich gibt es recht ursprüngliche Feuchtgebiete, man ist hier auch mitten im *Naturschutzgebiet Kirchwerder Wiesen*.
+In der Mitte vom Durchstich gibt es recht ursprüngliche Feuchtgebiete, man ist hier auch mitten im *Naturschutzgebiet Kirchwerder Wiesen* (und ja, es gibt hier viele Wiesen).
 
-{{< imgScale "DSC03496.JPG" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
+{{< imgScale "DSC03496.JPG" "Feuchtgebiete und kleine Inseln im Neuengammer Durchstich." "500x" >}}
 
 Kurz danach gab es leider eine Baustelle der Brücke vom Neuengammer Hausdeich, hier war der Durchstich unterbrochen.
 Zum Glück gab es auf beiden Seiten der Baustelle einen recht guten Aus- und Einstiegspunkt.
@@ -122,7 +122,7 @@ Mittlerweile war gut was los, viele Boote, SUPs, Paddler und sogar ein paar Ausf
 Die Dove und Gose Elbe laden einfach zu einer Paddeltour ein!
 Auch wenn an einigen Stellen eine Straße neben dem Gewässer entlang führt, ist die Strecke wunderschön, oftmals etwas schattig, ruhig und sehr entspannend.
 
-Zwischendurch findet man auch immer gute Stellen um am Rand eine Pause einzulegen (s. Markierungen auf der Karte oben), die Teichrosen sind allerdings oftmals im Weg und erschweren einem das Paddeln etwas.
+Zwischendurch findet man auch immer gute Stellen um am Rand eine Pause einzulegen (s. einige der Markierungen auf der Karte oben), die Teichrosen sind allerdings oftmals im Weg und erschweren einem das Paddeln etwas.
 
 Definitiv eine Empfehlung wert!
 
@@ -135,9 +135,9 @@ Derzeit habe ich noch keinen Vergleich, aber allgemein gefiel mit das Rebel 2K g
 * Es liegt sehr stabil im Wasser, Ein- und Aussteigen ist kein Problem
 * Der Boden und die Spritzdecke ist dicker und widerstandsfähiger als gedacht
 * Der Spritzschutz ist sehr praktisch und lässt sich dank Klettverschluss schnell auf und zu machen
-* Ich konnte meinen -- zugegeben recht leeren -- 45+10 Rucksack plus einen Packsack am Bug bequem fest machen
+* Ich konnte meinen -- zugegeben recht leeren -- 45+10L Rucksack plus einen Packsack am Bug problemlos fest machen
 * Auf- und Abbau geht einfach
-* Es ist echt sehr sehr leicht: Mal eben aus dem Wasser heben? Kein Problem!
+* Es ist echt sehr sehr leicht (ca. 2,4kg): Mal eben aus dem Wasser heben? Kein Problem!
 
 ## Contra
 
