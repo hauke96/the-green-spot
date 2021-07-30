@@ -18,7 +18,7 @@ Paginate = 5
 		languageName = "English"
 		weight = 2
 		subtitle = "Trekking experiences of a different kind"
-		copyright = "&copy; Everything under CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				name = "About"
@@ -39,7 +39,7 @@ Paginate = 5
 		languageName = "Deutsch"
 		weight = 1
 		subtitle = "Erfahrungen vom Trekking der etwas anderen Art"
-		copyright = "&copy; Alles steht unter CC Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)"
+		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
 				name = "Über"
