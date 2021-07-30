@@ -5,11 +5,6 @@ set -e
 httpdocs=/httpdocs
 home=$httpdocs/the-green-spot
 
-if [ "$1" == "--beta" ]
-then
-	home="$home/beta"
-fi
-
 function hline {
 	echo
     printf '%*s\n' "${COLUMNS:-$(tput cols)}" '' | tr ' ' =
@@ -21,7 +16,14 @@ function hline {
 hline "1. Build"
 
 rm -rf public
-./build.sh
+
+if [ "$1" == "--beta" ]
+then
+	home="$home/beta"
+	./build.sh -D
+else
+	./build.sh
+fi
 
 hline "2. Build package"
 
@@ -36,9 +38,10 @@ ls -alh $file
 
 hline "3. Login into server"
 
-echo -n "Username: "
-read username
-echo -n "Password: "
+#echo -n "Username: "
+#read username
+username="sub6691_26"
+echo -n "Password (SSH): "
 read -s password
 echo
 
