@@ -142,6 +142,8 @@ Derzeit habe ich noch keinen Vergleich, aber allgemein gefiel mit das Rebel 2K g
 ## Contra
 
 * Beim Paddeln schwankt man doch gut nach rechts und links ähhh Steuerbord und Backbord
+* Man sitzt relativ tief, dadurch muss man weiter mit dem Paddel ausholen (s.u.)
+* Die Rückenlehne kann bei Bewegung verrutschen
 
 ## Hinweis
 
