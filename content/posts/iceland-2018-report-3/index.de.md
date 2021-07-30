@@ -1,11 +1,11 @@
-+++
-title = "Island 2018: Reisebericht (Teil 3)"
-summary = "Begleitet von Regen, Nebel und Wind ging es durch die weltgrößte Vulkanschlucht Eldgjá und entlang des Flusses Skaftá nach Norden."
-date = "2020-04-09T21:34:30+02:00"
-tags = ["island-2018"]
-author = "hauke"
-images = ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
-+++
+---
+title: "Island 2018: Reisebericht (Teil 3)"
+summary: "Begleitet von Regen, Nebel und Wind ging es durch die weltgrößte Vulkanschlucht Eldgjá und entlang des Flusses Skaftá nach Norden."
+date: "2020-04-09T21:34:30+02:00"
+tags: ["island-2018"]
+author: "hauke"
+images: ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
+---
 {{< note >}}
 **Vorheriger Teil:** [Teil 2]({{< ref "/posts/iceland-2018-report-2" >}})
 {{< /note >}}

@@ -1,11 +1,11 @@
-+++
-title = "Island 2018: Vorbereitungen"
-summary = "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
-date = 2019-03-27T02:29:32+02:00
-tags = ["Island 2018"]
-author = "kristina-hauke"
-images = ["images/iceland-2018-map.jpg"]
-+++
+---
+title: "Island 2018: Vorbereitungen"
+summary: "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
+date: 2019-03-27T02:29:32+02:00
+tags: ["Island 2018"]
+author: "kristina-hauke"
+images: ["images/iceland-2018-map.jpg"]
+---
 
 Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, möchten wir dir von der Art und Weise berichten, wie wir uns vorbereitet haben.
 
