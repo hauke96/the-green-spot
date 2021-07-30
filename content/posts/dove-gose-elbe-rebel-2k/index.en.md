@@ -141,6 +141,8 @@ I currently don't have any comparison, but I like the Rebel 2K in general.
 ## Contra
 
 * While paddling, the boat moves a lot to the left and right ahem starboard and port side
+* The seat is quite low, so for paddling you have to strike out quite far (s. below)
+* The backrest might displace when moving
 
 ## Notice
 
