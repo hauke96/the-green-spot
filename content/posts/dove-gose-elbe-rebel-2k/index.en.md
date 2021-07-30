@@ -1,11 +1,11 @@
-+++
-title = "Roundtrip: Dove and Gose Elbe with the Rebel 2K"
-summary = "This time it goes leisurely with a rented packraft along the Gose and Dove Elbe near Hamburg, Germany."
-date = "2021-07-29T20:11:55+02:00"
-tags = ["hamburg", "elbe", "paddling"]
-author = "hauke"
-images = ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
-+++
+---
+title: "Roundtrip: Dove and Gose Elbe with the Rebel 2K"
+summary: "This time it goes leisurely with a rented packraft along the Gose and Dove Elbe near Hamburg, Germany."
+date: "2021-07-31T00:20:00+02:00"
+tags: ["hamburg", "elbe", "paddling"]
+author: "hauke"
+images: ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+---
 
 Due to medical reasons at the time of this article, I'm not able to do hikes with heavy backpacks, so I'm planning a longer boat tour.
 A light packraft is probably the best choice since I can just take it with me on a hike.

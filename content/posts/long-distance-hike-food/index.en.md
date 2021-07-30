@@ -1,10 +1,10 @@
-+++
-title = "Eating on long distance tours"
-summary = "Eating is an essential part of hiking and we want to share our experiences and answer potential questions. Was should I take with me? How much do I need? What ingredients are important?"
-date = "2019-07-08T17:15:39+02:00"
-tags = ["food", "experiences"]
-author = "kristina"
-+++
+---
+title: "Eating on long distance tours"
+summary: "Eating is an essential part of hiking and we want to share our experiences and answer potential questions. Was should I take with me? How much do I need? What ingredients are important?"
+date: "2019-07-08T17:15:39+02:00"
+tags: ["food", "experiences"]
+author: "kristina"
+---
 When you take a look on our {{< linkTag "island-2018" "Iceland tour in 2018" >}}, you'll notice that we did quite a long hike.
 Because of this long time (about three weeks without breaks) there might appear some questions.
 

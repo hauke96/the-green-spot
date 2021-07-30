@@ -40,14 +40,14 @@ $ hugo new posts/your-title.en.md
 The post is pretty empty but the header has been generated:
 ```bash
 $ cat content/posts/your-title.en.md
-+++
-draft = true
-title = ""
-summary = ""
-date = 2019-01-28T21:44:06+01:00
-tags = []
-author = ""
-+++
+---
+draft: true
+title: ""
+summary: ""
+date: 2019-01-28T21:44:06+01:00
+tags: []
+author: ""
+---
 ```
 
 # Run it (locally)
