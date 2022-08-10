@@ -23,18 +23,20 @@ Ich schaue mir hier verschiedene Punkte an und vergleiche diese miteinander:
 * Verarbeitung und Material
 * Ausstattung
 * Fahrverhalten
+* Geschwindigkeit
 * Tauglichkeit fürs Boot-Trekking
+* Preis
 
 # Tour-Daten
 
 Hier die Eckdaten der Touren:
 
 * Strecke: Bei beiden Touren identisch (Dove Elbe und Gose Elbe bei Hamburg)
-* Länge: ca. 19km
+* Länge: ca. 19 km
 * Gewässer: ruhig, keine Strömung
 * Wind:
   * Tour mit dem Rebel 2K: Kein Wind
-  * Tour mit dem Nomad S1: Mal Rücken-, mal Gegenwind (Böhen bis zu ca. 20km/h)
+  * Tour mit dem Nomad S1: Mal Rücken-, mal Gegenwind (Böen bis zu ca. 20 km/h)
 
 # Boot-Daten
 
@@ -42,9 +44,9 @@ Eine komplette Übersicht gibt es in einer [netten PDF-Datei](https://www.packra
 
 | Merkmal | Anfibio Rebel 2K | MRS Nomad S1 Light|
 --- | --- | ---
-| Gewicht (komplett) | 2,3kg | 3,5kg |
-| Länge (außen) | 231cm | 295cm |
-| Breite (außen) | 91cm | 87cm |
+| Gewicht (komplett) | 2,3 kg | 3,5 kg |
+| Länge (außen) | 231 cm | 295 cm |
+| Breite (außen) | 91 cm | 87 cm |
 | Finne | Ja | Nein (standardmäßig ohne Halterung; in der nicht-Light Variante enthalten) |
 | Spritzdecke | Ja | Nein (in der nicht-Light Variante enthalten) |
 | Schlaufen | 7 | 8 |
@@ -68,7 +70,7 @@ Alle Nähte wirkten sauber verschweißt/verklebt und es gibt keine spitzen/schar
 
 ## Material
 
-Beide nutzen 210D-Nylon mit Urethan-Beschichtung für die Schläuche, hier gibt es also keinen Unterschied.
+Beide nutzen 210D Nylon mit Urethan-Beschichtung für die Schläuche, hier gibt es also keinen Unterschied.
 Gleiches bei den Sitzen, auch hier verwenden beide 210D Nylon.
 
 Der Boden ist beim Nomad S1 jedoch dicker (820D Nylon) also beim Rebel 2K (410D Nylon), einen Unterschied habe ich beim Benutzen aber nicht gemerkt.
@@ -85,8 +87,8 @@ Bei der normalen Variante des Nomad S1 sind aber Finne und Spritzdecke standardm
 
 ## Gepäck
 
-Keins der beiden Modelle, die ich getestet habe, hatten TubeBags (also Taschen in den Schläuchen), dazu kann ich also nichts sagen.
-Zumindest das Rebel 2K gäbe es aber optional mit TubeBags.
+Keins der beiden Modelle, die ich getestet habe, hatten "tube bags" (also Taschen in den Schläuchen), dazu kann ich also nichts sagen.
+Beide Packrafts gibt es aber optional bit tube bags.
 
 Die Schlaufen zum festmachen von Gepäck sind bei beiden Booten an ca. den gleichen Stellen angebracht: Vier vorne und dann beim Rebel 2K zwei hinten, beim Nomad S1 vier hinten.
 Das Rebel 2K hat eine zusätzliche Schlaufe vorne an der Innenseite, da kann man also auch nochmal Sachen dran sichern.
@@ -106,8 +108,8 @@ Die Rückenlehne vom S1 ist im Gegensatz zur Lehne vom Rebel 2K aber am Boot bef
 
 Ich hatte zudem das Gefühl im Rebel 2K wesentlich tiefer zu sitzen als im Nomad S1.
 Das ist für die Stabilität sicherlich nicht schlecht, macht aber das Paddeln schwerer/umständlicher.
-Man sollte also darauf achten ein möglichst langes Paddel zu haben, das Leihpaddel war mit 220cm etwas kurz.
-Im S1 wäre das sicherlich noch gegangen, aber im Rebel 2K ist ein 230-240cm Paddel sicherlich besser.
+Man sollte also darauf achten ein möglichst langes Paddel zu haben, das Leihpaddel war mit 220 cm etwas kurz.
+Im S1 wäre das sicherlich noch gegangen, aber im Rebel 2K ist ein 230-240 cm Paddel sicherlich besser.
 
 ## Boden
 
@@ -122,7 +124,7 @@ Bisher gab es dabei nicht mal einen Kratzer am Boden.
 Beide geliehenen Boote rochen ein wenig nach Kunststoff, aber nicht stark.
 Bei meinem frisch gekauften Nomad S1 hat aber beim Auspacken die ganze Wohnung einen Nachmittag lang nach Kunststoff gerochen.
 Selbst nach Monaten riecht es noch recht deutlich nach Kunststoff, wenn ich das eingepackte Boot mal in die Hand nehme.
-Unschön, aber lässt sich nicht vermeiden und wird mit der Zeit auch besser.
+Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
 
 # Fahrverhalten
 
@@ -141,12 +143,12 @@ Die Geschwindigkeit war im S1 auch deutlich höher.
 Bei gleichen Bedingungen war ich ca. 1,5-mal schneller als im Rebel 2K.
 
 Allerdings halte ich die Angaben von 6 km/h beim S1 und 4,5 km/h beim Rebel 2K nicht durch.
-Beim gemütlichen Paddeln inklusive aller Pausen hatte ich beim S1 im Durchschnitt 3 km/h drauf und beim Rebel 2K 2km/h.
+Beim gemütlichen Paddeln inklusive aller Pausen hatte ich beim S1 im Durchschnitt 3 km/h drauf und beim Rebel 2K 2 km/h.
 
 # Trekking Tauglichkeit
 
 Auch hier hat das Nomad S1 einen entscheidenden Vorteil: Es hat hinter dem Sitz den praktisch Stauraum.
-Einen großen Trekking-Rucksack bekommt man dort zwar nicht unter, aber für einen kleineren (bis ca. 20L) hätte man dort gerade so Platz.
+Einen großen Trekking-Rucksack bekommt man dort zwar nicht unter, aber Kleinkram wie eine Wasserflasche, einen Hut und eine Jacke.
 
 Beim Rebel 2K lässt sich auch ein wenig Gepäck hinten auf dem Bott verstauen, allerdings muss man bei den Schlaufen kreativ werden, hinten gibt es nur eine auf jeder Seite.
 
@@ -173,4 +175,4 @@ Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeu
 Im August 2021 habe ich mir das Nomad S1 gekauft (die normale Variante mit Spritzdecke).
 Bisher bin ich sehr zufrieden und habe natürlich auch schon eine längere Tour gemacht, aber dazu in einem eigenen Beitrag mehr.
 
-[^1]: Stand: 15.05.2022
+[^1]: Stand: 10.08.2022
