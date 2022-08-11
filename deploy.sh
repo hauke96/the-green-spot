@@ -47,11 +47,11 @@ echo
 
 hline "4. Upload package"
 
-sshpass -p $password scp -r $file $username@the-green-spot.de:$home/
+sshpass -p $password scp -oHostKeyAlgorithms=+ssh-rsa -r $file $username@the-green-spot.de:$home/
 
 hline "5. Extract package"
 
-sshpass -p $password ssh $username@the-green-spot.de "cd $home && unzip -o $file"
+sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && unzip -o $file"
 
 echo
 echo
