@@ -1,10 +1,10 @@
 ---
 title: "Vergleich: Anfibio Rebel 2K vs. MRS Nomad S1 Light"
-summary: ""
-date: "2021-08-08T00:20:00+02:00"
+summary: "In diesem Artikel vergleiche ich die beiden Packrafts Anfibio Rebel 2K und MRS Nomad S1 Light miteinander. Beide haben unterschiedliche Einsatzgebiete, ähneln sich in Komfort und Qualität aber sehr."
+date: "2022-08-11T00:17:00+02:00"
 tags: ["hamburg", "elbe", "paddeln", "equipment"]
 author: "hauke"
-images: ["posts/comparison-rebel-2k-nomad-s1/???.jpg"]
+images: ["posts/comparison-rebel-2k-nomad-s1/cover.jpg"]
 ---
 
 Im Bericht über meine [Tour mit dem **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) habe ich ja bereits ein wenig etwas über das Rebel 2K geschrieben.
@@ -77,6 +77,8 @@ Der Boden ist beim Nomad S1 jedoch dicker (820D Nylon) also beim Rebel 2K (410D 
 
 # Ausstattung
 
+{{< imgScale "anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
+
 ## Finne & Spritzdecke
 
 Wie oben in der Tabelle schon zu erkennen ist: Das Rebel 2K hat sowohl eine Finne, als auch eine Spritzdecke.
@@ -127,6 +129,8 @@ Selbst nach Monaten riecht es noch recht deutlich nach Kunststoff, wenn ich das 
 Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
 
 # Fahrverhalten
+
+{{< imgScale "mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
 
 Beim Fahrverhalten merkt man, dass das Nomad S1 länger ist und dadurch besser im Wasser liegt.
 Zudem hatte ich das Gefühl beim Rebel 2K tiefer zu sitzen, was sicherlich ein wenig mehr Stabilität gibt, das Paddeln aber auch etwas erschwert.
