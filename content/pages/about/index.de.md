@@ -8,20 +8,25 @@ author: "kristina-hauke"
 > "There's a pretty good chance you are going to die with that plan."
 > <small>Ein reddit.com Nutzer</small>
 
-Willkommen auf _The green spot_ :)
-
-Reise- und Erfahrungsberichte rund um Trekking, immer möglich fern ab der Zivilisation.
+Willkommen auf _The green spot_ ein Blog mit Artikeln rund ums Thema Trekking, immer möglich fern ab der Zivilisation.
 
 ## Wer schreibt hier?
-Wenn du das Wort *wir* liest, sind dabei Kristina und Hauke gemeint. Wir sind sehr gerne Draußen unterwegs und das am besten in Regionen in denen sonst keiner ist, mit Gepäck, was sonst keiner schleppt. Komfortable Hütten, Campingplätze oder gar Hotels sind uns fremd!
+Hauptsächlich bin ich das: Hauke, Softwareentwickler und Outdoor Begeisterter aus Hamburg.
+Ich bin sehr gerne draußen unterwegs und das am besten in Regionen wo sonst kaum einer ist.
+Komfortable Hütten, Campingplätze oder gar Hotels versuche ich soweit es geht zu vermeiden.
 
 ## Das besondere an diesem Blog
-Viele Menschen gehen wandern und das ist auch sehr erfreulich, denn es macht Spaß und man erlebt was. Die meisten Menschen beschränken sich jedoch auf (bekannte) Wanderwege, was bei uns nicht unbedingt der Fall ist. Wir lieben es off-road ... bzw. off-trail.
+Viele Menschen gehen wandern und das ist auch sehr erfreulich, denn es macht Spaß und man erlebt was.
+Die meisten Menschen beschränken sich jedoch auf (bekannte) Wanderwege, was bei mir nicht unbedingt der Fall ist.
+Ich liebe es off-road ... bzw. off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
 > <small>Ein anderer reddit.com Nutzer</small>
 
-Für andere zu gefährlich, für uns ein willkommenes Abenteuer ;)
+Für andere zu gefährlich, für uns - natürlich mit passender Vorbereitung - ein willkommenes Abenteuer ;)
 
 ## Über den Namen
-Wir haben uns lange Gedanken über einen Namen gemacht. *The green spot* hat uns dann am besten gefallen, da es für zwei Dinge steht: Zum einen ganz schnöde für unser Zelt, was knallgrün ist. Zum anderen aber steht es für die vielen grünen Flecken der Erde, die wir bereisen (wollen/werden).
+Ich habe mir lange Gedanken über einen Namen gemacht.
+*The green spot* hat mir dann am besten gefallen, da es für zwei Dinge steht:
+Zum einen ganz schnöde für mein Zelt, was knallgrün ist.
+Zum anderen aber steht es für die vielen grünen Flecken der Erde, die es zu entdecken gibt.

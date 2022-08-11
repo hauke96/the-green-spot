@@ -8,20 +8,23 @@ author: "kristina-hauke"
 > "There's a pretty good chance you are going to die with that plan."
 > <small>A reddit.com user</small>
 
-Welcome to _The green spot_ :)
-
-Travel and experience reports about trekking, always trying to be where no civilization is.
+Welcome to _The green spot_, a blog about trekking, always trying to be where no civilization is.
 
 ## Who is writing here?
-When you hear the word *we*, Kristina and Hauke (we're both from Germany) are meant. We both love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry. Comfortable huts, campsites or event hotels are foreign to us.
+Most of the time it's me: Hauke, software developer from Hamburg, Germany.
+I love trekking, preferably in regions where nobody else is, with gear, nobody else wants to carry.
+Comfortable huts, campsites or event hotels are foreign to me.
 
 ## The special thing about this blog
-Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things. Most of the people, however, use (well known) hiking trails, which is not the case with us. We love to go off-road ... or off-trail.
+Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things.
+Most of the people, however, use (well known) hiking trails, which is not the case with me.
+I love to go off-road ... or off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
 > <small>Another reddit.com user</small>
 
-Too dangerous for others, a welcome adventure for us ;)
+Too dangerous for others, but - with proper preparations - a welcome adventure for me ;)
 
 ## About the name
-We thought long about a name and came up with *The green spot*, because there two meanings in there: First is our tent bright green and second, there're lots of green spots in the world we (want/will) travel to.
+I thought long about a name and came up with *The green spot*, because there are two meanings in there:
+First is my tent bright green and second, there are a lot of green spots in the world to discover.
