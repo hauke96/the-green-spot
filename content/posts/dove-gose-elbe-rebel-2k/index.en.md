@@ -122,12 +122,14 @@ The Dove and Gose Elbe are wonderful rivers for paddling!
 Even with sometimes nearby roads, the route is very beautiful, has a lot of shade, is quite, calm and very relaxing.
 
 Every now and then you'll find some good spots for a break (see some of the marking on the map above), the pond roses however are a bit tricky and made the paddling more difficult.
+Same goes for all the duckweed at Neuengammer Durchstich, which grows there in warm summers.
 
 Definitely worth a recommendation!
 
 # Conclusion to the Anfibio Rebel 2K
 
-I currently don't have any comparison, but I like the Rebel 2K in general.
+I like the Rebel 2K in general, but there are a few things I didn't like.
+In the meantime, I also have the [comparison with the MRS Nomad S1]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}) which I like more.
 
 ## Pro
 

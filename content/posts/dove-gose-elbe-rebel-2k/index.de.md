@@ -123,12 +123,14 @@ Die Dove und Gose Elbe laden einfach zu einer Paddeltour ein!
 Auch wenn an einigen Stellen eine Straße neben dem Gewässer entlang führt, ist die Strecke wunderschön, oftmals etwas schattig, ruhig und sehr entspannend.
 
 Zwischendurch findet man auch immer gute Stellen um am Rand eine Pause einzulegen (s. einige der Markierungen auf der Karte oben), die Teichrosen sind allerdings oftmals im Weg und erschweren einem das Paddeln etwas.
+Gleiches gilt für die vielen Wasserlinsen ("Entengrütze") im Neuengammer Durchstich, die es in warmen Sommern geben kann.
 
-Definitiv eine Empfehlung wert!
+Aber alles in allem ist es definitiv eine Empfehlung wert!
 
 # Fazit zum Anfibio Rebel 2K
 
-Derzeit habe ich noch keinen Vergleich, aber allgemein gefiel mit das Rebel 2K gut.
+Allgemein gefiel mit das Rebel 2K gut, es gab aber auch Dinge, die mir negativ aufgefallen sind.
+Mittlerweile habe ich auch den [Vergleich zum MRS Nomad S1]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}), welches mit besser gefällt.
 
 ## Pro
 
