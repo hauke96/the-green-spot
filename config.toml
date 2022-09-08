@@ -6,7 +6,7 @@ defaultContentLanguage = "de"
 defaultContentLanguageInSubdir = "true"
 title = "The green spot"
 theme = "hamburg"
-Paginate = 5
+Paginate = 10
 
 # Render uMap frames
 [markup.goldmark.renderer]
