@@ -124,7 +124,7 @@ Even with sometimes nearby roads, the route is very beautiful, has a lot of shad
 Every now and then you'll find some good spots for a break (see some of the marking on the map above), the pond roses however are a bit tricky and made the paddling more difficult.
 Same goes for all the duckweed at Neuengammer Durchstich, which grows there in warm summers.
 
-Definitely worth a recommendation!
+But all in all it's definitely worth a recommendation!
 
 # Conclusion to the Anfibio Rebel 2K
 
