@@ -4,7 +4,7 @@ summary: "After deciding to hike three weeks in Iceland, many preparations had t
 date: 2019-03-27T02:29:32+02:00
 tags: ["Iceland 2018"]
 author: "kristina-hauke"
-images: ["images/iceland-2018-map.jpg"]
+images: ["images/map-alternatives_1000.jpgg"]
 ---
 
 Before we talk about or {{< linkTag iceland-2018 "Iceland hike in 2018" >}}, we would like to present the things we considered while preparing our journey.
@@ -21,7 +21,16 @@ This will be some kind of FAQ with some information, hints and experiences to pr
 * Experience: medium to little
 * Physical condition: Moderate to untrained
 
-{{< imgScale "iceland-2018-map.jpg" "Our itinerary" "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#9/63.92/-19.0">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Show complete map
+</a>
 
 # Planning key details
 First we clarified the most basic information:
@@ -100,7 +109,10 @@ We bought a hiking map, scanned it and digitally marked our route on it. We then
 
 Free (or just even free accessible) map material with a usable amount of details is really rare. [OpenStreetMap](https://osm.org) (OSM) is a really great project and sometimes contains more details then proprietary maps. No wonder that companies like Garmin create their maps based on OSM. Nonetheless there are several sparsely mapped regions in Iceland.
 
-If you want to have imagery maps (like Google-Earth), use [map.is](https://map.is). This service contains high resolution images of whole Iceland (like in our {{< imgUrl "iceland-2018-map.jpg" "image of our route" >}} above).
+If you want to have aerial imagery maps (like Google-Earth), use [map.is](https://map.is).
+This service contains high resolution images of whole Iceland.
+Good alternatives are the maps from Google, Bing and ESRI.
+However, aerial imagery of remote areas is often outdated, full of clouds or snow and often the image quality is simply bad.
 
 We sent our final map with our planed route to friends and relatives so that they were able to know where we approximately were.
 
