@@ -4,7 +4,7 @@ summary: "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten eini
 date: 2019-03-27T02:29:32+02:00
 tags: ["Island 2018"]
 author: "kristina-hauke"
-images: ["images/iceland-2018-map.jpg"]
+images: ["posts/iceland-2018-preparation/thumb.jpg"]
 ---
 
 Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, möchten wir dir von der Art und Weise berichten, wie wir uns vorbereitet haben.
@@ -21,7 +21,16 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
 
-{{< imgScale "iceland-2018-map.jpg" "Unsere Route" "500x" >}}
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/island-2018_1692#9/63.92/-19.0">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
+	Vollständige Karte anzeigen
+</a>
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
@@ -100,7 +109,10 @@ Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann dig
 
 Freies (bzw. einfach nur frei zugängliches) Kartenmaterial, das auch genug Details zeigt, gibt es wenig. [OpenStreetMap](https://osm.org) (OSM) ist ein großartiges Projekt und enthält teilweise feinere Details als proprietäres Kartenmaterial. Kein Wunder, dass Karten von Firmen wie Garmin auf OSM basieren. Dennoch gibt es in Island viele schwach kartografierte Gebiete.
 
-Wer Bildkarten haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück. Hochauflösende Farbfotos von ganz Island (wie z.B. bei dem {{< imgUrl "iceland-2018-map.jpg" "Routen-Bild von oben" >}}).
+Wer Luftbilder haben möchte (also sowas wie Google-Earth), der greift am besten auf [map.is](https://map.is) zurück.
+Dort gibt es hochauflösende Farbfotos von ganz Island.
+Alternativen sind die Karten von Google, Bing und ESRI.
+Luftbilder in entlegenen Gebieten sind aber oft veraltet, voller Wolken, überall liegt Schnee oder sie sind generell von schlechter Qualität.
 
 Unsere digitale Karte mit der finalen Planung haben wir zudem an Freunde und Verwandte geschickt, damit diese wussten wo wir wann ca. sein wollten.
 
