@@ -78,7 +78,7 @@ Ein paar Worte der Warnung:
 	2. Nebensaison: Kaum jemand ist unterwegs, man ist größtenteils komplett alleine (ist zwar schön, im Notfall aber ungünstig).
 	3. Wetter: Wie oben erwähnt, liegt definitiv Schnee und man sollte auf Temperaturen unter 0° C gefasst sein.
 2. **Klettersteig**: Auch, wenn der Stopselzieher als leicht, K1/K2 oder A/B klassifiziert ist, sollte man natürlich die eigenen Grenzen kennen. Der Aufstieg ist anstrengend und fühlt man sich bereits beim Georg-Jäger-Steig erschöpft, dreht um! Ich möchte hier die [Liste der Todesfälle an der Zugspitze](https://de.wikipedia.org/wiki/Liste_von_Todesf%C3%A4llen_an_der_Zugspitze) erwähnen -- 2012 war das letzte Jahr, in dem niemand beim Besteigen der Zugspitze gestorben ist!
-3. **Kontaktdaten**: Vergesst nicht eure Kontaktdaten, sowie der Routenverlauf bei Verwandten und Freunden zu hinterlegen.
+3. **Kontaktdaten**: Vergesst nicht eure Kontaktdaten, sowie der Routenverlauf bei Verwandten und Freunden zu hinterlegen. Sagt ihnen auch Bescheid, wenn ihr eure Tour beendet habt.
 
 Wenn du im Winter den Stopselzieher (oder auch eine andere Route) angehst: Mache dich mit dem Gedanken vertraut, vorher abzubrechen und umzukehren und plane das in die Route mit ein.
 Gehe keine zu großen Risiken ein!
