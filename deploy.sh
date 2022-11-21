@@ -15,8 +15,6 @@ function hline {
 
 hline "1. Build"
 
-rm -rf public
-
 if [ "$1" == "--beta" ]
 then
 	home="$home/beta"
