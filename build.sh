@@ -9,7 +9,7 @@ echo "Clear folder ./public"
 rm -rf ./public/*
 
 echo "Build site"
-hugo -v $BUILD_DRAFTS
+hugo --environment production -v $BUILD_DRAFTS
 
 echo "Copy .htaccess file to ./public/"
 cp .htaccess_de public/.htaccess
