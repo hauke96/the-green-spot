@@ -118,7 +118,7 @@ Macht euch also auf eine Menge Schmerz gefasst, wenn ihr länger als ein ein/zwe
 
 Wir haben für die Distanz von ca. 25 Metern 15-20 Minuten gebraucht.
 
-{{< imgScale "innri-emstrua.png" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
+{{< imgScale "innri-emstrua.jpg" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
 
 ### Alternativen
 Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten:

@@ -118,7 +118,7 @@ Young glacier rivers have a temperature of about 2-3°C (35-37°F), so be prepar
 
 We neede for the distance of about 25 meters ca. 15-20 minutes.
 
-{{< imgScale "innri-emstrua.png" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
+{{< imgScale "innri-emstrua.jpg" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
 We had two alternatives to not cross the Innri-Emstruá:
