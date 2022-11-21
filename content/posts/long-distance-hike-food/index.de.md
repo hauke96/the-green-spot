@@ -22,7 +22,7 @@ Vorab kann man jedoch sagen, dass es an einigen Stellen auf Verzicht hinaus lief
 Die Komfortzone, die wir ansonsten im Alltag haben, mussten wir deutlich verlassen und erfuhren hautnah, dass Abwechslung und Vielfalt etwas ist, was man im normalen Alltag kaum schätzt.
 
 > "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
+> <br>--- <small>A reddit.com user</small>
 
 # Genug essen und trinken
 Durch die körperliche Anstrengung und Aktivität ist der **Kalorienbedarf deutlich höher** als normal (ca. doppelt so hoch 4000-5000 kcal).

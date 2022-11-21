@@ -3,10 +3,10 @@ date: "2018-08-21T02:34:52+02:00"
 title: "About"
 tags: ['blog']
 summary: "The most important information about our blog *The green spot* can be found here."
-author: "kristina-hauke"
+author: "hauke"
 ---
 > "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
+> <br>--- <small>A reddit.com user</small>
 
 Welcome to _The green spot_, a blog about trekking, always trying to be where no civilization is.
 
@@ -21,7 +21,7 @@ Most of the people, however, use (well known) hiking trails, which is not the ca
 I love to go off-road ... or off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
-> <small>Another reddit.com user</small>
+> <br>--- <small>Another reddit.com user</small>
 
 Too dangerous for others, but - with proper preparations - a welcome adventure for me ;)
 
