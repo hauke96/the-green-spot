@@ -116,29 +116,25 @@ After two tasty cheese rolls, I continued without a jacket, which was much too w
 
 # Gamskar & Old middle station
 
-***
-> Continue checking the translation:
-***
-
 After the hut, there is still a good path for walking, but the slope increases to about 30°, in places more.
-However, the view gets better and better, and that motivates quite well.
+However, the view gets better and better, which motivates quite well.
 
-At the end of the Gamskarlift, the path then splits and there are several ways to get up, but they all come together again later anyway, so it doesn't matter.
-But here begins the Alpine flair, when the grass of the ski slope stops and gives way to gravel and scree.
-Between Latschen it goes further up and I met the first mountain goats, which were much more nimble than I was.
+At the end of the Gamskar cable car (Gamskarlift), the path then splits and there are several ways to get up, but they all come together again later anyway, so it doesn't matter which one you choose.
+Here the Alpine flair slowly begins, as the grass of the ski slope ends and gives way to gravel and scree.
+Between mountain pines it goes further up and I met the first mountain goats, which were much more nimble than I was.
 
-{{< imgScale "GOPR8121_1600.jpg" "Through coniferous bushes of mountain pines it continued up on scree." "500x" >}}
+{{< imgScale "GOPR8121_1600.jpg" "Through coniferous bushes of mountain pines I went further up on scree." "500x" >}}
 
-About another 2 km and 400 meters in altitude after the Gamsalmhütte I came to the **Wiesbrunnen** with a nice bench to rest on.
-Of course it's worth taking a break here, the view is terrific!
-Along the way I could fill my water bottle, which holds a liter, but was already almost empty.
-After this short breather, it went on in a T-shirt, even my sweat jacket was now too warm for me.
+About another 2 km / 1.2 mi and 400 m / 1300 ft of altitude after the Gamsalmhütte I came to the **Wiesbrunnen** (translates to ***meadow fontain***), a water fountain with a nice bench to rest on.
+Of course it's worth taking a break here, the view is awesome!
+I could also fill my water bottle, which holds a liter, but was already almost empty.
+After this short break, it went on in a T-shirt, even my sweat jacket was now too warm for me.
 
-{{< imgScale "GOPR8123_1600.jpg" "The Wiesbrunnen including bench." "500x" >}}
+{{< imgScale "GOPR8123_1600.jpg" "The Wiesbrunnen with the bench." "500x" >}}
 
-After another 500 m and 150 meters of altitude (at meanwhile 1830 m above sea level), the vegetation then slowly ended and the scree field **Gamskar** was in front of me.
-Also here a few mountain goats were on the way, whatever the here look for, apparently grows now and then nevertheless something tasty between the stones.
-At this height was here and there also some snow, but the path itself was free.
+After another 500 m / 0.3 mi and 150 m / 500 ft of altitude (at meanwhile 1830 m / 6000 ft above sea level), the vegetation then slowly ended and the scree field **Gamskar** was in front of me.
+Even here were montain goats too, what ever they are looking for here, but apparently they still find something tasy between the rocks.
+At this altitude there was some snow here and there, but the path itself was free.
 
 {{< imgScale "GOPR8126_1600.jpg" "The path became really steep and stony. In the middle at the top, the well camouflaged old middle station." "500x" >}}
 
@@ -147,57 +143,56 @@ What a view!
 
 # Georg-Jäger-Steig
 
-At least for a winter tour I recommend at the bench at the beginning of the Georg-Jäger-Steig the **climbing equipment to put on**, there are no belays yet, but rockfall danger is given and besides, it is nice and level here, protected and you have space.
-In summer you may get to the Wiener-Neustädter-Hütte without belaying, but more on belaying below.
+At least on a winter tour I recommend to **put on the climbing gear** at this bench, because here begins the via ferrata Georg-Jäger-Steig.
+There are no climbing protections here yet, but there is a risk of rockfall and besides, here it's flat, protected and you have space.
+In summer you may get to the alpine hut Wiener-Neustädter-Hütte without climbing protection, but more about safety below.
 
 {{< imgScale "GOPR8131_1600.jpg" "The view from the green strip at the height of the old middle station is breathtaking!" "500x" >}}
 
-Then begins the **Georg-Jäger-Steig**, which leads to the **Wiener-Neustädter-Hütte**.
+Then the **Georg-Jäger-Steig** begins, which leads to the alpine hut **Wiener-Neustädter-Hütte**.
 
 The up trail to the old lift support is still quite walkable.
 Steep, but here and there steps have been built from wooden boards.
 
-At 1900 m you then reach a ridge at which also a hiking trail from the direction of Eibsee arrives.
+At 1900 m / 6230 ft you then reach a ridge at which also a hiking trail from the direction of Eibsee arrives.
 From here it then changed to the north side of the Zugspitze massif and there was snow, which was partly trampled and somewhat slippery, and there was a decent cold wind blowing.
-Here you should -- at least with lying and firmly trodden snow -- really watch out, there is not yet a safety!
+Here you should -- at least with lying and firmly trodden snow -- really watch out, there is not yet any safety!
 
 {{< imgScale "GOPR8139_1600.jpg" "View from the ridge towards Eibsee." "500x" >}}
 
-{{< imgScale "GOPR8140_1600.jpg" "View along the ridge to the beginning of the via ferrata part. On the rock, the belay begins." "500x" >}}
+{{< imgScale "GOPR8140_1600.jpg" "View along the ridge to the beginning of the via ferrata part. On the rock, the climbing protection begins." "500x" >}}
 
 Shortly after the turnoff towards Eibsee, however, comes the point from which a belay is in place.
 I was from then on the north side, the snow had thawed, but at night again frozen smooth.
-Accordingly, the whole was slippery, the use of the fuse is highly recommended!
+Accordingly, the whole path was very slippery, the use of the safety is highly recommended!
 
-{{< imgScale "GOPR8139_1600.jpg" "View of the Eibsee." "500x" >}}
+{{< imgScale "GOPR8143_1600.jpg" "View back towards the ridge, on the left you can see the safety rope." "500x" >}}
 
-{{< imgScale "GOPR8143_1600.jpg" "View back towards the ridge, on the left you can see the belay rope." "500x" >}}
-
-The trail itself was easy, though, and the via ferrata feeling began.
+However, the trail itself was easy and the via ferrata feeling began.
 
 # Break off
 
-About at the height of the current Tiroler Zugspitzbahn, however, the belay ends again, but on one side it continues steeply downhill and the path is still slightly icy.
+About at the height of the current cable car Tiroler Zugspitzbahn, however, the safety ends again, but on one side it continues steeply downhill and the path is still slightly icy.
 Since I had no suitable equipment for slippery and icy terrain with me, it was the end for me here.
 
 {{< imgScale "GOPR8144_1600.jpg" "End of my tour. You can see the last bit of the rope, after that there is no belay. The path was slippery and to the left it went downhill almost vertically." "500x" >}}
 
-You can also see the place in the [video mentioned at the beginning](https://www.youtube.com/watch?v=OF-8TFnyRVY&t=66s), but there is significantly less snow.
+You can also see the place in the [video mentioned above](https://www.youtube.com/watch?v=OF-8TFnyRVY&t=66s), but there is significantly less snow.
 
-Up to here I have covered 5.7 km and 1050 meters of altitude and it took me 3:40h.
-For me as a flatland hiker from Hamburg a solid result.
+Up to here I have covered 5.7 km / 3.5 mi and 1050 m / 3440 ft of altitude and it took me 3:40h.
+For me as a flatland hiker from Hamburg (nothern Germany) a solid result.
 However, I also hurried a bit and you should plan for a relaxed hike (especially as a group) quite about 5 hours to the Wiener-Neustädter-Hütte, or trust the times on signposts.
 
 # Way back
 
 The way back was on the one hand relaxed (I knew the route now), but on the other hand very exhausting for the knees and legs.
-On the way I met the first other hiker of the day, who followed the same strategy as me: as far up as it is possible and if it goes no further back again.
+On the way I met the first other hiker of the day, who followed the same strategy as me: as far up as it's possible and return if it goes no further.
 
 At the Gamsalmhütte were then a few more people on the road, but generally it was quite empty.
 
 # Conclusion
 
 What can I say, it was a really nice tour and I'm glad not to have made this in the peak season.
-I am also glad about the early termination.
+I'm also glad about the early termination.
 
 However, if you seriously intend to make the route in winter to the Zugspitze, you definitely need more suitable equipment, everything else is life-threatening!

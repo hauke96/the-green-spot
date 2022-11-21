@@ -117,10 +117,10 @@ Nach zwei lecker Käsebrötchen ging es dann ohne dicke Jacke weiter, das war mi
 # Gamskar & Alte Mittelstation
 
 Nach der Hütte gibt es zwar weiterhin einen guten Weg zum Gehen, aber die Steigung erhöht sich auf ca. 30°, stellenweise mehr.
-Allerdings wird die Aussicht immer besser, und das motiviert dann doch ganz gut.
+Allerdings wird die Aussicht immer besser, was dann doch ganz gut motiviert.
 
-Am Ende vom Gamskarlift teilt sich der Weg dann und es gibt mehrere Möglichkeiten hochzukommen, die später aber eh alle wieder zusammen kommen, es ist also egal.
-Hier beginnt aber der Alpine flair, wenn der Rasen der Skipiste hört auf und weicht Schotter und Geröll.
+Am Ende vom Gamskarlift teilt sich der Weg dann und es gibt mehrere Möglichkeiten hochzukommen, die später aber eh alle wieder zusammen kommen, es ist also egal welchen man nimmt.
+Hier beginnt langsam der Alpine flair, denn der Rasen der Skipiste hört auf und weicht Schotter und Geröll.
 Zwischen Latschen geht es weiter hinauf und mir begegneten die ersten Bergziegen, die wesentlich flinker unterwegs waren als ich.
 
 {{< imgScale "GOPR8121_1600.jpg" "Durch Nadelbuschwerk von Latschen ging es auf Geröll weiter nach oben." "500x" >}}
@@ -143,7 +143,8 @@ Was für ein Ausblick!
 
 # Georg-Jäger-Steig
 
-Zumindest für eine Wintertour empfehle ich an der Bank am Beginn des Georg-Jäger-Steigs die **Kletterausrüstung anzulegen**, es gibt zwar noch keine Sicherungen, aber Steinschlaggefahr ist gegeben und außerdem ist es hier schön eben, geschützt und man hat Platz.
+Zumindest für eine Wintertour empfehle ich an der Bank die **Kletterausrüstung anzulegen**, da hier der Georg-Jäger-Steig beginnt.
+Es gibt zwar noch keine Sicherungen, aber Steinschlaggefahr ist gegeben und außerdem ist es hier schön eben, geschützt und man hat Platz.
 Im Sommer mag man ohne Sicherung bis zur Wiener-Neustädter-Hütte kommen, zur Sicherung aber unten mehr.
 
 {{< imgScale "GOPR8131_1600.jpg" "Der Blick vom Grünstreifen auf Höhe der alten Mittelstation ist atemberaubend!" "500x" >}}
@@ -164,8 +165,6 @@ Hier sollte man -- zumindest bei liegendem und festgetretenen Schnee -- echt auf
 Kurz nach der Abzweigung Richtung Eibsee kommt dann allerdings der Punkt, ab dem eine Sicherung angebracht ist.
 Ich befand mich ab da auf der Nordseite, der Schnee war zwar angetaut, nachts jedoch wieder glatt gefroren.
 Entsprechend glatt war das ganze, das Nutzen der Sicherung ist sehr zu empfehlen!
-
-{{< imgScale "GOPR8139_1600.jpg" "Blick auf den Eibsee." "500x" >}}
 
 {{< imgScale "GOPR8143_1600.jpg" "Blick zurück Richtung Grat, links sieht man das Sicherungsseil." "500x" >}}
 
