@@ -317,7 +317,7 @@ Ein perfekter Abschluss.
 # Tag 24: Keflavík → Hamburg
 {{< smallDate "2018-08-10" >}}
 
-Tja, um 4:15 klingelte unser Wecke und nach ca. fünf Stunden Schlaf ging es also zum Frühstück und dann mit dem Shuttle-Service weiter zum Flughafen.
+Tja, um 4:15 klingelte unser Wecker und nach ca. fünf Stunden Schlaf ging es also zum Frühstück und dann mit dem Shuttle-Service weiter zum Flughafen.
 Dort haben wir einen self-check-in gemacht, das restliche Reinigungsbenzin abgegeben (darf man ja eh nicht mitnehmen) und unsere Rucksäcke als Sperrgepäck aufgegeben.
 
 Bei den Duty-Free Geschäften haben wir uns dann mit isländischem Schnaps eingedeckt und sind etwas durch die anderen Souvenierläden geschlendert.
