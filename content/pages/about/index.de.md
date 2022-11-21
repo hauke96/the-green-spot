@@ -3,10 +3,10 @@ date: "2018-08-21T02:34:52+02:00"
 title: "Über"
 tags: ['blog']
 summary: "Das wichtigste über unseren Blog *The green spot* erfährst du hier."
-author: "kristina-hauke"
+author: "hauke"
 ---
 > "There's a pretty good chance you are going to die with that plan."
-> <small>Ein reddit.com Nutzer</small>
+> <br>--- <small>Ein reddit.com Nutzer</small>
 
 Willkommen auf _The green spot_ ein Blog mit Artikeln rund ums Thema Trekking, immer möglich fern ab der Zivilisation.
 
@@ -21,7 +21,7 @@ Die meisten Menschen beschränken sich jedoch auf (bekannte) Wanderwege, was bei
 Ich liebe es off-road ... bzw. off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
-> <small>Ein anderer reddit.com Nutzer</small>
+> <br>--- <small>Ein anderer reddit.com Nutzer</small>
 
 Für andere zu gefährlich, für uns - natürlich mit passender Vorbereitung - ein willkommenes Abenteuer ;)
 

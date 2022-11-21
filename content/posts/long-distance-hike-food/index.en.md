@@ -21,7 +21,7 @@ One of the comments directly said that we're going to die.
 We had to do some compromises and had to leave our every-day comfort zone and noticed, that variety is something very valuable and is very underestimated in our normal life.
 
 > "There's a pretty good chance you are going to die with that plan."
-> <small>A reddit.com user</small>
+> <br>--- <small>A reddit.com user</small>
 
 # Eat and drink enough
 Our body needs **much more calories** when we're active over the whole day (about twice as much, so 4000-5000 kcal).
