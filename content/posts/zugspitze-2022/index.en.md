@@ -12,8 +12,6 @@ After the first day of hiking along the high-altitude trail ("Höhenweg") at the
 
 ... at least almost, but more about that below.
 
-TODO Karte
-
 # Info & safety advice
 
 ## Preparation
