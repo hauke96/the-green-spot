@@ -12,8 +12,6 @@ Nach dem ersten Wandertag entlang des Höhenwegs am Eibsee, ging es dann am 9.11
 
 ... zumindest fast, aber dazu unten mehr.
 
-TODO Karte
-
 # Infos & Sicherheitshinweise
 
 ## Vorbereitung
