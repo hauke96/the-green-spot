@@ -2,7 +2,7 @@
 title: "Rundtour: Dove und Gose Elbe mit dem Rebel 2K"
 summary: "Dieses mal geht es gemütlich mit einem gemieteten Packraft die Gose und Dove Elbe bei Hamburg entlang."
 date: "2021-07-31T00:20:00+02:00"
-tags: ["hamburg", "elbe", "paddeln"]
+tags: ["hamburg", "elbe", "paddeln", "deutschland"]
 author: "hauke"
 images: ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 ---

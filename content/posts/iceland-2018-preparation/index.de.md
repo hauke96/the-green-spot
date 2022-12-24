@@ -2,7 +2,7 @@
 title: "Island 2018: Vorbereitungen"
 summary: "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
 date: 2019-03-27T02:29:32+02:00
-tags: ["Island 2018"]
+tags: ["iceland-2018","vorbereitung","island"]
 author: "kristina-hauke"
 images: ["posts/iceland-2018-preparation/thumb.jpg"]
 ---

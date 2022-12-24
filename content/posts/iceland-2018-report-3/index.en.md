@@ -2,7 +2,7 @@
 title: "Iceland 2018: Travel report (part 3)"
 summary: "Accompanied by rain, fog and wind, we went on through the worlds largest volcanic rift Eldgjá and along the river Skaftá heading north."
 date: "2020-04-09T21:34:30+02:00"
-tags: ["iceland-2018"]
+tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
 images: ["posts/iceland-2018-report-3/DSC00805_1600.JPG"]
 ---
