@@ -139,7 +139,11 @@ convert -interlace Plane -resize x32 favicon.jpg favicon.ico
 ```
 
 ## Photos for posts
+For normal horizontal photos:
 ```bash
 convert -resize 1600x DSC00835.JPG DSC00835_1600.JPG
-convert -resize 1600x -rotate -90 DSC00835.JPG DSC00835_1600.JPG
+```
+For vertical photos:
+```bash
+convert -resize x1600 -auto-orient DSC00835.JPG DSC00835_1600.JPG
 ```
