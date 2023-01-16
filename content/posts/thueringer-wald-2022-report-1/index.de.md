@@ -163,5 +163,30 @@ Habe aber gerade so telefonieren können, als ich auf den Felsen über meinem Ca
 # Tag 3: Bärenbruch → Wachsenrasen
 {{< smallDate "2022-04-23" >}}
 
+Bei der Pause am vorigen Tag ist mir bereits aufgefallen, dass ich meine Regenhose verloren habe.
+Ich habe sie außen am Rucksack fest gemacht, was wohl nicht gehalten hat.
+
+> **Lesson learned:**<br>Alles was nicht mit einem Karabiner oder anderweitig gesichert ist, gehört *in* den Rucksack!
+
+Nach dem Frühstück bin ich also los und die fast 4km wieder zurück zum Parkplatz am Inselberg gelaufen in der Hoffnung die Hose einfach am Wegesrand zu finden.
+Leider habe ich nichts gefunden, ich musste also mit meiner Regenjacke auskommen.
+
+Passend zu diesem Malleur, hat es dann am Parkplatz angefangen zu regnen, allerdings eher sporadisch und nicht sonderlich viel.
+Meine Regenjacke war allerdings auch nicht mehr die jüngste und trotz Impregnierung nicht mehr wirklich wasserdicht.
+Das bisschen Regen zu diesem Zeitpunkt hat sie aber weggesteckt.
+
+Bin dann zunächst dem **Gelben Weg** gefolgt, einem Parallelweg zum Rennsteig, und erst an der Gabelwiese wieder auf den Rennsteig gewechselt.
+
+Der Rest war eher unspektakulär nur hat es ab dem **Berggasthaus Heuberghaus** stärker angefangen zu regnen.
+Bis zum **Steinbruch Splittergrund** war ich dann schon gut nass und wollte im **Berghotel Ebertswiese** etwas warmes trinken, aber Pustekuchen, die hatten geschlossen.
+In einer Hütte etwas weiter, habe ich dann Rast gemacht, etwas gegessen und mir einen Tee gemacht.
+Meine Regenjacke war mittlerweile etwas überfordert und so wurde ich auch darunter bereits nass.
+
+Auf dem Weg zum **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch under der Regenjacke gut nass.
+
+> **Lesson learned:**<br>Auf vernünftige Regenkleidung achten!
+
+
+
 # Tag 4: Wachsenrasen → Meiningen
 {{< smallDate "2022-04-24" >}}
