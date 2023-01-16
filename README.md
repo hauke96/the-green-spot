@@ -51,12 +51,20 @@ author: ""
 ```
 
 # Run it (locally)
-Use `hugo` with `hugo server -D -v` or build it (see blow) and use your own server.
+Just use the `run.sh` script to start hugo with the local environment or `run.sh -f` to also open the local blog-URL in Firefox.
+
+Of course you can also use hugo manually.
+Just execute `hugo server -D -v` or build it (see blow) and use your own HTTP-server.
 
 # Build it
 Just execute `hugo` (without parameters) and look into the `public`-folder.
 
+Specify an environment with `--environment <env>` to use a different config from the `./config/` folder.
+
 ## For beta
+
+> This is out of date since there are dedicated configuration files in `./config/`.
+
 There is a [beta site](https://the-green-spot.de/beta). Because the URL is different, it must be build like this:
 
 1. Change the URL in the `config.toml`
