@@ -182,11 +182,49 @@ Bis zum **Steinbruch Splittergrund** war ich dann schon gut nass und wollte im *
 In einer Hütte etwas weiter, habe ich dann Rast gemacht, etwas gegessen und mir einen Tee gemacht.
 Meine Regenjacke war mittlerweile etwas überfordert und so wurde ich auch darunter bereits nass.
 
-Auf dem Weg zum **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch under der Regenjacke gut nass.
+{{< imgScale "DSC03745_600.JPG" "Aussicht vom Aussichtsturm \"südlichen Spießberg\" Richtug Westen." "720x" >}}
+
+Auf dem Weg zum Imbiss **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch under der Regenjacke gut nass.
 
 > **Lesson learned:**<br>Auf vernünftige Regenkleidung achten!
 
+Am Imbiss angekommen habe ich mir erst mal einen Kaffee und eine heiße Zitrone gegönnt.
+Dort war noch ein anderer Wanderer, der sich aufwärmte.
+Sein Name war Kristian und er plant -- genau die die Gruppe auf dem Inselberg -- den ganzen Rennsteig zu gehen ... allerdings mit seiner jungen Hündin im Schlepptau.
+Wir haben uns nett unterhalten und erst ist etwas vor mir von dannen gezogen.
 
+Ein wenig später, etwas hinter dem **Aussichtsturm "Kramerod"**, haben wir uns dann wieder getroffen und sind gemeinsam weiter gewandert.
+In Gesellschaft war es auch viel schöner und die nächsten sechs Kilometer flogen nur so dahin.
+Trotz, dass seine Hündin noch relativ jung war, war sie voll dabei, fand alles super aufregend und wollte alles entdecken.
+
+An der Hütte **Wachsenrasen** haben wir dann Rast gemacht.
+Ich wollte mein Camp direkt dort aufbauen, da es für mich am nächsten Tag nach Steinbach-Hallenberg ging, von wo aus ich nach Meiningen fahren wollte.
+Kristian hat dann auch sein Camp in der Hütte aufgeschlagen und so haben wir beide und seine Hündin in der Hütte übernachtet.
+
+Die Hütte ist zwar an einer Seite komplett offen, aber es kam ein Regen herein und es war trotzdem windgeschützt und trocken.
+Leider lag hinter der Hütte recht viel Müll rum.
+
+{{< imgScale "DSC03752_1600.JPG" "Die Hütte am Wachsenrasen von außen ..." "500x" >}}
+
+{{< imgScale "DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
 
 # Tag 4: Wachsenrasen → Meiningen
 {{< smallDate "2022-04-24" >}}
+
+Am morgen war es noch recht diesig und kalt.
+Kristian und ich haben zusammen gefrühstückt und uns dann verabschiedet.
+Für die beiden ging es weiter Richtung Saale, für mich nach Steinbach-Hallenberg.
+
+Ich bin dabei den **Königsweg** abgewandert, einen einfachen Wanderweg bestehend aus Forstwegen.
+Ab und zu hat man aber einen ganz schönen Ausblick über die Landschaft und die Dörfer Ober- und Unterschönau.
+
+# Fazit
+
+Trotz des vorgewärmten Wanderweges aus der Dose mit viel Infrastruktur, Touristischen Attraktionen und wenig Wildnis, war es eine sehr schöne Wanderung.
+
+Man merkte aber an vielen Stellen, dass der Wald genutzt und Bäume großflächig gefällt werden.
+Solche Passagen sind natürlich nicht schön zu bewandern.
+Aber Stellen wie die Drachenschlucht, der Inselberg oder sonstige Aussichtspunkte und -türme, machen das wieder wett.
+
+**Also:**<br>
+Definitiv eine Reise Wert und vielleicht mache ich irgendwann den Rest vom Rennsteig auch noch.
