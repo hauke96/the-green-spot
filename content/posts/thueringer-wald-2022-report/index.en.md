@@ -7,11 +7,11 @@ author: "hauke"
 images: ["posts/thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
 
-Nach langer Corona-Pause und ausschließlich Tagesrouten, ging es am 21.04.2022 endlich los zu einer Mehrtagestour, dieses mal auf dem **Rennsteig** durch den Thüringer Wald.
+After a long Corona break and only day routes, I finally went on April 21st, 2022 to a multi-day tour, this time on the **Rennsteig** through the Thuringian Forest.
 
-Da ich nur drei Übernachtungen im Freien geplant habe, hatte ich nur leichtes Gepäck dabei ([s.u.](#ausrüstung)).
-Entsprechend war die Tour nicht übermäßig lang (66km), was bei dem Wetter am letzten Tag aber auch gar nicht schlecht war.
-Mehr dazu aber unten ;)
+Since I have planned only three nights outdoors, I had only light luggage with me.
+Accordingly, the tour was not overly long (66 km / 41 mi), which was not bad at all due to the weather on the last day.
+But more about this below.
 
 ## Route
 
@@ -23,41 +23,43 @@ Mehr dazu aber unten ;)
 	src="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496#10/50.8426/10.4672">
 </iframe>
 <a target="_blank" href="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496">
-	Vollständige Karte anzeigen
+	Show complete map 
 </a>
 </br>
 </br>
 
-Den Thüringer Wald hatte ich ausgesucht, weil es eins der wenigen größeren halbwegs wilden Waldgebiete Deutschland ist, welches ich auch noch nicht kannte und welches für mich nicht all zu weit weg ist.
-Erst im Nachhinein habe ich erfahren, dass meine geplante Tour ziemlich genau -- bis auf ein paar Abweichungen -- auf dem Rennsteig liegt.
-Also dann eben der Rennsteig im Thüringer Wald.
+I had chosen the Thuringian Forest because it is one of the few larger semi-wild forest areas in Germany, which I also did not know yet and which is not too far away for me.
+Only afterwards I learned that my planned tour is pretty much -- except for a few deviations -- on the hiking trail called "Rennsteig".
+Well, lets do the Rennsteig in the Thuringian Forest then.
 
-Entsprechend habe ich nicht sehr viel Arbeit in die Planung gesteckt.
-Die Route biegt hauptsächlich zum [Bärengrund](#baerengrund) einmal ab (siehe "Camp 2" auf der Karte oben), aber ansonsten bin ich dem Rennsteig gefolgt.
+Accordingly, I didn't put a lot of work into the planning.
+The route turns mainly to the [Bärengrund](#baerengrund) once (see "Camp 2" on the map above), but otherwise I pretty much just followed the Rennsteig.
 
-Aufgrund meines beschränkten Urlaubs hatte ich drei Nächte im Freien eingeplant, sowie zusätzlich eine Nacht im Eisenach und zwei Nächte in Meiningen zum gemütlichen Ausklang.
-Hier soll es aber nur um die Wanderung gehen.
+Due to my limited vacation, I had planned three nights outdoors, plus an additional night in Eisenach and two nights in Meiningen for a nice finish.
+But this post is only about the hike.
 
 ## Ausrüstung
 
-Da ich ja nur vier Tage und drei Nächte wandern war, habe ich meinen **24L Tagesrucksack** (Gregory Arrio 24 RC) voll gestopft um nicht meinen schwereren Trekkingrucksack mitnehmen zu müssen.
-Tatsächlich konnte ich alles mitnehmen, was ich brauchte.
+Since I was only hiking for four days and three nights, I stuffed my **24L daypack** (Gregory Arrio 24 RC) to not have to take my heavier trekking backpack.
+Surprisingly, I was able to carry everything I needed.
 
-An Kleidung hatte ich natürlich eine lange Hose, Wanderschuhe, Wandersocken und eine Regenjacke mit.
-Dazu normale T-Shirts und zwei/drei Paar Unterhosen und dünne und dicke Socken.
-Ich fahre die 2-Socken-Strategie (dünne Sneaker-Socken und darüber dicke Wandersocken).
+In terms of clothing, I had of course long pants, hiking boots, hiking socks and a rain jacket with.
+Plus normal t-shirts and two/three pairs of underpants and thin and thick socks.
+I drive the 2-socks strategy (thin sneaker socks and over it thick hiking socks).
 
-Für die Übernachtungen habe ich mein Tarp mitgenommen.
-Mein Zelt passt sowieso nicht in meinen Rucksack und wiegt auch 2,5 kg mehr.
-Das Tarp ist dabei eine grüne 2x3 m Baumarkt-Plane mit Ösen für 6,50 € von Bauhaus, also kein teures schicki-micki-ultralight-Teil von Hilleberg.
-Zum Tarp muss man natürlich auch Heringe uns etwas Schnur mitnehmen.
-Als Stützen habe ich meine Wanderstöcke genommen.
+For the overnights I took my tarp with me.
+My tent does not fit in my backpack anyway and also weighs 2.5 kg / 5.5 lbs more.
+The Tarp is just a green 2x3 m / 6.5x10 ft hardware store tarpaulin with eyelets for 6.50 € from the German Bauhaus hardware store, so no expensive super-duper-ultralight stuff of Hilleberg.
+Of course, for the Tarp one must take pegs and some cord.
+As supports I have taken my hiking poles.
 
-Zum schlafen meine *Ultralight Air Mat* (sehr zu empfehlen!) von Sea To Summit und einen Sommerschlafsack von Frilufts.
-Da es aber ja April war, habe ich mir noch ein Fleece-Inlett dazugeholt, was zusammen ganz gut funktioniert hat.
-Mein Winterschlafsack passt -- ähnlich wie mein Zelt -- eh nicht in den Rucksack.
+For sleeping, I took my *Ultralight Air Mat* (highly recommended!) from Sea To Summit and a summer sleeping bag from Frilufts with me.
+But since it was April, I got myself a fleece inlay in addition, which worked together quite well.
+My winter sleeping bag fits -- similar to my tent -- not in the backpack anyway.
 
 ### Verpflegung
+
+> # TODO
 
 Fürs **Frühstück** gab es eine Art Porridge (Haferflocken + BP-WR Notriegel + Trockenobst).
 Einfach, sättigend, einigermaßen lecker und einfach zuzubereiten.
