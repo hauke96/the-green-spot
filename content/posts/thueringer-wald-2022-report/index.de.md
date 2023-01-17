@@ -1,7 +1,7 @@
 ---
 title: "Rennsteig - Thüringer Wald im April 2022"
 summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu bewandern. Mit Tarp und kleinem Gepäck ging es einige Tage durch den Thüringer Wald, schöne Aussichten, tolle Erlebnisse und nette Bekanntschaften inklusive."
-date: "2022-12-24T21:41:49+01:00"
+date: "2023-01-17T21:41:49+01:00"
 tags: ["wandern", "rennsteig", "thüringer-wald", "tarp"]
 author: "hauke"
 images: ["posts/thueringer-wald-2022-report/DSC03737_1600.JPG"]
@@ -71,7 +71,7 @@ Selbst in der Nebensaison hatte vieles geöffnet.
 ## Wetter
 
 Am ersten Tag war es relativ warm (ich schätze ca. 15°C bis 20°C am Mittag).
-Gegen Mittag bin ich dann im T-Shirt weiter gegangen und habe mir nach der Drachenschlucht (TODO s.u.) bei Kaffee und Kuchen die Sonne auf den Pelz scheinen lassen.
+Gegen Mittag bin ich dann im T-Shirt weiter gegangen und habe mir nach der Drachenschlucht ([s.u.](#drachenschlucht)) bei Kaffee und Kuchen die Sonne auf den Pelz scheinen lassen.
 
 Am zweiten Tag war es deutlich kälter, aufgewacht bin ich im dicken Nebel bei ca. 5°C.
 Viel wärmer wurde es auch nicht, ich schätze um die 12°C.
@@ -83,7 +83,7 @@ Am dritten Tag hat es dann im frühen Vormittag angefangen zu bis zum Folgetag d
 Typisches Aprilwetter: Frisch, Sonnenschein, Nebel, kalt, Regen.
 
 # Tag 1: Eisenach → Klinzingshütte
-{{< smallDate "2022-04-21" >}}
+{{< smallDate "2022-04-22" >}}
 
 Letzter Tag in er Zivilisation, also erst mal lecker in einer Bäckerei frühstücken.
 Gestärkt ging es dann zur Wartburg, der Aufstieg war für mich Nordlicht bereits ordentlich anstrengend (nicht zu vergleichen mit [der Besteigung der Zugspitze]({{< ref "posts/zugspitze-2022" >}}), aber trotzdem anstrengend).
@@ -95,7 +95,7 @@ Im Innenhof steht der Südturm, auf den man für einen Euro drauf kann -- lohnt 
 
 {{< imgScale "DSC03672_1600.JPG" "Blick vom Südturm auf den schier endlosen Thüringer Wald." "500x" >}}
 
-Vorbei am "Waldhaus Sängerwiese" ging es zur **Drachenschlucht**, einem *der* Highlights des Rennsteigs.
+Vorbei am "Waldhaus Sängerwiese" ging es zur <span id="drachenschlucht">**Drachenschlucht**</span>, einem *der* Highlights des Rennsteigs.
 Ist man in der Nähe der Drachenschlucht, sollte man ihr unbedingt einen Besuch abstatten, es lohnt sich.
 
 {{< imgScale "DSC03697_1600.JPG" "In der Drachenschlucht. Unter dem Gitter fließt der Bach." "333x" >}}
@@ -120,7 +120,7 @@ Aber auf der Veranda habe ich mir mein Abendessen gekocht und für die Nacht mei
 {{< imgScale "DSC03722_1600.JPG" "Mein Tarp mit zwei Wanderstöcken aufgespannt." "500x" >}}
 
 # Tag 2: Klinzingshütte → Bärenbruch
-{{< smallDate "2022-04-22" >}}
+{{< smallDate "2022-04-23" >}}
 
 Kurz vor sieben bin ich aufgestanden und war mitten in einem stark nebeligen Märchenwald.
 Gespenstisch aber auch sehr schön.
@@ -161,7 +161,7 @@ Am Camp selbst -- eins der schönsten, die ich bisher überhaupt hatte -- war ic
 Habe aber gerade so telefonieren können, als ich auf den Felsen über meinem Camp geklettert bin.
 
 # Tag 3: Bärenbruch → Wachsenrasen
-{{< smallDate "2022-04-23" >}}
+{{< smallDate "2022-04-24" >}}
 
 Bei der Pause am vorigen Tag ist mir bereits aufgefallen, dass ich meine Regenhose verloren habe.
 Ich habe sie außen am Rucksack fest gemacht, was wohl nicht gehalten hat.
@@ -209,7 +209,7 @@ Leider lag hinter der Hütte recht viel Müll rum.
 {{< imgScale "DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
 
 # Tag 4: Wachsenrasen → Meiningen
-{{< smallDate "2022-04-24" >}}
+{{< smallDate "2022-04-25" >}}
 
 Am morgen war es noch recht diesig und kalt.
 Kristian und ich haben zusammen gefrühstückt und uns dann verabschiedet.
