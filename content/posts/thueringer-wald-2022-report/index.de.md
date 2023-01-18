@@ -75,10 +75,10 @@ Selbst in der Nebensaison hatte vieles geöffnet.
 ## Wetter
 
 Am ersten Tag war es relativ warm (ich schätze ca. 15 °C bis 20 °C am Mittag).
-Gegen Mittag bin ich dann im T-Shirt weiter gegangen und habe mir nach der [Drachenschlucht](#drachenschlucht)) bei Kaffee und Kuchen die Sonne auf den Pelz scheinen lassen.
+Gegen Mittag bin ich dann im T-Shirt weiter gegangen und habe mir nach der [Drachenschlucht](#drachenschlucht) bei Kaffee und Kuchen die Sonne auf den Pelz scheinen lassen.
 
 Am zweiten Tag war es deutlich kälter, aufgewacht bin ich im dicken Nebel bei ca. 5 °C.
-Viel wärmer wurde es auch nicht, ich schätze um die 12 °C.
+So viel wärmer wurde es auch nicht, ich schätze um die 12 °C.
 Gerade mit dem Wind auf dem [großen Inselberg](#grosser-inselberg) war es schon recht kalt.
 
 Am dritten Tag hat es dann mittags angefangen bis zum Folgetag durchzuregnen.

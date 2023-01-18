@@ -59,34 +59,32 @@ My winter sleeping bag fits -- similar to my tent -- not in the backpack anyway.
 
 ### Verpflegung
 
-> # TODO
+For **breakfast**, I had a kind of porridge (oatmeal + BP-WR emergency bar + dried fruits).
+Simple, filling, reasonably tasty and easy to make.
+In addition, I had an instant coffee.
 
-Fürs **Frühstück** gab es eine Art Porridge (Haferflocken + BP-WR Notriegel + Trockenobst).
-Einfach, sättigend, einigermaßen lecker und einfach zuzubereiten.
-Dazu gabs dann einen Kaffee aus der Tüte.
+For the **main meal** I had two ready meals (Trek'n Eat & Sea To Summit) and a DIY meal of couscous, red lentils, sauce powder and dried vegetables, which also worked very well.
+In addition, I had a few soups with me to have something warming in the evening in addition to tea.
 
-Als **Hauptmahlzeit** gab es zwei Fertiggerichte (Trek'n Eat & Sea To Summit) und eine DIY-Mahlzeit aus Couscous, roten Linsen, Soßenpulver und getrocknetem Gemüse, was auch sehr gut funktioniert hat.
-Dazu hatte ich noch ein paar Suppen mit, um am Abend neben Tee noch etwas Wärmendes zu haben.
+For **in between** I had some cereal bars, dried fruit, crispbread and nuts.
+To warm up I had of course tea, soup, broth and hot lemon (shugar powder with lemon flavour and vitamin C) with me.
 
-Für **zwischendurch** gab es einige Müsliriegel, Trockenobst, Knäckebrot und Nüsse.
-Zum aufwärmen hatte ich natürlich Tee, Suppe, Brühe und heiße Zitrone dabei.
-
-Da der Rennsteig ziemlich bekannt ist, kann man sich zumindest an einzelnen Punkten entlang der Route gut verpflegen (siehe [Karte oben](#route)).
-Selbst in der Nebensaison hatte vieles geöffnet.
+Since the Rennsteig is quite well known, you can eat and drink something at several location along the route (see [map above](#route)).
+Even in the off-season, many locations were open.
 
 ## Wetter
 
-Am ersten Tag war es relativ warm (ich schätze ca. 15 °C bis 20 °C am Mittag).
-Gegen Mittag bin ich dann im T-Shirt weiter gegangen und habe mir nach der [Drachenschlucht](#drachenschlucht)) bei Kaffee und Kuchen die Sonne auf den Pelz scheinen lassen.
+The first day it was relatively warm (I guess about 15 °C / 60°F up to 20 °C / 70°F at noon).
+Around noon I went on in a T-shirt and let the sun shine on my fur after the [Drachenschlucht](#drachenschlucht) with coffee and cake.
 
-Am zweiten Tag war es deutlich kälter, aufgewacht bin ich im dicken Nebel bei ca. 5 °C.
-Viel wärmer wurde es auch nicht, ich schätze um die 12 °C.
-Gerade mit dem Wind auf dem [großen Inselberg](#grosser-inselberg) war es schon recht kalt.
+On the second day it was clearly colder and I woke up in the thick fog at about 5 °C / 40 °F.
+It didn't get that much warmer, I guess around 12 °C / 54 °F.
+Especially with the wind on the [Großer Inselberg](#grosser-inselberg) mountain it was quite cold.
 
-Am dritten Tag hat es dann mittags angefangen bis zum Folgetag durchzuregnen.
+On the third day it started to rain at noon until the following day.
 
-**Also**:<br>
-Typisches Aprilwetter mit allem drum und dran.
+**So:**<br>
+Typical German April weather with sunshine, fog, blue sky, rain, warm weather and near freezing temperatures.
 
 # Tag 1: Eisenach → Klinzingshütte
 {{< smallDate "2022-04-22" >}}
