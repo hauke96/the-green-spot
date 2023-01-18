@@ -1,8 +1,8 @@
 ---
-title: "Rennsteig - Thüringer Wald im April 2022"
-summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu bewandern. Mit Tarp und kleinem Gepäck ging es einige Tage durch den Thüringer Wald, schöne Aussichten, tolle Erlebnisse und nette Bekanntschaften inklusive."
+title: "Rennsteig - Thuringian Forest in April 2022"
+summary: "I started hiking the Rennsteig from Eisenach in April 2022. With tarp and small luggage it went a few days through the Thuringian Forest, beautiful views, great experiences and nice acquaintances included."
 date: "2023-01-17T21:23:49+01:00"
-tags: ["wandern", "rennsteig", "thüringer-wald", "tarp"]
+tags: ["hiking", "rennsteig", "thuringian-forest", "tarp"]
 author: "hauke"
 images: ["posts/thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
@@ -38,7 +38,7 @@ The route turns mainly to the [Bärengrund](#baerengrund) once (see "Camp 2" on 
 Due to my limited vacation, I had planned three nights outdoors, plus an additional night in Eisenach and two nights in Meiningen for a nice finish.
 But this post is only about the hike.
 
-## Ausrüstung
+## Gear
 
 Since I was only hiking for four days and three nights, I stuffed my **24L daypack** (Gregory Arrio 24 RC) to not have to take my heavier trekking backpack.
 Surprisingly, I was able to carry everything I needed.
@@ -57,7 +57,7 @@ For sleeping, I took my *Ultralight Air Mat* (highly recommended!) from Sea To S
 But since it was April, I got myself a fleece inlay in addition, which worked together quite well.
 My winter sleeping bag fits -- similar to my tent -- not in the backpack anyway.
 
-### Verpflegung
+## Food
 
 For **breakfast**, I had a kind of porridge (oatmeal + BP-WR emergency bar + dried fruits).
 Simple, filling, reasonably tasty and easy to make.
@@ -72,7 +72,7 @@ To warm up I had of course tea, soup, broth and hot lemon (shugar powder with le
 Since the Rennsteig is quite well known, you can eat and drink something at several location along the route (see [map above](#route)).
 Even in the off-season, many locations were open.
 
-## Wetter
+## Weather
 
 The first day it was relatively warm (I guess about 15 °C / 60°F up to 20 °C / 70°F at noon).
 Around noon I went on in a T-shirt and let the sun shine on my fur after the [Drachenschlucht](#drachenschlucht) with coffee and cake.
@@ -86,32 +86,34 @@ On the third day it started to rain at noon until the following day.
 **So:**<br>
 Typical German April weather with sunshine, fog, blue sky, rain, warm weather and near freezing temperatures.
 
-# Tag 1: Eisenach → Klinzingshütte
+# Day 1: Eisenach → Klinzingshütte
 {{< smallDate "2022-04-22" >}}
 
-Letzter Tag in der Zivilisation, also erst mal lecker in einer Bäckerei frühstücken.
-Gestärkt ging es dann zur **Wartburg**, der Aufstieg war für mich Nordlicht bereits ordentlich anstrengend (nicht zu vergleichen mit [der Besteigung der Zugspitze]({{< ref "posts/zugspitze-2022" >}}), aber trotzdem anstrengend).
-Oben angekommen hatte ich alle Jacken bereits ausgezogen und war schon einigermaßen nass geschwitzt.
-Aber die Aussicht war es wert!
-Im Innenhof steht der Südturm, auf den man für einen Euro drauf kann -- lohnt sich, sollte man machen!
+Last day in civilization, so I had a delicious breakfast in a bakery in Eisenach.
+Strengthened I then went to the famous castle **Wartburg**, the climb was for me as a Nordlicht (person from the flat northern Germany) was already pretty exhausting (not to be compared with the [ascent of the Zugspitze]({{< ref "posts/zugspitze-2022" >}}) , but still exhausting).
+Arrived at the top, I had already taken off all jackets and was already sweating wet to some extent.
+But the view was worth it!
+In the courtyard is the south tower, on which you can on for one euro - worth it, you should invest that one euro!
 
-{{< imgScale "DSC03657_1600.JPG" "Blick auf die Wartburg." "500x" >}}
+{{< imgScale "DSC03657_1600.JPG" "View towards the Wartburg with the south tower in the middle." "500x" >}}
 
-{{< imgScale "DSC03672_1600.JPG" "Blick vom Südturm auf den schier endlosen Thüringer Wald." "500x" >}}
+{{< imgScale "DSC03672_1600.JPG" "View from the south tower over the sheer endlessness of the Thuringian Forest." "500x" >}}
 
-Vorbei am **Waldhaus Sängerwiese** ging es zur <span id="drachenschlucht">**Drachenschlucht**</span>, einem *der* Highlights des Rennsteigs.
-Ist man in der Nähe der Drachenschlucht, sollte man ihr unbedingt einen Besuch abstatten, es lohnt sich.
+Past the restaurant **Waldhaus Sängerwiese** I went on to the <span id="drachenschlucht">**Drachenschlucht**</span> (*Dragon Gorge*, a narrow gorge), one of the highlights of the Rennsteig.
+If you are near the Drachenschlucht, you should definitely pay it a visit, it's worth it!
 
-{{< imgScale "DSC03697_1600.JPG" "In der Drachenschlucht. Unter dem Gitter fließt der Bach." "333x" >}}
+{{< imgScale "DSC03697_1600.JPG" "Within the Drachenschlucht. There's a stream flowing below the metal grid." "333x" >}}
 
-Hier war dann auch etwas mehr los und schon bald ärgerten sich die ersten Leute hörbar über ihr mangelhaftes Schuhwerk.
-Ein Vater hat sich so geärgert, weil seine neuen Turnschuhe dreckig wurden, dass er wütend mit dem Fuß auftrat, dabei seine ganze Hose mit Schlamm bespritzte und bösen Blickes davon stapfte ... samt dieses sapschenden Geräusches seiner nassen Turnschuhe.
-Mutter und Tochter rollten mit den Augen und taten mir etwas Leid, der Ausflug war wohl dahin.
+It was a little bit more busy there and soon the first people were audibly annoyed about their inadequate footwear.
+A father was so annoyed because his new sneakers got dirty that he angrily stamped his foot, splashing his entire pants with mud and stomped off with a nasty look ... along with that sloshing sound of his wet sneakers.
+Mother and daughter rolled their eyes and felt a little sorry for me, the trip was probably gone.
 
-Gerade im späteren (südlichen) Verlauf ist festes Wanderschuhwerk einfach Pflicht!
-Man quert dort nicht nur häufiger den Bach, sondern der Weg verläuft teilweise *im* noch jungen und schlammigen Bach.
+Especially in the later (southern) part, sturdy hiking shoes are simply a must!
+Not only are there a lot of stream crosses and fords, but the way runs partly *within* the still young and muddy stream.
 
-{{< imgScale "DSC03710_1600.JPG" "Bach in der Drachenschlucht. Manchmal ist der Weg trocken, manchmal (auf dem Bild weiter hinten) ist Weg und Bach nicht zu unterscheiden." "500x" >}}
+{{< imgScale "DSC03710_1600.JPG" "The stream in the Drachenschlucht. Sometimes the path is dry, sometimes (in the picture further back) the path and stream are indistinguishable." "500x" >}}
+
+> # TODO
 
 Kurz nach der Drachenschlucht kommt das **Jagdschloss "Hohe Sonne"**, wo es einen Imbiss gibt, an dem ich im Sonnenschein Kaffee und Kuchen genossen habe.
 Hier war von den geplanten Kilometern für den Tag etwa Halbzeit und es war erst 13 Uhr, ich hatte also noch genug Zeit.

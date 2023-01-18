@@ -57,7 +57,7 @@ Zum schlafen meine *Ultralight Air Mat* (sehr zu empfehlen!) von Sea To Summit u
 Da es aber ja April war, habe ich mir noch ein Fleece-Inlett dazugeholt, was zusammen ganz gut funktioniert hat.
 Mein Winterschlafsack passt -- ähnlich wie mein Zelt -- eh nicht in den Rucksack.
 
-### Verpflegung
+## Verpflegung
 
 Fürs **Frühstück** gab es eine Art Porridge (Haferflocken + BP-WR Notriegel + Trockenobst).
 Einfach, sättigend, einigermaßen lecker und einfach zuzubereiten.
@@ -89,18 +89,18 @@ Typisches Aprilwetter mit allem drum und dran.
 # Tag 1: Eisenach → Klinzingshütte
 {{< smallDate "2022-04-22" >}}
 
-Letzter Tag in der Zivilisation, also erst mal lecker in einer Bäckerei frühstücken.
+Letzter Tag in der Zivilisation, also erst mal lecker in einer Bäckerei in Eisenach frühstücken.
 Gestärkt ging es dann zur **Wartburg**, der Aufstieg war für mich Nordlicht bereits ordentlich anstrengend (nicht zu vergleichen mit [der Besteigung der Zugspitze]({{< ref "posts/zugspitze-2022" >}}), aber trotzdem anstrengend).
 Oben angekommen hatte ich alle Jacken bereits ausgezogen und war schon einigermaßen nass geschwitzt.
 Aber die Aussicht war es wert!
 Im Innenhof steht der Südturm, auf den man für einen Euro drauf kann -- lohnt sich, sollte man machen!
 
-{{< imgScale "DSC03657_1600.JPG" "Blick auf die Wartburg." "500x" >}}
+{{< imgScale "DSC03657_1600.JPG" "Blick auf die Wartburg mit dem Südturm in der Mitte." "500x" >}}
 
 {{< imgScale "DSC03672_1600.JPG" "Blick vom Südturm auf den schier endlosen Thüringer Wald." "500x" >}}
 
 Vorbei am **Waldhaus Sängerwiese** ging es zur <span id="drachenschlucht">**Drachenschlucht**</span>, einem *der* Highlights des Rennsteigs.
-Ist man in der Nähe der Drachenschlucht, sollte man ihr unbedingt einen Besuch abstatten, es lohnt sich.
+Ist man in der Nähe der Drachenschlucht, sollte man ihr unbedingt einen Besuch abstatten, es lohnt sich!
 
 {{< imgScale "DSC03697_1600.JPG" "In der Drachenschlucht. Unter dem Gitter fließt der Bach." "333x" >}}
 
