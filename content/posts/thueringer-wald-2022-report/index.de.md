@@ -40,12 +40,8 @@ Hier soll es aber nur um die Wanderung gehen.
 
 ## Ausrüstung
 
-Da ich ja nur vier Tage und drei Nächte wandern war, habe ich meinen **24L Tagesrucksack** (Gregory Arrio 24 RC) voll gestopft um nicht meinen schwereren Trekkingrucksack mitnehmen zu müssen.
+Da ich ja nur vier Tage und drei Nächte wandern war, habe ich meinen **24L Tagesrucksack** (Gregory Arrio 24 RC; siehe Bild unten) voll gestopft um nicht meinen schwereren Trekkingrucksack mitnehmen zu müssen.
 Tatsächlich konnte ich alles mitnehmen, was ich brauchte.
-
-An Kleidung hatte ich natürlich eine lange Hose, Wanderschuhe, Wandersocken und eine Regenjacke mit.
-Dazu normale T-Shirts und zwei/drei Paar Unterhosen und dünne und dicke Socken.
-Ich fahre die 2-Socken-Strategie (dünne Sneaker-Socken und darüber dicke Wandersocken).
 
 Für die Übernachtungen habe ich mein Tarp mitgenommen.
 Mein Zelt passt sowieso nicht in meinen Rucksack und wiegt auch 2,5 kg mehr.
@@ -53,9 +49,18 @@ Das Tarp ist dabei eine grüne 2x3 m Baumarkt-Plane mit Ösen für 6,50 € von 
 Zum Tarp muss man natürlich auch Heringe uns etwas Schnur mitnehmen.
 Als Stützen habe ich meine Wanderstöcke genommen.
 
+{{< imgScale "backpack.JPG" "Mein Rucksack mit zwei Wasserflaschen an der Seite, wasserdichtem Beutel und Tarp links daneben." "333x" >}}
+
+An Kleidung hatte ich natürlich eine lange Hose, Wanderschuhe, Wandersocken und eine Regenjacke mit.
+Dazu normale T-Shirts und zwei/drei Paar Unterhosen und dünne und dicke Socken.
+Ich fahre die 2-Socken-Strategie (dünne Sneaker-Socken und darüber dicke Wandersocken).
+
 Zum schlafen meine *Ultralight Air Mat* (sehr zu empfehlen!) von Sea To Summit und einen Sommerschlafsack von Frilufts.
 Da es aber ja April war, habe ich mir noch ein Fleece-Inlett dazugeholt, was zusammen ganz gut funktioniert hat.
 Mein Winterschlafsack passt -- ähnlich wie mein Zelt -- eh nicht in den Rucksack.
+
+Fürs Kochen hatte ich meinen einfachen *Essential Trail Stove* Gaskartuschen-Aufsatz von Primus dabei und natürlich auch eine entsprechende Kartusche.
+Außerdem hatte ich einen Windschutz dabei, was sehr nützlich war!
 
 ## Verpflegung
 
@@ -143,10 +148,14 @@ Dort war es trocken, sauber, windgeschützt und möbliert.
 Gegen acht Uhr war ich fertig und mir kamen bereits die ersten Jogger und Leute mit Hund entgegen.
 Am **Imbiss zur Wallfahrt** und der dort gelegenen **Schillerbuche** ging es weiter an der kaum befahrenen L1127 zur **Waldschänke Dreiherrnstein**.
 
+{{< imgScale "DSC03733_1600.JPG" "Wanderwege nach der Schillerbuche, einer der etwas schöneren auf meiner Tour." "333x" >}}
+
 Nach einer kurzen Pause und weiteren ca. 5 km erreichte ich den <span id="grosser-inselberg">**Großen Inselberg**</span> auf 916 m, dem höchsten Punkt meiner Tour.
 Die höchste Stelle vom gesamten Rennsteig ist mit 983 m der große Beerenberg weiter südlich.
 Trotz der etwas diesigen Luft hatte man bereits zwischendrin ab und zu einen großartigen Ausblick.
 Auf dem Gipfel habe ich mir dann einen Kaffee gegönnt und eine Gruppe Wanderinnen getroffen, die den kompletten Rennsteig machen wollten.
+
+{{< imgScale "DSC03734_1600.JPG" "Sendetürme auf dem großen Inselberg." "333x" >}}
 
 Für mich ging es nach der Stärkung erst mal wieder runter.
 Am Parkplatz vom Inselberg ging ich an der dort aufgebauten Kartbahn vorbei nach Nordost Richtung **Bärenbruch**.

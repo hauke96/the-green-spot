@@ -40,12 +40,8 @@ But this post is only about the hike.
 
 ## Gear
 
-Since I was only hiking for four days and three nights, I stuffed my **24L daypack** (Gregory Arrio 24 RC) to not have to take my heavier trekking backpack.
+Since I was only hiking for four days and three nights, I stuffed my **24L daypack** (Gregory Arrio 24 RC; see photo below) to not have to take my heavier trekking backpack.
 Surprisingly, I was able to carry everything I needed.
-
-In terms of clothing, I had of course long pants, hiking boots, hiking socks and a rain jacket with.
-Plus normal t-shirts and two/three pairs of underpants and thin and thick socks.
-I drive the 2-socks strategy (thin sneaker socks and over it thick hiking socks).
 
 For the overnights I took my tarp with me.
 My tent does not fit in my backpack anyway and also weighs 2.5 kg / 5.5 lbs more.
@@ -53,9 +49,18 @@ The Tarp is just a green 2x3 m / 6.5x10 ft hardware store tarpaulin with eyelets
 Of course, for the Tarp one must take pegs and some cord.
 As supports I have taken my hiking poles.
 
+{{< imgScale "backpack.JPG" "My backpack with two water bottles, waterproof bag and tarp on the left." "333x" >}}
+
+In terms of clothing, I had of course long pants, hiking boots, hiking socks and a rain jacket with.
+Plus normal t-shirts and two/three pairs of underpants and thin and thick socks.
+I drive the 2-socks strategy (thin sneaker socks and over it thick hiking socks).
+
 For sleeping, I took my *Ultralight Air Mat* (highly recommended!) from Sea To Summit and a summer sleeping bag from Frilufts with me.
 But since it was April, I got myself a fleece inlay in addition, which worked together quite well.
 My winter sleeping bag fits -- similar to my tent -- not in the backpack anyway.
+
+For cooking, I used my simple *Essential Trail Stove* from Primus with a normal gas cartridge.
+I also had a windbreak, which was very usful!
 
 ## Food
 
@@ -113,8 +118,6 @@ Not only are there a lot of stream crosses and fords, but the way runs partly *w
 
 {{< imgScale "DSC03710_1600.JPG" "The stream in the Drachenschlucht. Sometimes the path is dry, sometimes (in the picture further back) the path and stream are indistinguishable." "500x" >}}
 
-> # TODO
-
 Shortly after the Drachenschlucht comes the **hunting castle "Hohe Sonne"**, with a nearby snack bar where I enjoyed coffee and cake in the sunshine.
 Here I completed already half of the planned kilometers for the day and it was only 1 PM, so I still had enough time.
 
@@ -143,12 +146,16 @@ There it was dry, clean, sheltered from the wind and furnished.
 {{< imgScale "DSC03732_1600.JPG" "Inside it was nice, sheltered from the weather and dry." "333x" >}}
 
 At around 8 AM I was ready and already met the first joggers and people with dogs.
-At the snack bar **Imbiss zur Wallfahrt** near the **Schillerbuche**, I continued along the hardly traveled L1127 to the **forest tavern Dreiherrnstein**.
+At the snack bar **Imbiss zur Wallfahrt** near the **Schillerbuche**, I continued along the hardly traveled L1127 road to the **forest tavern Dreiherrnstein**.
+
+{{< imgScale "DSC03733_1600.JPG" "One of the more beautiful hiking trails after the Schillerbuche." "333x" >}}
 
 After a short break and another 5 km / 3 mi I reached the <span id="grosser-inselberg">**Großen Inselberg**</span> mountain at 916 m / 3000ft, the highest point of my tour.
 The highest point of the whole Rennsteig is with 983 m / 3225 ft the **Großer Beerenberg** further south.
 Even in the somewhat hazy air one had a great view from time to time.
 On the summit, I then treated myself to a coffee and met a group of hikers who wanted to do the complete Rennsteig.
+
+{{< imgScale "DSC03734_1600.JPG" "Transmission towers on the summit." "333x" >}}
 
 After strengthening, I had to go down the mountain.
 At the parking lot of the Inselberg I went past the cart track built there to the northeast in the direction of **Bärenbruch**.
