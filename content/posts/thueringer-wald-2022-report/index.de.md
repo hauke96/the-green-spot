@@ -183,7 +183,10 @@ Habe aber gerade so Netz zum Telefonieren gehabt, als ich auf den Felsen über m
 Bei der Pause am vorigen Tag ist mir bereits aufgefallen, dass ich meine Regenhose verloren habe.
 Ich habe sie außen am Rucksack fest gemacht, was wohl nicht gehalten hat.
 
-> **Lesson learned:**<br>Alles was nicht mit einem Karabiner oder anderweitig gesichert ist, gehört **in** den Rucksack!
+{{< note >}}
+**Lesson learned**:<br>
+Alles was nicht mit einem Karabiner oder anderweitig gesichert ist, gehört **in** den Rucksack!
+{{< /note >}}
 
 Nach dem Frühstück bin ich also los und die fast 4 km wieder zurück zum Parkplatz am Inselberg gelaufen in der Hoffnung die Hose einfach am Wegesrand zu finden.
 Leider habe ich nichts gefunden, ich musste also mit meiner Regenjacke auskommen.
@@ -205,7 +208,10 @@ Meine Regenjacke war mittlerweile etwas überfordert und so wurde ich auch darun
 
 Auf dem Weg zum Imbiss **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch unter der Regenjacke gut nass.
 
-> **Lesson learned:**<br>Auf vernünftige Regenkleidung achten!
+{{< note >}}
+**Lesson learned**:<br>
+Auf vernünftige Regenkleidung achten!
+{{< /note >}}
 
 Am Imbiss angekommen, habe ich mir erst mal einen Kaffee und eine heiße Zitrone gegönnt.
 Dort war noch ein anderer Wanderer, der sich aufwärmte.

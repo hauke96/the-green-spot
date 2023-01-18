@@ -183,7 +183,10 @@ But I had just enough network to make a phone call when I climbed the rock above
 During the break on the previous day I already noticed that I lost my rain pants.
 I tied them to the outside of the backpack, which probably didn't hold.
 
-> **Lesson learned:**<br>Everything that is not secured with a carabiner or otherwise belongs in the backpack!
+{{< note >}}
+**Lesson learned**:<br>
+Everything that is not secured with a carabiner or otherwise belongs in the backpack!
+{{< /note >}}
 
 So after breakfast I left and walked the almost 4 km / 2.5 mi back to the parking lot at Inselberg hoping to find the pants just along the way.
 Unfortunately, I found nothing, so I had to make do with just my rain jacket.
@@ -205,7 +208,10 @@ My rain jacket was meanwhile somewhat overwhelmed and so I was already wet even 
 
 On the way to the snack **Rennsteighaus Neue Ausspanne** it then started to pour really, now I was well wet even under the rain jacket.
 
-> **Lesson learned:**<br>Pay attention to reasonable rainwear!
+{{< note >}}
+**Lesson learned**:<br>
+Pay attention to reasonable rainwear!
+{{< /note >}}
 
 Arrived at the snack bar, first of all I allowed myself a coffee and a hot lemon.
 There was another hiker there warming up.
