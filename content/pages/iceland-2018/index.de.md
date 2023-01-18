@@ -3,11 +3,11 @@ title: "Island 2018"
 date: 2020-04-24T16:39:08+02:00
 tags: ["island-2018"]
 author: "hauke"
-images: ["pages/iceland-2018/DSC00515_1600.JPG"]
+images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
 summary: "Alle Beiträge zu unserer Island Reise in 2018."
 ---
 
-{{< imgScale "DSC00515_1600.JPG" "Unsere erste große Islandreise. Hier der dritte Tag nach der Überquerung des Fremri-Emstruá mit dem Gletscher Entujökull im Hintergrund." "500x" >}}
+{{< img "DSC00515_500.JPG" "Meine erste große Islandreise. Hier der dritte Tag nach der Überquerung des Fremri-Emstruá mit dem Gletscher Entujökull im Hintergrund." "500x" >}}
 
 # Vorbereitung
 
