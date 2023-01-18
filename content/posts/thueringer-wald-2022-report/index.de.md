@@ -157,7 +157,7 @@ Es war auch erst Nachmittag, sodass ich dort auch etwas Zeit tot geschlagen habe
 
 {{< imgScale "DSC03738_1600.JPG" "Das Lager geschützt in der Nähe der Bärenbruchwand." "500x" >}}
 
-{{< imgScale "DSC03737_1600.JPG" "Tarp an der Feuerstelle mit zentralem Wanderstock zum Aufspannen" "500x" >}}
+{{< imgScale "DSC03737_1600.JPG" "Tarp an der Feuerstelle mit zentralem Wanderstock zum Aufspannen." "500x" >}}
 
 {{< imgScale "DSC03740_1600.JPG" "Unterkunft von innen." "500x" >}}
 
@@ -183,7 +183,7 @@ Passend zu diesem Malheur, hat es dann am Parkplatz angefangen zu regnen, allerd
 Meine Regenjacke war allerdings auch nicht mehr die jüngste und trotz Imprägnierung nicht mehr wirklich wasserdicht.
 Das bisschen Regen zu diesem Zeitpunkt hat sie aber weggesteckt.
 
-Bin dann zunächst dem **Gelben Weg** gefolgt, einem Parallelweg zum Rennsteig, und bin erst an der Gabelwiese wieder auf den Rennsteig gewechselt.
+Bin dann zunächst dem **Gelben Weg** gefolgt, einem Parallelweg zum Rennsteig, und bin erst an der **Gabelwiese** wieder auf den Rennsteig gewechselt.
 
 Der Rest war eher unspektakulär, nur hat es ab dem **Berggasthaus Heuberghaus** stärker angefangen zu regnen.
 Immerhin war der Weg ab hier recht schön und der Wald nicht sonderlich stark bewirtschaftet.
@@ -200,7 +200,7 @@ Auf dem Weg zum Imbiss **Rennsteighaus Neue Ausspanne** fing es dann richtig zu 
 
 Am Imbiss angekommen, habe ich mir erst mal einen Kaffee und eine heiße Zitrone gegönnt.
 Dort war noch ein anderer Wanderer, der sich aufwärmte.
-Sein Name war Kristian und er plant -- genau wie die Gruppe auf dem Inselberg -- den ganzen Rennsteig zusammen mit seiner jungen Hündin zu gehen.
+Sein Name war Kristian und er plante -- genau wie die Gruppe auf dem Inselberg -- den ganzen Rennsteig zusammen mit seiner jungen Hündin zu gehen.
 Wir haben uns nett unterhalten und er ist etwas vor mir von dannen gezogen.
 
 Ein wenig später, etwas hinter dem **Aussichtsturm "Kramerod"**, haben wir uns dann wieder getroffen und sind gemeinsam weiter gewandert.
@@ -211,12 +211,16 @@ An der Hütte **Wachsenrasen** haben wir dann Rast gemacht.
 Ich wollte mein Camp direkt dort aufbauen, da es für mich am nächsten Tag nach Steinbach-Hallenberg ging, von wo aus ich nach Meiningen fahren wollte.
 Kristian hat dann auch sein Camp in der Hütte aufgeschlagen und so haben wir beide und seine Hündin in der Hütte übernachtet.
 
-Die Hütte ist zwar an einer Seite komplett offen, aber es kam ein Regen herein und es war trotzdem windgeschützt und trocken.
+Die Hütte ist zwar an einer Seite komplett offen, aber es kam kein Regen herein und es war trotzdem windgeschützt und trocken.
 Leider lag hinter der Hütte recht viel Müll rum, aber innen war es sauber und trocken.
 
 {{< imgScale "DSC03752_1600.JPG" "Die Hütte am Wachsenrasen von außen ..." "500x" >}}
 
 {{< imgScale "DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
+
+Kristian und ich haben und viel übers wandern unterhalten.
+Er war erstaunt über das wenige Gepäck, das ich mit hatte, allerdings hatte er auch einige Dinge zu viel eingepackt.
+Aber das ist ja immer das Problem, dass man gerne mal zu viel einpackt, ein kleiner Rucksack hilft dabei sich aufs wesentliche zu konzentrieren.
 
 # Tag 4: Wachsenrasen → Meiningen
 {{< smallDate "2022-04-25" >}}
@@ -232,11 +236,11 @@ Nach kurzer Zeit erreichte ich den Bahnhof in Steinbach-Hallenberg und meine Wan
 
 # Fazit
 
-Trotz des fertigen Wanderweges aus der Dose mit viel Infrastruktur, touristischen Attraktionen und wenig Wildnis, war es eine sehr schöne Wanderung.
+Trotz des fertigen Wanderweges aus der Tüte mit viel Infrastruktur, touristischen Attraktionen und wenig Wildnis, war es eine sehr schöne Wanderung.
 
 Man merkte aber an vielen Stellen, dass der Wald genutzt und Bäume großflächig gefällt werden.
 Solche Passagen sind natürlich nicht schön zu bewandern.
-Aber Stellen wie die Drachenschlucht, der Inselberg oder sonstige Aussichtspunkte und -türme, machen das wieder wett.
+Aber Stellen wie die [Drachenschlucht](#drachenschlucht), der [Inselberg](#grosser-inselberg) oder sonstige Aussichtspunkte und -türme, machen das wieder wett.
 
 **Also:**<br>
 Definitiv eine Reise wert und vielleicht mache ich irgendwann den Rest vom Rennsteig auch noch.

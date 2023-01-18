@@ -115,130 +115,134 @@ Not only are there a lot of stream crosses and fords, but the way runs partly *w
 
 > # TODO
 
-Kurz nach der Drachenschlucht kommt das **Jagdschloss "Hohe Sonne"**, wo es einen Imbiss gibt, an dem ich im Sonnenschein Kaffee und Kuchen genossen habe.
-Hier war von den geplanten Kilometern für den Tag etwa Halbzeit und es war erst 13 Uhr, ich hatte also noch genug Zeit.
+Shortly after the Drachenschlucht comes the **hunting castle "Hohe Sonne"**, with a nearby snack bar where I enjoyed coffee and cake in the sunshine.
+Here I completed already half of the planned kilometers for the day and it was only 1 PM, so I still had enough time.
 
-Danach ging es vorbei am **Waldgasthaus "Hubertushaus"** und der **Bergwachtstation "Auerhahn"** zur **Klinzingshütte**.
-Die ist aber gut versteckt im Wald und ich musste erst mal etwas suchen, bis ich sie gefunden hatte.
-Es ist keine öffentliche Wanderhütte, viel mehr ein Verschlag, den sich da jemand mal gebaut hat.
+Then it went past the **forest inn "Hubertushaus"** and the **mountain rescue station "Auerhahn"** to the forest hut called **Klinzingshütte**.
+But it is well hidden in the forest and I had to search a bit until I found it.
+It is not a public hiker's hut or something, much more a shed that someone just had built there.
 
-Die Hütte selbst war tatsächlich offen, aber zum übernachten war es mit zu eng und dreckig.
-Aber auf der Veranda habe ich mir mein Abendessen gekocht und für die Nacht mein Tarp aufgespannt.
+The hut itself was actually open, but to spend the night it was with too narrow and dirty.
+But on the porch I have cooked my dinner and for the night I put up my Tarp nearby.
 
-{{< imgScale "DSC03722_1600.JPG" "Mein Tarp mit zwei Wanderstöcken aufgespannt." "500x" >}}
+{{< imgScale "DSC03722_1600.JPG" "My tarp streched up with two hiking poles." "500x" >}}
 
 # Tag 2: Klinzingshütte → Bärenbruch
 {{< smallDate "2022-04-23" >}}
 
-Kurz vor sieben bin ich aufgestanden und war mitten in einem stark nebeligen Märchenwald.
-Gespenstisch, aber auch sehr schön.
+Shortly before 7 AM I got up and was in the middle of a heavily foggy fairy tale forest.
+Spooky, but also very beautiful.
 
-{{< imgScale "DSC03727_1600.JPG" "Die Klinzingshütte bei Nebel am Morgen ... als wären Hänsel und Gretel gerade Feuerholz sammeln." "500x" >}}
+{{< imgScale "DSC03727_1600.JPG" "The Klinzingshütte in the fog in the morning ... as if Hansel and Gretel were just collecting firewood." "500x" >}}
 
-Gefrühstückt habe ich in der **Glöcknerhütte**, die ein paar Minuten Fußmarsch entfernt lag.
-Dort war es trocken, sauber, windgeschützt und möbliert.
+I had breakfast at a hut called **Glöcknerhütte**, a few minutes walk away.
+There it was dry, clean, sheltered from the wind and furnished.
 
-{{< imgScale "DSC03730_1600.JPG" "Die Glöcknerhütte von außen." "500x" >}}
+{{< imgScale "DSC03730_1600.JPG" "The Glöcknerhütte from outside." "500x" >}}
 
-{{< imgScale "DSC03732_1600.JPG" "Drinnen war es sehr nett eingerichtet, windgeschützt und trocken." "333x" >}}
+{{< imgScale "DSC03732_1600.JPG" "Inside it was nice, sheltered from the weather and dry." "333x" >}}
 
-Gegen acht Uhr war ich fertig und mir kamen bereits die ersten Jogger und Leute mit Hund entgegen.
-Am **Imbiss zur Wallfahrt** und der dort gelegenen **Schillerbuche** ging es weiter an der kaum befahrenen L1127 zur **Waldschänke Dreiherrnstein**.
+At around 8 AM I was ready and already met the first joggers and people with dogs.
+At the snack bar **Imbiss zur Wallfahrt** near the **Schillerbuche**, I continued along the hardly traveled L1127 to the **forest tavern Dreiherrnstein**.
 
-Nach einer kurzen Pause und weiteren ca. 5 km erreichte ich den <span id="grosser-inselberg">**Großen Inselberg**</span> auf 916 m, dem höchsten Punkt meiner Tour.
-Die höchste Stelle vom gesamten Rennsteig ist mit 983 m der große Beerenberg weiter südlich.
-Trotz der etwas diesigen Luft hatte man bereits zwischendrin ab und zu einen großartigen Ausblick.
-Auf dem Gipfel habe ich mir dann einen Kaffee gegönnt und eine Gruppe Wanderinnen getroffen, die den kompletten Rennsteig machen wollten.
+After a short break and another 5 km / 3 mi I reached the <span id="grosser-inselberg">**Großen Inselberg**</span> mountain at 916 m / 3000ft, the highest point of my tour.
+The highest point of the whole Rennsteig is with 983 m / 3225 ft the **Großer Beerenberg** further south.
+Even in the somewhat hazy air one had a great view from time to time.
+On the summit, I then treated myself to a coffee and met a group of hikers who wanted to do the complete Rennsteig.
 
-Für mich ging es nach der Stärkung erst mal wieder runter.
-Am Parkplatz vom Inselberg ging ich an der dort aufgebauten Kartbahn vorbei nach Nordost Richtung **Bärenbruch**.
-Es ging dabei entlang verschiedener Bäche stetig bergab.
+After strengthening, I had to go down the mountain.
+At the parking lot of the Inselberg I went past the cart track built there to the northeast in the direction of **Bärenbruch**.
+It went along different brooks steadily downhill.
 
-<span id="baerengrund" />An einer Gabelung mehrerer Bäche kam wieder eine Hütte (an einem Schild in der Nähe stand **Am Tempelchen**), wo ich mich am Bach etwas frisch gemacht habe.
-Es war auch erst Nachmittag, sodass ich dort auch etwas Zeit tot geschlagen habe, bin dann aber weiter den **Bärenbruchgrund** hinauf zur **Bärenbruchwand**, wo ich dann mein Lager aufgebaut habe.
+<span id="baerengrund" />At a fork of several streams was another hut (a sign nearby said **Am Tempelchen**), where I made myself somewhat fresh at the stream.
+It was also only afternoon, so I have also killed some time there, but finally went further up the **Bärenbruchgrund** to the **Bärenbruchwand**, where I have then built my camp.
 
-{{< imgScale "DSC03738_1600.JPG" "Das Lager geschützt in der Nähe der Bärenbruchwand." "500x" >}}
+{{< imgScale "DSC03738_1600.JPG" "The camp sheltered near the Bärenbruchwand." "500x" >}}
 
-{{< imgScale "DSC03737_1600.JPG" "Tarp an der Feuerstelle mit zentralem Wanderstock zum Aufspannen" "500x" >}}
+{{< imgScale "DSC03737_1600.JPG" "Tarp at the fireplace with central hiking pole." "500x" >}}
 
-{{< imgScale "DSC03740_1600.JPG" "Unterkunft von innen." "500x" >}}
+{{< imgScale "DSC03740_1600.JPG" "Accommodation from the inside." "500x" >}}
 
-Das Tarp hatte ich dieses mal -- wie man oben sieht -- mit einem zentralen Wanderstock aufgespannt.
-Dadurch ist der Eingang zwar etwas versperrt, das Tarp reicht aber an den Seiten bis zum Boden, wodurch kaum Zugluft ins Tarp kommt.
-Diesen Aufbau kann ich sehr empfehlen.
+This time I had the tarp -- as you can see above -- stretched up with a central hiking pole.
+Thus, the entrance is somewhat blocked, but the tarp reaches the sides to the ground, so that hardly any wind comes into the tarp.
+I highly recommend this setup.
 
-Am Camp selbst -- eins der schönsten, die ich je hatte -- war ich dann auch komplett offline.
-Habe aber gerade so Netz zum Telefonieren gehabt, als ich auf den Felsen über meinem Camp geklettert bin.
+At the camp itself -- one of the most beautiful I ever had -- I was completely offline.
+But I had just enough network to make a phone call when I climbed the rock above my camp.
 
 # Tag 3: Bärenbruch → Wachsenrasen
 {{< smallDate "2022-04-24" >}}
 
-Bei der Pause am vorigen Tag ist mir bereits aufgefallen, dass ich meine Regenhose verloren habe.
-Ich habe sie außen am Rucksack fest gemacht, was wohl nicht gehalten hat.
+During the break on the previous day I already noticed that I lost my rain pants.
+I tied them to the outside of the backpack, which probably didn't hold.
 
-> **Lesson learned:**<br>Alles was nicht mit einem Karabiner oder anderweitig gesichert ist, gehört **in** den Rucksack!
+> **Lesson learned:**<br>Everything that is not secured with a carabiner or otherwise belongs in the backpack!
 
-Nach dem Frühstück bin ich also los und die fast 4 km wieder zurück zum Parkplatz am Inselberg gelaufen in der Hoffnung die Hose einfach am Wegesrand zu finden.
-Leider habe ich nichts gefunden, ich musste also mit meiner Regenjacke auskommen.
+So after breakfast I left and walked the almost 4 km / 2.5 mi back to the parking lot at Inselberg hoping to find the pants just along the way.
+Unfortunately, I found nothing, so I had to make do with just my rain jacket.
 
-Passend zu diesem Malheur, hat es dann am Parkplatz angefangen zu regnen, allerdings eher sporadisch und nicht sonderlich viel.
-Meine Regenjacke war allerdings auch nicht mehr die jüngste und trotz Imprägnierung nicht mehr wirklich wasserdicht.
-Das bisschen Regen zu diesem Zeitpunkt hat sie aber weggesteckt.
+Matching this mishap, it has then started to rain at the parking lot, but rather sporadically and not particularly much.
+However, my rain jacket was no longer the youngest and despite impregnation no longer really waterproof.
+The little bit of rain at this time, however, it has put away.
 
-Bin dann zunächst dem **Gelben Weg** gefolgt, einem Parallelweg zum Rennsteig, und bin erst an der Gabelwiese wieder auf den Rennsteig gewechselt.
+I followed the **Gelber Weg** trail, a parallel path to the Rennsteig, and only changed at the **Gabelwiese** back to the Rennsteig.
 
-Der Rest war eher unspektakulär, nur hat es ab dem **Berggasthaus Heuberghaus** stärker angefangen zu regnen.
-Immerhin war der Weg ab hier recht schön und der Wald nicht sonderlich stark bewirtschaftet.
+The rest was rather unspectacular, only it has started to rain more strongly from the **mountain inn Heuberghaus**.
+At least the path from here on was quite beautiful and the forest was not particularly heavily farmed.
 
-Bis zum **Steinbruch Splittergrund** war ich dann schon gut nass und wollte im **Berghotel Ebertswiese** meine Sachen etwas trocknen und etwas Warmes trinken, aber Pustekuchen, die hatten geschlossen.
-In einer Hütte etwas weiter habe ich dann Rast gemacht, etwas gegessen und mir einen Tee gemacht.
-Meine Regenjacke war mittlerweile etwas überfordert und so wurde ich auch darunter bereits nass.
+Until the **quarry Splittergrund** I was then already well wet and wanted to dry my things and drink something warm in the **mountain hotel Ebertswiese**, but unfortunately it was closed.
+In a hut a little further I took a break, ate something and made me a tea.
+My rain jacket was meanwhile somewhat overwhelmed and so I was already wet even under it.
 
-{{< imgScale "DSC03745_600.JPG" "Aussicht vom Aussichtsturm \"südlichen Spießberg\" Richtung Westen." "720x" >}}
+{{< imgScale "DSC03745_600.JPG" "View from the viewing tower \"südlichen Spießberg\" towards west." "720x" >}}
 
-Auf dem Weg zum Imbiss **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch unter der Regenjacke gut nass.
+On the way to the snack **Rennsteighaus Neue Ausspanne** it then started to pour really, now I was well wet even under the rain jacket.
 
-> **Lesson learned:**<br>Auf vernünftige Regenkleidung achten!
+> **Lesson learned:**<br>Pay attention to reasonable rainwear!
 
-Am Imbiss angekommen, habe ich mir erst mal einen Kaffee und eine heiße Zitrone gegönnt.
-Dort war noch ein anderer Wanderer, der sich aufwärmte.
-Sein Name war Kristian und er plant -- genau wie die Gruppe auf dem Inselberg -- den ganzen Rennsteig zusammen mit seiner jungen Hündin zu gehen.
-Wir haben uns nett unterhalten und er ist etwas vor mir von dannen gezogen.
+Arrived at the snack bar, first of all I allowed myself a coffee and a hot lemon.
+There was another hiker there warming up.
+His name was Kristian and he planed - just like the group on the Inselberg - to walk the whole Rennsteig together with his young dog.
+We had a nice chat and he left a bit before me.
 
-Ein wenig später, etwas hinter dem **Aussichtsturm "Kramerod"**, haben wir uns dann wieder getroffen und sind gemeinsam weiter gewandert.
-In Gesellschaft war es auch viel schöner und die nächsten sechs Kilometer flogen nur so dahin.
-Trotz, dass seine Hündin noch relativ jung war, war sie voll dabei, fand jede Kleinigkeit super aufregend und wollte alles entdecken.
+A little later, a bit behind the **viewing tower "Kramerod"**, we met again and continued our hike together.
+In company it was much nicer and the next six kilometers just flew by.
+Despite that his dog was still relatively young, she was fully involved, found every little thing super exciting and wanted to discover everything.
 
-An der Hütte **Wachsenrasen** haben wir dann Rast gemacht.
-Ich wollte mein Camp direkt dort aufbauen, da es für mich am nächsten Tag nach Steinbach-Hallenberg ging, von wo aus ich nach Meiningen fahren wollte.
-Kristian hat dann auch sein Camp in der Hütte aufgeschlagen und so haben wir beide und seine Hündin in der Hütte übernachtet.
+At the hut **Wachsenrasen** we made a break.
+I wanted to set up my camp directly there, since I wanted to go to the nearby Steinbach-Hallenberg on the next day, from where I wanted to go to Meiningen.
+Kristian has then also set up his camp in the hut and so we both and his dog have spent the night in the hut.
 
-Die Hütte ist zwar an einer Seite komplett offen, aber es kam ein Regen herein und es war trotzdem windgeschützt und trocken.
-Leider lag hinter der Hütte recht viel Müll rum, aber innen war es sauber und trocken.
+The hut is completely open on one side, but no rain came in and it was wind-protected and dry.
+Unfortunately, there was quite a lot of garbage lying around behind the hut, but inside it was clean and dry.
 
-{{< imgScale "DSC03752_1600.JPG" "Die Hütte am Wachsenrasen von außen ..." "500x" >}}
+{{< imgScale "DSC03752_1600.JPG" "The hut at Wachsenrasen from outside ..." "500x" >}}
 
-{{< imgScale "DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
+{{< imgScale "DSC03755_1600.JPG" "... and inside with my camp. The ground surface was gravel so my tarpaulin was able to show what it can do." "333x" >}}
+
+Kristian and I talked a lot about hiking.
+He was amazed at the little luggage I had with me, but he on the other hand packed a few things too much.
+But that's always the problem that you like to pack too much, a small backpack helps to concentrate on the essentials.
 
 # Tag 4: Wachsenrasen → Meiningen
 {{< smallDate "2022-04-25" >}}
 
-Am Morgen war es noch recht diesig und kalt.
-Kristian und ich haben zusammen gefrühstückt und uns dann verabschiedet.
-Für die beiden ging es weiter Richtung Saale, für mich nach Steinbach-Hallenberg.
+In the morning it was still quite hazy and cold.
+Kristian and I had breakfast together and then said goodbye.
+For the two it went on towards the Saale river, for me to Steinbach-Hallenberg.
 
-Ich bin dabei den **Königsweg** abgewandert, einen einfachen Wanderweg bestehend aus Forstwegen.
-Ab und zu hat man aber einen ganz schönen Ausblick über die Landschaft und die Dörfer Ober- und Unterschönau.
+I hiked along the **Königsweg** trail, an easy hiking trail consisting of forest paths.
+From time to time, however, one has a very nice view over the landscape and the villages of Oberschönau and Unterschönau.
 
-Nach kurzer Zeit erreichte ich den Bahnhof in Steinbach-Hallenberg und meine Wanderung war zuende.
+After a short time I reached the train station in Steinbach-Hallenberg and my hike was over.
 
 # Fazit
 
-Trotz des fertigen Wanderweges aus der Dose mit viel Infrastruktur, touristischen Attraktionen und wenig Wildnis, war es eine sehr schöne Wanderung.
+Despite the ready-made trail with lots of infrastructure, tourist attractions and little wilderness, it was a very nice hike.
 
-Man merkte aber an vielen Stellen, dass der Wald genutzt und Bäume großflächig gefällt werden.
-Solche Passagen sind natürlich nicht schön zu bewandern.
-Aber Stellen wie die Drachenschlucht, der Inselberg oder sonstige Aussichtspunkte und -türme, machen das wieder wett.
+However, one will directly notice the many places where the forest is used and trees are cut down extensively.
+Such passages are of course not nice to hike.
+But places like the [Drachenschlucht](#drachenschlucht), the [Inselberg](#grosser-inselberg) or other viewpoints and towers, make up for it.
 
-**Also:**<br>
-Definitiv eine Reise wert und vielleicht mache ich irgendwann den Rest vom Rennsteig auch noch.
+**So:**<br>
+Definitely worth a trip and maybe I'll do the rest of the Rennsteig sometime.
