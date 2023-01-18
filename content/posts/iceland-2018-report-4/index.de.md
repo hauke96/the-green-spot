@@ -2,7 +2,7 @@
 title: "Island 2018: Reisebericht (Teil 4)"
 summary: "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Großartige Landschaft, starke Unwetter, evakuierte Gebiete und ein Sandsturm. Damit endet auch unsere Island Tour 2018 und lässt durchaus auch langfristige Veränderungen da."
 date: "2021-03-18T20:10:40+01:00"
-tags: ["island-2018"]
+tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
 images: ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
 ---

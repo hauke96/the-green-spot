@@ -24,6 +24,11 @@ Paginate = 10
 				name = "Iceland 2018"
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
+				weight = 3
+			[[languages.en.menu.main]]
+				name = "Germany"
+				identifier = "germany"
+				url = "pages/germany"
 				weight = 2
 			[[languages.en.menu.main]]
 				name = "Paddling"
@@ -45,6 +50,11 @@ Paginate = 10
 				name = "Island 2018"
 				identifier = "iceland-2018"
 				url = "pages/iceland-2018"
+				weight = 3
+			[[languages.de.menu.main]]
+				name = "Deutschland"
+				identifier = "germany"
+				url = "pages/germany"
 				weight = 2
 			[[languages.de.menu.main]]
 				name = "Paddeln"

@@ -2,7 +2,7 @@
 title: "Island 2018: Reisebericht (Teil 2)"
 summary: "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landschaft wurde immer interessanter und schöner. Neben schönen Wasserfällen und Flüssen gab es allerdings auch schlechtes Wetter und Treibsand."
 date: "2019-12-08T12:29:08+01:00"
-tags: ["island-2018"]
+tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
 images: ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
 ---

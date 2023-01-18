@@ -13,26 +13,31 @@ function hline {
 	echo
 }
 
-hline "1. Build"
-
-if [ "$1" == "--beta" ]
+if [ "$1" == "--ignore-build" ]
 then
-	home="$home/beta"
-	./build.sh -D
+	echo "Skip building and proceed with upload"
 else
-	./build.sh
+	hline "1. Build"
+
+	if [ "$1" == "--beta" ]
+	then
+		home="$home/beta"
+		./build.sh -D
+	else
+		./build.sh
+	fi
+	
+	hline "2. Build package"
+	
+	date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
+	file="the-green-spot_$date_str.zip"
+	
+	cd public 
+	zip -r -9 ../$file ./*
+	cd ..
+	echo
+	ls -alh $file
 fi
-
-hline "2. Build package"
-
-date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
-file="the-green-spot_$date_str.zip"
-
-cd public 
-zip -r -9 ../$file ./*
-cd ..
-echo
-ls -alh $file
 
 hline "3. Login into server"
 

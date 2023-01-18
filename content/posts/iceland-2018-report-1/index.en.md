@@ -2,7 +2,7 @@
 title: "Iceland 2018: Travel report (part 1)"
 summary: "The first three days of our travel were very exciting and we experienced a lot of things."
 date: "2019-04-15T21:25:03+02:00"
-tags: ["iceland-2018"]
+tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
 images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
 ---
