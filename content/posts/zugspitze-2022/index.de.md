@@ -38,6 +38,17 @@ Hier die Routen, dich ich mir angeschaut habe:
 Ich entschied mich für **Route 4**, da diese am kürzesten ist und der Anfang auf der West-/Südseite verläuft.
 Dort erhoffte ich mir einen schnee- und eisfreien Anfang (was auch der Fall war).
 
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/zugspitze-2022_34647#14/47.4165/10.9410">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/zugspitze-2022_34647">
+	Vollständige Karte anzeigen
+</a>
+
 ## Wetter
 
 Den [Wetterbericht](https://www.wetterdienst.de/Europawetter/Zugspitze%7E2760454/Vorhersage/10-Tage-Trend/) habe ich ca. täglich die zwei Wochen vor der Tour verfolgt.

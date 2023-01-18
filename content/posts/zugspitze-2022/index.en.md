@@ -38,6 +38,17 @@ Here are the routes I looked at:
 I decided to **Route 4**, because it is the shortest and the beginning is on the west / south side.
 There I hoped for a snow and ice free beginning (which was the case).
 
+<iframe
+	width="100%"
+	height="500px"
+	frameborder="0"
+	allowfullscreen
+	src="//umap.openstreetmap.de/en/map/zugspitze-2022_34647#14/47.4165/10.9410">
+</iframe>
+<a target="_blank" href="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496">
+	Show complete map.
+</a>
+
 ## Weather
 
 I followed the [weather report](https://www.wetterdienst.de/Europawetter/Zugspitze%7E2760454/Vorhersage/10-Tage-Trend/) about daily for the two weeks before the tour.
