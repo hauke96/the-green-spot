@@ -5,6 +5,12 @@ theme = "hamburg"
 Paginate = 10
 enableRobotsTXT = true
 
+# Sets the "lastmod" date using git history instead of publish date
+enableGitInfo = true
+
+[sitemap]
+	changefreq = 'weekly'
+
 # Render uMap frames
 [markup.goldmark.renderer]
 	unsafe = true
