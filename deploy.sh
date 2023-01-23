@@ -54,7 +54,7 @@ sshpass -p $password scp -oHostKeyAlgorithms=+ssh-rsa -r $file $username@the-gre
 
 hline "5. Extract package"
 
-sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && unzip -o $file && rm -f *.zip"
+sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && rm -rf de en images css fonts && unzip -o $file && rm -f *.zip"
 
 echo
 echo
