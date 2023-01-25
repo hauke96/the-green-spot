@@ -4,7 +4,7 @@ summary: "This time it goes leisurely with a rented packraft along the Gose and 
 date: "2021-07-31T00:20:00+02:00"
 tags: ["hamburg", "elbe", "paddling", "germany"]
 author: "hauke"
-images: ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+images: ["dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 ---
 
 Due to medical reasons at the time of this article, I'm not able to do hikes with heavy backpacks, so I'm planning a longer boat tour.
@@ -47,9 +47,9 @@ But more about that later.
 I wanted to start early, so I stood up at 4am and went to my starting point by bus and train so that I arrived there at around 5:45 am.
 The starting point has a [very nice pier](https://osm.org/go/0HoK2mFI0?m=) that's unrestrictedly accessible and is perfect to start a tour.
 
-{{< imgScale "DSC03479.JPG" "The packraft with my backpack next to it." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03479.JPG" "The packraft with my backpack next to it." "500x" >}}
 
-{{< imgScale "DSC03480.JPG" "The pier at the Allermöher Deich." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03480.JPG" "The pier at the Allermöher Deich." "500x" >}}
 
 This is the first time ever I go paddling and therefore it was the first time ever I set up a packraft.
 To be honest, I tried it earlier at home, so after about half an hour my packraft was ready.
@@ -63,7 +63,7 @@ Greeeeeat...
 At least it was incredibly relaxing and very silent on the water, especially when I stopped paddling for a while it was completely silent.
 Awesome!
 
-{{< imgScale "DSC03481_edit_02.jpg" "Shortly after I started and after sunrise." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg" "Shortly after I started and after sunrise." "500x" >}}
 
 # Break and the first people
 
@@ -79,31 +79,31 @@ Luckily the current is -- if present at all -- very weak.
 
 **Important:** Driving with motorized boats is **forbidden** here! The river is -- as the name says -- quite shallow and often less than 1m / 3ft deep.
 
-{{< imgScale "DSC03486_edit_02.jpg" "Pond roses line the edge of the Gose Elbe. The bushes on the right in the picture belong to a [small island](https://osm.org/go/0HoKR2Op4--?m=) within the Gose Elbe." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03486_edit_02.jpg" "Pond roses line the edge of the Gose Elbe. The bushes on the right in the picture belong to a [small island](https://osm.org/go/0HoKR2Op4--?m=) within the Gose Elbe." "500x" >}}
 
 After I passed some canoeists and a yoga group, who did their exercises on SUP-board for an extra training of their sense of balance, the Gose Elbe became more and more narrow.
 Two paddlers could still pass but it became tricky later on.
 
-{{< imgScale "DSC03489_edit.jpg" "The Gose Elbe became more and more narrow and the number of pond roses increased." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03489_edit.jpg" "The Gose Elbe became more and more narrow and the number of pond roses increased." "500x" >}}
 
 And then just a small path was passable through all the pond roses.
 Paddling didn't became easier by that, the paddle constandly got stuck in all the roses and the fin of my boat collected a lot of branches and leafs.
 
-{{< imgScale "DSC03493.JPG" "Pond roses: Beautiful to look at but impractical for paddling." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03493.JPG" "Pond roses: Beautiful to look at but impractical for paddling." "500x" >}}
 
 # Neuengamme breakthrough
 
 After a while I reached the entrance to the *[Neuengamme breakthrough](https://osm.org/go/0HoKj~KIV?m=)* (Neuengammer Durchstich) but don't get confused with the *[Neuengamme branch canal](https://osm.org/go/0G91ftH1L?m=)* (Neuengammer Stichkanal), which leads to the former concentration camp Neuengamme.
 The breakthrough is an artificial and former drainage canal between Dove and Gose Elbe and it's forbidden (even for paddling boats) to drive there between April and June to protect nature.
 
-{{< imgScale "DSC03495_edit.jpg" "It became more and more enchanted: The Neuengamme breakthrough between Dove and Gose Elbe." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "It became more and more enchanted: The Neuengamme breakthrough between Dove and Gose Elbe." "500x" >}}
 
 Every once in a while a paddling group or some stand up paddler came towards me.
 Due to the narrowness of the breakthrough, I had to kind of pull over to let them through.
 
 In the middle of the breakthrough there are a lot of quite pristine areas of wetland, this was in the middle of the nature protection area *Kirchwerder Wiesen* (which translates to *meadows of Kirchwerder* and yes, there are a lot of meadows).
 
-{{< imgScale "DSC03496.JPG" "Wetlands and small islands in the Neuengamme breakthrough." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03496.JPG" "Wetlands and small islands in the Neuengamme breakthrough." "500x" >}}
 
 Unfortunately there was a construction site shortly after the beautiful wetlands, where the breakthrough was interrupted.
 Luckily there were good entry and exit points on both sides of the construction site.
