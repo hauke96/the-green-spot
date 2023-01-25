@@ -3,11 +3,11 @@ title: "Iceland 2018"
 date: 2020-04-24T16:39:08+02:00
 tags: ["iceland-2018"]
 author: "hauke"
-images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
+images: ["iceland/DSC00515_1600.JPG"]
 summary: "All posts regarding our Iceland 2018 trip."
 ---
 
-{{< imgScale "DSC00515_500.JPG" "My first Iceland trip. This was taken on out third day after crossing the Fremri-Emstruá having the glacier Entujökull in the background." "500x" >}}
+{{< imgScale "iceland/DSC00515_1600.JPG" "My first Iceland trip. This was taken on out third day after crossing the Fremri-Emstruá having the glacier Entujökull in the background." "500x" >}}
 
 # Preparation
 

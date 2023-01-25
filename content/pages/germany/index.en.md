@@ -3,11 +3,11 @@ title: "Germany"
 date: 2023-01-18T21:17:00+01:00
 tags: ["germany"]
 author: "hauke"
-images: ["posts/thueringer-wald-2022-report/DSC03657_1600.JPG"]
+images: ["thueringer-wald-2022-report/DSC03657_1600.JPG"]
 summary: "All posts from Germany."
 ---
 
-{{< imgScale "DSC03657_500.JPG" "The Wartburg castle on my [hike through the Thuringian Forest](/en/posts/thueringer-wald-2022-report)." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03657_1600.JPG" "The Wartburg castle on my [hike through the Thuringian Forest](/en/posts/thueringer-wald-2022-report)." "500x" >}}
 
 Here you'll find all articles and pages, which take place in Germany.
 
