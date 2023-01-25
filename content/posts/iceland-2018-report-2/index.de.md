@@ -4,7 +4,7 @@ summary: "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landscha
 date: "2019-12-08T12:29:08+01:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
+images: ["iceland/DSC00749_1600.JPG"]
 ---
 {{< note >}}
 **Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})
@@ -35,9 +35,9 @@ Insgesamt 200 Meter sind nicht so viel, es sollte aber sehr steil und unwegsam w
 Bevor wir allerdings den ersten Aufstieg angingen, entdeckten wir einen kleinen, aber sehr schönen Wasserfall.
 Da wir schon ein paar Tage unterwegs waren beschlossen wir uns und unsere getragene Wäsche zu waschen.
 
-{{< imgScale "DSC00532_1600.JPG" "Der Entujökull (hinten rechts) mit dem Wasserfall (hinten links)" "500x" >}}
+{{< imgScale "iceland/DSC00532_1600.JPG" "Der Entujökull (hinten rechts) mit dem Wasserfall (hinten links)" "500x" >}}
 
-{{< imgScale "DSC00543_1600.JPG" "Der Wasserfall von nahem." "500x" >}}
+{{< imgScale "iceland/DSC00543_1600.JPG" "Der Wasserfall von nahem." "500x" >}}
 
 Weiter entlang der Klippe gab es noch weitere Wasserfälle, aber dieser was am nächsten dran.
 Das Wasser war unglaublich kalt, aber es tat gut sich zu waschen und frische Wäsche anzuziehen.
@@ -55,9 +55,9 @@ Als die Steine größer und unwegsamer wurden, knickte Kristina einmal böse um 
 Oben angekommen hatten wir eine sehr schöne Aussicht auf das tiefer liegende Gebiet und auf den Gletscher.
 In die andere Richtung, also nach vorne, gab es dann so weit das Auge reichte nur plattes Land.
 
-{{< imgScale "DSC00553_1600.JPG" "Blick zurück in Richtung Gletscher." "500x" >}}
+{{< imgScale "iceland/DSC00553_1600.JPG" "Blick zurück in Richtung Gletscher." "500x" >}}
 
-{{< imgScale "DSC00558_1600.JPG" "Blick nach vorne Richtung Mælifellsandur." "500x" >}}
+{{< imgScale "iceland/DSC00558_1600.JPG" "Blick nach vorne Richtung Mælifellsandur." "500x" >}}
 
 Das Wetter war nicht all zu schlecht (ganz leichter Regen und etwas Wind), allerdings zog mehr und mehr Nebel auf ...
 
@@ -118,7 +118,7 @@ Macht euch also auf eine Menge Schmerz gefasst, wenn ihr länger als ein ein/zwe
 
 Wir haben für die Distanz von ca. 25 Metern 15-20 Minuten gebraucht.
 
-{{< imgScale "innri-emstrua.jpg" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
+{{< imgScale "iceland/innri-emstrua.jpg" "Der Innri-Emstruá nach dem Furten. Auch wenn es nicht so scheint war er stellenweise durchaus über einen Meter tief. Der Schein trügt oftmals." "500x" >}}
 
 ### Alternativen
 Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten:
@@ -150,27 +150,27 @@ Die Gefahr einer leichten Erfrierung ist also durchaus real und sollte nicht unt
 Nach dem Innri-Emstruá ging es relativ entspannt weiter, auch das Wetter wurde zunehmend besser.
 Nach einem kurzen Aufstieg erreichten wir einen See am Fuße des Sléttjökull.
 
-{{< imgScale "DSC00571_1600.JPG" "Ein klarer See am Fuße des Sléttjökull. Im Hintergrund sieht man die Spitze vom Mælifell (Luftlinie ca. 10km entfernt)." "500x" >}}
+{{< imgScale "iceland/DSC00571_1600.JPG" "Ein klarer See am Fuße des Sléttjökull. Im Hintergrund sieht man die Spitze vom Mælifell (Luftlinie ca. 10km entfernt)." "500x" >}}
 
 Am See haben wir uns etwas ausgeruht, die Wasservorräte aufgefüllt und sind dann los auf die Mælifellsandur Richtung Mælifell.
 
-{{< imgScale "DSC00574_1600.JPG" "Die sandige Ebene ist -- bis auf wenige Ausnahmen -- sehr trocken. Am Horizont der Mælifell." "500x" >}}
+{{< imgScale "iceland/DSC00574_1600.JPG" "Die sandige Ebene ist -- bis auf wenige Ausnahmen -- sehr trocken. Am Horizont der Mælifell." "500x" >}}
 
 Durch die wenigen Hügel war das Laufen meist recht angenehm und wir kamen gut vorran.
 Vereinzelt kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohne dabei die Schuhe ausziehen zu müssen.
 
-{{< imgScale "DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
+{{< imgScale "iceland/DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
 
 Kurz vor dem Mælifell kamen wir an einen etwas größeren Fluss -- vermutlich der Brennivínskvísl -- den wir noch überqueren mussten.
 Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Mælifell, einer der Highlights unserer Reise.
 
-{{< imgScale "DSC00623_1600.JPG" "Der Mælifell von der F210 aus gesehen." "500x" >}}
+{{< imgScale "iceland/DSC00623_1600.JPG" "Der Mælifell von der F210 aus gesehen." "500x" >}}
 
 Wie sich das für fotogene Highlights gehört, zogen direkt Wolken auf und verhüllten den grünen Berg.
 
-{{< imgScale "DSC00355_edit_1600.JPG" "Der Mælifell mit aufkommenden Wolken." "500x" >}}
+{{< imgScale "iceland/DSC00355_edit_1600.jpg" "Der Mælifell mit aufkommenden Wolken." "500x" >}}
 
-{{< imgScale "DSC00628_1600.JPG" "Der Mælifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
+{{< imgScale "iceland/DSC00628_1600.JPG" "Der Mælifell eine halbe Stunde später. Dies war der Moment wo wir einen Namen für unseren Blog gefunden hatten ;)" "500x" >}}
 
 Nach einem 16-Stunden Wandertag sind wir nach dem Abendessen sofort ins Bett gefallen und eingeschlafen.
 
@@ -182,12 +182,12 @@ Dieser Tag war geplant, sodass wir dadurch nicht in Verzug gerieten.
 
 Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und hatten einen schönen Blick über die Landschaft.
 
-{{< imgScale "DSC00635_1600.JPG" "Ganz links der in Regen gehülle Brennivínskvísl, rechts der Gletscher Öldufellsjökull und mittig der Mælifell." "500x" >}}
+{{< imgScale "iceland/DSC00635_1600.JPG" "Ganz links der in Regen gehülle Brennivínskvísl, rechts der Gletscher Öldufellsjökull und mittig der Mælifell." "500x" >}}
 
 Uns wurde gesagt, dass der Handyempfang auf Hügeln besser sein soll.
 Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
 
-{{< imgScale "DSC00376_1600.JPG" "Ich, wie ich versuche eine SMS zu senden." "500x" >}}
+{{< imgScale "iceland/DSC00376_1600.JPG" "Ich, wie ich versuche eine SMS zu senden." "500x" >}}
 
 # Tag 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
@@ -203,37 +203,37 @@ Es gab eine Menge Treibsand in den wir stellenweise bis zum Knie eingesunden sin
 Fängt der Boden beim betreten an zu blubbern handelt ist die Wahrscheinlichkeit hoch, dass es Treibsand ist.
 {{< /note >}}
 
-{{< imgScale "DSC00650_1600.JPG" "Das Flussdelta, welches wir überquert haben. Rechts geht es zum Campingplatz Strútsskáli." "500x" >}}
+{{< imgScale "iceland/DSC00650_1600.JPG" "Das Flussdelta, welches wir überquert haben. Rechts geht es zum Campingplatz Strútsskáli." "500x" >}}
 
-{{< imgScale "IMG_20180718_164318_2800.jpg" "Das Flussdelta vom Flugzeug aus, man erkennt sogar den Mælifell (rechts neben der Unterseite vom Triebwerk)." "500x" >}}
+{{< imgScale "iceland/IMG_20180718_164318_2800.jpg" "Das Flussdelta vom Flugzeug aus, man erkennt sogar den Mælifell (rechts neben der Unterseite vom Triebwerk)." "500x" >}}
 
 Da den Brennivínskvísl sehr nah an den angrenzenden Hügeln vorbei fließt und das Ufer entsprechend steil ist, sind wir kurzerhand über die Hügel rüber.
 Der Rest des Weges war sehr schön und angenehm.
 Nach kurzer Zeit sind wir einer nicht verzeichneten und unbenannten, aber sehr schönen Kaskade an kleinen Wasserfällen begegnet.
 
-{{< imgScale "DSC00690_1600.JPG" "kleine aber schönes Wasserfälle am Brennivínskvísl." "500x" >}}
+{{< imgScale "iceland/DSC00690_1600.JPG" "kleine aber schönes Wasserfälle am Brennivínskvísl." "500x" >}}
 
 Danach wurde es sehr grün und es wuchs neben dem Moos auch etwas Gras und wir gelangtem zum Fluss Hólmsá.
 Diesen zu furten war relativ leicht, aber trotzdem sehr kalt.
 Weiter flussaufwärts floss er durch einen Canyon und bildete weitere Wasserfälle.
 
-{{< imgScale "DSC00739_1600.JPG" "Canyon vom Fluss Hólmsá." "500x" >}}
+{{< imgScale "iceland/DSC00739_1600.JPG" "Canyon vom Fluss Hólmsá." "500x" >}}
 
 ## Roter Krater
 Nachdem wir etwas am Canycon entlang gewandert sind, kamen wir an einen alten und inaktiven kleinen Vulkankarter, der durch seine rot, grün und türkis Töne besticht.
 
-{{< imgScale "DSC00749_1600.JPG" "Der \"rote Krater\" eines ehemaligen Vulkans." "500x" >}}
+{{< imgScale "iceland/DSC00749_1600.JPG" "Der \"rote Krater\" eines ehemaligen Vulkans." "500x" >}}
 
 In dem kleinen Kratersee schwammen viele recht scheue Vögel (wahrscheinlich Wildenten).
 
 Wir hatten für die weitere Route zwei Optionen: Über den Fluss, der am See entspringt, oder außen entlang den Kraterrand hinauf.
 Da wir nicht erneut furten wollten entschieden wir uns für zweiteres, was wir nicht bereuen sollten.
 
-{{< imgScale "DSC00753_1600.JPG" "Großartige Aussicht auf die Gegend aus der wir kamen. Im Hintergrund der Sléttjökull und die Kerlingarhnúkur Berge." "500x" >}}
+{{< imgScale "iceland/DSC00753_1600.JPG" "Großartige Aussicht auf die Gegend aus der wir kamen. Im Hintergrund der Sléttjökull und die Kerlingarhnúkur Berge." "500x" >}}
 
 Weiter oben ging es dann auf Schaafspfaden in Richtung des Sees Hólmsárlón.
 
-{{< imgScale "DSC00757_1600.JPG" "Eigenartige Kreise im Moos." "500x" >}}
+{{< imgScale "iceland/DSC00757_1600.JPG" "Eigenartige Kreise im Moos." "500x" >}}
 
 Die ganze Reise über entdeckten wir seltsame Kreise im Moos (s.o.), welche Nornabaugar (Hexenkreise) genannt werden.
 Sie entstehen durch einen Pilz, der das Moos befällt und absterben lässt.
@@ -243,7 +243,7 @@ Durch die Wechselnden Jahreszeiten entstehen dann diese Kreise.
 Der Hang zum See ist wirklich sehr steil und wir nutzten einen kleinen Bach um nach unten zu gelangen.
 Hier war der Hang schon etwas ausgespült und flacher, trotzdem aber steil und rutschig.
 
-{{< imgScale "DSC00759_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
+{{< imgScale "iceland/DSC00759_1600.JPG" "Der See Hólmsárlón bei Abend." "500x" >}}
 
 Wie wir später erfahren haben wurden im Hólmsárlón vor langer Zeit Fische ausgesetzt, welche sich schlagartig vermehrten.
 Durch den Mangel an natürlichen Feinden, die die Population kontrollieren, und knappen Nährstoffen sind allerdings alle verendet, sodass heute keine Fische mehr im Hólmsárlón leben.

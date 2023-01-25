@@ -4,7 +4,7 @@ summary: "Die ersten drei Tage unserer Reise waren für uns sehr aufregend und w
 date: "2019-04-15T21:25:03+02:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["posts/iceland-2018-report-1/DSC00515_1600.JPG"]
+images: ["iceland/DSC00515_1600.JPG"]
 ---
 Im Sommer 2018 sind Kristina und ich drei Wochen lang in Island wandern gewesen -- ohne Auto, Campingplatz oder feste Unterkunft.
 Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Þórsmörk über Mælifell, Hólmsárlón, Eldgjá, Langisjór nach Landmannalaugar endlich los gehen.
@@ -74,7 +74,7 @@ Na gut, Reykjavík liegt weniger auf einem Berg, mehr auf einem Hügel, aber es 
 Oben angekommen sind wir an der Hallgrímskirkja vorbei in die Fußgängerzone, wo wir uns durch die Massen an Touris zu einem Bonus-Supermarkt durch kämpften.
 Island gilt als großes Wander-/Outdoor-Ziel, mit unseren großen Rucksäcken waren wir aber klare Außenseiter.
 
-{{< imgScale "IMG_20180718_201522_1600.jpg" "Die Hauptkirche Hallgrímskirkja in Reykjavík." "500x" >}}
+{{< imgScale "iceland/IMG_20180718_201522_1600.jpg" "Die Hauptkirche Hallgrímskirkja in Reykjavík." "500x" >}}
 
 Beim Bonus kauften wir Parmesan (598ISK/ca. 4,80€), Gouda (889ISK/ca. 7,10€) und zwei Flaschen Cider-Softdrink (1,5L jeweils 198ISK/ca. 1,50€).
 Getränke sind im Vergleich zum Rest sehr günstig.
@@ -96,7 +96,7 @@ Alles mache einen recht gepflegten und sauberen Eindruck.
 
 Der Preis ist für deutsche Verhältnisse aber sehr hoch: Eine Nacht für zwei Personen in einem Zelt kostete uns 4800ISK (also ca. 38,40€).
 
-{{< imgScale "DSC00366_1600.JPG" "Unser Zelt auf dem Campingplatz in Reykjavík." "500x" >}}
+{{< imgScale "iceland/DSC00366_1600.JPG" "Unser Zelt auf dem Campingplatz in Reykjavík." "500x" >}}
 
 ## Spiritus kaufen (zweiter Versuch)
 Als wir unser Zelt auf der schon recht gut gefüllten Wiese aufgebaut hatten und unsere erste Trekking-Mahlzeit zubereiten wollten, stellten wir fest, dass der gekaufte "Spiritus", nicht brannte.
@@ -140,21 +140,21 @@ In Hvolsvöllur mussten wir nochmals umsteigen, dieses mal in einen geländefäh
 Dieser war generell etwas rustikaler und ein wenig älter als der vorherige normale Reisebus.
 Die Fahrt war jedoch deutlich interessanter, da es jetzt ins Hochland ging.
 
-{{< imgScale "IMG_20180719_101552_1600.jpg" "Links der normale Reisebus mit dem wir gekommen sind, in der Mitte der geländefähigere Bus mit dem wir nach Þórsmörk gefahren sind." "500x" >}}
+{{< imgScale "iceland/IMG_20180719_101552_1600.jpg" "Links der normale Reisebus mit dem wir gekommen sind, in der Mitte der geländefähigere Bus mit dem wir nach Þórsmörk gefahren sind." "500x" >}}
 
 Nach einer kurzen Fahrt weiter auf der Hauptstraße, ging es am Seljalandsfoss endlich ins Landesinnere.
 Die Straße wurde auch recht schnell abgelöst von einer Schotterpiste und uns kamen ein paar Wardens/Ranger entgegen, welche die Piste gerade ausbesserten.
 Nach vielen kleinen Furten machte der Fahrer an einem Aussichtspunkt beim Gletscher Gigjökull halt.
 Danach ging es weiter nach Þórsmörk, wo wir noch eine etwas größere Furt zu durchqueren hatten.
 
-{{< imgScale "DSC00390_1600.JPG" "Eine mobile Brücke über der Krossá bei Þórsmörk." "500x" >}}
+{{< imgScale "iceland/DSC00390_1600.JPG" "Eine mobile Brücke über der Krossá bei Þórsmörk." "500x" >}}
 
 ## Umpacken und los laufen
 Als wir um 14:00 angekommen sind, die großen Jeeps bewundert haben und zum Campingplatz gelaufen sind, hieß es erst mal umpacken.
 Den Rucksack hatten wir am Morgen nur irgendwie notdürftig zusammen gepackt ohne dabei auf Ordnung zu achten.
 Wir haben zudem nochmal den Kocher ausprobiert um mit der Handhabung vertraut zu werden.
 
-{{< imgScale "IMG_20180719_140156_1600.jpg" "Island ist ein Paradies für Liebhaber großer Autos." "500x" >}}
+{{< imgScale "iceland/IMG_20180719_140156_1600.jpg" "Island ist ein Paradies für Liebhaber großer Autos." "500x" >}}
 
 Kristina hat im Campingplatz noch kurz nach der Wettervorhersage gefragt um zumindest herauszufinden ob es irgendwelche großen Stürme oder Gewitter geben könnte.
 Als Antwort bekam sie lediglich ein "Well, there will be weather".
@@ -164,13 +164,13 @@ Als wir dann alles eingepackt und ein nettes Foto am Markarfljót geschossen hab
 Uns sind viele Wanderer begegnet, da wir am Ende vom Laugavegur gestartet sind und die ersten Kilometer auf dem Laugavegur gingen.
 Es war an dem Tag sogar sogar so warm, dass wir ohne Jacke gelaufen sind.
 
-{{< imgScale "DSC00391_0001_1600.JPG" "In Þórsmörk am Ufer vom Markarfljót." "500x" >}}
+{{< imgScale "iceland/DSC00391_0001_1600.JPG" "In Þórsmörk am Ufer vom Markarfljót." "500x" >}}
 
 Nach unser ersten Furt, die nicht tief aber recht kalt war, ging es -- dieses mal ohne Wald -- weiter bergauf.
 Es wurde zum Nachmittag hin auch merklich kälter und wir machten an einem kleinen aber reißenden Fluss eine Pause.
 Nachdem wir Fotos gemacht, Wasser aufgefüllt und gegessen hatten, ging es über eine abenteuerliche Brücke auf die andere Flusseite.
 
-{{< imgScale "laugavegur-first-bridge_1600.JPG" "Die Brücke über die Ljósá." "500x" >}}
+{{< imgScale "iceland/laugavegur-first-bridge_1600.JPG" "Die Brücke über die Ljósá." "500x" >}}
 
 Etwas Fluss aufwärts haben wir dann unser Camp hinter einem Busch aufgeschlagen.
 Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf der Karte.
@@ -182,7 +182,7 @@ Um 8:30 klingelte für uns der Wecker.
 Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7km entfernt) unglaublich früh aufgebrochen sein mussten.
 Irgendwie nachvollziehbar, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
 
-{{< imgScale "IMG_20180719_211758_1600.jpg" "Unser camp am Morgen." "500x" >}}
+{{< imgScale "iceland/IMG_20180719_211758_1600.jpg" "Unser camp am Morgen." "500x" >}}
 
 Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten.
 Am Abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
@@ -191,16 +191,16 @@ Zunächst ging es aber weiter am Fluss Markarfljót entlang, der weiter nördlic
 Kurz bevor es in die Ebene Sandar und über den Fluss Fremri-Emstruá ging hatte man nochmals einen atemberaubenden Blick in den Canyon (s.u.).
 Aber nur, wenn man mal den Wanderweg verlassen hat!
 
-{{< imgScale "DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljót konnte man nur genießen, wenn man den Laugavegur verlassen hat." "500x r90" >}}
+{{< imgScale "iceland/DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljót konnte man nur genießen, wenn man den Laugavegur verlassen hat." "500x r90" >}}
 
 Die Brücke über den Fremri-Emstruá war etwas abenteuerlich und die Hänge sehr steil.
 Danach sind wir _nicht_ wie die meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
-{{< imgScale "DSC00509_1600.JPG" "Die Brücke über den Fremri-Emstruá war sehr abenteuerlich." "500x r90" >}}
+{{< imgScale "iceland/DSC00509_1600.JPG" "Die Brücke über den Fremri-Emstruá war sehr abenteuerlich." "500x r90" >}}
 
-{{< imgScale "DSC00513_1600.JPG" "Die Brücke nach der Überquerung." "500x r90" >}}
+{{< imgScale "iceland/DSC00513_1600.JPG" "Die Brücke nach der Überquerung." "500x r90" >}}
 
-{{< imgScale "DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull." "500x" >}}
+{{< imgScale "iceland/DSC00515_1600.JPG" "Rechts abgebogen ging es Richtung Entujökull." "500x" >}}
 
 Hier gab es keine Wanderwege (ab und zu Schaafswege) und die nächsten vier Tage sind wir keiner Menschenseele begegnet.
 Dadurch mussten wir auf der Karte unseren Standort etwas suchen und das erste mal unsere Fähigkeiten in der Navigation testen.
@@ -209,7 +209,7 @@ Unser Zelt haben wir in der Nähe vom Berg Bíldufell auf einem unbewachsenen Fl
 Die letzten ca. zwei Kilometer bestanden aus ehemaligem Flussbett und waren somit schwierig zu Wandern.
 Vor allem die sandigen Hügel waren sehr instabil und rutschig.
 
-{{< imgScale "DSC00522_1600.JPG" "Unser Zelt mit dem Bíldufell im Hintergrund." "500x r90" >}}
+{{< imgScale "iceland/DSC00522_1600.JPG" "Unser Zelt mit dem Bíldufell im Hintergrund." "500x r90" >}}
 
 Etwas vom Zelt entfernt floss der Fremri-Emstruá und da dessen Wasser sehr trüb war, hat dich unser Wasserfilter doch gelohnt.
 Wir haben das Wasser aber eine Nacht stehen lassen, so konnten sich die meisten Sedimente absetzen.

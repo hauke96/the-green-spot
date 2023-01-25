@@ -4,7 +4,7 @@ summary: "Anfang November 2022 habe ich versucht die Zugspitze über die Route d
 date: "2022-11-21T23:18:00+01:00"
 tags: ["zugspitze", "bergsteigen", "wandern", "alpen","deutschland"]
 author: "hauke"
-images: ["posts/zugspitze-2022/GOPR8140_1600.JPG"]
+images: ["zugspitze-2022/GOPR8140_1600.JPG"]
 ---
 
 Anfang November habe ich in den Alpen etwas Urlaub gemacht und wollte versuchen die Zugspitze über den [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (Route bei [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)) [Klettersteig](https://de.wikipedia.org/wiki/Klettersteig) zu besteigen.
@@ -110,7 +110,7 @@ In Untergrainau gibt es -- wie wahrscheinlich an den meisten Bahnhöfen an der S
 
 In Ehrwald bin ich dann um 7 Uhr angekommen, es war schon einigermaßen hell und so ging ich los, die Zugspitze im Blick, denn die kann man bereits vom Bahnhof aus sehen.
 
-{{< imgScale "GOPR8113_1600.jpg" "Die Zugspitze von der Zugspitzstraße in Ehrwald aus gesehen." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8113_1600.JPG" "Die Zugspitze von der Zugspitzstraße in Ehrwald aus gesehen." "500x" >}}
 
 Meine Route ging zunächst Richtung **Gamskar**, vorbei am Gamskarsee, der Gamsalmhütte und dem Gamskarlift.
 Bereits der Weg zur Gamsalmhütte war für mich nicht ganz ohne, ging aber noch ganz gut und ich war gegen 8 Uhr dort.
@@ -118,7 +118,7 @@ Bereits der Weg zur Gamsalmhütte war für mich nicht ganz ohne, ging aber noch 
 Die Hütte hat übrigens im November Betriebsurlaub, da auch der Lift geschlossen ist und alles für den Winter fertig gemacht wird.
 Bänke zum hinsetzen samt toller Aussicht gab es aber trotzdem.
 
-{{< imgScale "GOPR8119_1600.jpg" "Blick zurück zur Gamsalmhütte ins Tal." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8119_1600.JPG" "Blick zurück zur Gamsalmhütte ins Tal." "500x" >}}
 
 Für die 2,7 km und 260 Höhenmeter bis zur Hütte war die eine Stunde denke ich gar nicht schlecht.
 Nach zwei lecker Käsebrötchen ging es dann ohne dicke Jacke weiter, das war mir viel zu warm.
@@ -132,20 +132,20 @@ Am Ende vom Gamskarlift teilt sich der Weg dann und es gibt mehrere Möglichkeit
 Hier beginnt langsam der Alpine flair, denn der Rasen der Skipiste hört auf und weicht Schotter und Geröll.
 Zwischen Latschen geht es weiter hinauf und mir begegneten die ersten Bergziegen, die wesentlich flinker unterwegs waren als ich.
 
-{{< imgScale "GOPR8121_1600.jpg" "Durch Nadelbuschwerk von Latschen ging es auf Geröll weiter nach oben." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8121_1600.JPG" "Durch Nadelbuschwerk von Latschen ging es auf Geröll weiter nach oben." "500x" >}}
 
 Etwa weitere 2 km und 400 Höhenmeter nach der Gamsalmhütte kam ich zum **Wiesbrunnen** mit einer netten Bank zum Ausruhen.
 Natürlich lohnt es hier eine Pause zu machen, der Ausblick ist grandios!
 Nebenbei konnte ich meine Wasserflasche füllen, die fasst zwar einen Liter, war aber schon fast leer.
 Nach dieser kurzen Verschnaufspause ging es dann im T-Shirt weiter, auch meine Sweatjacke war mir mittlerweile zu warm.
 
-{{< imgScale "GOPR8123_1600.jpg" "Der Wiesbrunnen samt Bank." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8123_1600.JPG" "Der Wiesbrunnen samt Bank." "500x" >}}
 
 Nach weiteren 500 m und 150 Höhenmetern (auf mittlerweile 1830 m ü. NHN) endete dann langsam die Vegetation und das Geröllfeld **Gamskar** lag vor mir.
 Auch hier waren ein paar Bergziegen unterwegs, was auch immer die hier suchen, scheinbar wächst ab und zu doch etwas Leckeres zwischen den Steinen.
 Auf dieser Höhe lag hier und da auch etwas Schnee, der Weg selbst war aber frei.
 
-{{< imgScale "GOPR8126_1600.jpg" "Der Weg wurde richtig steil und steinig. Mittig oben die gut getarnte alte Mittelstation." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8126_1600.JPG" "Der Weg wurde richtig steil und steinig. Mittig oben die gut getarnte alte Mittelstation." "500x" >}}
 
 Auf Höhe der alten Mittelstation gibt es dann einen Streifen Wiese samt einer Bank.
 Was für ein Ausblick!
@@ -156,7 +156,7 @@ Zumindest für eine Wintertour empfehle ich an der Bank die **Kletterausrüstung
 Es gibt zwar noch keine Sicherungen, aber Steinschlaggefahr ist gegeben und außerdem ist es hier schön eben, geschützt und man hat Platz.
 Im Sommer mag man ohne Sicherung bis zur Wiener-Neustädter-Hütte kommen, zur Sicherung aber unten mehr.
 
-{{< imgScale "GOPR8131_1600.jpg" "Der Blick vom Grünstreifen auf Höhe der alten Mittelstation ist atemberaubend!" "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8131_1600.JPG" "Der Blick vom Grünstreifen auf Höhe der alten Mittelstation ist atemberaubend!" "500x" >}}
 
 Dann beginnt der **Georg-Jäger-Steig**, der zur **Wiener-Neustädter-Hütte** führt.
 
@@ -167,15 +167,15 @@ Auf 1900 m erreicht man dann einen Grat an dem auch ein Wanderweg aus Richtung E
 Ab hier wechselte es dann auf die Nordseite des Zugspitzmassivs und es lag Schnee, der teilweise festgetreten und etwas rutschig war, und es wehte ein ordentlicher kalter Wind.
 Hier sollte man -- zumindest bei liegendem und festgetretenen Schnee -- echt aufpassen, eine Sicherung gibt es noch nicht!
 
-{{< imgScale "GOPR8139_1600.jpg" "Blick vom Grat Richtung Eibsee." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8139_1600.JPG" "Blick vom Grat Richtung Eibsee." "500x" >}}
 
-{{< imgScale "GOPR8140_1600.jpg" "Blick entlang des Grats zum Anfang des Klettersteig-Teils. Am Fels beginnt die Sicherung." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8140_1600.JPG" "Blick entlang des Grats zum Anfang des Klettersteig-Teils. Am Fels beginnt die Sicherung." "500x" >}}
 
 Kurz nach der Abzweigung Richtung Eibsee kommt dann allerdings der Punkt, ab dem eine Sicherung angebracht ist.
 Ich befand mich ab da auf der Nordseite, der Schnee war zwar angetaut, nachts jedoch wieder glatt gefroren.
 Entsprechend glatt war das ganze, das Nutzen der Sicherung ist sehr zu empfehlen!
 
-{{< imgScale "GOPR8143_1600.jpg" "Blick zurück Richtung Grat, links sieht man das Sicherungsseil." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8143_1600.JPG" "Blick zurück Richtung Grat, links sieht man das Sicherungsseil." "500x" >}}
 
 Der Weg an sich war aber leicht, und das Klettersteig-Feeling begann.
 
@@ -184,7 +184,7 @@ Der Weg an sich war aber leicht, und das Klettersteig-Feeling begann.
 Etwa auf Höhe der derzeitigen Tiroler Zugspitzbahn endet allerdings die Sicherung wieder, auf einer Seite geht es aber weiterhin steil bergab und der Weg ist immer noch leicht vereist.
 Da ich kein passendes Equipment für glattes und vereistes Terrain dabei hatte, war für mich hier Schluss.
 
-{{< imgScale "GOPR8144_1600.jpg" "Ende meiner Tour. Man sieht das letzte Stück vom Seil, danach gibt es keine Sicherung mehr. Der Weg war glatt und nach links ging es beinahe senkrecht bergab." "500x" >}}
+{{< imgScale "zugspitze-2022/GOPR8144_1600.JPG" "Ende meiner Tour. Man sieht das letzte Stück vom Seil, danach gibt es keine Sicherung mehr. Der Weg war glatt und nach links ging es beinahe senkrecht bergab." "500x" >}}
 
 Die Stelle kann man sich auch im [eingangs erwähnten Video](https://www.youtube.com/watch?v=OF-8TFnyRVY&t=66s) anschauen, dort liegt aber signifikant weniger Schnee.
 
