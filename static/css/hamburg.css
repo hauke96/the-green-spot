@@ -11,3 +11,22 @@ article section img {
 	margin-top: -4px;
 	margin-bottom: 10px;
 }
+
+.gdpr-wrapper {
+  background-color: #424242;
+  color: #fff;
+	position: fixed;
+	bottom:0%;
+	width:100%;
+	padding: 10px;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+}
+
+.gdpr-content {
+  margin: auto;
+  padding: 10px;
+  max-width: 750px;
+}
+
