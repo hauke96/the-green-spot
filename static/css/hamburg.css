@@ -5,14 +5,28 @@ article section img {
 }
 
 /* It depends on the content of the site, when the language buttons and home button should move to the top. That's why I override the default settings. */
-@media (min-width: 750px) {
-  .language-container, .btn-home {
-    top: 20px;
-  }
-}
 
 /* Date usually below the heading of a section in a traveö report to indicate what day this section covers */
 .section-date {
 	margin-top: -4px;
 	margin-bottom: 10px;
 }
+
+.gdpr-wrapper {
+  background-color: #424242;
+  color: #fff;
+	position: fixed;
+	bottom:0%;
+	width:100%;
+	padding: 10px;
+	display: flex;
+	text-align: center;
+	flex-direction: column;
+}
+
+.gdpr-content {
+  margin: auto;
+  padding: 10px;
+  max-width: 750px;
+}
+

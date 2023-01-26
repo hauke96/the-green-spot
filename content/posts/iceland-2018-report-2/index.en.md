@@ -11,16 +11,7 @@ images: ["iceland/DSC00749_1600.JPG"]
 **Previous part:** [part 1]({{< ref "/posts/iceland-2018-report-1" >}})
 {{< /note >}}
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.825/-19.03">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Show complete map
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "11/63.825/-19.03" >}}
 
 The day before, we followed the Laugavegur and slept at the Fremri-Emstruá near the Bíldufell.
 

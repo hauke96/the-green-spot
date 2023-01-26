@@ -15,18 +15,7 @@ Mehr dazu aber unten ;)
 
 ## Route
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496#10/50.8426/10.4672">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496">
-	Vollständige Karte anzeigen
-</a>
-</br>
-</br>
+{{< umap "//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496" "10/50.8426/10.4672" >}}
 
 Den Thüringer Wald hatte ich ausgesucht, weil es eins der wenigen größeren halbwegs wilden Waldgebiete Deutschland ist, welches ich auch noch nicht kannte und welches für mich nicht all zu weit weg ist.
 Erst im Nachhinein habe ich erfahren, dass meine geplante Tour ziemlich genau -- bis auf ein paar Abweichungen -- auf dem Rennsteig liegt.

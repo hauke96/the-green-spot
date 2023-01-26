@@ -22,18 +22,7 @@ Entsprechend sind sie keine Bundeswasserstraße und nur private Böötchenfahrer
 Die Dove Elbe ist dabei gar nicht so doof, für Paddler ist sie Ideal.
 Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* was *taub* bedeutet und *gose* was *trocken* oder *flach* bedeutet.
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448#13/53.4650/10.146">
-</iframe>
-<p>
-	<a target="_blank" href="//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448">
-		Vollständige Karte anzeigen
-	</a>
-</p>
+{{< umap "//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448" "13/53.4650/10.146" >}}
 
 Gestartet bin ich beim roten Marker am *Allermöher Deich* und zunächst die Dove Elbe hinunter (also nach Westen).
 Am Naturschutzgebiet *Die Reit* ging es dann die Gose Elbe hinauf und durch den *Neuengammer Durchstich* zurück in die Dove Elbe Richtung Anleger.

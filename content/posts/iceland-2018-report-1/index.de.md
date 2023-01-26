@@ -9,16 +9,7 @@ images: ["iceland/DSC00515_1600.JPG"]
 Im Sommer 2018 sind Kristina und ich drei Wochen lang in Island wandern gewesen -- ohne Auto, Campingplatz oder feste Unterkunft.
 Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Þórsmörk über Mælifell, Hólmsárlón, Eldgjá, Langisjór nach Landmannalaugar endlich los gehen.
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.75/-19.35">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Vollständige Karte anzeigen
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "11/63.75/-19.35" >}}
 
 # Tag 1: Hamburg → Reykjavík
 {{< smallDate "2018-07-18" >}}

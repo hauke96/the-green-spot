@@ -10,16 +10,7 @@ images: ["iceland/DSC01026_1600.JPG"]
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
 {{< /note >}}
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#10/64.06/-18.75">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Vollständige Karte anzeigen
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "10/64.06/-18.75" >}}
 
 # Tag 13: Sveinstindur Nothütte → Langisjór
 {{< smallDate "2018-07-30" >}}

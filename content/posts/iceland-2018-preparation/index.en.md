@@ -21,16 +21,7 @@ This will be some kind of FAQ with some information, hints and experiences to pr
 * Experience: medium to little
 * Physical condition: Moderate to untrained
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#9/63.92/-19.0">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Show complete map
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "9/63.92/-19.0" >}}
 
 # Planning key details
 First we clarified the most basic information:

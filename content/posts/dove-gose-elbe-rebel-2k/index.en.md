@@ -21,18 +21,7 @@ Therefore those parts of the Elbe are not part of the federal waterway system an
 
 The Dove Elbe however has nothing to do with the bird but the name comes from the [Low German](https://en.wikipedia.org/wiki/Low_German) word *dov* for *deaf* and Gose is also Low German and means *dry* or *shallow*.
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448#13/53.4650/10.146">
-</iframe>
-<p>
-	<a target="_blank" href="//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448">
-		Show complete map
-	</a>
-</p>
+{{< umap "//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448" "13/53.4650/10.146" >}}
 
 I started at the red marker near the road *Allermöher Deich* and first paddled down the Dove Elbe (so towards west).
 From the natural reserve area *Die Reit* I paddled the Gose Elbe upstream, through the canal *Neuengammer Durchstich* back to my starting point.

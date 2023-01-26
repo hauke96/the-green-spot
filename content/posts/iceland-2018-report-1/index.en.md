@@ -9,16 +9,7 @@ images: ["iceland/DSC00515_1600.JPG"]
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#11/63.75/-19.35">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Show complete map
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "11/63.75/-19.35" >}}
 
 # Day 1: Hamburg → Reykjavík
 {{< smallDate "2018-07-18" >}}
