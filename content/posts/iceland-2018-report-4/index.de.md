@@ -348,5 +348,5 @@ Lass also gerne ein Kommentar da :)
 <hr>
 
 {{< note >}}
-[Alle Artikel zur Island 2018 Reise]({{< ref "/pages/iceland-2018" >}})
+[Alle Artikel zu Island Reisen]({{< ref "/pages/iceland" >}})
 {{< /note >}}

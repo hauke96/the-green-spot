@@ -1,13 +1,18 @@
 ---
-title: "Iceland 2018"
+title: "Iceland"
 date: 2020-04-24T16:39:08+02:00
-tags: ["iceland-2018"]
+tags: ["iceland"]
 author: "hauke"
 images: ["iceland/DSC00515_1600.JPG"]
 summary: "All posts regarding our Iceland 2018 trip."
 ---
 
-{{< imgScale "iceland/DSC00515_1600.JPG" "My first Iceland trip. This was taken on out third day after crossing the Fremri-Emstruá having the glacier Entujökull in the background." "500x" >}}
+{{< imgScale "iceland/DSC00515_1600.JPG" "This was taken on out third day suring my first Iceland trip in 2018. This was right after crossing the Fremri-Emstruá having the glacier Entujökull in the background." "500x" >}}
+
+# 2018
+
+In the summer of 2018, I made my first big Iceland trip with my girlfriend at the time.
+We went from Þórsmörk over the Langisjór to Landmannalaugar.
 
 # Preparation
 

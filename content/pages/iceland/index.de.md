@@ -1,19 +1,24 @@
 ---
-title: "Island 2018"
+title: "Island"
 date: 2020-04-24T16:39:08+02:00
-tags: ["island-2018"]
+tags: ["island"]
 author: "hauke"
 images: ["iceland/DSC00515_1600.JPG"]
 summary: "Alle Beiträge zu unserer Island Reise in 2018."
 ---
 
-{{< img "iceland/DSC00515_1600.JPG" "Meine erste große Islandreise. Hier der dritte Tag nach der Überquerung des Fremri-Emstruá mit dem Gletscher Entujökull im Hintergrund." "500x" >}}
+{{< imgScale "iceland/DSC00515_1600.JPG" "Hier der dritte Tag auf meiner ersten großen Islandreise in 2018. Nach der Überquerung des Fremri-Emstruá mit dem Gletscher Entujökull im Hintergrund." "500x" >}}
 
-# Vorbereitung
+# 2018
+
+Im Sommer 2018 habe ich meine erste Große Islandreise mit meiner damaligen Freunding gemacht.
+Es ging für uns dabei von Þórsmörk über den Langisjór bis nach Landmannalaugar.
+
+## Vorbereitung
 
 * [Unsere Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}})
 
-# Reiseberichte
+## Reiseberichte
 
 * [Bericht 1]({{< ref "/posts/iceland-2018-report-1" >}}) (Tag 1 - 3: Anreise, Þórsmörk, Bíldufell)
 * [Bericht 2]({{< ref "/posts/iceland-2018-report-2" >}}) (Tag 4 - 7: Innri-Emstruá, Mælifell, Hólmsárlón)

@@ -24,25 +24,25 @@ enableGitInfo = true
 		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
-				name = "Iceland 2018"
-				identifier = "iceland-2018"
-				url = "pages/iceland-2018"
-				weight = 4
+				name = "Iceland"
+				identifier = "iceland"
+				url = "pages/iceland"
+				weight = 1
 			[[languages.en.menu.main]]
 				name = "Germany"
 				identifier = "germany"
 				url = "pages/germany"
-				weight = 3
+				weight = 2
 			[[languages.en.menu.main]]
 				name = "Paddling"
 				identifier = "paddling"
 				url = "pages/paddling"
-				weight = 2
+				weight = 3
 			[[languages.en.menu.main]]
 				name = "About"
 				identifier = "about"
 				url = "pages/about"
-				weight = 1
+				weight = 4
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
@@ -51,25 +51,25 @@ enableGitInfo = true
 		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
-				name = "Island 2018"
-				identifier = "iceland-2018"
-				url = "pages/iceland-2018"
-				weight = 4
+				name = "Island"
+				identifier = "iceland"
+				url = "pages/iceland"
+				weight = 1
 			[[languages.de.menu.main]]
 				name = "Deutschland"
 				identifier = "germany"
 				url = "pages/germany"
-				weight = 3
+				weight = 2
 			[[languages.de.menu.main]]
 				name = "Paddeln"
 				identifier = "paddling"
 				url = "pages/paddling"
-				weight = 2
+				weight = 3
 			[[languages.de.menu.main]]
 				name = "Über"
 				identifier = "about"
 				url = "pages/about"
-				weight = 1
+				weight = 4
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and

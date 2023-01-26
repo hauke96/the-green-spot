@@ -347,5 +347,5 @@ Feel free to leave a comment below :)
 <hr>
 
 {{< note >}}
-[All articles about our Island 2018 journey]({{< ref "/pages/iceland-2018" >}})
+[All articles about Island journeys]({{< ref "/pages/iceland" >}})
 {{< /note >}}
