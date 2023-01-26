@@ -4,7 +4,7 @@ summary: "In this post I'll compare the two packrafts Anfibio Rebel 2K and MRS N
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddling", "equipment", "gear", "guide"]
 author: "hauke"
-images: ["posts/comparison-rebel-2k-nomad-s1/cover.jpg"]
+images: ["thumb.jpg"]
 ---
 
 Previously I wrote about the [Tour with the **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) and I did the exact same tour with the **MRS Nomad S1 Light**.
@@ -76,7 +76,7 @@ The floor of the Nomad S1 is made of 820D Nylon and the Rebel 2K uses 410D Nylon
 
 # Equipment
 
-{{< imgScale "anfibio-rebel-2k.jpg" "The **Anfibio Rebel 2K** with open spraydeck and fin." "500x" >}}
+{{< imgScale "comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "The **Anfibio Rebel 2K** with open spraydeck and fin." "500x" >}}
 
 ## Fin & spraydeck
 
@@ -127,8 +127,7 @@ That's really not nice but let's face it: The boat consist of 100% plastic, so w
 
 # Driving behavior
 
-{{< imgScale "mrs-nomad-s1-light.jpg" "The **MRS Nomad S1 Light** without spraydeck. The seat is in the middle so you have some storage space in the back." "500x" >}}
-
+{{< imgScale "comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "The **MRS Nomad S1 Light** without spraydeck. The seat is in the middle so you have some storage space in the back." "500x" >}}
 
 The Nomad S1 has definitely the better driving behavior due to its length.
 As mentioned above, the seat of the Rebel 2K felt lower, which is probably beneficial for the stability, but paddling becomes a bit more difficult.

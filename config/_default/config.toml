@@ -20,18 +20,14 @@ enableGitInfo = true
 		languageCode = "en"
 		languageName = "English"
 		weight = 2
-		subtitle = "Trekking experiences of a different kind"
+		subtitle = "Experiences from trekking, hiking and paddling in wild nature"
 		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
-				name = "About"
-				identifier = "about"
-				url = "pages/about"
-			[[languages.en.menu.main]]
-				name = "Iceland 2018"
-				identifier = "iceland-2018"
-				url = "pages/iceland-2018"
-				weight = 3
+				name = "Iceland"
+				identifier = "iceland"
+				url = "pages/iceland"
+				weight = 1
 			[[languages.en.menu.main]]
 				name = "Germany"
 				identifier = "germany"
@@ -41,23 +37,24 @@ enableGitInfo = true
 				name = "Paddling"
 				identifier = "paddling"
 				url = "pages/paddling"
-				weight = 1
+				weight = 3
+			[[languages.en.menu.main]]
+				name = "About"
+				identifier = "about"
+				url = "pages/about"
+				weight = 4
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
 		weight = 1
-		subtitle = "Erfahrungen vom Trekking der etwas anderen Art"
+		subtitle = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
 		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
-				name = "Über"
-				identifier = "about"
-				url = "pages/about"
-			[[languages.de.menu.main]]
-				name = "Island 2018"
-				identifier = "iceland-2018"
-				url = "pages/iceland-2018"
-				weight = 3
+				name = "Island"
+				identifier = "iceland"
+				url = "pages/iceland"
+				weight = 1
 			[[languages.de.menu.main]]
 				name = "Deutschland"
 				identifier = "germany"
@@ -67,7 +64,12 @@ enableGitInfo = true
 				name = "Paddeln"
 				identifier = "paddling"
 				url = "pages/paddling"
-				weight = 1
+				weight = 3
+			[[languages.de.menu.main]]
+				name = "Über"
+				identifier = "about"
+				url = "pages/about"
+				weight = 4
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and

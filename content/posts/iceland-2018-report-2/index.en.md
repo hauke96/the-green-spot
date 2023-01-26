@@ -4,7 +4,7 @@ summary: "Finally we left civilization behind us and the landscape became more a
 date: "2019-12-08T12:29:08+01:00"
 tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
-images: ["posts/iceland-2018-report-2/DSC00749_1600.JPG"]
+images: ["iceland/DSC00749_1600.JPG"]
 ---
 
 {{< note >}}
@@ -36,9 +36,9 @@ All in all ca. 200m doesn't sound that much, but it turned out to be steep and r
 Right before the first ascend, we found a small but beautiful waterfall.
 Because we wore our clothes for a few days now, we decided to take a break and wash us and our clothes.
 
-{{< imgScale "DSC00532_1600.JPG" "The clacier Entujökull (rear right) with the waterfall (rear left)" "500x" >}}
+{{< imgScale "iceland/DSC00532_1600.JPG" "The clacier Entujökull (rear right) with the waterfall (rear left)" "500x" >}}
 
-{{< imgScale "DSC00543_1600.JPG" "Closer look on the waterfall." "500x" >}}
+{{< imgScale "iceland/DSC00543_1600.JPG" "Closer look on the waterfall." "500x" >}}
 
 There were even more waterfalls further along the cliff, but this one was the nearest and most beautiful one.
 The water was unbelievable cold, nevertheless it was a good feeling to be clean and put on a fresh shirt and socks.
@@ -56,9 +56,9 @@ When the stones became larger and the way more impassible, Kristina twisted her 
 After reaching the top, we had a beautiful view all over the valley we came from including the glacier.
 Looking forward, we only saw nothing but flat and endless land.
 
-{{< imgScale "DSC00553_1600.JPG" "The view back to the valley and the glacier." "500x" >}}
+{{< imgScale "iceland/DSC00553_1600.JPG" "The view back to the valley and the glacier." "500x" >}}
 
-{{< imgScale "DSC00558_1600.JPG" "Looking forward to the Mælifellsandur." "500x" >}}
+{{< imgScale "iceland/DSC00558_1600.JPG" "Looking forward to the Mælifellsandur." "500x" >}}
 
 The weather wasn't that bad (light rain and some wind) but upcoming fog became more and more dense ...
 
@@ -118,7 +118,7 @@ Young glacier rivers have a temperature of about 2-3°C (35-37°F), so be prepar
 
 We neede for the distance of about 25 meters ca. 15-20 minutes.
 
-{{< imgScale "innri-emstrua.jpg" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
+{{< imgScale "iceland/innri-emstrua.jpg" "The Innri-Emstruá after fording it. Even though it dose not look like it, it was sometimes deeper than one meter. The impressions are sometimes deceiving." "500x" >}}
 
 ### Alternatives
 We had two alternatives to not cross the Innri-Emstruá:
@@ -150,27 +150,27 @@ The danger of light frostbites is real and should not be underestimated!
 After the Innri-Emstruá the trip was quite relaxing and also the weather became better.
 After a short ascend we arrived at a lake near the bottom of the Sléttjökull.
 
-{{< imgScale "DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10km)." "500x" >}}
+{{< imgScale "iceland/DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10km)." "500x" >}}
 
 We relaxed a bit at the lake, filled up our water bottles and continued via the Mælifellsandur towards the Mælifell.
 
-{{< imgScale "DSC00574_1600.JPG" "The vulcanic sand plain was -- with some exceptions -- very dry. At the horizon the Mælifell." "500x" >}}
+{{< imgScale "iceland/DSC00574_1600.JPG" "The vulcanic sand plain was -- with some exceptions -- very dry. At the horizon the Mælifell." "500x" >}}
 
 This plain was very flat, walking on it was mostly quite comfortable and so we were relatively fast.
 There were some smaller streams we had to cross but that was possible without even taking off our shoes.
 
-{{< imgScale "DSC00580_1600.JPG" "Very wide  but also very shallow: We were able to just walk through them." "500x" >}}
+{{< imgScale "iceland/DSC00580_1600.JPG" "Very wide  but also very shallow: We were able to just walk through them." "500x" >}}
 
 Right before the Mælifell we encountered a larger river we had to cross -- probably the Brennivínskvísl.
 After that we finally arrived at the Mælifell after seven hours of volcanic plain.
 
-{{< imgScale "DSC00623_1600.JPG" "The Mælifell from the F210." "500x" >}}
+{{< imgScale "iceland/DSC00623_1600.JPG" "The Mælifell from the F210." "500x" >}}
 
 As it should be for photogenic highlights, thick low hanging clouds came up and cloaked the green mountain.
 
-{{< imgScale "DSC00355_edit_1600.JPG" "The Mælifell with clouds coming up." "500x" >}}
+{{< imgScale "iceland/DSC00355_edit_1600.jpg" "The Mælifell with clouds coming up." "500x" >}}
 
-{{< imgScale "DSC00628_1600.JPG" "The Mælifell after half an hour. This was the moment we found a name for our blog ;)" "500x" >}}
+{{< imgScale "iceland/DSC00628_1600.JPG" "The Mælifell after half an hour. This was the moment we found a name for our blog ;)" "500x" >}}
 
 After a 16-hour hiking day we directly fell asleep after lunch.
 
@@ -182,12 +182,12 @@ This day was planned in our timetable, so we didn't fell behind.
 
 After sleeping quite long, we climbed up a near hill and had an awesome view over the whole landscape.
 
-{{< imgScale "DSC00635_1600.JPG" "Far left is the rain covered Brennivínskvísl, to the right the glacier Öldufellsjökull and in the middle the Mælifell." "500x" >}}
+{{< imgScale "iceland/DSC00635_1600.JPG" "Far left is the rain covered Brennivínskvísl, to the right the glacier Öldufellsjökull and in the middle the Mælifell." "500x" >}}
 
 We were told that the mobile reception is better when staying on a hill.
 This was true unless -- due to Murphy's law -- you want to send an SMS or call somebody.
 
-{{< imgScale "DSC00376_1600.JPG" "Me trying to send an SMS." "500x" >}}
+{{< imgScale "iceland/DSC00376_1600.JPG" "Me trying to send an SMS." "500x" >}}
 
 # Day 7: Mælifell → Hólmsárlón
 {{< smallDate "2018-07-24" >}}
@@ -203,26 +203,26 @@ There was a lot of quicksand we sometimes sunk in up to our knees.
 If the ground starts to bubble when stepping on it, the probability is high that this is quicksand.
 {{< /note >}}
 
-{{< imgScale "DSC00650_1600.JPG" "The river delta we crossed. To the right is the campsite Strútsskáli." "500x" >}}
+{{< imgScale "iceland/DSC00650_1600.JPG" "The river delta we crossed. To the right is the campsite Strútsskáli." "500x" >}}
 
-{{< imgScale "IMG_20180718_164318_2800.jpg" "The river delta as we saw it from the airplane. To the right of the engine you can even see the Mælifell." "500x" >}}
+{{< imgScale "iceland/IMG_20180718_164318_2800.jpg" "The river delta as we saw it from the airplane. To the right of the engine you can even see the Mælifell." "500x" >}}
 
 Because the Brennivínskvísl flows directly next to some hills and the river bank is quite steep, we just went over these hills.
 The rest of the trip was very beautiful and easy.
 After some time we arrived at a cascade of waterfalls, which were not marked on our map.
 
-{{< imgScale "DSC00690_1600.JPG" "Small but beautiful waterfalls at the Brennivínskvísl." "500x" >}}
+{{< imgScale "iceland/DSC00690_1600.JPG" "Small but beautiful waterfalls at the Brennivínskvísl." "500x" >}}
 
 From there the landscape became more and more green and next to the moss there was even grass growing.
 Finally we crossed the river Hólmsá which was quite cold but not that difficult.
 Further upstream the Hólmsá flowed through a canyon with further waterfalls.
 
-{{< imgScale "DSC00739_1600.JPG" "Canyon of the river Hólmsá." "500x" >}}
+{{< imgScale "iceland/DSC00739_1600.JPG" "Canyon of the river Hólmsá." "500x" >}}
 
 ## Red crater
 After hiking along side the canyon for a while, we arrives at an old volcanic crater, which was very beautiful with a mixture of red, green and turquoise colors.
 
-{{< imgScale "DSC00749_1600.JPG" "The \"red crater\" of a former volcano." "500x" >}}
+{{< imgScale "iceland/DSC00749_1600.JPG" "The \"red crater\" of a former volcano." "500x" >}}
 
 In the small crater lake there were many rather shy birds swimming (probably ducks).
 
@@ -230,11 +230,11 @@ For the further route we had two options: Crossing the river coming out of the l
 Because we didn't want to ford another river, we decided to go up to the edge and walk around the crater.
 A decision we didn't regret.
 
-{{< imgScale "DSC00753_1600.JPG" "Great view from above the crater with Sléttjökull and the Kerlingarhnúkur mountains in the background." "500x" >}}
+{{< imgScale "iceland/DSC00753_1600.JPG" "Great view from above the crater with Sléttjökull and the Kerlingarhnúkur mountains in the background." "500x" >}}
 
 Fruther on the top we followed some sheep paths leading to the lake Hólmsárlón.
 
-{{< imgScale "DSC00757_1600.JPG" "Strange circles in the moss." "500x" >}}
+{{< imgScale "iceland/DSC00757_1600.JPG" "Strange circles in the moss." "500x" >}}
 
 All over Iceland, you'll find these strange looking circles in the moss, which are called Nornabaugar (witch's rings).
 They are a result of a mushroom growing in the moss, which unfortunately also kills the moss.
@@ -244,7 +244,7 @@ Due to the seasons, the moss cannot always grow and this builds these circles.
 The slopes at the lake were very steep and we used the valley of a smaller stream to go down to the shore.
 Even though the stream was less steep, it was very slippery.
 
-{{< imgScale "DSC00759_1600.JPG" "The lake Hólmsárlón at evening." "500x" >}}
+{{< imgScale "iceland/DSC00759_1600.JPG" "The lake Hólmsárlón at evening." "500x" >}}
 
 As we learned later, there were a lot of fishes set free in the Hólmsárlón lake which bred very fast.
 Due to the lack of predators controlling the population and the lack of food, they all died.

@@ -4,7 +4,7 @@ summary: "Dieses mal geht es gemütlich mit einem gemieteten Packraft die Gose u
 date: "2021-07-31T00:20:00+02:00"
 tags: ["hamburg", "elbe", "paddeln", "deutschland"]
 author: "hauke"
-images: ["posts/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+images: ["dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 ---
 
 Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern gehen kann (zumindest keine langen Touren mit schwerem Gepäck), plane ich eine längere Paddeltour.
@@ -48,9 +48,9 @@ Dazu aber später mehr.
 Ich wollte gerne sehr sehr früh los, bin daher kurz nach 4 aufgestanden und mit Bus und Bahn zum Anleger gefahren, sodass ich ca. 5:45 am Startpunkt war.
 Dort gibt es einen [sehr netten Anleger](https://osm.org/go/0HoK2mFI0?m=), der uneingeschränkt erreichbar ist und sich perfekt zum Einstieg eignet.
 
-{{< imgScale "DSC03479.JPG" "Das einsatzbereite Packraft in mein Rucksack daneben." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03479.JPG" "Das einsatzbereite Packraft in mein Rucksack daneben." "500x" >}}
 
-{{< imgScale "DSC03480.JPG" "Die Anlegestelle am Allermöher Deich." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03480.JPG" "Die Anlegestelle am Allermöher Deich." "500x" >}}
 
 Es ist das erste mal, dass ich paddeln gehe und entsprechend auch das erste mal, dass ich ein Packraft aufbaue.
 Zugegeben habe ich es Zuhause einmal probiert, entsprechend war nach knapp einer halben Stunde das Packraft im Wasser.
@@ -64,7 +64,7 @@ Suuuuper...
 Dennoch war es sehr entspannend und absolut ruhig auf dem Wasser, vor allem wenn man kurz aufhört zu paddeln gleitet man lautlos dahin.
 Großartig!
 
-{{< imgScale "DSC03481_edit_02.jpg" "Kurz nach dem Ablegen und Sonnenaufgang." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg" "Kurz nach dem Ablegen und Sonnenaufgang." "500x" >}}
 
 # Pause und die ersten Menschen
 
@@ -80,31 +80,31 @@ Zum Glück ist die Strömung -- wenn überhaupt vorhanden -- sehr schwach.
 
 **Wichtig:** Das Befahren der Gose Elbe mit motorisierten Booten ist **verboten**! Sie ist -- wie der Name schon sagt -- zudem stellenweise sehr flach, also weniger als einen Meter tief.
 
-{{< imgScale "DSC03486_edit_02.jpg" "Teichrosen säumen den Rand der Gose Elbe. Die Büsche rechts im Bild gehören zu einer [kleinen Insel](https://osm.org/go/0HoKR2Op4--?m=) in der Gose Elbe." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03486_edit_02.jpg" "Teichrosen säumen den Rand der Gose Elbe. Die Büsche rechts im Bild gehören zu einer [kleinen Insel](https://osm.org/go/0HoKR2Op4--?m=) in der Gose Elbe." "500x" >}}
 
 Nachdem ich einige Kanuten und eine Yoga-Gruppe passiert habe, die für eine Extraportion Gleichgewichtstraining ihre Übungen auf SUP-Boards gemacht haben, wurde die Gose Elbe kontinuierlich schmaler.
 Noch konnten zwei Paddler leicht aneinander vorbei, aber später wurde das echt kniffelig.
 
-{{< imgScale "DSC03489_edit.jpg" "Die Gose Elbe wurde immer schmaler und die Teichrosen immer zahlreicher." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03489_edit.jpg" "Die Gose Elbe wurde immer schmaler und die Teichrosen immer zahlreicher." "500x" >}}
 
 Irgendwann führte nur noch eine schmale Schneise zwischen den zahllosen Teichrosen hindurch.
 Das Paddeln wurde dadurch nicht leichter, da man dauernd an den Dingern hängen blieb und an der Finne von meinem Packraft sammelten sich so manche Äste und Blätter.
 
-{{< imgScale "DSC03493.JPG" "Teichrosen: Schön anzusehen aber unpraktisch zum paddeln." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03493.JPG" "Teichrosen: Schön anzusehen aber unpraktisch zum paddeln." "500x" >}}
 
 # Neuengammer Durchstich
 
 Dann kam ich nach einiger Zeit am Eingang vom *[Neuengammer Durchstich](https://osm.org/go/0HoKj~KIV?m=)* an (nicht zu verwechseln mit dem *[Neuengammer Stichkanal](https://osm.org/go/0G91ftH1L?m=)*, der zum ehemaligen KZ Neuengamme führt).
 Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen der Dove und Gose Elbe, der aus Naturschutzgründen zwischen April und Juni nicht befahren werden darf -- auch nicht von Paddelbooten!
 
-{{< imgScale "DSC03495_edit.jpg" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
 
 Ab und zu kamen mir Paddlergruppen oder Menschen auf ihrem SUP-Board entgegen.
 Bei der geringen Breite des Durchstichs musste ich als wendiger Packrafter schon mal rechts ran fahren um die Gruppen vorbei zu lassen.
 
 In der Mitte vom Durchstich gibt es recht ursprüngliche Feuchtgebiete, man ist hier auch mitten im *Naturschutzgebiet Kirchwerder Wiesen* (und ja, es gibt hier viele Wiesen).
 
-{{< imgScale "DSC03496.JPG" "Feuchtgebiete und kleine Inseln im Neuengammer Durchstich." "500x" >}}
+{{< imgScale "dove-gose-elbe-rebel-2k/DSC03496.JPG" "Feuchtgebiete und kleine Inseln im Neuengammer Durchstich." "500x" >}}
 
 Kurz danach gab es leider eine Baustelle der Brücke vom Neuengammer Hausdeich, hier war der Durchstich unterbrochen.
 Zum Glück gab es auf beiden Seiten der Baustelle einen recht guten Aus- und Einstiegspunkt.

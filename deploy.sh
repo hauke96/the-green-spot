@@ -26,18 +26,18 @@ else
 	else
 		./build.sh
 	fi
-	
-	hline "2. Build package"
-	
-	date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
-	file="the-green-spot_$date_str.zip"
-	
-	cd public 
-	zip -r -9 ../$file ./*
-	cd ..
-	echo
-	ls -alh $file
 fi
+
+hline "2. Build package"
+
+date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
+file="the-green-spot_$date_str.zip"
+
+cd public 
+zip -r -9 ../$file ./*
+cd ..
+echo
+ls -alh $file
 
 hline "3. Login into server"
 
@@ -50,11 +50,13 @@ echo
 
 hline "4. Upload package"
 
+echo "Upload file $file"
+
 sshpass -p $password scp -oHostKeyAlgorithms=+ssh-rsa -r $file $username@the-green-spot.de:$home/
 
 hline "5. Extract package"
 
-sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && unzip -o $file"
+sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && rm -rf de en images css fonts && unzip -o $file && rm -f *.zip"
 
 echo
 echo

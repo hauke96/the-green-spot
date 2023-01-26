@@ -4,7 +4,7 @@ summary: "After deciding to hike three weeks in Iceland, many preparations had t
 date: 2019-03-27T02:29:32+02:00
 tags: ["iceland-2018", "preparations", "iceland"]
 author: "kristina-hauke"
-images: ["posts/iceland-2018-preparation/thumb.jpg"]
+images: ["thumb.jpg"]
 ---
 
 Before we talk about or {{< linkTag iceland-2018 "Iceland hike in 2018" >}}, we would like to present the things we considered while preparing our journey.
@@ -102,7 +102,7 @@ First we looked at interesting parts like cliffs or rivers, that cannot be cross
 
 We marked everything we saw (e.g. a ford) and searched for alternatives, e.g. a bridge down the river.
 
-{{< imgScale "map-alternatives_1000.jpg" "Printed copy of our hiking map for planning and marking alternatives." "500x" >}}
+{{< imgScale "iceland/map-alternatives_1000.JPG" "Printed copy of our hiking map for planning and marking alternatives." "500x" >}}
 
 ## Maps
 We bought a hiking map, scanned it and digitally marked our route on it. We then were able to search for alternatives and change the route without making the actual hiking map unreadable.
@@ -138,7 +138,7 @@ If we say that the average calories are 450kcal/100g (roughly the average of nor
 
 Each of us had 13kg of food in Iceland. Clearly we didn't reached our 4000-5000kcal goal. Get to know you body, it's possible that you loose some kilos during the hike.
 
-{{< imgScale "DSC00350_0001_cut_small_edit.jpg" "Most of our food." "500x" >}}
+{{< imgScale "iceland/DSC00350_0001_cut_small_edit.jpg" "Most of our food." "500x" >}}
 
 ## Note: More hunger near the end
 An important note at this point: Approximately after half of the tour, we were more hungry. It's better to calculate with 1,5 meals at the end to not be hungry after eating.

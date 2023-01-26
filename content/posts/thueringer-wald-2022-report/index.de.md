@@ -4,7 +4,7 @@ summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu be
 date: "2023-01-17T21:23:49+01:00"
 tags: ["wandern", "rennsteig", "thüringer-wald", "tarp"]
 author: "hauke"
-images: ["posts/thueringer-wald-2022-report/DSC03737_1600.JPG"]
+images: ["thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
 
 Nach langer Corona-Pause und ausschließlich Tagesrouten, ging es am 21.04.2022 endlich los zu einer Mehrtagestour, dieses mal auf dem **Rennsteig** durch den Thüringer Wald.
@@ -49,7 +49,7 @@ Das Tarp ist dabei eine grüne 2x3 m Baumarkt-Plane mit Ösen für 6,50 € von 
 Zum Tarp muss man natürlich auch Heringe uns etwas Schnur mitnehmen.
 Als Stützen habe ich meine Wanderstöcke genommen.
 
-{{< imgScale "backpack.JPG" "Mein Rucksack mit zwei Wasserflaschen an der Seite, wasserdichtem Beutel und Tarp links daneben." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/backpack.JPG" "Mein Rucksack mit zwei Wasserflaschen an der Seite, wasserdichtem Beutel und Tarp links daneben." "333x" >}}
 
 An Kleidung hatte ich natürlich eine lange Hose, Wanderschuhe, Wandersocken und eine Regenjacke mit.
 Dazu normale T-Shirts und zwei/drei Paar Unterhosen und dünne und dicke Socken.
@@ -100,14 +100,14 @@ Oben angekommen hatte ich alle Jacken bereits ausgezogen und war schon einigerma
 Aber die Aussicht war es wert!
 Im Innenhof steht der Südturm, auf den man für einen Euro drauf kann -- lohnt sich, sollte man machen!
 
-{{< imgScale "DSC03657_1600.JPG" "Blick auf die Wartburg mit dem Südturm in der Mitte." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03657_1600.JPG" "Blick auf die Wartburg mit dem Südturm in der Mitte." "500x" >}}
 
-{{< imgScale "DSC03672_1600.JPG" "Blick vom Südturm auf den schier endlosen Thüringer Wald." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03672_1600.JPG" "Blick vom Südturm auf den schier endlosen Thüringer Wald." "500x" >}}
 
 Vorbei am **Waldhaus Sängerwiese** ging es zur <span id="drachenschlucht">**Drachenschlucht**</span>, einem *der* Highlights des Rennsteigs.
 Ist man in der Nähe der Drachenschlucht, sollte man ihr unbedingt einen Besuch abstatten, es lohnt sich!
 
-{{< imgScale "DSC03697_1600.JPG" "In der Drachenschlucht. Unter dem Gitter fließt der Bach." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03697_1600.JPG" "In der Drachenschlucht. Unter dem Gitter fließt der Bach." "333x" >}}
 
 Hier war dann auch etwas mehr los und schon bald ärgerten sich die ersten Leute hörbar über ihr mangelhaftes Schuhwerk.
 Ein Vater hat sich so geärgert, weil seine neuen Turnschuhe dreckig wurden, dass er wütend mit dem Fuß auftrat, dabei seine ganze Hose mit Schlamm bespritzte und bösen Blickes davon stapfte ... samt dieses sapschenden Geräusches seiner nassen Turnschuhe.
@@ -116,7 +116,7 @@ Mutter und Tochter rollten mit den Augen und taten mir etwas Leid, der Ausflug w
 Gerade im späteren (südlichen) Verlauf ist festes Wanderschuhwerk einfach Pflicht!
 Man quert dort nicht nur häufiger den Bach, sondern der Weg verläuft teilweise *im* noch jungen und schlammigen Bach.
 
-{{< imgScale "DSC03710_1600.JPG" "Bach in der Drachenschlucht. Manchmal ist der Weg trocken, manchmal (auf dem Bild weiter hinten) ist Weg und Bach nicht zu unterscheiden." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03710_1600.JPG" "Bach in der Drachenschlucht. Manchmal ist der Weg trocken, manchmal (auf dem Bild weiter hinten) ist Weg und Bach nicht zu unterscheiden." "500x" >}}
 
 Kurz nach der Drachenschlucht kommt das **Jagdschloss "Hohe Sonne"**, wo es einen Imbiss gibt, an dem ich im Sonnenschein Kaffee und Kuchen genossen habe.
 Hier war von den geplanten Kilometern für den Tag etwa Halbzeit und es war erst 13 Uhr, ich hatte also noch genug Zeit.
@@ -128,7 +128,7 @@ Es ist keine öffentliche Wanderhütte, viel mehr ein Verschlag, den sich da jem
 Die Hütte selbst war tatsächlich offen, aber zum übernachten war es mit zu eng und dreckig.
 Aber auf der Veranda habe ich mir mein Abendessen gekocht und für die Nacht mein Tarp aufgespannt.
 
-{{< imgScale "DSC03722_1600.JPG" "Mein Tarp mit zwei Wanderstöcken aufgespannt." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03722_1600.JPG" "Mein Tarp mit zwei Wanderstöcken aufgespannt." "500x" >}}
 
 # Tag 2: Klinzingshütte → Bärenbruch
 {{< smallDate "2022-04-23" >}}
@@ -136,26 +136,26 @@ Aber auf der Veranda habe ich mir mein Abendessen gekocht und für die Nacht mei
 Kurz vor sieben bin ich aufgestanden und war mitten in einem stark nebeligen Märchenwald.
 Gespenstisch, aber auch sehr schön.
 
-{{< imgScale "DSC03727_1600.JPG" "Die Klinzingshütte bei Nebel am Morgen ... als wären Hänsel und Gretel gerade Feuerholz sammeln." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03727_1600.JPG" "Die Klinzingshütte bei Nebel am Morgen ... als wären Hänsel und Gretel gerade Feuerholz sammeln." "500x" >}}
 
 Gefrühstückt habe ich in der **Glöcknerhütte**, die ein paar Minuten Fußmarsch entfernt lag.
 Dort war es trocken, sauber, windgeschützt und möbliert.
 
-{{< imgScale "DSC03730_1600.JPG" "Die Glöcknerhütte von außen." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03730_1600.JPG" "Die Glöcknerhütte von außen." "500x" >}}
 
-{{< imgScale "DSC03732_1600.JPG" "Drinnen war es sehr nett eingerichtet, windgeschützt und trocken." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03732_1600.JPG" "Drinnen war es sehr nett eingerichtet, windgeschützt und trocken." "333x" >}}
 
 Gegen acht Uhr war ich fertig und mir kamen bereits die ersten Jogger und Leute mit Hund entgegen.
 Am **Imbiss zur Wallfahrt** und der dort gelegenen **Schillerbuche** ging es weiter an der kaum befahrenen L1127 zur **Waldschänke Dreiherrnstein**.
 
-{{< imgScale "DSC03733_1600.JPG" "Wanderwege nach der Schillerbuche, einer der etwas schöneren auf meiner Tour." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03733_1600.JPG" "Wanderwege nach der Schillerbuche, einer der etwas schöneren auf meiner Tour." "333x" >}}
 
 Nach einer kurzen Pause und weiteren ca. 5 km erreichte ich den <span id="grosser-inselberg">**Großen Inselberg**</span> auf 916 m, dem höchsten Punkt meiner Tour.
 Die höchste Stelle vom gesamten Rennsteig ist mit 983 m der große Beerenberg weiter südlich.
 Trotz der etwas diesigen Luft hatte man bereits zwischendrin ab und zu einen großartigen Ausblick.
 Auf dem Gipfel habe ich mir dann einen Kaffee gegönnt und eine Gruppe Wanderinnen getroffen, die den kompletten Rennsteig machen wollten.
 
-{{< imgScale "DSC03734_1600.JPG" "Sendetürme auf dem großen Inselberg." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03734_1600.JPG" "Sendetürme auf dem großen Inselberg." "333x" >}}
 
 Für mich ging es nach der Stärkung erst mal wieder runter.
 Am Parkplatz vom Inselberg ging ich an der dort aufgebauten Kartbahn vorbei nach Nordost Richtung **Bärenbruch**.
@@ -164,11 +164,11 @@ Es ging dabei entlang verschiedener Bäche stetig bergab.
 <span id="baerengrund" />An einer Gabelung mehrerer Bäche kam wieder eine Hütte (an einem Schild in der Nähe stand **Am Tempelchen**), wo ich mich am Bach etwas frisch gemacht habe.
 Es war auch erst Nachmittag, sodass ich dort auch etwas Zeit tot geschlagen habe, bin dann aber weiter den **Bärenbruchgrund** hinauf zur **Bärenbruchwand**, wo ich dann mein Lager aufgebaut habe.
 
-{{< imgScale "DSC03738_1600.JPG" "Das Lager geschützt in der Nähe der Bärenbruchwand." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03738_1600.JPG" "Das Lager geschützt in der Nähe der Bärenbruchwand." "500x" >}}
 
-{{< imgScale "DSC03737_1600.JPG" "Tarp an der Feuerstelle mit zentralem Wanderstock zum Aufspannen." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03737_1600.JPG" "Tarp an der Feuerstelle mit zentralem Wanderstock zum Aufspannen." "500x" >}}
 
-{{< imgScale "DSC03740_1600.JPG" "Unterkunft von innen." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03740_1600.JPG" "Unterkunft von innen." "500x" >}}
 
 Das Tarp hatte ich dieses mal -- wie man oben sieht -- mit einem zentralen Wanderstock aufgespannt.
 Dadurch ist der Eingang zwar etwas versperrt, das Tarp reicht aber an den Seiten bis zum Boden, wodurch kaum Zugluft ins Tarp kommt.
@@ -204,7 +204,7 @@ Bis zum **Steinbruch Splittergrund** war ich dann schon gut nass und wollte im *
 In einer Hütte etwas weiter habe ich dann Rast gemacht, etwas gegessen und mir einen Tee gemacht.
 Meine Regenjacke war mittlerweile etwas überfordert und so wurde ich auch darunter bereits nass.
 
-{{< imgScale "DSC03745_600.JPG" "Aussicht vom Aussichtsturm \"südlichen Spießberg\" Richtung Westen." "720x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03745_600.JPG" "Aussicht vom Aussichtsturm \"südlichen Spießberg\" Richtung Westen." "720x" >}}
 
 Auf dem Weg zum Imbiss **Rennsteighaus Neue Ausspanne** fing es dann richtig zu schütten an, jetzt war ich auch unter der Regenjacke gut nass.
 
@@ -229,9 +229,9 @@ Kristian hat dann auch sein Camp in der Hütte aufgeschlagen und so haben wir be
 Die Hütte ist zwar an einer Seite komplett offen, aber es kam kein Regen herein und es war trotzdem windgeschützt und trocken.
 Leider lag hinter der Hütte recht viel Müll rum, aber innen war es sauber und trocken.
 
-{{< imgScale "DSC03752_1600.JPG" "Die Hütte am Wachsenrasen von außen ..." "500x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03752_1600.JPG" "Die Hütte am Wachsenrasen von außen ..." "500x" >}}
 
-{{< imgScale "DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
+{{< imgScale "thueringer-wald-2022-report/DSC03755_1600.JPG" "... und innen mit meinem Lager. Auf dem Boden aus grobem Kies, konnte meine Baumarktplane zeigen, was sie kann." "333x" >}}
 
 Kristian und ich haben und viel übers wandern unterhalten.
 Er war erstaunt über das wenige Gepäck, das ich mit hatte, allerdings hatte er auch einige Dinge zu viel eingepackt.

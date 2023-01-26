@@ -4,7 +4,7 @@ summary: "In diesem Artikel vergleiche ich die beiden Packrafts Anfibio Rebel 2K
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddeln", "equipment", "ausrüstung", "ratgeber"]
 author: "hauke"
-images: ["posts/comparison-rebel-2k-nomad-s1/cover.jpg"]
+images: ["thumb.jpg"]
 ---
 
 Im Bericht über meine [Tour mit dem **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) habe ich ja bereits ein wenig etwas über das Rebel 2K geschrieben.
@@ -77,7 +77,7 @@ Der Boden ist beim Nomad S1 jedoch dicker (820D Nylon) also beim Rebel 2K (410D 
 
 # Ausstattung
 
-{{< imgScale "anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
+{{< imgScale "comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
 
 ## Finne & Spritzdecke
 
@@ -130,7 +130,7 @@ Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was 
 
 # Fahrverhalten
 
-{{< imgScale "mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
+{{< imgScale "comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
 
 Beim Fahrverhalten merkt man, dass das Nomad S1 länger ist und dadurch besser im Wasser liegt.
 Zudem hatte ich das Gefühl beim Rebel 2K tiefer zu sitzen, was sicherlich ein wenig mehr Stabilität gibt, das Paddeln aber auch etwas erschwert.
@@ -170,7 +170,7 @@ Für längere Touren muss man dann ein ernstes Gespräch mit dem eigenen Geldbeu
 
 # Fazit
 
-Für **mich** ist das S1 das bessere Packraft (besonders in der normalen Variante mit Spritzdecke).
+Für *mich* ist das S1 das bessere Packraft (besonders in der normalen Variante mit Spritzdecke).
 Ich habe aber auch vor eher längere und ruhigere Touren zu machen.
 Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeugt.
 
@@ -179,4 +179,4 @@ Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeu
 Im August 2021 habe ich mir das Nomad S1 gekauft (die normale Variante mit Spritzdecke).
 Bisher bin ich sehr zufrieden und habe natürlich auch schon eine längere Tour gemacht, aber dazu in einem eigenen Beitrag mehr.
 
-[^1]: Stand: 10.08.2022
+[^1]: Stand: 25.01.2023
