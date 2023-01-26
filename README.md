@@ -151,7 +151,18 @@ For normal horizontal photos:
 ```bash
 convert -resize 1600x DSC00835.JPG DSC00835_1600.JPG
 ```
+
 For vertical photos:
 ```bash
 convert -resize x1600 -auto-orient DSC00835.JPG DSC00835_1600.JPG
+```
+
+Print all JPG names with qualities above 75%:
+```bash
+for f in ./*; do q=$(identify -format '%Q' $f) && if [[ $q > 75 ]]; then echo "$f  ==>  $q"; fi; done
+```
+
+Convert all JPG files with a quality of over 75%:
+```bash
+for f in ./*; do q=$(identify -format '%Q' $f) && if [[ $q > 75 ]]; then mogrify -quality 75 $f; fi; done
 ```

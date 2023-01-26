@@ -40,7 +40,7 @@ Am Langisjór gibt es einen Parkplatz und einen Campingplatz, der allerdings ver
 Der Campingplatz ist zudem unglaublich hässlich, es ist einfach eine Schotterfläche neben dem Parkplatz.
 Keine Bäume, keine Sträucher, nichts weiter, außer das Häuschen und Schotter.
 
-{{< imgScale "iceland/DSC00942_x1000.JPG" "Langisjór mit Landzunge am linken Rand." "500x" >}}
+{{< imgScale "iceland/DSC00942_small.JPG" "Langisjór mit Landzunge am linken Rand." "500x" >}}
 
 Auf einer Landzunge im Langisjór gibt es allerdings eine Hütte, die wir angesteuert haben ind der Hoffnung, dass diese offen ist.
 Nach einem Besuch auf einem kleinen Aussichtspunkt, ging es dann weiter zur Hütte, welche man allerdings ebenfalls mieten muss.
@@ -91,7 +91,7 @@ Unser Ziel war ein See am Fluss Lónakvísl, an dem es ebenfalls eine Hütte geb
 Auf einer Anhöhe hatten wir dann einen wunderschönen Blick über die Gegend und konnten bereits die Hütte sehen.
 Der Abstieg war etwas abenteuerlich (da der Hang der Steil war) und wir hatten einen kleinen Bach zu überqueren, aber dann waren wir auch schon da.
 
-{{< imgScale "iceland/DSC00958_x1000.JPG" "Aussicht vor dem Abstieg zur Hütte (schwach zu erkennen am hinteren See)." "500x" >}}
+{{< imgScale "iceland/DSC00958_small.JPG" "Aussicht vor dem Abstieg zur Hütte (schwach zu erkennen am hinteren See)." "500x" >}}
 
 Die Hütte ist jedoch ebenfalls privat und war nicht vermietet, wodurch wir einfach neben der Hütte im Windschatten unser Zelt aufgeschlagen haben.
 Da wir relativ früh dran waren, war der Abend recht entspannt und wir konnten einen schönen Sonnenuntergang genießen.
@@ -109,7 +109,7 @@ Um nicht beim campen auf privatem Gelände erwischt zu werden, sind wir recht fr
 
 {{< imgScale "iceland/DSC00992_1600.JPG" "Blick auf das ausgedehnte Feuchtgebiet. Hinter dem Hügel, auf dem Kristina steht, lag unser Camp." "500x" >}}
 
-{{< imgScale "iceland/DSC01005_x1000.JPG" "Ein Stückchen weiter gab es sogar einen Wasserfall im Lonakvisl." "500x" >}}
+{{< imgScale "iceland/DSC01005_small.JPG" "Ein Stückchen weiter gab es sogar einen Wasserfall im Lonakvisl." "500x" >}}
 
 Dadurch, dass die Sonne so früh schon durch die Wolken schien, bildete sich unterwegs schöner Bodennebel, bei dem wir eine Pause und viele Fotos gemacht haben.
 
@@ -118,7 +118,7 @@ Dadurch, dass die Sonne so früh schon durch die Wolken schien, bildete sich unt
 Ein Stück weiter sind wir dann auf einen Gipfel nördlich vom Faxi rauf geklettert und haben oben unser Mittagessen gemacht.
 Von dort aus hatten wir einen großartigen Blick über die Landschaft, die Tungnaá und einen See am Fuße des Gipfels an dem es auch eine Hütte gab (sehr wahrscheinlich eine private).
 
-{{< imgScale "iceland/DSC01013-14_x1000.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der linken Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt und aus der wir kamen." "500x" >}}
+{{< imgScale "iceland/DSC01013-14_small.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der linken Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt und aus der wir kamen." "500x" >}}
 
 Danach ging es weiter entlang einer Piste durch eine Schlucht zwischen der Bergkette mit dem Faxi Gipfel hindurch Richtung Tungnaá.
 Parallel zur Tungnaá verläuft nämlich eine Piste, die in recht guten Zustand ist und ohne Schwierigkeiten bewandert oder befahren werden kann.
@@ -173,7 +173,7 @@ Nach Norden konnte man die komplette Tungnaá entlang bis zum Vatnajökull schau
 
 {{< imgScale "iceland/DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50km Entfernung." "500x" >}}
 
-{{< imgScale "iceland/DSC01050_x1000.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
+{{< imgScale "iceland/DSC01050_small.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
 
 Am Fuße des Berges unweit des Sees stand ein alter Bus, den jemand schwarz angemalt hat (aus Tarnung? Zum aufheizen?) und als Fischer-/Urlaubshütte benutzt.
 Innen drin lagen auf jeden Fall Fischerutensilien herum und etwas Whisky.

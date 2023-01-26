@@ -40,7 +40,7 @@ There was a large parking space and a campsite, which was closed at that time so
 Besides the campsite was unbelievably ugly, just an area of gravel next to the parking space.
 No trees, no bushes, nothing but the campsite hut and gravel.
 
-{{< imgScale "iceland/DSC00942_x1000.JPG" "Langisjór with a promontory on the left edge." "500x" >}}
+{{< imgScale "iceland/DSC00942_small.JPG" "Langisjór with a promontory on the left edge." "500x" >}}
 
 On a promontory within the Langisjór, there was another hut and we had the hope to sleep there.
 After visiting a nice viewing point, we went to that hut and discovered that it was closed and locked.
@@ -91,7 +91,7 @@ Our goal for this day was a lake near the river Lonakvisl where another hut was 
 On a hill we had a good view over the landscape and were even seeing the hut on the lake.
 The descend was a bit adventurous (the slope was very steep) and we had to cross a smaller stream.
 
-{{< imgScale "iceland/DSC00958_x1000.JPG" "The view before descend with the hut in the background (on the rear lake)" "500x" >}}
+{{< imgScale "iceland/DSC00958_small.JPG" "The view before descend with the hut in the background (on the rear lake)" "500x" >}}
 
 Unfortunately was the hut a private one but also not rented to someone so that we just pitched up our tent next to the hut.
 Because it wasn't too late, we were able to relax and watch the beautiful sunset.
@@ -109,7 +109,7 @@ Because we didn't want to get caught camping on private property, we stood up an
 
 {{< imgScale "iceland/DSC00992_1600.JPG" "View over the vast wetland. Behind the hill Kristina stands on, there was our camp." "500x" >}}
 
-{{< imgScale "iceland/DSC01005_x1000.JPG" "A little bit further, there was a nice waterfall in the Lonakvisl." "500x" >}}
+{{< imgScale "iceland/DSC01005_small.JPG" "A little bit further, there was a nice waterfall in the Lonakvisl." "500x" >}}
 
 Because there were very little clouds, ground fog was building up and we made a break to also take some photos.
 
@@ -118,7 +118,7 @@ Because there were very little clouds, ground fog was building up and we made a 
 At noon, we climed onto a mountain peak a bit north of Faxi and ate lunch there.
 We had an awesome view over the landscape, the Tungnaá and a lake with another small hut (probably a private one).
 
-{{< imgScale "iceland/DSC01013-14_x1000.JPG" "270° Panorama: The right half shows the Tungnaá and the lake, on the left half you can the the region behind the Faxi mountain ridge where we came from." "500x" >}}
+{{< imgScale "iceland/DSC01013-14_small.JPG" "270° Panorama: The right half shows the Tungnaá and the lake, on the left half you can the the region behind the Faxi mountain ridge where we came from." "500x" >}}
 
 After having lunch, we followed a track through a small canyon through the Faxi mountain ridge to the other side where the Tungnaá flows.
 In parallel with the Tungnaá there's a track in quite good condition where you can hike or drive without any problems.
@@ -172,7 +172,7 @@ To the north you can see the complete Tungnaá all the way to the Vatnajökull g
 
 {{< imgScale "iceland/DSC01026_1600.JPG" "Rewarding climb! This is to the direction we came from. The white area between clouds and the horizon is the Vatnajökull glacier about 50km/31mi away." "500x" >}}
 
-{{< imgScale "iceland/DSC01050_x1000.JPG" "Looking into the other direction to Landmannalaugar. The Jökuldalakvísl comes from the right and flows into the Tungnaá." "500x" >}}
+{{< imgScale "iceland/DSC01050_small.JPG" "Looking into the other direction to Landmannalaugar. The Jökuldalakvísl comes from the right and flows into the Tungnaá." "500x" >}}
 
 At the foot of the mountain there was an old bus, which was painted completely black (as comouflage? For heating?) and was used as a kind of fishing hut.
 On the inside there was all kind of fishing nets, equipment and some whickey.
