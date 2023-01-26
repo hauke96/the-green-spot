@@ -4,7 +4,7 @@ summary: "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Gro
 date: "2021-03-18T20:10:40+01:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
+images: ["iceland/DSC01026_1600.JPG"]
 ---
 {{< note >}}
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})

@@ -4,7 +4,7 @@ summary: "The last third of our hike was really exciting: Awesome landscape, str
 date: "2021-03-18T20:10:40+01:00"
 tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
-images: ["posts/iceland-2018-report-4/DSC01026_1600.JPG"]
+images: ["iceland/DSC01026_1600.JPG"]
 ---
 {{< note >}}
 **Previous part:** [Part 3]({{< ref "/posts/iceland-2018-report-3" >}})

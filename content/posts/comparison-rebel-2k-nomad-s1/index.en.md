@@ -4,7 +4,7 @@ summary: "In this post I'll compare the two packrafts Anfibio Rebel 2K and MRS N
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddling", "equipment", "gear", "guide"]
 author: "hauke"
-images: ["posts/comparison-rebel-2k-nomad-s1/cover.jpg"]
+images: ["thumb.jpg"]
 ---
 
 Previously I wrote about the [Tour with the **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) and I did the exact same tour with the **MRS Nomad S1 Light**.

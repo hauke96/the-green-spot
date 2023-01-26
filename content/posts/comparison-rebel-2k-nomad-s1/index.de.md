@@ -4,7 +4,7 @@ summary: "In diesem Artikel vergleiche ich die beiden Packrafts Anfibio Rebel 2K
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddeln", "equipment", "ausrüstung", "ratgeber"]
 author: "hauke"
-images: ["posts/comparison-rebel-2k-nomad-s1/cover.jpg"]
+images: ["thumb.jpg"]
 ---
 
 Im Bericht über meine [Tour mit dem **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) habe ich ja bereits ein wenig etwas über das Rebel 2K geschrieben.

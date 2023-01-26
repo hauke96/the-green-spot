@@ -3,7 +3,7 @@ title: "Paddeln"
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddeln"]
 author: "hauke"
-images: ["pages/paddling/DSC03481_edit_02.jpg"]
+images: ["dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 summary: "Alle Beiträge zum Thema Paddeln und Packrafts."
 ---
 
