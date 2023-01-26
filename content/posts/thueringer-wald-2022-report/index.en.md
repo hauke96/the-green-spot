@@ -15,18 +15,7 @@ But more about this below.
 
 ## Route
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496#10/50.8426/10.4672">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496">
-	Show complete map 
-</a>
-</br>
-</br>
+{{< umap "//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496" "10/50.8426/10.4672" >}}
 
 I had chosen the Thuringian Forest because it is one of the few larger semi-wild forest areas in Germany, which I also did not know yet and which is not too far away for me.
 Only afterwards I learned that my planned tour is pretty much -- except for a few deviations -- on the hiking trail called "Rennsteig".

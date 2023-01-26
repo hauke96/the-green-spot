@@ -14,7 +14,7 @@ In Anbetracht der langen Dauer (ca. drei Wochen am Stück), werfen sich einige F
 * Wie oft muss ich am Tag essen ?
 * Was muss ich beachten wenn ich mein Proviant zusammenstelle?
 * Was für Auswirkungen kann eine fehlerhafte Planung haben?
-* Und vor allem: Was tue ich wenn ich mich verkalkuliert habe  ?
+* Und vor allem: Was tue ich wenn ich mich verkalkuliert habe?
 
 Einer der uns am häufigsten entgegengebrachten Kommentare im Netz war wohl, dass wir verhungern würden und, dass es Irrsinn ist für 24 Tage die komplette Verpflegung mit zu schleppen.
 Der wohl am drastischsten formulierte Kommentar war "Ihr werdet sterben".
@@ -31,11 +31,11 @@ Bei niedriger Außentemperatur (auch nachts im Schlaf), hat der Körper ordentli
 Es wird also mehr Energie auch in den Ruhephasen benötigt, was nicht nur den Bedarf an Kalorien erhöht sondern auch unterstreicht, wie notwendig **passende Kleidung** und ein **guter Schlafsack** ist.
 
 Nimmt man nicht genügend Wasser, Salze und Mineralien zu sich, kann der Elektrolyt- und Wasserhaushalt durch das Schwitzen ordentlich durcheinander kommen.
-Das kann sich sowohl negativ auf die Kreislaufsituation auswirken, als auch für die Nieren eine Belastung darstellt.     
+Das kann sich sowohl negativ auf die Kreislaufsituation auswirken, als auch für die Nieren eine Belastung darstellt.
 
 Die Art der Ernährung auf solch einer Tour weicht deutlich von der im normalen Alltag ab, was sich leider oftmals im Verdauungssystem bemerkbar macht.
 Führen kann das zu unangenehmen Zuständen von Verstopfung bis hin zu Durchfall.
-Zum Thema "der kleinen Reiseapotheke" kommt bestimmt noch ein separater Artikel!     
+Zum Thema "der kleinen Reiseapotheke" kommt bestimmt noch ein separater Artikel!
 
 ## Zu wenig Essen führt zu schlechter Stimmung
 Ein schlecht gefüllter Bauch lässt die Stimmung sinken und ist quasi ein Todesurteil für die Motivation, was in Gruppen tatsächlich zu Konflikten und Spannungen führen kann.
@@ -58,7 +58,8 @@ Prinzipiell richtet es sich danach wie lange man unterwegs ist und was man gerne
 Ist man kürzer unterwegs, spricht nichts gegen Käse und Wurst, da diese Dinge sich durchaus ein paar Tage halten.
 Ist man allerdings länger unterwegs (also eine Woche oder länger) bieten sich schnell verderblichen Lebensmitteln eher nicht an.
 
-  Wir haben uns, in Anbetracht der großen Menge an benötigter Nahrung, für gefriergetrocknete Gerichte entschieden.
+
+Wir haben uns, in Anbetracht der großen Menge an benötigter Nahrung, für gefriergetrocknete Gerichte entschieden.
 Diese müssen nur mit heißem Wasser aufgegossen werden und sind sehr leicht.
 Zudem besteht nicht die Gefahr das diese während der Tour verderben.
 
@@ -66,7 +67,8 @@ Zudem besteht nicht die Gefahr das diese während der Tour verderben.
 Neben dem eigentlichen Essen gab es morgens eine Tasse Tee, wobei wir das nächste mal auch löslichen Kaffee mitnehmen werden.
 Der Tee wärmte nach einer Nacht bei 5°C nicht nur von Innen, sondern weckte auch die Lebensgeister und das Immunsystem (kommt da natürlich auf den Tee an, wir hatten überwiegend heiße Zitrone dabei).
 
-Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek 'n eat und waren geschmacklich positiv überrascht).  
+Die Basis fürs Frühstück bildete Porridge oder Rührei (wir hatten die Variante aus dem Beutel von Trek 'n eat und waren geschmacklich positiv überrascht).
+
 Unser normales Frühstück bestand also aus 1x Beutel Porridge + 1-2  BP-WR Riegel (das ist süßlich schmeckende Notnahrung und fast das gleiche wie BP-5, NRG-5, NRG-M, EPA, MRE, ...).
 Zusätzlich haben wir eine gute handvoll Nüsse (Walnuss, Cashewkerne, Erdnüsse, Macadamia, etc.) und Trockenobst (Pflaume, Feige, Dattel, Aprikose) unter gemischt um etwas Abwechslung zu haben.
 

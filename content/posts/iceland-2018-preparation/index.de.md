@@ -21,16 +21,7 @@ Hier also so eine Art FAQ zum Thema Vorbereitung mit allgemeinen Informationen, 
 * Erfahrung: Mittelmäßig bis wenig
 * Körperliche Verfassung: Mittelmäßig bis untrainiert
 
-<iframe
-	width="100%"
-	height="500px"
-	frameborder="0"
-	allowfullscreen
-	src="//umap.openstreetmap.de/en/map/island-2018_1692#9/63.92/-19.0">
-</iframe>
-<a target="_blank" href="//umap.openstreetmap.de/en/map/island-2018_1692">
-	Vollständige Karte anzeigen
-</a>
+{{< umap "//umap.openstreetmap.de/en/map/island-2018_1692" "9/63.92/-19.0" >}}
 
 # Eckdaten planen
 Zunächst haben wir die Eckdaten geklärt:
