@@ -4,7 +4,7 @@ summary: "The first three days of our travel were very exciting and we experienc
 date: "2019-04-15T21:25:03+02:00"
 tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
-images: ["iceland/DSC00515_1600.JPG"]
+images: ["images/iceland/DSC00515_1600.JPG"]
 ---
 In summer 2018 Kristina and I hiked for three weeks in Iceland -- without car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.
@@ -63,7 +63,7 @@ Reykjavík is not located on a mountain but on a hill, which however felt like a
 When we arrived at the top we walked pass the Hallgrímskirkja to the shopping zone where walked through masses of tourists to a Bonus-supermarket.
 Iceland is known for hiking and outdoor activities but we were clear outsider with our big backpacks.
 
-{{< imgScale "iceland/IMG_20180718_201522_1600.jpg" "The main church Hallgrímskirkja in Reykjavík." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180718_201522_1600.jpg" "The main church Hallgrímskirkja in Reykjavík." "500x" >}}
 
 At the supermarket we bought Parmesan (598ISK/approx. 5,70$), Gouda (889ISK/approx. 8,50$) and two bottles of a cider softd rink (1.5L each 198ISK/1,90$).
 Soft drinks are not that expensive in comparison to food.
@@ -85,7 +85,7 @@ Everything looked nice and clean.
 
 The price was -- for us Germans -- pretty expensive: One night for two persons in one tent costs about 4800ISK (approx. 45,70$).
 
-{{< imgScale "iceland/DSC00366_1600.JPG" "Our tent on the campsite in Reykjavík." "500x" >}}
+{{< imgScale "images/iceland/DSC00366_1600.JPG" "Our tent on the campsite in Reykjavík." "500x" >}}
 
 ## Buying white spirit (second attempt)
 After building up our tent on the rather full meadow and preparing our first trekking meal, we noticed that the "white spirit" be bought wasn't working.
@@ -128,21 +128,21 @@ The journey was relaxing and we were able to gather some impressions.
 We had to change again in Hvolsvöllur but this time into an older and more robust bus suitable for the terrain.
 Now we drove into the highland, which was much more interesting for us.
 
-{{< imgScale "iceland/IMG_20180719_101552_1600.jpg" "The left bus is the normal coach we arrived with and the middle one is the robust one which brought us to Þórsmörk." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180719_101552_1600.jpg" "The left bus is the normal coach we arrived with and the middle one is the robust one which brought us to Þórsmörk." "500x" >}}
 
 After a while on the main ring road we turned left, passed the Seljalandsfoss and went further into the inland.
 The normal road was quickly replaced by a gravel track which was maintained by some wardens/rangers coming towards us.
 After several smaller fords, the driver made a little break at the Gigjökull glacier so that we were able to take some pictures.
 Afterwards the journey continued to Þórsmörk were we had to cross a larger river.
 
-{{< imgScale "iceland/DSC00390_1600.JPG" "A mobile bridge over the Krossá river near Þórsmörk." "500x" >}}
+{{< imgScale "images/iceland/DSC00390_1600.JPG" "A mobile bridge over the Krossá river near Þórsmörk." "500x" >}}
 
 ## Repack and let's go
 We arrived at 2pm, admired the big jeeps and walked to the campsite to repack out backpacks.
 Because we had not much time in the morning, we packed our backpack very poorly.
 We also tested our cooker again to become familiar with its usage (due to the strange white spirit we bought).
 
-{{< imgScale "iceland/IMG_20180719_140156_1600.jpg" "Iceland is a paradise for people loving big cars." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180719_140156_1600.jpg" "Iceland is a paradise for people loving big cars." "500x" >}}
 
 Kristina ask the guy in the campsite reception how the weather may look like to find out if there's any big storm coming up.
 The only answer she got was "Well, there will be weather".
@@ -152,13 +152,13 @@ After repacking and taking a nice photo in front of the Markarfljót (s. below) 
 Because the first bit of our journey followed the Laugavegur, we met a lot of other people hiking towards Þórsmörk.
 It was so warm that day that we started hiking without even wearing any jacket.
 
-{{< imgScale "iceland/DSC00391_0001_1600.JPG" "In Þórsmörk at the Markarfljót." "500x" >}}
+{{< imgScale "images/iceland/DSC00391_0001_1600.JPG" "In Þórsmörk at the Markarfljót." "500x" >}}
 
 After completing our first ford, which wasn't deep but pretty cold, we hiked -- this time without a forest -- further uphill.
 Towards the evening the temperature dropped and did a little break at a small but wild river.
 After taking some photos, filling up our water bottles and eating our dinner, we passed an adventurous bridge to the other side.
 
-{{< imgScale "iceland/laugavegur-first-bridge_1600.JPG" "The bridge over the Ljósá." "500x" >}}
+{{< imgScale "images/iceland/laugavegur-first-bridge_1600.JPG" "The bridge over the Ljósá." "500x" >}}
 
 We then created our camp a bit downstream behind a larger bush.
 Being pretty exhausted but in a good mood, we marked our first camp on our hiking map.
@@ -170,7 +170,7 @@ The alarm clock rang at 8:30am for us.
 While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
 Somehow comprehensible, because there were a lot more hiking groups later in the day.
 
-{{< imgScale "iceland/IMG_20180719_211758_1600.jpg" "Our camp in the morning." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180719_211758_1600.jpg" "Our camp in the morning." "500x" >}}
 
 One couple crossed our way, we asked them how far the campsite Botnar is away and came to the conclusion that we hiked not as far as we thought we did.
 Later in the evening, we disillusioned corrected the position of our camp on the map.
@@ -179,16 +179,16 @@ But first we walked further along the Markarfljót, which runs through an approx
 Before entering the plain Sandar and passing the river Fremri-Emstruá, we had a breathtaking view through the canyon (s. below).
 But only because we left the normal hiking path!
 
-{{< imgScale "iceland/DSC00493_1600.JPG" "This view of the Markarfljót is only accessible when leaving the normal Laguavegur hiking path." "500x r90" >}}
+{{< imgScale "images/iceland/DSC00493_1600.JPG" "This view of the Markarfljót is only accessible when leaving the normal Laguavegur hiking path." "500x r90" >}}
 
 The Bridge over the Fremri-Emstruá looked pretty adventurous and the slopes were very steep.
 After passing the bridge, we did _not_ walked uphill to the Botnar campsite but turned right towards the Entujökull glacier.
 
-{{< imgScale "iceland/DSC00509_1600.JPG" "The bridge above the Fremri-Emstruá was very adventurous." "500x r90" >}}
+{{< imgScale "images/iceland/DSC00509_1600.JPG" "The bridge above the Fremri-Emstruá was very adventurous." "500x r90" >}}
 
-{{< imgScale "iceland/DSC00513_1600.JPG" "The bridge after crossing it." "500x r90" >}}
+{{< imgScale "images/iceland/DSC00513_1600.JPG" "The bridge after crossing it." "500x r90" >}}
 
-{{< imgScale "iceland/DSC00515_1600.JPG" "After turning right, we hiked towards the Entujökull glacier." "500x" >}}
+{{< imgScale "images/iceland/DSC00515_1600.JPG" "After turning right, we hiked towards the Entujökull glacier." "500x" >}}
 
 At this point there were no hiking paths (sometimes trails from sheeps) and we should not meet any other human for the next four days.
 Therefore, we had to use our navigation skills and needed to search our location on the hiking map.
@@ -197,7 +197,7 @@ We placed our tent near the Bíldufell on a place without vegetation on it (to n
 The last two kilometers for that day consisted of a former river bed and was therefore difficult for us to hike.
 Especially the hills were very steep and slippery.
 
-{{< imgScale "iceland/DSC00522_1600.JPG" "Our tent with the Bíldufell in the background." "500x r90" >}}
+{{< imgScale "images/iceland/DSC00522_1600.JPG" "Our tent with the Bíldufell in the background." "500x r90" >}}
 
 Not far from the tent ran the river Fremri-Emstruá, which consisted of very turbid water, so the water filter was definitely worth it.
 Nevertheless, we let the water stand over night so the contained solids could settle.
