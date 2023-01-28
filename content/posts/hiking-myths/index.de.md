@@ -23,7 +23,7 @@ Zusammen mit tollen WanderpartnerInnen ist Langeweile ausgeschlossen.
 
 **Wandern ist einfach, man läuft einfach nur rum**
 
-Nein.
+Nein.<br>
 Sobald man im Wald zur Seite schaut und dabei weiter läuft liegt man im Nu auf dem Boden.
 Wandern erfordert -- je nach Terrain -- volle Aufmerksamkeit.
 
@@ -37,7 +37,7 @@ Eine Wanderung muss auch nicht mehrere Tage dauern, auch eintätige Wanderungen 
 
 **Wandern ist nur was für alte Menschen**
 
-Ganz im Gegenteil.
+Ganz im Gegenteil:
 Nicht nur Kinder haben in der Regel Spaß im Freien, auch für junge Erwachsene ist Wandern definitiv etwas.
 
 **Ich bin zu alt zum wandern**
@@ -52,7 +52,7 @@ Wie oben erwähnt, sind die meisten markierten Wege eher leicht und üblicherwei
 
 **Wandern ist entspannend/meditativ**
 
-Nicht unbedingt.
+Nein.<br>
 Bei schönem Wetter auf einem mittel-leichten Wanderweg durch schöne Landschaft -- vielleicht.
 Das ist jedoch eher selten der Fall, vor allem, wenn man häufiger und länger (über mehrere Tage) wandern geht.
 
@@ -82,52 +82,108 @@ Ein Zelt ist kein 5-Sterne-Hotel, aber auf seine eigene Art und Weise eine wunde
 
 **Wandern ist kostenlos**
 
+Theoretisch stimmt das. Theoretisch.<br>
+Aber: Nicht nur muss man irgendwie hin und weg kommen, ggf. braucht man entsprechende Ausrüstung. 
+Dazu kommen allerlei nicht notwendige Ausgaben für Restaurants, Cafés, Souveniers, Schwimmbad, Sauna, ...
+
 **Nur Anfänger und kranke Menschen nutzen Wanderstöcke**
+
+Gerade erfahrene Wanderer wissen die Vorteile zu schätzen (verbesserte Trittsicherheit, Verteilung des Gewichts, Schonung der Gelenke, etc.) ... auch, wenn es teilweise etwas dämlich aussieht.
 
 **Qualität hat ihren Preis: Die 850€ für diese Winterjacke sind definitiv gerechtfertigt**
 
-Kein Witz, die *Therme SV Parka* Winterjacke für Herren von Arc'teryx kostete zum Zeitpunkt dieses Artikels 849,95 € bei Globetrotter.
+Kein Witz, die *Therme SV Parka* Winterjacke für Herren von Arc'teryx kostete zum Zeitpunkt dieses Artikels 849,95 € [bei Globetrotter](https://www.globetrotter.de/arcteryx-winterjacke-herren-therme-sv-parka-m-black-1250936/).
 
 **Hochwertige Ausrüstung wird überschätzt**
 
+Viele denken dabei eher an teure Ausrüstung.
+Je hochwertiger die Ausrüstung, desto besser, teuer muss das nicht immer sein.
+
 **Ohne Profi-Equipment braucht man gar nicht erst anfangen**
+
+Viele verwechseln wandern mit Bergsteigen oder Expeditionen.
+Auch mit normaler Kleidung und wenig Ausrüstung kann man wandern.
+Ich selbst mache z.B. Tagestouren in Alltagskleidung, nur meine Wanderschuhe dürfen nicht fehlen.
 
 ## Verpflegung
 
 **Ach, die kleine Flasche Wasser reicht bestimmt**
 
+Nein.<br>
+Egal ob Winter oder Sommer, nimm lieger etwas mehr Wasser mit.
+Gerade im Sommer sollte man daran nicht sparen.
+
 **Spezielle Outdoor-Nahrung wird überschätzt**
+
+In Plastiktüten verpackte Fertignahrung? Vielleicht.
+Allgemein auf Outdoor-Aktivitäten zugeschnittene Nahrung? Definitiv nicht.
 
 **Instant-Nudeln reichen mir**
 
+Für einen Tag vielleicht, aber gerade bei längeren Touren möchte man schnell was richtiges zu beißen haben.
+
 **Auf längeren Touren bekommt man Mangelerscheinungen**
+
+Wenn überhaupt, kann ein Mangel an Magnesium zu Krämpfen führen, das wars aber auch schon und lässt sich ja leicht behandeln/vorbeugen.
 
 ## Kleidung
 
 **Ich habe ja meine Regenjacke mit, also werde ich nicht nass**
 
-**Schafs-, Merino-, Baum- oder Alpaka-Wolle? Da gibt's Unterschiede?**
+Haha, doch, du wirst nass.
+Regenjacken haben eine gewisse Wassersäule, die suggeriert, dass das Material wasserdicht ist -- ist es aber nicht.
+Wandert man einen ganzen Tag im Regen, ist man danach nass.
+Nicht überall und vielleicht nur ein bisschen an den Nähten der Jacke, aber nass.
+
+**Schafs-, Merino-, Baum- oder Alpaka-Wolle? Wolle ist Wolle.**
+
+Nein!<br>
+Im Englischen gibt es den Spruch *cotton kills*, also *Baumwolle tötet*.
+Verglichen mit echter Wolle bietet Baumwolle bei nässe keine Isulation mehr.
+Unterschiede zwischen den anderen Wollarten gibt es zudem auch noch.
 
 **Also ohne mein Funktions-Merino-Viskose-Shirt gehe ich nicht aus dem Haus**
 
+Alle Materialien haben Vor- und Nachteile, die meiste Funktionskleidung hat aber vor allem tolle Effekte fürs Marketing und sind nicht immer nötig.
+
 ## Navigation
 
-**Eine Papierkarte? Ich hab doch meine Wander-App
+**Eine Papierkarte? Ich hab doch meine Wander-App**
+
+Nur solange du Strom hast und leider hat nicht jeder Baum eine Steckdose.
 
 **Moos wächst immer nach Norden und Flüsse fließen immer nach Süden**
+
+Das mit dem Moos stimmt teilweise, aber auch nur auf der Nordhalbkugel und nur weiter weg vom Equator und auch eigentlich nur weil Moos feuchtes Klima mag.
+Und das mit den Flüssen ist quatsch.
 
 ## Tier- und Pflanzenwelt
 
 **So ziemlich alles will einen umbringen**
 
+Ganz im Gegenteil: Das meiste da draußen hat Angst, dass *du* es gleich umbringen wirst.
+
 **In Deutschland gibt es Wölfte, ich gehe keinen Meter mehr nach draußen**
+
+Seit der Wolf zurückgekehrt ist (also seit ca. 2000), gab es nach [Angaben des WWF](https://www.wwf.de/fileadmin/fm-wwf/Publikationen-PDF/Deutschland/WWF-Studie-Angriffe-Woelfe-Menschen-2002-2020.pdf) seit 2002 keinen tödlichen Angriff auf Menschen.
+Die meisten Menschen werden nie in ihrem Leben einen wilden Wolf zu Gesicht bekommen.
 
 ## Sicherheit
 
 **Ein Erste-Hilfe-Set brauche ich doch beim wandern nicht**
 
+Hoffentlich nicht, aber wer weiß.
+Was kostet es schon zumindest ein kleines Erste-Hilfe-Set dabei zu haben?
+Meist ist auch eine Zeckenzange dabei, die definitiv hilfreich sein kann.
+
 **Man kann einfach den Nutruf absetzen, die retten einen dann**
+
+Der Notruf ist *kein* Taxi-Service!<br>
+Eine Handyortung ist auch nicht garantiert und gerade eine Rettung aus nicht befahrbaren Gebieten ist mit ungeheurem Aufwand (und ggf. Kosten!) verbunden.
+Beuge durch sorgfältige Planung und Achtsamkeit einem Notfall vor!
 
 **Ohne Pfefferspray/Bärenglocken/Schreckschusspistole/... gehe ich nicht raus**
 
-
+Man muss -- vor allem in hiesigen Breitengraden -- auch nicht übertreiben.
+Gerade Bärenglocken, können aber einen gegenteiligen Effekt haben und Tiere neugierig machen.
+Wildtiere bemerken Menschen in der Regel sehr früh und verschwinden, noch bevor wir sie bemerken.
