@@ -107,6 +107,8 @@ I myself, for example, make day trips in everyday clothes, only my hiking boots 
 
 ## Food
 
+{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.JPG" "It does not always have to be (as here) special trekking food." "350x" >}}
+
 **Oh, the small bottle of water will surely do.**
 
 No.<br>
@@ -148,6 +150,8 @@ All materials have advantages and disadvantages, but most functional clothing ha
 
 ## Navigation
 
+{{< imgScale "images/iceland/map-alternatives-clipped.jpg" "A good map and some basic navigational skills are enough is most situations." "350x" >}}
+
 **A paper map? I have my hiking app.**
 
 Only as long as you have electricity and unfortunately not every tree has a power socket.
@@ -172,6 +176,14 @@ Similar story with bears, snow lions and what not:
 Don't approach wild animals, know how to behave (when to run, when to scream, etc.) and very likely nothing will happen.
 
 ## Safety
+
+{{< imgScale "images/iceland/DSC01056_1600.JPG" "There are plenty of dangerous situations out there, but you don't need to be afraid if you prepare accordingly." "500x" >}}
+
+**Nothing can actually happen on a marked trail.**
+
+Prepare yourself, even for easy hikes.
+You should at least know the area roughly, know how to get back and where difficult places are.
+Knowing where (managed) huts, farms, roads or settlements are can also be helpful in an emergency.
 
 **Surely I don't need a first aid kit when hiking?**
 

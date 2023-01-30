@@ -108,6 +108,8 @@ Ich selbst mache z.B. Tagestouren in Alltagskleidung, nur meine Wanderschuhe mit
 
 ## Verpflegung
 
+{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.JPG" "Es muss nicht immer (wie hier) spezielles Trekking-Essen sein." "350x" >}}
+
 **Ach, die kleine Flasche Wasser reicht bestimmt.**
 
 Nein.<br>
@@ -149,6 +151,8 @@ Alle Materialien haben Vor- und Nachteile, die meiste Funktionskleidung hat aber
 
 ## Navigation
 
+{{< imgScale "images/iceland/map-alternatives-clipped.jpg" "Eine gute Karte und grundlegende Kenntnisse beim Navigieren reicht bereits aus." "350x" >}}
+
 **Eine Papierkarte? Ich hab doch meine Wander-App.**
 
 Nur solange du Strom hast und leider hat nicht jeder Baum eine Steckdose.
@@ -173,6 +177,14 @@ Die meisten Menschen werden nie in ihrem Leben einen wilden Wolf zu Gesicht beko
 Gehe nicht auf wilde Tiere zu, weiß, wie man sich verhält (wann man wegrennt, wann man schreit usw.), dann wird sehr wahrscheinlich nichts passieren.
 
 ## Sicherheit
+
+{{< imgScale "images/iceland/DSC01056_1600.JPG" "Es gibt genug Gefahren beim Wandern, man braucht aber keine Angst haben, wenn man sich entsprechend vorbereitet." "500x" >}}
+
+**Auf einem markierten Weg kann eigentlich nichts passieren.**
+
+Selbst für eine Wanderung auf leichten Wegen sollte man sich vorbereiten.
+Man sollte mindestens die Gegend ungefähr kennen, wissen wie man wieder zurück kommt und wo schwierige Stellen sind.
+Zu wissen wo (bewirtschaftete) Hütten, Bauernhöfe, Straßen oder Siedlungen sind, kann im Notfall ebenfalls hilfreich sein.
 
 **Ein Erste-Hilfe-Set brauche ich doch beim Wandern nicht.**
 
