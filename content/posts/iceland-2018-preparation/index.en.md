@@ -4,7 +4,7 @@ summary: "After deciding to hike three weeks in Iceland, many preparations had t
 date: 2019-03-27T02:29:32+02:00
 tags: ["iceland-2018", "preparations", "iceland"]
 author: "kristina-hauke"
-images: ["thumb.jpg"]
+images: ["images/iceland/map-alternatives-clipped.jpg"]
 ---
 
 Before we talk about or {{< linkTag iceland-2018 "Iceland hike in 2018" >}}, we would like to present the things we considered while preparing our journey.
