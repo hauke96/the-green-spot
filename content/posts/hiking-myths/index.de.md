@@ -108,7 +108,7 @@ Ich selbst mache z.B. Tagestouren in Alltagskleidung, nur meine Wanderschuhe mit
 
 ## Verpflegung
 
-{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.JPG" "Es muss nicht immer (wie hier) spezielles Trekking-Essen sein." "350x" >}}
+{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.jpg" "Es muss nicht immer (wie hier) spezielles Trekking-Essen sein." "350x" >}}
 
 **Ach, die kleine Flasche Wasser reicht bestimmt.**
 

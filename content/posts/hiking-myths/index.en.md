@@ -107,7 +107,7 @@ I myself, for example, make day trips in everyday clothes, only my hiking boots 
 
 ## Food
 
-{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.JPG" "It does not always have to be (as here) special trekking food." "350x" >}}
+{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.jpg" "It does not always have to be (as here) special trekking food." "350x" >}}
 
 **Oh, the small bottle of water will surely do.**
 
