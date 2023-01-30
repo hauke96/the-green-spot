@@ -16,8 +16,8 @@ I love trekking, preferably in regions where nobody else is, with gear, nobody e
 Comfortable huts, campsites or event hotels are foreign to me.
 
 ## The special thing about this blog
-Many people go trekking/hiking, which is good, because it makes fun and you'll always experience great things.
-Most of the people, however, use (well known) hiking trails, which is not the case with me.
+More and more people go trekking/hiking, which is good, because it makes fun, is healthy and you'll always experience great things.
+Most of the people, however, use (marked) hiking trails, which is not the case with me.
 I love to go off-road ... or off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
