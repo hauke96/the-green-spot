@@ -177,7 +177,7 @@ Don't approach wild animals, know how to behave (when to run, when to scream, et
 
 ## Safety
 
-{{< imgScale "images/iceland/DSC01056_1600.JPG" "There are plenty of dangerous situations out there, but you don't need to be afraid if you prepare accordingly." "500x" >}}
+{{< imgScale "images/iceland/DSC01056_1600.JPG" "There are plenty of dangerous situations out there, but you don't need to be afraid if you [prepare accordingly](/en/posts/iceland-2018-preparation/)." "500x" >}}
 
 **Nothing can actually happen on a marked trail.**
 

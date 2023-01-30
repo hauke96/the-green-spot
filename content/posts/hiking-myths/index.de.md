@@ -178,7 +178,7 @@ Gehe nicht auf wilde Tiere zu, weiß, wie man sich verhält (wann man wegrennt, 
 
 ## Sicherheit
 
-{{< imgScale "images/iceland/DSC01056_1600.JPG" "Es gibt genug Gefahren beim Wandern, man braucht aber keine Angst haben, wenn man sich entsprechend vorbereitet." "500x" >}}
+{{< imgScale "images/iceland/DSC01056_1600.JPG" "Es gibt genug Gefahren beim Wandern, man braucht aber keine Angst haben, wenn man sich [entsprechend vorbereitet](/de/posts/iceland-2018-preparation/)." "500x" >}}
 
 **Auf einem markierten Weg kann eigentlich nichts passieren.**
 
