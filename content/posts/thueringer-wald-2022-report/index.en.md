@@ -4,7 +4,7 @@ summary: "I started hiking the Rennsteig from Eisenach in April 2022. With tarp 
 date: "2023-01-17T21:23:49+01:00"
 tags: ["hiking", "rennsteig", "thuringian-forest", "tarp"]
 author: "hauke"
-images: ["thueringer-wald-2022-report/DSC03737_1600.JPG"]
+images: ["images/thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
 
 After a long Corona break and only day routes, I finally went on April 21st, 2022 to a multi-day tour, this time on the **Rennsteig** through the Thuringian Forest.
@@ -38,7 +38,7 @@ The Tarp is just a green 2x3 m / 6.5x10 ft hardware store tarpaulin with eyelets
 Of course, for the Tarp one must take pegs and some cord.
 As supports I have taken my hiking poles.
 
-{{< imgScale "thueringer-wald-2022-report/backpack.JPG" "My backpack with two water bottles, waterproof bag and tarp on the left." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/backpack.JPG" "My backpack with two water bottles, waterproof bag and tarp on the left." "333x" >}}
 
 In terms of clothing, I had of course long pants, hiking boots, hiking socks and a rain jacket with.
 Plus normal t-shirts and two/three pairs of underpants and thin and thick socks.
@@ -89,14 +89,14 @@ Arrived at the top, I had already taken off all jackets and was already sweating
 But the view was worth it!
 In the courtyard is the south tower, on which you can on for one euro - worth it, you should invest that one euro!
 
-{{< imgScale "thueringer-wald-2022-report/DSC03657_1600.JPG" "View towards the Wartburg with the south tower in the middle." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03657_1600.JPG" "View towards the Wartburg with the south tower in the middle." "500x" >}}
 
-{{< imgScale "thueringer-wald-2022-report/DSC03672_1600.JPG" "View from the south tower over the sheer endlessness of the Thuringian Forest." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03672_1600.JPG" "View from the south tower over the sheer endlessness of the Thuringian Forest." "500x" >}}
 
 Past the restaurant **Waldhaus Sängerwiese** I went on to the <span id="drachenschlucht">**Drachenschlucht**</span> (*Dragon Gorge*, a narrow gorge), one of the highlights of the Rennsteig.
 If you are near the Drachenschlucht, you should definitely pay it a visit, it's worth it!
 
-{{< imgScale "thueringer-wald-2022-report/DSC03697_1600.JPG" "Within the Drachenschlucht. There's a stream flowing below the metal grid." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03697_1600.JPG" "Within the Drachenschlucht. There's a stream flowing below the metal grid." "333x" >}}
 
 It was a little bit more busy there and soon the first people were audibly annoyed about their inadequate footwear.
 A father was so annoyed because his new sneakers got dirty that he angrily stamped his foot, splashing his entire pants with mud and stomped off with a nasty look ... along with that sloshing sound of his wet sneakers.
@@ -105,7 +105,7 @@ Mother and daughter rolled their eyes and felt a little sorry for me, the trip w
 Especially in the later (southern) part, sturdy hiking shoes are simply a must!
 Not only are there a lot of stream crosses and fords, but the way runs partly *within* the still young and muddy stream.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03710_1600.JPG" "The stream in the Drachenschlucht. Sometimes the path is dry, sometimes (in the picture further back) the path and stream are indistinguishable." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03710_1600.JPG" "The stream in the Drachenschlucht. Sometimes the path is dry, sometimes (in the picture further back) the path and stream are indistinguishable." "500x" >}}
 
 Shortly after the Drachenschlucht comes the **hunting castle "Hohe Sonne"**, with a nearby snack bar where I enjoyed coffee and cake in the sunshine.
 Here I completed already half of the planned kilometers for the day and it was only 1 PM, so I still had enough time.
@@ -117,7 +117,7 @@ It is not a public hiker's hut or something, much more a shed that someone just 
 The hut itself was actually open, but to spend the night it was with too narrow and dirty.
 But on the porch I have cooked my dinner and for the night I put up my Tarp nearby.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03722_1600.JPG" "My tarp streched up with two hiking poles." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03722_1600.JPG" "My tarp streched up with two hiking poles." "500x" >}}
 
 # Tag 2: Klinzingshütte → Bärenbruch
 {{< smallDate "2022-04-23" >}}
@@ -125,26 +125,26 @@ But on the porch I have cooked my dinner and for the night I put up my Tarp near
 Shortly before 7 AM I got up and was in the middle of a heavily foggy fairy tale forest.
 Spooky, but also very beautiful.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03727_1600.JPG" "The Klinzingshütte in the fog in the morning ... as if Hansel and Gretel were just collecting firewood." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03727_1600.JPG" "The Klinzingshütte in the fog in the morning ... as if Hansel and Gretel were just collecting firewood." "500x" >}}
 
 I had breakfast at a hut called **Glöcknerhütte**, a few minutes walk away.
 There it was dry, clean, sheltered from the wind and furnished.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03730_1600.JPG" "The Glöcknerhütte from outside." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03730_1600.JPG" "The Glöcknerhütte from outside." "500x" >}}
 
-{{< imgScale "thueringer-wald-2022-report/DSC03732_1600.JPG" "Inside it was nice, sheltered from the weather and dry." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03732_1600.JPG" "Inside it was nice, sheltered from the weather and dry." "333x" >}}
 
 At around 8 AM I was ready and already met the first joggers and people with dogs.
 At the snack bar **Imbiss zur Wallfahrt** near the **Schillerbuche**, I continued along the hardly traveled L1127 road to the **forest tavern Dreiherrnstein**.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03733_1600.JPG" "One of the more beautiful hiking trails after the Schillerbuche." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03733_1600.JPG" "One of the more beautiful hiking trails after the Schillerbuche." "333x" >}}
 
 After a short break and another 5 km / 3 mi I reached the <span id="grosser-inselberg">**Großen Inselberg**</span> mountain at 916 m / 3000ft, the highest point of my tour.
 The highest point of the whole Rennsteig is with 983 m / 3225 ft the **Großer Beerenberg** further south.
 Even in the somewhat hazy air one had a great view from time to time.
 On the summit, I then treated myself to a coffee and met a group of hikers who wanted to do the complete Rennsteig.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03734_1600.JPG" "Transmission towers on the summit." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03734_1600.JPG" "Transmission towers on the summit." "333x" >}}
 
 After strengthening, I had to go down the mountain.
 At the parking lot of the Inselberg I went past the cart track built there to the northeast in the direction of **Bärenbruch**.
@@ -153,11 +153,11 @@ It went along different brooks steadily downhill.
 <span id="baerengrund" />At a fork of several streams was another hut (a sign nearby said **Am Tempelchen**), where I made myself somewhat fresh at the stream.
 It was also only afternoon, so I have also killed some time there, but finally went further up the **Bärenbruchgrund** to the **Bärenbruchwand**, where I have then built my camp.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03738_1600.JPG" "The camp sheltered near the Bärenbruchwand." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03738_1600.JPG" "The camp sheltered near the Bärenbruchwand." "500x" >}}
 
-{{< imgScale "thueringer-wald-2022-report/DSC03737_1600.JPG" "Tarp at the fireplace with central hiking pole." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03737_1600.JPG" "Tarp at the fireplace with central hiking pole." "500x" >}}
 
-{{< imgScale "thueringer-wald-2022-report/DSC03740_1600.JPG" "Accommodation from the inside." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03740_1600.JPG" "Accommodation from the inside." "500x" >}}
 
 This time I had the tarp -- as you can see above -- stretched up with a central hiking pole.
 Thus, the entrance is somewhat blocked, but the tarp reaches the sides to the ground, so that hardly any wind comes into the tarp.
@@ -193,7 +193,7 @@ Until the **quarry Splittergrund** I was then already well wet and wanted to dry
 In a hut a little further I took a break, ate something and made me a tea.
 My rain jacket was meanwhile somewhat overwhelmed and so I was already wet even under it.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03745_600.JPG" "View from the viewing tower \"südlichen Spießberg\" towards west." "720x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03745_600.JPG" "View from the viewing tower \"südlichen Spießberg\" towards west." "720x" >}}
 
 On the way to the snack **Rennsteighaus Neue Ausspanne** it then started to pour really, now I was well wet even under the rain jacket.
 
@@ -218,9 +218,9 @@ Kristian has then also set up his camp in the hut and so we both and his dog hav
 The hut is completely open on one side, but no rain came in and it was wind-protected and dry.
 Unfortunately, there was quite a lot of garbage lying around behind the hut, but inside it was clean and dry.
 
-{{< imgScale "thueringer-wald-2022-report/DSC03752_1600.JPG" "The hut at Wachsenrasen from outside ..." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03752_1600.JPG" "The hut at Wachsenrasen from outside ..." "500x" >}}
 
-{{< imgScale "thueringer-wald-2022-report/DSC03755_1600.JPG" "... and inside with my camp. The ground surface was gravel so my tarpaulin was able to show what it can do." "333x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03755_1600.JPG" "... and inside with my camp. The ground surface was gravel so my tarpaulin was able to show what it can do." "333x" >}}
 
 Kristian and I talked a lot about hiking.
 He was amazed at the little luggage I had with me, but he on the other hand packed a few things too much.

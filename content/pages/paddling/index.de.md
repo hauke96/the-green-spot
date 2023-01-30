@@ -3,11 +3,11 @@ title: "Paddeln"
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddeln"]
 author: "hauke"
-images: ["dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 summary: "Alle Beiträge zum Thema Paddeln und Packrafts."
 ---
 
-{{< imgScale "dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg" "Paddeln auf der Dove Elbe bei Hamburg." "500x" >}}
+{{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg" "Paddeln auf der Dove Elbe bei Hamburg." "500x" >}}
 
 Paddeln ist wie trekking ... nur auf dem Wasser und nicht zu Fuß und ohne Rucksack auf den Schultern aber trotzdem mit viel Outdoor-Feeling.
 

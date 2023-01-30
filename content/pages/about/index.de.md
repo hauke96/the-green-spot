@@ -16,14 +16,14 @@ Ich bin sehr gerne draußen unterwegs und das am besten in Regionen wo sonst kau
 Komfortable Hütten, Campingplätze oder gar Hotels versuche ich soweit es geht zu vermeiden.
 
 ## Das besondere an diesem Blog
-Viele Menschen gehen wandern und das ist auch sehr erfreulich, denn es macht Spaß und man erlebt was.
-Die meisten Menschen beschränken sich jedoch auf (bekannte) Wanderwege, was bei mir nicht unbedingt der Fall ist.
+Immer mehr Menschen gehen wandern und das ist auch sehr erfreulich, denn es macht Spaß, gesund und man erlebt was.
+Die meisten Menschen beschränken sich jedoch auf (markierte) Wanderwege, was bei mir nicht unbedingt der Fall ist.
 Ich liebe es off-road ... bzw. off-trail.
 
 > "I would never recommend doing this hike, as you have it planned now. [...] Highly experienced mountaineers and hikers have lost their lives here."
 > <br>--- <small>Ein anderer reddit.com Nutzer</small>
 
-Für andere zu gefährlich, für uns - natürlich mit passender Vorbereitung - ein willkommenes Abenteuer ;)
+Für andere zu gefährlich, für mich - natürlich mit passender Vorbereitung - ein willkommenes Abenteuer ;)
 
 ## Über den Namen
 Ich habe mir lange Gedanken über einen Namen gemacht.

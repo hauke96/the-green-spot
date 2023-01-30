@@ -77,7 +77,7 @@ Der Boden ist beim Nomad S1 jedoch dicker (820D Nylon) also beim Rebel 2K (410D 
 
 # Ausstattung
 
-{{< imgScale "comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
+{{< imgScale "images/comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
 
 ## Finne & Spritzdecke
 
@@ -130,7 +130,7 @@ Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was 
 
 # Fahrverhalten
 
-{{< imgScale "comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
+{{< imgScale "images/comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
 
 Beim Fahrverhalten merkt man, dass das Nomad S1 länger ist und dadurch besser im Wasser liegt.
 Zudem hatte ich das Gefühl beim Rebel 2K tiefer zu sitzen, was sicherlich ein wenig mehr Stabilität gibt, das Paddeln aber auch etwas erschwert.

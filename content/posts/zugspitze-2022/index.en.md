@@ -4,7 +4,7 @@ summary: "In early November 2022 I tried to ascend the Zugspitze on the via ferr
 date: "2022-11-21T23:18:00+01:00"
 tags: ["zugspitze", "mountaineering", "hiking", "alps","germany"]
 author: "hauke"
-images: ["zugspitze-2022/GOPR8140_1600.JPG"]
+images: ["images/zugspitze-2022/GOPR8140_1600.JPG"]
 ---
 
 In early November, I went on vacation to the Alps and wanted to try to ascend the Zugspitze over a [via ferrata](https://en.wikipedia.org/wiki/Via_ferrata) called [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (German Wikipedia article; Route on [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)).
@@ -101,7 +101,7 @@ In Untergrainau there are -- as probably at most stations along the route -- no 
 
 I arrived in Ehrwald at 7 AM, it was already light, so I started hiking with the Zugspitze in view, which you can already see from the station.
 
-{{< imgScale "zugspitze-2022/GOPR8113_1600.JPG" "The Zugspitze seen from the Zugspitzstraße in Ehrwald." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8113_1600.JPG" "The Zugspitze seen from the Zugspitzstraße in Ehrwald." "500x" >}}
 
 My route first went towards **Gamskar**, past lake Gamrkar ("Gamskarsee"), the Gamrkar alpine hut ("Gamsalmhütte") and the Gamskar cable car ("Gamskarlift").
 The way to the Gamsalmhütte was already quite exhausting for me, but still went quite well and I was there at around 8 AM.
@@ -109,7 +109,7 @@ The way to the Gamsalmhütte was already quite exhausting for me, but still went
 By the way, the hut is closed in November, because the lift is also closed and everything is made ready for the winter.
 But there were still benches to sit down along with great views.
 
-{{< imgScale "zugspitze-2022/GOPR8119_1600.JPG" "View back to the Gamsalmhütte into the valley." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8119_1600.JPG" "View back to the Gamsalmhütte into the valley." "500x" >}}
 
 For the 2.7 km / 1.6 mi and 260 m / 850 ft of altitude to the hut, I think the one hour was not bad at all.
 After two tasty cheese rolls, I continued without a jacket, which was much too warm for me.
@@ -123,20 +123,20 @@ At the end of the Gamskar cable car (Gamskarlift), the path then splits and ther
 Here the Alpine flair slowly begins, as the grass of the ski slope ends and gives way to gravel and scree.
 Between mountain pines it goes further up and I met the first mountain goats, which were much more nimble than I was.
 
-{{< imgScale "zugspitze-2022/GOPR8121_1600.JPG" "Through coniferous bushes of mountain pines I went further up on scree." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8121_1600.JPG" "Through coniferous bushes of mountain pines I went further up on scree." "500x" >}}
 
 About another 2 km / 1.2 mi and 400 m / 1300 ft of altitude after the Gamsalmhütte I came to the **Wiesbrunnen** (translates to ***meadow fontain***), a water fountain with a nice bench to rest on.
 Of course it's worth taking a break here, the view is awesome!
 I could also fill my water bottle, which holds a liter, but was already almost empty.
 After this short break, it went on in a T-shirt, even my sweat jacket was now too warm for me.
 
-{{< imgScale "zugspitze-2022/GOPR8123_1600.JPG" "The Wiesbrunnen with the bench." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8123_1600.JPG" "The Wiesbrunnen with the bench." "500x" >}}
 
 After another 500 m / 0.3 mi and 150 m / 500 ft of altitude (at meanwhile 1830 m / 6000 ft above sea level), the vegetation then slowly ended and the scree field **Gamskar** was in front of me.
 Even here were montain goats too, what ever they are looking for here, but apparently they still find something tasy between the rocks.
 At this altitude there was some snow here and there, but the path itself was free.
 
-{{< imgScale "zugspitze-2022/GOPR8126_1600.JPG" "The path became really steep and stony. In the middle at the top, the well camouflaged old middle station." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8126_1600.JPG" "The path became really steep and stony. In the middle at the top, the well camouflaged old middle station." "500x" >}}
 
 Then, at the height of the old middle station, there is a strip of meadow along with a bench.
 What a view!
@@ -147,7 +147,7 @@ At least on a winter tour I recommend to **put on the climbing gear** at this be
 There are no climbing protections here yet, but there is a risk of rockfall and besides, here it's flat, protected and you have space.
 In summer you may get to the alpine hut Wiener-Neustädter-Hütte without climbing protection, but more about safety below.
 
-{{< imgScale "zugspitze-2022/GOPR8131_1600.JPG" "The view from the green strip at the height of the old middle station is breathtaking!" "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8131_1600.JPG" "The view from the green strip at the height of the old middle station is breathtaking!" "500x" >}}
 
 Then the **Georg-Jäger-Steig** begins, which leads to the alpine hut **Wiener-Neustädter-Hütte**.
 
@@ -158,15 +158,15 @@ At 1900 m / 6230 ft you then reach a ridge at which also a hiking trail from the
 From here it then changed to the north side of the Zugspitze massif and there was snow, which was partly trampled and somewhat slippery, and there was a decent cold wind blowing.
 Here you should -- at least with lying and firmly trodden snow -- really watch out, there is not yet any safety!
 
-{{< imgScale "zugspitze-2022/GOPR8139_1600.JPG" "View from the ridge towards Eibsee." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8139_1600.JPG" "View from the ridge towards Eibsee." "500x" >}}
 
-{{< imgScale "zugspitze-2022/GOPR8140_1600.JPG" "View along the ridge to the beginning of the via ferrata part. On the rock, the climbing protection begins." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8140_1600.JPG" "View along the ridge to the beginning of the via ferrata part. On the rock, the climbing protection begins." "500x" >}}
 
 Shortly after the turnoff towards Eibsee, however, comes the point from which a belay is in place.
 I was from then on the north side, the snow had thawed, but at night again frozen smooth.
 Accordingly, the whole path was very slippery, the use of the safety is highly recommended!
 
-{{< imgScale "zugspitze-2022/GOPR8143_1600.JPG" "View back towards the ridge, on the left you can see the safety rope." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8143_1600.JPG" "View back towards the ridge, on the left you can see the safety rope." "500x" >}}
 
 However, the trail itself was easy and the via ferrata feeling began.
 
@@ -175,7 +175,7 @@ However, the trail itself was easy and the via ferrata feeling began.
 About at the height of the current cable car Tiroler Zugspitzbahn, however, the safety ends again, but on one side it continues steeply downhill and the path is still slightly icy.
 Since I had no suitable equipment for slippery and icy terrain with me, it was the end for me here.
 
-{{< imgScale "zugspitze-2022/GOPR8144_1600.JPG" "End of my tour. You can see the last bit of the rope, after that there is no belay. The path was slippery and to the left it went downhill almost vertically." "500x" >}}
+{{< imgScale "images/zugspitze-2022/GOPR8144_1600.JPG" "End of my tour. You can see the last bit of the rope, after that there is no belay. The path was slippery and to the left it went downhill almost vertically." "500x" >}}
 
 You can also see the place in the [video mentioned above](https://www.youtube.com/watch?v=OF-8TFnyRVY&t=66s), but there is significantly less snow.
 

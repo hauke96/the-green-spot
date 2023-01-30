@@ -2,9 +2,9 @@
 title: "Island 2018: Vorbereitungen"
 summary: "Nach dem Beschluss drei Wochen in Island wandern zu gehen mussten einige Vorbereitungen getroffen werden. Wir vieles gelernt und möchten unsere Erfahrungen mit dir teilen."
 date: 2019-03-27T02:29:32+02:00
-tags: ["iceland-2018","vorbereitung","island"]
+tags: ["island-2018","vorbereitung","island"]
 author: "kristina-hauke"
-images: ["thumb.jpg"]
+images: ["images/iceland/map-alternatives-clipped.jpg"]
 ---
 
 Bevor wir von unserer {{< linkTag island-2018 "Island-Reise 2018" >}} an sich berichten, möchten wir dir von der Art und Weise berichten, wie wir uns vorbereitet haben.
@@ -93,7 +93,7 @@ Wir haben uns im wesentlichen angeschaut, wo z.B. Klippen oder nicht furtbare Fl
 
 Stellen, die spannend erschienen (z.B. eine Furt) haben wir markiert und uns eine Alternative überlegt, z.B. eine Brücke weiter flussabwärts.
 
-{{< imgScale "iceland/map-alternatives_1000.JPG" "Ausgedruckte Kopie unserer Wanderkarte zum Planen und Einzeichnen von Alternativen." "500x" >}}
+{{< imgScale "images/iceland/map-alternatives_1000.JPG" "Ausgedruckte Kopie unserer Wanderkarte zum Planen und Einzeichnen von Alternativen." "500x" >}}
 
 ## Kartenmaterial
 Wir haben uns eine Wanderkarte gekauft, diese eingescannt und die Route dann digital markiert. So konnten wir nochmal nach Alternativen suchen und die Route ändern ohne die tatsächliche Karte unlesbar zu machen.
@@ -129,7 +129,7 @@ Wenn man sagt, dass der durchschnittliche Kaloriengehalt bei 450kcal/100g liegt 
 
 Wir hatten jeweils 13kg dabei. Wir haben also unsere 4000-5000kcal pro Tag nicht geschafft. Lerne deinen Stoffwechsel kennen, es kann sein, dass du während der Tour einige Kilos verlieren wirst.
 
-{{< imgScale "iceland/DSC00350_0001_cut_small_edit.jpg" "Das meiste unserer Verpflegung." "500x" >}}
+{{< imgScale "images/iceland/DSC00350_0001_cut_small_edit.jpg" "Das meiste unserer Verpflegung." "500x" >}}
 
 ## Hinweis: Mehr Appetit zum Ende hin
 Ein wichtiger Hinweis an dieser Stelle: Ca. ab der Hälfte der Tour ist unser Appetit gestiegen. Lieber damit rechnen, dass man ab der Hälfte ca. 1,5 (oder je nach generellem Appetit noch mehr) Portionen braucht um satt zu werden.

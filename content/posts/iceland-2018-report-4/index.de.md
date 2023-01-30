@@ -4,7 +4,7 @@ summary: "Auf dem letzten Drittel der Wanderung ging es nochmal richtig run: Gro
 date: "2021-03-18T20:10:40+01:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["iceland/DSC01026_1600.JPG"]
+images: ["images/iceland/DSC01026_1600.JPG"]
 ---
 {{< note >}}
 **Vorheriger Teil:** [Teil 3]({{< ref "/posts/iceland-2018-report-3" >}})
@@ -18,7 +18,7 @@ images: ["iceland/DSC01026_1600.JPG"]
 Sind ausgeruht aufgestanden und haben uns in der Hütte ein schönes Frühstück gemacht.
 Die Hütte war sehr nett, klein und alt, an der Wand hing ein Plan vom Langisjór von 1959.
 
-{{< imgScale "iceland/DSC00938_1600.JPG" "Die Hütte in der wir übernachtet haben." "500x" >}}
+{{< imgScale "images/iceland/DSC00938_1600.JPG" "Die Hütte in der wir übernachtet haben." "500x" >}}
 
 Sind dann kurz nach 12 los gestiefelt zum Langisjór.
 Auf dem Weg dorthin haben wir die eigentliche Sveinstindur Hütte gefunden, welche auf unserer Wanderkarte eingetragen ist und die wir eigentlich erreichen wollten.
@@ -31,7 +31,7 @@ Am Langisjór gibt es einen Parkplatz und einen Campingplatz, der allerdings ver
 Der Campingplatz ist zudem unglaublich hässlich, es ist einfach eine Schotterfläche neben dem Parkplatz.
 Keine Bäume, keine Sträucher, nichts weiter, außer das Häuschen und Schotter.
 
-{{< imgScale "iceland/DSC00942_small.JPG" "Langisjór mit Landzunge am linken Rand." "500x" >}}
+{{< imgScale "images/iceland/DSC00942_small.JPG" "Langisjór mit Landzunge am linken Rand." "500x" >}}
 
 Auf einer Landzunge im Langisjór gibt es allerdings eine Hütte, die wir angesteuert haben ind der Hoffnung, dass diese offen ist.
 Nach einem Besuch auf einem kleinen Aussichtspunkt, ging es dann weiter zur Hütte, welche man allerdings ebenfalls mieten muss.
@@ -68,13 +68,13 @@ Zudem hat sie schon etwas unangenehm gerochen.
 Wir haben uns dann verabschiedet, sie sind nach Keflavík gefahren und wir haben uns bei Wind und Regen auf den Weg gemacht.
 So etwas nettes wie dieses Erlebnis habe ich noch nie erlebt, unglaublich!
 
-{{< imgScale "iceland/DSC00945_1600.JPG" "Auf der hervorragend gut erkennbaren Piste ging es dann in Richtung Faxasund." "500x" >}}
+{{< imgScale "images/iceland/DSC00945_1600.JPG" "Auf der hervorragend gut erkennbaren Piste ging es dann in Richtung Faxasund." "500x" >}}
 
 Die Stimmung war ganz gut, auch wenn die zweite Hälfte ab jetzt quasi der "Rückweg" ist.
 Das Wetter wurde aber zum Glück schlagartig besser, als wir eine Bergkette zwischen Hrútabjörg und Grænifjallgarður in Richtung Tungnaá durchquert hatten.
 Merke: Bergketten sind manchmal wie eine Grenzen für Wetterzonen.
 
-{{< imgScale "iceland/DSC00948_1600.JPG" "Immer noch diesig und in der Ferne regnete es, trotzdem atemberaubende Landschaft." "500x" >}}
+{{< imgScale "images/iceland/DSC00948_1600.JPG" "Immer noch diesig und in der Ferne regnete es, trotzdem atemberaubende Landschaft." "500x" >}}
 
 Die Landschaft war auf die typisch isländische Art und Weise schön: Schwarzer Schotter und endlose Weite.
 Unser Ziel war ein See am Fluss Lónakvísl, an dem es ebenfalls eine Hütte geben sollte.
@@ -82,34 +82,34 @@ Unser Ziel war ein See am Fluss Lónakvísl, an dem es ebenfalls eine Hütte geb
 Auf einer Anhöhe hatten wir dann einen wunderschönen Blick über die Gegend und konnten bereits die Hütte sehen.
 Der Abstieg war etwas abenteuerlich (da der Hang der Steil war) und wir hatten einen kleinen Bach zu überqueren, aber dann waren wir auch schon da.
 
-{{< imgScale "iceland/DSC00958_small.JPG" "Aussicht vor dem Abstieg zur Hütte (schwach zu erkennen am hinteren See)." "500x" >}}
+{{< imgScale "images/iceland/DSC00958_small.JPG" "Aussicht vor dem Abstieg zur Hütte (schwach zu erkennen am hinteren See)." "500x" >}}
 
 Die Hütte ist jedoch ebenfalls privat und war nicht vermietet, wodurch wir einfach neben der Hütte im Windschatten unser Zelt aufgeschlagen haben.
 Da wir relativ früh dran waren, war der Abend recht entspannt und wir konnten einen schönen Sonnenuntergang genießen.
 
-{{< imgScale "iceland/DSC00961_1600.JPG" "Gemütlicher Abend im Zelt direkt am Wasser." "500x r90" >}}
+{{< imgScale "images/iceland/DSC00961_1600.JPG" "Gemütlicher Abend im Zelt direkt am Wasser." "500x r90" >}}
 
-{{< imgScale "iceland/DSC00984_edit_01_1600.jpg" "Etwas Makrofotografie in der Abendsonne." "500x" >}}
+{{< imgScale "images/iceland/DSC00984_edit_01_1600.jpg" "Etwas Makrofotografie in der Abendsonne." "500x" >}}
 
-{{< imgScale "iceland/DSC00987_edit_1600.jpg" "Und noch mehr, auch wenn ich kein Makroobjektiv dabei hatte." "500x" >}}
+{{< imgScale "images/iceland/DSC00987_edit_1600.jpg" "Und noch mehr, auch wenn ich kein Makroobjektiv dabei hatte." "500x" >}}
 
 # Tag 15: Lónakvísl → Faxafit
 {{< smallDate "2018-08-01" >}}
 
 Um nicht beim campen auf privatem Gelände erwischt zu werden, sind wir recht früh aufgestanden und los gelaufen.
 
-{{< imgScale "iceland/DSC00992_1600.JPG" "Blick auf das ausgedehnte Feuchtgebiet. Hinter dem Hügel, auf dem Kristina steht, lag unser Camp." "500x" >}}
+{{< imgScale "images/iceland/DSC00992_1600.JPG" "Blick auf das ausgedehnte Feuchtgebiet. Hinter dem Hügel, auf dem Kristina steht, lag unser Camp." "500x" >}}
 
-{{< imgScale "iceland/DSC01005_small.JPG" "Ein Stückchen weiter gab es sogar einen Wasserfall im Lonakvisl." "500x" >}}
+{{< imgScale "images/iceland/DSC01005_small.JPG" "Ein Stückchen weiter gab es sogar einen Wasserfall im Lonakvisl." "500x" >}}
 
 Dadurch, dass die Sonne so früh schon durch die Wolken schien, bildete sich unterwegs schöner Bodennebel, bei dem wir eine Pause und viele Fotos gemacht haben.
 
-{{< imgScale "iceland/DSC01009_1600.JPG" "Besagter Bodennebel erzeugte eine fast gespenstische Stimmung." "500x" >}}
+{{< imgScale "images/iceland/DSC01009_1600.JPG" "Besagter Bodennebel erzeugte eine fast gespenstische Stimmung." "500x" >}}
 
 Ein Stück weiter sind wir dann auf einen Gipfel nördlich vom Faxi rauf geklettert und haben oben unser Mittagessen gemacht.
 Von dort aus hatten wir einen großartigen Blick über die Landschaft, die Tungnaá und einen See am Fuße des Gipfels an dem es auch eine Hütte gab (sehr wahrscheinlich eine private).
 
-{{< imgScale "iceland/DSC01013-14_small.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der linken Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt und aus der wir kamen." "500x" >}}
+{{< imgScale "images/iceland/DSC01013-14_small.JPG" "270° Panorama: In der rechten Bildhälfte kann man die Tingnaa und den See erkennen und in der linken Hälfte sieht man die Region, die hinter der Faxi-Bergkette liegt und aus der wir kamen." "500x" >}}
 
 Danach ging es weiter entlang einer Piste durch eine Schlucht zwischen der Bergkette mit dem Faxi Gipfel hindurch Richtung Tungnaá.
 Parallel zur Tungnaá verläuft nämlich eine Piste, die in recht guten Zustand ist und ohne Schwierigkeiten bewandert oder befahren werden kann.
@@ -136,7 +136,7 @@ Sind am Faxafit mit einer nicht all zu kleinen Furt über den Bach gestartet, di
 Danach ging es dann weiter entlang der Tungnaá Richtung Süd-Westen.
 Ein paar kleinere Furten hatten wir zu bewältigen, aber nichts erstens.
 
-{{< imgScale "iceland/DSC01019_1600.JPG" "Diese Piste führt parallel zur Tungnaá und ihr sind wir eine ganze Weile lang gefolgt." "500x" >}}
+{{< imgScale "images/iceland/DSC01019_1600.JPG" "Diese Piste führt parallel zur Tungnaá und ihr sind wir eine ganze Weile lang gefolgt." "500x" >}}
 
 Später erreichten wir ein Feuchtgebiet bei dem wir die Piste auch wieder verlassen haben und auf eigene Faust weiter näher an der Tungnaá entlang gegangen sind.
 Hier wurde es auch immer grüner und abwechslungsreicher.
@@ -162,14 +162,14 @@ Alles in allem aber durchaus machbar, auch ohne Bergsteigerausrüstung.
 Von oben hat man dann wohl einen der besten Aussichten, die es in Island gibt:
 Nach Norden konnte man die komplette Tungnaá entlang bis zum Vatnajökull schauen und im Süden/Westen ergab sich ein tolles Panorama aus den bunten Bergen rund um Landmannalaugar.
 
-{{< imgScale "iceland/DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50km Entfernung." "500x" >}}
+{{< imgScale "images/iceland/DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50km Entfernung." "500x" >}}
 
-{{< imgScale "iceland/DSC01050_small.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
+{{< imgScale "images/iceland/DSC01050_small.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
 
 Am Fuße des Berges unweit des Sees stand ein alter Bus, den jemand schwarz angemalt hat (aus Tarnung? Zum aufheizen?) und als Fischer-/Urlaubshütte benutzt.
 Innen drin lagen auf jeden Fall Fischerutensilien herum und etwas Whisky.
 
-{{< imgScale "iceland/DSC01021_1600.JPG" "Besagte 'Fischerhütte' am Stakihnúkur." "500x" >}}
+{{< imgScale "images/iceland/DSC01021_1600.JPG" "Besagte 'Fischerhütte' am Stakihnúkur." "500x" >}}
 
 Am Nachmittag wurde es sehr sehr warm (schätzungsweise 20-25°C) und wir haben uns im See etwas abgekühlt.
 Kristina war sogar etwas schwimmen, ich hab mich einfach so etwas gewaschen und abgekühlt.
@@ -196,12 +196,12 @@ Wegen des Flusses Jökuldalakvísl haben wir uns etwas sorgen gemacht, da er auf
 Ein paar Warnschilder bezüglich Treibsand und starker Strömungen machten uns da nicht gerade Mut.
 Zum Glück führte aber eine Mischung aus Furt und Brücke über den Fluss: Man hat einfach riesige Rohre ins Wasser gelegt, sodass man relativ bequem den Fluss queren konnte.
 
-{{< imgScale "iceland/DSC01056_1600.JPG" "Erst wurden wir vor Treibsand gewarnt und jetzt noch ein Warnschild vor dem Fluss selbst." "500x" >}}
+{{< imgScale "images/iceland/DSC01056_1600.JPG" "Erst wurden wir vor Treibsand gewarnt und jetzt noch ein Warnschild vor dem Fluss selbst." "500x" >}}
 
 Auf der anderen Seite besuchten wir die Hütte "Höll" und erreichten die F208, auf der es gespenstisch ruhig war.
 Wir hatten erwartet, dass dort einiges los ist, da es *die* Verbindung von Landmannalaugar nach Süden ist.
 
-{{< imgScale "iceland/DSC01064_1600.JPG" "Gähnende Leere auf der F208." "500x" >}}
+{{< imgScale "images/iceland/DSC01064_1600.JPG" "Gähnende Leere auf der F208." "500x" >}}
 
 Als wir nach einiger Zeit die Kreuzung mit der F224 (Einfahrt zum Campingplatz) erreichten sahen wir, dass die F208 eigentlich gesperrt war.
 Während unserer kurzen Pause kam ein Jeep aus dem gesperrten Bereich und der Fahrer fragte uns ob wir Deutsche seien, was wir natürlich bejahten.
@@ -232,7 +232,7 @@ Auch im Zelt sammelte sich allmählich Sand, jedoch nicht viel, alles knirschte 
 Da man draußen sofort Sand in den Augen hatte, blieben wir heute wiedermal im Zelt und hofften, dass der böhige Wind unser Zelt heile ließ.
 Am Abend versuchten wir dann etwas warmes zu kochen, für einen halben Liter Wasser brauchten wir durch den Wind allerdings über eine halbe Stunde, bis es kochte.
 
-{{< imgScale "iceland/DSC01080_1600.JPG" "Am Abend hatten wir bereits etwas mehr Sicht. Der Hügel am rechten Bildrand war zuvor nur schemenhaft zu erkennen." "500x" >}}
+{{< imgScale "images/iceland/DSC01080_1600.JPG" "Am Abend hatten wir bereits etwas mehr Sicht. Der Hügel am rechten Bildrand war zuvor nur schemenhaft zu erkennen." "500x" >}}
 
 # Tag 22: Tjörvafell → Landmannalaugar
 {{< smallDate "2018-08-08" >}}
@@ -241,12 +241,12 @@ Zum Glück flaute der Wind über Nacht ab und auch die Luft wurde wieder klar.
 Sind also nach dem Frühstück aufgebrochen und haben uns den Ljótipollur (zu Deutsch etwa "hässliche Pfütze") angeschaut.
 So hässlich war die Pfütze aber gar nicht, hatten aber schon schönere Ecken gesehen.
 
-{{< imgScale "iceland/DSC01105_1600.JPG" "Der Ljótipollur." "500x" >}}
+{{< imgScale "images/iceland/DSC01105_1600.JPG" "Der Ljótipollur." "500x" >}}
 
 Vorbei an einer Seismologischen Messstation ging es dann auf Wanderwegen zum Vulkan Stútur auf den es ebenfalls einen Wanderweg hoch gibt.
 Kurz Pause gemacht und weiter zum Landmannalaugar Campingplatz.
 
-{{< imgScale "iceland/DSC01107_1600.JPG" "Eine kleine (eventuell inaktive?) seismologische Station am Ljótipollur." "500x" >}}
+{{< imgScale "images/iceland/DSC01107_1600.JPG" "Eine kleine (eventuell inaktive?) seismologische Station am Ljótipollur." "500x" >}}
 
 Einen reinen Fußweg zum Campingplatz gibt es nicht, man läuft permanent auf der viel befahrenen Schotterpiste F224.
 Alternativ gibt es aber auch ein paar Wanderwege durch die nahen Berge.
@@ -254,24 +254,24 @@ Alternativ gibt es aber auch ein paar Wanderwege durch die nahen Berge.
 Als dann der Campingplatz in Sicht kam waren wir etwas geschockt: Bereits einen halben Kilometer vor dem Platz gab es große Parkplätze, die komplett überfüllt waren und auf denen Busse bereits einfach auf der Straße parkten.
 Selbst um den eigentlichen Zeltplatz gibt es diverse Parkplätze, die alle voll waren.
 
-{{< imgScale "iceland/DSC01108_1600.JPG" "Noch weit vor dem Campingplatz waren die Parkplätze überfüllt." "500x" >}}
+{{< imgScale "images/iceland/DSC01108_1600.JPG" "Noch weit vor dem Campingplatz waren die Parkplätze überfüllt." "500x" >}}
 
 Der Platz selbst ist zwar groß aber eigentlich nicht zum zelten geeignet: Steinharter, unebener mit spitzen Steinen versehener Untergrund.
 Eine Nacht für zwei Personen im Zelt kostete uns 4000ISK/32€ und fürs Duschen sollte man weitere 500ISK/4€ zahlen.
 
-{{< imgScale "iceland/DSC01115_1600.JPG" "Ein schöner Zeltplatz sieht anders aus, aber immerhin ist die Landschaft schön." "500x" >}}
+{{< imgScale "images/iceland/DSC01115_1600.JPG" "Ein schöner Zeltplatz sieht anders aus, aber immerhin ist die Landschaft schön." "500x" >}}
 
 Wir haben also unser Zelt aufgeschlagen und fingen ein wenig an zu trauern, denn hiermit war unsere Wanderung vorbei.
 
 Vor Ort gibt es neben dem Info-Häuschen an dem man auch kleinere Snacks kaufen kann, einen Mini-mini-Supermarkt in einem alten Schulbus.
 Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500ISK/4€) und zwei Äpfel (jeweils 100ISK/0,80€) gegönnt.
 
-{{< imgScale "iceland/IMG_20180809_124718_1600.jpg" "Ein Mini-Supermarkt im linken Schulbus und im rechten ein kleines Cafe." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180809_124718_1600.jpg" "Ein Mini-Supermarkt im linken Schulbus und im rechten ein kleines Cafe." "500x" >}}
 
 Am nächsten Tag sollte unser Bus am Nachmittag gehen und wir haben es sogar ohne Probleme geschafft vor Ort per Telefon das Ticket umzubuchen, sodass wir schon Mittags fuhren.
 Ohne extra Gebühren, ohne Storno-Kosten, einfach so per Telefon! Mega gut, sowas kann man in Deutschland vergessen.
 
-{{< imgScale "iceland/IMG_20180809_111117_1600.jpg" "Uns gingen irgendwann die Gummibänder aus, also: Schnell zusammengeknotet und schon ist es wie neu." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180809_111117_1600.jpg" "Uns gingen irgendwann die Gummibänder aus, also: Schnell zusammengeknotet und schon ist es wie neu." "500x" >}}
 
 # Tag 23: Landmannalaugar → Reykjavík → Keflavík
 {{< smallDate "2018-08-09" >}}
@@ -283,7 +283,7 @@ Der Bus war letztendlich ein LKW bei dem man den hinteren Teil zu einem Bus umge
 Mega geiles Teil!
 Die Fahrt bis zur Hekla war recht ruppig, aber ab dort gab es eine asphaltierte Straße, sodass die restliche Fahrt sehr angenehm war.
 
-{{< imgScale "iceland/IMG_20180809_125052_1600.jpg" "Halb LKW, halb Bus. Darin hat die Fahrt echt Spaß gemacht." "500x" >}}
+{{< imgScale "images/iceland/IMG_20180809_125052_1600.jpg" "Halb LKW, halb Bus. Darin hat die Fahrt echt Spaß gemacht." "500x" >}}
 
 Sind vom BSÍ in Reykjavík dieselbe Route gelaufen wir vor drei Wochen: Erst zur Kirche und dann in die Innenstadt.
 Bei einem Bonus-Supermarkt haben wir Lakritz und isländischen Trockenfisch gekauft.

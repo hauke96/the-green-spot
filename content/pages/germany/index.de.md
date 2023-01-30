@@ -3,11 +3,11 @@ title: "Deutschland"
 date: 2023-01-18T21:17:00+01:00
 tags: ["deutschland"]
 author: "hauke"
-images: ["thueringer-wald-2022-report/DSC03657_1600.JPG"]
+images: ["images/thueringer-wald-2022-report/DSC03657_1600.JPG"]
 summary: "Alle Beiträge aus Deutschland."
 ---
 
-{{< imgScale "thueringer-wald-2022-report/DSC03657_1600.JPG" "Die Wartburg auf meiner [Wanderung durch den Thüringer Wald](/de/posts/thueringer-wald-2022-report)." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03657_1600.JPG" "Die Wartburg auf meiner [Wanderung durch den Thüringer Wald](/de/posts/thueringer-wald-2022-report)." "500x" >}}
 
 Hier findest du alle Artikel und Seiten, die sich in Deutschland abspielen.
 
