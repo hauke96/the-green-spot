@@ -18,8 +18,7 @@ Los gehen sollte es in **Warendorf** und am Wehr von **Herbrum** sollte die Tour
 Leider kam es aber nicht soweit, schon am zweiten Tag musste ich meine Tour krankheitsbedingt in **Emsdetten** abbrechen.
 Bis dahin war es aber eine schöne und ruhige Tour.
 
-> **TODO** Karte
-{ {< umap "//umap.openstreetmap.de/en/map/thuringer-wald-2022_34496" "10/50.8426/10.4672" >}}
+{{< umap "//umap.openstreetmap.de/en/map/ems-2021_36100" "10/52.1/7.75" >}}
 
 ## Equipment
 
