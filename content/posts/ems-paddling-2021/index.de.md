@@ -7,7 +7,7 @@ author: "hauke"
 images: ["images/ems-2021/DSC03565.JPG"]
 ---
 
-Nachdem ich zwei vielversprechende Packrafts [ausprobiert](/de/posts/dove-gose-elbe-rebel-2k) und [verglichen](/de/posts/comparison-rebel-2k-nomad-s1) habe, habe ich mich für das **MRS Nomad S1** in der normalen (also nicht-light) Variante entschieden.
+Nachdem ich zwei vielversprechende Packrafts [ausprobiert](/de/posts/dove-gose-elbe-rebel-2k) und [verglichen](/de/posts/comparison-rebel-2k-nomad-s1) habe, habe ich mich für das *MRS Nomad S1* in der normalen (also nicht-light) Variante entschieden.
 Die erste längere Tour sollte Ende August 2021 auf der **Ems** stattfinden.
 
 ## Die Route
@@ -24,7 +24,7 @@ Bis dahin war es aber eine schöne und ruhige Tour.
 
 Natürlich hatte ich mein *MRS Nomad S1* dabei, dessen Light-Variante ich zuvor bereits einmal [getestet hatte](/de/posts/comparison-rebel-2k-nomad-s1/), sowie das Doppelpaddel *ExtaSea Tour Vario* aus Fiberglas in der 220-240 cm Ausführung.
 
-Geschlafen habe ich unter meinem *Tarp*, welches einfach aus einer Baumarktplane mit Ösen besteht und sich auch bei [anderen Touren](/de/posts/thueringer-wald-2022-report/) bewährt hat.
+Geschlafen habe ich unter meinem Tarp, welches einfach aus einer Baumarktplane mit Ösen besteht und sich auch bei [anderen Touren](/de/posts/thueringer-wald-2022-report/) bewährt hat.
 Meine leichte *Ultralight Air Mat* von Sea To Summit und mein einfacher Sommerschlafsack von Frilufts waren auch dabei.
 
 An Elektronik hatte ich ein Solarpanel von Anker mit, sowie Handy, eBook-Reader und Kamera.
@@ -41,7 +41,8 @@ Gegen 8:50 war ich dann in Warendorf und habe an der **Teufelsbrücke** mein Boo
 {{< imgScale "images/ems-2021/DSC03529.JPG" "Mein Packraft an der Ems in Warendorf. Im Hintergrund die Teufelsbrücke und rechts die Treppe runter ins Wasser." "500x" >}}
 
 Gegen 10 Uhr ging es dann ins Wasser und los.
-Die Strömung war ganz ordentlich und ich kam schnell voran. Nach einer kleineren Stromschnelle hinter Warendorf kam vor dem Ort **Einen** eine größere und anspruchsvollere Stromschnelle.
+Die Strömung war ganz ordentlich und ich kam schnell voran.
+Nach einer kleineren Stromschnelle hinter Warendorf kam vor dem Ort **Einen** eine größere und anspruchsvollere Stromschnelle.
 Wenn man sich unwohl fühlt, gibt es aber -- wie bei fast allen Stromschnelle -- die Möglichkeiten zum Umtragen.
 
 {{< imgScale "images/ems-2021/DSC03537.JPG" "Stromschnelle bei der Mündung der Hessel (links) in die Ems (rechts)." "500x" >}}
@@ -69,16 +70,16 @@ Am nächsten Tag ging es früh weiter, sprich um 9:15 Uhr war ich wieder unterwe
 Der Pegel hat über die Nacht etwas nachgelassen, am Ufer konnte man deutlich erkennen, dass ca. 10 cm weniger Wasser war als am Tag zuvor.
 Aber kein Grund zur Panik, für ein Packraft war immer noch genug Wasser unterm Kiel.
 
-Schon nach kurzer Zeit kam ich an den [markanten Kanalüberführungen](https://de.wikipedia.org/wiki/Kanal%C3%BCberf%C3%BChrung_M%C3%BCnster-Gelmer) "Alte Fahrt" und "Neue Fahrt" vom **Dortmund-Ems-Kanal** vorbei.
-Der zweite Trog der "Neuen Fahrt" war ganz neu, zu dem Zeitpunkt noch gar nicht eröffnet und dennoch sehr imposant.
+Schon nach kurzer Zeit kam ich an den [markanten Kanalüberführungen](https://de.wikipedia.org/wiki/Kanal%C3%BCberf%C3%BChrung_M%C3%BCnster-Gelmer) *Alte Fahrt* und *Neue Fahrt* vom **Dortmund-Ems-Kanal** vorbei.
+Der zweite Trog der *Neuen Fahrt* war ganz neu, zu dem Zeitpunkt noch gar nicht eröffnet und dennoch sehr imposant.
 
-{{< imgScale "images/ems-2021/DSC03554.JPG" "Blick auf die \"Alte Fahrt\", sowie den neuen türkisen Trog der \"Neuen Fahrt\". Dahinter in Grau der bisher Trog der \"Neuen Fahrt\"." "500x" >}}
+{{< imgScale "images/ems-2021/DSC03554.JPG" "Blick auf die *Alte Fahrt*, sowie den neuen türkisen Trog der *Neuen Fahrt*. Dahinter in Grau der bisher Trog der *Neuen Fahrt*." "500x" >}}
 
 {{< imgScale "images/ems-2021/DSC03563.JPG" "Selbe Überführungen nach der Durchfahrt." "500x" >}}
 
 Die nächste interessante Stelle kam dann in **Greven**.
-Dort wurden jüngst in 2021 zwei Abschnitte umgebaut und Wehre (Cramer und Schöneflieth) durch verschränkte Buhnen ersetzt.
-Die dadurch entstandenen Stromschnellen haben viel Spaß gemacht, waren aber auch eher anspruchsvoll (ICF Stufe II, bei höherem Pegel und mehr Strömung vielleicht III).
+Dort wurden jüngst in 2021 zwei Abschnitte umgebaut und Wehre (*Cramer* und *Schöneflieth*) durch verschränkte Buhnen ersetzt.
+Die dadurch entstandenen Stromschnellen haben viel Spaß gemacht, waren für mich aber auch eher anspruchsvoll (ICF Stufe II, bei höherem Pegel und mehr Strömung vielleicht III).
 
 {{< imgWeb "https://www.flussgebiete.nrw.de/system/files/styles/format_16x9_1280x0720/private/thumbnails/image/wehr_cramer_original.jpg?itok=MF4nWmdm" "Luftaufnahme der [neuen Buhnen](https://www.flussgebiete.nrw.de/ems-bei-greven-herstellung-der-durchgaengigkeit-9186) in Greven bei niedrigem Wasserstand. © FLUSSGEBIETE NRW" "500px" >}}
 
@@ -88,7 +89,7 @@ Dort war die Ems zwar 30 m breit, aber vielleicht nur ca. 70 cm tief, sodass ich
 {{< imgScale "images/ems-2021/DSC03565.JPG" "Renaturierte Ems hinter Hembergen." "500x" >}}
 
 Mein Camp habe ich dann ca. 2 km vor **Emsdetten** auf einer kleinen Sandbank aufgebaut.
-Hier war das Ufer wieder sehr steil und die Ems ziemlich begradigt und eingebettet in ein künstliches Ufer.
+Hier war das restliche Ufer wieder sehr steil und die Ems ziemlich begradigt und eingebettet in ein künstliches Ufer.
 
 {{< imgScale "images/ems-2021/DSC03571.JPG" "Mein Camp für die zweite Nacht. Rechts auf der anderen Flussseite sieht man die künstlichen 45° Abhänge mit reichlich Buschwerk." "500x" >}}
 
