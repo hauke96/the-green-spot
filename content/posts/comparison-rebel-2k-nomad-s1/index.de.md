@@ -179,4 +179,4 @@ Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeu
 Im August 2021 habe ich mir das Nomad S1 gekauft (die normale Variante mit Spritzdecke).
 Bisher bin ich sehr zufrieden und habe natürlich auch schon eine längere Tour gemacht, aber dazu in einem eigenen Beitrag mehr.
 
-[^1]: Stand: 25.01.2023
+[^1]: Stand: 25.01.2023.
