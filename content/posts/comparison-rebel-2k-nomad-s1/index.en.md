@@ -167,7 +167,7 @@ If you plan a longer tour, then you need to have a serious conversation with you
 
 # Conclusion
 
-For **me** the S1 is the better Packraft (especially the normal version with the fin and spraydeck).
+For *me* the Nomad S1 is the better Packraft (especially the normal version with the fin and spraydeck).
 But I'm planning for longer and non white water trips and especially the additional storage capacity and better driving behavior convinced me.
 
 ## Update
@@ -175,4 +175,4 @@ But I'm planning for longer and non white water trips and especially the additio
 In August 2021 I bought the normal version of the Nomad S1.
 So far, I'm very happy with this choice and of course made a few longer trips with it, but more on that in separate posts.
 
-[^1]: Prices as of 10.08.2022 and approx. the same in US $ (maybe a bit less).
+[^1]: Prices as of 25.01.2023 and approx. the same in US $ (maybe a bit less).

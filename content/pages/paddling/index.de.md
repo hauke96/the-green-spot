@@ -13,5 +13,6 @@ Paddeln ist wie trekking ... nur auf dem Wasser und nicht zu Fuß und ohne Rucks
 
 # Beiträge
 
-* [Rundtour: Dove und Gose Elbe]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}})
-* [Vergleich: Anfibio Rebel 2K vs. MRS Nomad S1 Light]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}})
+* [Mehrtages Paddeltour auf der Ems]({{< ref "/posts/ems-paddling-2021" >}}): Eine mehrtägige Paddeltour auf der Ems.
+* [Dove und Gose Elbe Rundtour]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}): Paddeltour auf der Dove und Gose Elbe bei Hamburg.
+* [Vergleich: Anfibio Rebel 2K vs. MRS Nomad S1 Light]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}): Beide Packrafts habe ich mir einmal ausgeliehen, probegefahren und vergleiche sie hier.
