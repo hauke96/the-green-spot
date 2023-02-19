@@ -13,6 +13,7 @@ Here you'll find all articles and pages, which take place in Germany.
 
 # Trip reports
 
+* [Multiday paddling tour on the Ems]({{< ref "/posts/ems-paddling-2021" >}}): A multi-day paddling tour on the Ems river.
 * [Thuringian Forest]({{< ref "/posts/thueringer-wald-2022-report" >}}): A multi-day trip on the Rennsteig trail in the Thuringian Forest.
 * [Ascending the Zugspitze]({{< ref "/posts/zugspitze-2022" >}}): My attempt to ascend the Zugspitze, Germanys highest mountain, in November.
-* [Dove and Gose Elbe Roundtrip]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}): A nice paddling tour in the Dove and Gose Elbe rivers near Hamburg, Germany.
+* [Dove and Gose Elbe roundtrip]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}): A nice paddling tour in the Dove and Gose Elbe rivers near Hamburg.
