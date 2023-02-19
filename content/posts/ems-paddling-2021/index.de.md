@@ -1,7 +1,7 @@
 ---
 title: "Mehrtägige Paddeltour auf der Ems 2021"
 summary: "Im Sommer 2021 war ich mit meinem Packraft mehrere Tage auf der Ems unterwegs. Leider musste ich die Tour vorzeitig abbrechen, aber ich konnte trotzdem einige Eindrücke sammeln und möchte hier davon berichten."
-date: "2023-02-14T23:22:00+01:00"
+date: "2023-02-19T22:45:00+01:00"
 tags: ["ems", "paddeln", "tarp", "deutschland"]
 author: "hauke"
 images: ["images/ems-2021/DSC03565.JPG"]

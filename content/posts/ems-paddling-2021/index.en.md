@@ -1,7 +1,7 @@
 ---
 title: "Multiday paddling tour on the Ems 2021"
 summary: "In the summer of 2021 I was on a multiday paddling trip with my packraft on the Ems river in northern Germany. Unfortunately, I had to break off the tour early, but I was still able to collect some impressions and would like to share them."
-date: "2023-02-14T23:22:00+01:00"
+date: "2023-02-19T22:45:00+01:00"
 tags: ["ems", "paddling", "tarp", "germany"]
 author: "hauke"
 images: ["images/ems-2021/DSC03565.JPG"]
