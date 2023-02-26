@@ -2,7 +2,7 @@
 title: "Vergleich: Anfibio Rebel 2K vs. MRS Nomad S1 Light"
 summary: "In diesem Artikel vergleiche ich die beiden Packrafts Anfibio Rebel 2K und MRS Nomad S1 Light miteinander. Beide haben unterschiedliche Einsatzgebiete, ähneln sich in Komfort und Qualität aber sehr."
 date: "2022-08-11T17:00:00+02:00"
-tags: ["paddeln", "equipment", "ausrüstung", "ratgeber"]
+tags: ["paddeln", "equipment", "ausruestung", "ratgeber"]
 author: "hauke"
 images: ["thumb.jpg"]
 ---
