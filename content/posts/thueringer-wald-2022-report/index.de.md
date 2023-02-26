@@ -2,7 +2,7 @@
 title: "Rennsteig - Thüringer Wald im April 2022"
 summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu bewandern. Mit Tarp und kleinem Gepäck ging es einige Tage durch den Thüringer Wald, schöne Aussichten, tolle Erlebnisse und nette Bekanntschaften inklusive."
 date: "2023-01-17T21:23:49+01:00"
-tags: ["wandern", "rennsteig", "thüringer-wald", "tarp"]
+tags: ["wandern", "rennsteig", "thueringer-wald", "tarp"]
 author: "hauke"
 images: ["images/thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
