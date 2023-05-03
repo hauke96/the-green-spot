@@ -11,7 +11,6 @@ Due to medical reasons at the time of this article, I'm not able to do hikes wit
 A light packraft is probably the best choice since I can just take it with me on a hike.
 
 To not buy a pig in a poke, I rented the **Anfibio Rebel 2K** for one weekend.
-Regarding my experiences with the rental service, there might be a separate article coming.
 
 # The tour
 
@@ -132,12 +131,15 @@ In the meantime, I also have the [comparison with the MRS Nomad S1]({{< ref "/po
 ## Contra
 
 * While paddling, the boat moves a lot to the left and right ahem starboard and port side
-* The seat is quite low, so for paddling you have to strike out quite far (s. below)
+
+Only regarding the old version (without attachable seat and with 410D Nylon, s. above):
+
+* The default seat is quite low, so for paddling you have to strike out quite far (s. below)
 * The backrest might displace when moving
 
 ## Notice
 
-* The rented paddle was too short: It was only 220cm / 86.6in long but on a packraft you probably need something like 230-240cm / 90.5-95.5in
+* The seat in my rented Rebel 2K (which was the old variant, s. above) was a bit low and the paddle therefore a bit too short: It was only 220cm / 86.6in long, so if you sit not so high, you probably need something like 230-240cm / 90.5-95.5in.
 
 
 [^1]: More in the wikipedia articles about the [Dove](https://en.wikipedia.org/wiki/Dove_Elbe) and [Gose Elbe](https://en.wikipedia.org/wiki/Gose_Elbe) (however the German articles are much more detailed).

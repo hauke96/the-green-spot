@@ -11,7 +11,6 @@ Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern
 Ein leichtes Packraft scheint mir dafür genau die richtige Wahl zu sein um es später auch mal auf Wanderungen mit zu nehmen.
 
 Um aber nicht die Katze im Sack zu kaufen, habe ich mir zunächst das **Anfibio Rebel 2K** für ein Wochenende gemietet.
-Bezüglich meiner Erfahrungen mit der Vermietung solcher Packrafts kommt ggf. nochmal ein eigener Artikel.
 
 # Die Route
 
@@ -118,8 +117,8 @@ Aber alles in allem ist es definitiv eine Empfehlung wert!
 
 # Fazit zum Anfibio Rebel 2K
 
-Allgemein gefiel mit das Rebel 2K gut, es gab aber auch Dinge, die mir negativ aufgefallen sind.
-Mittlerweile habe ich auch den [Vergleich zum MRS Nomad S1]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}), welches mit besser gefällt.
+Allgemein gefiel mir das Rebel 2K gut, es gab aber auch Dinge, die mir negativ aufgefallen sind.
+Mittlerweile habe ich auch den [Vergleich zum MRS Nomad S1]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}), welches mir besser gefällt.
 
 ## Pro
 
@@ -133,12 +132,15 @@ Mittlerweile habe ich auch den [Vergleich zum MRS Nomad S1]({{< ref "/posts/comp
 ## Contra
 
 * Beim Paddeln schwankt man doch gut nach rechts und links ähhh Steuerbord und Backbord
-* Man sitzt relativ tief, dadurch muss man weiter mit dem Paddel ausholen (s.u.)
+
+Gilt nur für die ältere Version (ohne befestigten Sitz und mit 410D Nylon als Bodenmaterial):
+
+* Der Standardsitz ist relativ tief, dadurch muss man weiter mit dem Paddel ausholen (s.u.)
 * Die Rückenlehne kann bei Bewegung verrutschen
 
 ## Hinweis
 
-* Das gemietete Paddel war leider zu kurz: Es war 220cm lang, man bräuchte wohl eher 230-240cm
+* Beim gemieteten Rebel 2K (welches noch von der alten Variante war, s.o.) war das gemietete Paddel leider etwas kurz: Es war 220cm lang, sitzt man etwas tiefer bräuchte man eher 230-240cm.
 
 [^1]: Mehr dazu bei den lesenswerten Wikipedia Artikeln zur [Dove](https://de.wikipedia.org/wiki/Dove_Elbe) und [Gose Elbe](https://de.wikipedia.org/wiki/Gose_Elbe).
 [^2]: Auch hier gibt es bei [Wikipedia](https://de.wikipedia.org/wiki/Naturschutzgebiet_Die_Reit) viele interessante Infos: Wusstest du, dass es durch die Reit einen Wanderweg gibt? Tja, ich auch nicht. Was wären wir nur ohne Wikipedia?
