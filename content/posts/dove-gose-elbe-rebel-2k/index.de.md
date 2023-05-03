@@ -133,7 +133,7 @@ Mittlerweile habe ich auch den [Vergleich zum MRS Nomad S1]({{< ref "/posts/comp
 
 * Beim Paddeln schwankt man doch gut nach rechts und links ähhh Steuerbord und Backbord
 
-Gilt nur für die ältere Version (ohne befestigten Sitz und mit 410D Nylon als Bodenmaterial):
+Gilt nur für die ältere Version (mit dem Standard-Sitz):
 
 * Der Standardsitz ist relativ tief, dadurch muss man weiter mit dem Paddel ausholen (s.u.)
 * Die Rückenlehne kann bei Bewegung verrutschen

@@ -132,7 +132,7 @@ In the meantime, I also have the [comparison with the MRS Nomad S1]({{< ref "/po
 
 * While paddling, the boat moves a lot to the left and right ahem starboard and port side
 
-Only regarding the old version (without attachable seat and with 410D Nylon, s. above):
+Only regarding the old version (with the non-attachable standard seat):
 
 * The default seat is quite low, so for paddling you have to strike out quite far (s. below)
 * The backrest might displace when moving
