@@ -82,10 +82,12 @@ Der Boden ist bei beiden Modellen mittlerweile aus 840D Nylon (früher aus 820 b
 ## Finne & Spritzdecke
 
 Wie oben in der Tabelle schon zu erkennen ist: Das Rebel 2K hat sowohl eine Finne, als auch eine Spritzdecke.
-Das Nomad S1 **Light** hat keins davon, wobei man die Finne selbst nachrüsten kann, Halterungen gibt es zum selbst ankleben.
+Das Nomad S1 **Light** hat keine Spritzdecke, aber eine Halterung für eine Finne, die Finne ist jedoch nicht inklusive.
 
-Die Spritzdecke kann man beim S1 Light soweit ich weiß **nicht** nachrüsten.
+Die Spritzdecke kann man beim S1 Light auch **nicht** nachrüsten.
 Bei der normalen Variante des Nomad S1 sind aber Finne und Spritzdecke standardmäßig mit dabei.
+
+Zusätzliche Finnen und Halterungen gibt es für schmales Geld zum nachrüsten zu kaufen.
 
 ## Gepäck
 
