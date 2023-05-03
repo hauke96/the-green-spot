@@ -96,7 +96,7 @@ Both packrafts are available with optional tube bags.
 The loops to strap on your stuff are on both boats roughly at the same places: Four at the front and then two at the back of the Rebel 2K and four at the back of the Nomad S1.
 However, the Rebel 2K has one additional loop at the front but on the inside.
 
-As I said, the Rebel 2K has only two loops at the back, which is bad for tightening a backpack there, the Nomad S1 with its four loops does a better job here.
+The Rebel 2K has only two loops quite far back, which is bad for tightening a backpack there, the Nomad S1 with its four loops does a better job here.
 Anyway, both models have enough space and loops at the front, a hiking backpack can easily be secured there.
 
 ## Seat
@@ -135,6 +135,7 @@ That's really not nice but let's face it: The boat consist of 100% plastic, so w
 
 The Nomad S1 has definitely the better driving behavior due to its length.
 As mentioned above, the seat of the Rebel 2K felt lower, which is probably beneficial for the stability, but paddling becomes a bit more difficult.
+The current Rebel 2K variant has a higher seat, which should make paddling easier.
 
 For real white water situations, the Rebel 2K is probably better suited.
 It was really fun to completely turn with only one paddling stroke, which was not really possible with the S1.
@@ -174,7 +175,7 @@ Luckily there are true alternatives for the S1, for example the Sigma TXL or oth
 # Conclusion
 
 For *me* the Nomad S1 is the better Packraft (especially the normal version with the fin and spraydeck).
-But I'm planning for longer and non white water trips and especially the additional storage capacity and better driving behavior convinced me.
+But I'm planning for calmer and [longer trips](/en/posts/ems-paddling-2021/) and especially the additional storage capacity and better driving behavior convinced me.
 
 ## Update
 

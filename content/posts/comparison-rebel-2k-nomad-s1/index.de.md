@@ -58,7 +58,7 @@ Beide Boote haben: Sitz mit Rückenlehne, viele Schlaufen für Gepäck.
 
 Auf- und Abbau war bei beiden Booten relativ identisch: Unkompliziert, selbsterklärend und schnell.
 
-Bei beiden Booten brauchte ich ca. 20 Minuten vom Absetzen des Rucksacks bis zum Einsteigen und los paddeln.
+Bei beiden Booten brauchte ich ca. 20 Minuten vom Absetzen des Rucksacks bis zum Einsteigen und lospaddeln.
 Habe dabei weder getrödelt noch mich sehr beeilt.
 
 # Verarbeitung und Material
@@ -66,7 +66,7 @@ Habe dabei weder getrödelt noch mich sehr beeilt.
 ## Verarbeitung
 
 Die Verarbeitung ist bei beiden top, konnte keinerlei Mängel oder mögliche Schwachstellen erkennen.
-Alle Nähte wirkten sauber verschweißt/verklebt und es gibt keine spitzen/scharfen Kanten an denen es scheuern könnte.
+Alle Nähte wirkten sauber verschweißt/verklebt und es gibt keine spitzen/scharfen Kanten, an denen es scheuern könnte.
 
 ## Material
 
@@ -77,7 +77,7 @@ Der Boden ist bei beiden Modellen mittlerweile aus 840D Nylon (früher aus 820 b
 
 # Ausstattung
 
-{{< imgScale "images/comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklapper Spritzdecke und Finne." "500x" >}}
+{{< imgScale "images/comparison-rebel-2k-nomad-s1/anfibio-rebel-2k.jpg" "Das **Anfibio Rebel 2K** mit aufgeklappter Spritzdecke und Finne." "500x" >}}
 
 ## Finne & Spritzdecke
 
@@ -87,32 +87,32 @@ Das Nomad S1 **Light** hat keine Spritzdecke, aber eine Halterung für eine Finn
 Die Spritzdecke kann man beim S1 Light auch **nicht** nachrüsten.
 Bei der normalen Variante des Nomad S1 sind aber Finne und Spritzdecke standardmäßig mit dabei.
 
-Zusätzliche Finnen und Halterungen gibt es für schmales Geld zum nachrüsten zu kaufen.
+Zusätzliche Finnen und Halterungen gibt es für schmales Geld zum Nachrüsten zu kaufen.
 
 ## Gepäck
 
 Keins der beiden Modelle, die ich getestet habe, hatten "tube bags" (also Taschen in den Schläuchen), dazu kann ich also nichts sagen.
-Beide Packrafts gibt es aber optional bit tube bags.
+Beide Packrafts gibt es aber optional mit tube bags.
 
-Die Schlaufen zum festmachen von Gepäck sind bei beiden Booten an ca. den gleichen Stellen angebracht: Vier vorne und dann beim Rebel 2K zwei hinten, beim Nomad S1 vier hinten.
+Die Schlaufen zum Festmachen von Gepäck sind bei beiden Booten an ca. den gleichen Stellen angebracht: Vier vorne und dann beim Rebel 2K zwei hinten, beim Nomad S1 vier hinten.
 Das Rebel 2K hat eine zusätzliche Schlaufe vorne an der Innenseite, da kann man also auch nochmal Sachen dran sichern.
 
-Wie gesagt, das Rebel 2K hat hinten nur zwei Schlaufen, wodurch man dort eher schlecht Gepäck fest machen kann, das geht beim Nomad S1 besser.
+Das Rebel 2K hat sehr weit hinten nur zwei Schlaufen, wodurch man dort eher schlecht Gepäck fest machen kann, das geht beim Nomad S1 besser.
 Bei beiden Modellen kann man aber vorne einen größeren Wanderrucksack recht sicher befestigen.
 
 ## Sitz
 
-Der Sitz beim Nomad S1 ist recht mittig, wodurch man hinter den Sitz noch Gepäck verstauen kann.
+Der Sitz beim Nomad S1 ist recht mittig, wodurch man hinter dem Sitz noch Gepäck verstauen kann.
 Viel Platz ist da zwar nicht, aber für einen 20L Rucksack/Packsack reicht es.
 Hat man nicht die Light-Variante, sondern die normale mit Spritzdecke, ist der Platz aber in der Höhe begrenzt.
 Einen größeren Wanderrucksack (wie z.B. meinen Deuter 45+10L) bekommt man hinten nicht unter, den muss man dann vorne auf das Boot binden.
 
-Beide Sitze waren in ihrer Bequemlichkeit okay, wirklich negativ (unbequem, Druckstellen, Rückenschmerken, etc.) ist mir nichts aufgefallen.
+Beide Sitze waren in ihrer Bequemlichkeit okay, wirklich negativ (unbequem, Druckstellen, Rückenschmerzen, etc.) ist mir nichts aufgefallen.
 Die Rückenlehne vom S1 ist -- im Gegensatz zur Lehne von meinem Rebel 2K damals -- am Boot mit kleinen Stangen und Riemen befestigt, das gibt etwas mehr Stabilität und gefiel mir besser.
-In der aktuellen Variante vom 2K lässt sich der Komfort-Sitz -- entgegen des kleineren Standardsitzes -- aber ebenfalls befestigen, was Sitz und Rücklehne stabilisiert.
+In der aktuellen Variante vom 2K lässt sich der Komfort-Sitz -- anders als beim kleineren Standardsitz -- aber ebenfalls befestigen, was Sitz und Rücklehne stabilisiert.
 
 Durch das verbesserte Design der aktuellen Rebel 2K Variante sitzt man auch hoch genug (der Sitz ist 16cm hoch) um mit einem normalen 220 cm Paddel auszukommen.
-Mein Sitz damals war niedriger, wodurch mit das Paddel etwas zu kurz war, ein 230-240 cm Paddel wäre passender gewesen.
+Mein Sitz damals war niedriger, wodurch mir das Paddel etwas zu kurz war, ein 230-240 cm Paddel wäre passender gewesen.
 Beim Nomad S1 hatte ich hingegen keine Probleme, da man bei dessen Sitz ebenfalls schön hoch sitzt.
 
 ## Boden
@@ -133,14 +133,15 @@ Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was 
 
 # Fahrverhalten
 
-{{< imgScale "images/comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
+{{< imgScale "images/comparison-rebel-2k-nomad-s1/mrs-nomad-s1-light.jpg" "Das **MRS Nomad S1 Light** ohne Spritzdecke, aber dafür acht Schlaufen. Der Sitz ist mittig und man hat dadurch etwas Stauraum dahinter." "500x" >}}
 
 Beim Fahrverhalten merkt man, dass das Nomad S1 länger ist und dadurch besser im Wasser liegt.
 Zudem hatte ich das Gefühl beim Rebel 2K tiefer zu sitzen, was sicherlich ein wenig mehr Stabilität gibt, das Paddeln aber auch etwas erschwert.
+Bei aktuellen Rebel 2K Modellen ist aber der Sitz höher, was das Paddeln erleichtern sollte.
 
-Für rauere Gewässer (Richtung Wildwasser Fluss), ist das Rebel 2K sicherlich besser geeignet.
+Für rauere Gewässer (Richtung Wildwasser), ist das Rebel 2K sicherlich besser geeignet.
 Es hat wirklich Spaß gemacht mit einem kräftigen Paddelschlag sich einmal komplett drehen zu können, das ging mit dem S1 nicht ganz.
-Touren, die länges oder über mehrere Tage gehen, würde ich jedoch lieber mit dem Nomad S1 machen.
+Touren, die länger oder über mehrere Tage gehen, würde ich jedoch lieber mit dem Nomad S1 machen.
 
 Bei beiden Booten fühlte ich mich aber sicher und hatte keine Angst zu kentern.
 
@@ -154,10 +155,10 @@ Beim gemütlichen Paddeln inklusive aller Pausen hatte ich beim S1 im Durchschni
 
 # Trekking Tauglichkeit
 
-Auch hier hat das Nomad S1 einen entscheidenden Vorteil: Es hat hinter dem Sitz den praktisch Stauraum.
+Auch hier hat das Nomad S1 einen entscheidenden Vorteil: Es hat hinter dem Sitz den praktischen Stauraum.
 Einen großen Trekking-Rucksack bekommt man dort zwar nicht unter, aber Kleinkram wie eine Wasserflasche, einen Hut und eine Jacke.
 
-Beim Rebel 2K lässt sich auch ein wenig Gepäck hinten auf dem Bott verstauen, allerdings muss man bei den Schlaufen kreativ werden, hinten gibt es nur eine auf jeder Seite.
+Beim Rebel 2K lässt sich auch ein wenig Gepäck hinten auf dem Boot verstauen, allerdings muss man bei den Schlaufen kreativ werden, hinten gibt es nur eine auf jeder Seite.
 
 Verstaut man den großen Trekking-Rucksack vorne auf dem Boot hat man zwar nicht mehr 100%-ig freies Sichtfeld, aber Platz ist dort genug.
 Sofern man schwerere Gegenstände ins Boot nimmt, sodass diese weit unten sind, leidet die Stabilität auch nicht sonderlich stark.
@@ -176,7 +177,7 @@ Es gibt aber durchaus Alternativen zum S1, wie z.B. das Sigma TXL oder andere hy
 # Fazit
 
 Für *mich* ist das S1 das bessere Packraft (besonders in der normalen Variante mit Spritzdecke).
-Ich habe aber auch vor eher längere und ruhigere Touren zu machen.
+Ich plane aber auch eher ruhigere und [längere Touren](/de/posts/ems-paddling-2021/) zu machen.
 Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeugt.
 
 ## Nachtrag
