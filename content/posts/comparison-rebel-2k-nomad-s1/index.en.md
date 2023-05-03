@@ -72,7 +72,7 @@ All seams were neatly welded/taped and there were no sharp edges.
 Both use a 210D Nylon with urethane coating for the tubes, so no differences here.
 Same for the seats, both use 210D Nylon.
 
-The floor of both models is made of 840D Nylon (old variants came with 820D and 410D).
+The floor of both models is made of 840D Nylon (old variants came with 820D and 410D, which was already very robust).
 
 # Equipment
 
@@ -117,7 +117,7 @@ With the Nomad S1, however, I had no problems, because you generally sit nice an
 ## Floor
 
 Before trying the boats, I was unsure regarding the stability of the floor.
-Turn out my concerns were unfounded as both boats use a very thick and high quality material of 840D Nylon (my Rebel 2K back then has only 410D Nylon but still felt very robust).
+Turn out my concerns were unfounded as both boats use a very thick and high quality material of 840D Nylon.
 
 **Spoiler:** In the meantime, I bought the normal Nomad S1 and the floor already slipped over some gravel and stones.
 So far, there are no signs of scratches at all.
@@ -126,7 +126,7 @@ So far, there are no signs of scratches at all.
 
 Both rented boats smelled slightly like plastic, but not really strong.
 The freshly bought Nomad S1, however, smelled incredibly strong like plastic and it took several months until it was significantly less smelly.
-Unlike the Rebel 2K, seams are glued and not welded, which is the reason for the smell.
+Unlike the Rebel 2K, the floor is additionally glued, which is the reason for the smell.
 That's really not nice but let's face it: The boat consist of 100% plastic, so what did I expect?
 
 # Driving behavior

@@ -73,7 +73,7 @@ Alle Nähte wirkten sauber verschweißt/verklebt und es gibt keine spitzen/schar
 Beide nutzen 210D Nylon mit Urethan-Beschichtung für die Schläuche, hier gibt es also keinen Unterschied.
 Gleiches bei den Sitzen, auch hier verwenden beide 210D Nylon.
 
-Der Boden ist bei beiden Modellen mittlerweile aus 840D Nylon (früher aus 820 bzw. 410D).
+Der Boden ist bei beiden Modellen mittlerweile aus 840D Nylon (früher aus 820 bzw. 410D, was bereits sehr stabil war).
 
 # Ausstattung
 
@@ -118,7 +118,7 @@ Beim Nomad S1 hatte ich hingegen keine Probleme, da man bei dessen Sitz ebenfall
 ## Boden
 
 Bevor ich die Boote getestet habe, war ich beim Boden echt unsicher bezüglich der Stabilität.
-Diese Bedenken waren aber völlig unbegründet, denn beide Modelle nutzen sehr dickes und stabiles 840D Nylon als Boden (mein Rebel 2K damals hatte nur 410D Nylon, fühlte sich aber trotzdem sehr robust an).
+Diese Bedenken waren aber völlig unbegründet, denn beide Modelle nutzen mittlerweile sehr dickes und stabiles 840D Nylon als Boden.
 
 **Spoiler:** Inzwischen habe ich mir das S1 gekauft (in der normalen Variante) und bin damit auch schon mal knirschend über den ein oder anderen Stein gerutscht.
 Bisher gab es dabei nicht mal einen Kratzer am Boden.
@@ -127,7 +127,7 @@ Bisher gab es dabei nicht mal einen Kratzer am Boden.
 
 Beide geliehenen Boote rochen ein wenig nach Kunststoff, aber nicht stark.
 Bei meinem frisch gekauften Nomad S1 hat aber beim Auspacken die ganze Wohnung einen Nachmittag lang nach Kunststoff gerochen.
-Im Gegensatz zum Rebel 2K sind Nähte nämlich geklebt und nicht verschweißt, wodurch der Gerucht entsteht.
+Im Gegensatz zum Rebel 2K ist der Boden nämlich zusätzlich geklebt, wodurch der Geruch entsteht.
 Selbst nach Monaten riecht es noch recht deutlich nach Kunststoff, wenn ich das eingepackte Boot mal in die Hand nehme.
 Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
 
