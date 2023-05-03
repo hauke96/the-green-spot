@@ -81,10 +81,12 @@ The floor of both models is made of 840D Nylon (old variants came with 820D and 
 ## Fin & spraydeck
 
 As shown in the table above: The Rebel 2K has Fin and spraydeck.
-The Nomad S1 **Light** has neither, but you can manually add a mount for a fin.
+The Nomad S1 **Light** has no spraydeck, a mount for a fin but the fin is not included.
 
 A spraydeck can **not** be added to the Nomad S1 Light.
 However, the normal Nomad S1 has both, a fin and spraydeck.
+
+Mount and fin can of course be bought for a decent price.
 
 ## Storage
 
