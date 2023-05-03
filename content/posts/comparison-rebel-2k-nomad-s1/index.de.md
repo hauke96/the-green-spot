@@ -42,15 +42,15 @@ Hier die Eckdaten der Touren:
 
 Eine komplette Übersicht gibt es in einer [netten PDF-Datei](https://www.packrafting-store.de/images/content/VT_DE.pdf) vom Packrafting Store, hier aber eine kleine Zusammenfassung:
 
-| Merkmal | Anfibio Rebel 2K | MRS Nomad S1 Light|
---- | --- | ---
-| Gewicht (komplett) | 2,3 kg | 3,5 kg |
-| Länge (außen) | 231 cm | 295 cm |
-| Breite (außen) | 91 cm | 87 cm |
-| Finne | Ja | Nein (standardmäßig ohne Halterung; in der nicht-Light Variante enthalten) |
-| Spritzdecke | Ja | Nein (in der nicht-Light Variante enthalten) |
-| Schlaufen | 7 | 8 |
-| Preis[^1] | 849€ | 1099€ (nicht-Light: 1499€) |
+| Merkmal | Anfibio Rebel 2K | MRS Nomad S1 Light | MRS Nomad S1
+--- | --- | --- | ---
+| Gewicht (komplett) | 2,3 kg | 3,5 kg | 4,5 kg |
+| Länge (außen) | 231 cm | 295 cm | 295 cm |
+| Breite (außen) | 91 cm | 87 cm | 87 cm |
+| Finne | Ja | Nein (Halterung vorhanden) | Ja |
+| Spritzdecke | Ja | Nein | Ja |
+| Schlaufen | 7 | 8 | 8 |
+| Preis[^1] | [799€](https://www.packrafting-store.de/Packrafts/Anfibio-Packrafts/Anfibio-Rebel-2K::889.html?language=de) | [1099€](https://www.packrafting-store.de/Packrafts/MRS-Packrafts/MRS-Nomad-S1-light::844.html?language=de) | [1499€](https://www.packrafting-store.de/Neu/MRS-Nomad-S1-mit-Spritzdecke::799.html?language=de) |
 
 Beide Boote haben: Sitz mit Rückenlehne, viele Schlaufen für Gepäck.
 
@@ -73,7 +73,7 @@ Alle Nähte wirkten sauber verschweißt/verklebt und es gibt keine spitzen/schar
 Beide nutzen 210D Nylon mit Urethan-Beschichtung für die Schläuche, hier gibt es also keinen Unterschied.
 Gleiches bei den Sitzen, auch hier verwenden beide 210D Nylon.
 
-Der Boden ist beim Nomad S1 jedoch dicker (820D Nylon) also beim Rebel 2K (410D Nylon), einen Unterschied habe ich beim Benutzen aber nicht gemerkt.
+Der Boden ist bei beiden Modellen mittlerweile aus 840D Nylon (früher aus 820 bzw. 410D).
 
 # Ausstattung
 
@@ -106,17 +106,17 @@ Hat man nicht die Light-Variante, sondern die normale mit Spritzdecke, ist der P
 Einen größeren Wanderrucksack (wie z.B. meinen Deuter 45+10L) bekommt man hinten nicht unter, den muss man dann vorne auf das Boot binden.
 
 Beide Sitze waren in ihrer Bequemlichkeit okay, wirklich negativ (unbequem, Druckstellen, Rückenschmerken, etc.) ist mir nichts aufgefallen.
-Die Rückenlehne vom S1 ist im Gegensatz zur Lehne vom Rebel 2K aber am Boot befestigt, das gibt etwas mehr Stabilität und gefiel mir besser.
+Die Rückenlehne vom S1 ist -- im Gegensatz zur Lehne von meinem Rebel 2K damals -- am Boot mit kleinen Stangen und Riemen befestigt, das gibt etwas mehr Stabilität und gefiel mir besser.
+In der aktuellen Variante vom 2K lässt sich der Komfort-Sitz -- entgegen des kleineren Standardsitzes -- aber ebenfalls befestigen, was Sitz und Rücklehne stabilisiert.
 
-Ich hatte zudem das Gefühl im Rebel 2K wesentlich tiefer zu sitzen als im Nomad S1.
-Das ist für die Stabilität sicherlich nicht schlecht, macht aber das Paddeln schwerer/umständlicher.
-Man sollte also darauf achten ein möglichst langes Paddel zu haben, das Leihpaddel war mit 220 cm etwas kurz.
-Im S1 wäre das sicherlich noch gegangen, aber im Rebel 2K ist ein 230-240 cm Paddel sicherlich besser.
+Durch das verbesserte Design der aktuellen Rebel 2K Variante sitzt man auch hoch genug (der Sitz ist 16cm hoch) um mit einem normalen 220 cm Paddel auszukommen.
+Mein Sitz damals war niedriger, wodurch mit das Paddel etwas zu kurz war, ein 230-240 cm Paddel wäre passender gewesen.
+Beim Nomad S1 hatte ich hingegen keine Probleme, da man bei dessen Sitz ebenfalls schön hoch sitzt.
 
 ## Boden
 
-Beim Boden war ich mir echt unsicher, wie stabil der ist.
-Beide Modelle haben aber sehr dickes und stabiles Material als Boden (wie oben erwähnt 410D Nylon beim Rebel 2K und 820D beim S1).
+Bevor ich die Boote getestet habe, war ich beim Boden echt unsicher bezüglich der Stabilität.
+Diese Bedenken waren aber völlig unbegründet, denn beide Modelle nutzen sehr dickes und stabiles 840D Nylon als Boden (mein Rebel 2K damals hatte nur 410D Nylon, fühlte sich aber trotzdem sehr robust an).
 
 **Spoiler:** Inzwischen habe ich mir das S1 gekauft (in der normalen Variante) und bin damit auch schon mal knirschend über den ein oder anderen Stein gerutscht.
 Bisher gab es dabei nicht mal einen Kratzer am Boden.
@@ -125,6 +125,7 @@ Bisher gab es dabei nicht mal einen Kratzer am Boden.
 
 Beide geliehenen Boote rochen ein wenig nach Kunststoff, aber nicht stark.
 Bei meinem frisch gekauften Nomad S1 hat aber beim Auspacken die ganze Wohnung einen Nachmittag lang nach Kunststoff gerochen.
+Im Gegensatz zum Rebel 2K sind Nähte nämlich geklebt und nicht verschweißt, wodurch der Gerucht entsteht.
 Selbst nach Monaten riecht es noch recht deutlich nach Kunststoff, wenn ich das eingepackte Boot mal in die Hand nehme.
 Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
 
@@ -168,6 +169,8 @@ Hat man keine längeren Touren geplant, ist das Preis-Leistungs-Verhältnis beim
 
 Für längere Touren muss man dann ein ernstes Gespräch mit dem eigenen Geldbeutel machen und sich dann entscheiden ;)
 
+Es gibt aber durchaus Alternativen zum S1, wie z.B. das Sigma TXL oder andere hybride Packrafts, die für 1-2 Personen ausgelegt sind.
+
 # Fazit
 
 Für *mich* ist das S1 das bessere Packraft (besonders in der normalen Variante mit Spritzdecke).
@@ -179,4 +182,4 @@ Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeu
 Im August 2021 habe ich mir das Nomad S1 gekauft (die normale Variante mit Spritzdecke).
 Bisher bin ich sehr zufrieden und habe natürlich auch schon eine längere Tour gemacht, aber dazu in einem eigenen Beitrag mehr.
 
-[^1]: Stand: 25.01.2023.
+[^1]: Stand: 03.05.2023.
