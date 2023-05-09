@@ -36,7 +36,6 @@ file="the-green-spot_$date_str.zip"
 cd public 
 zip -q -r -9 ../$file ./*
 cd ..
-echo
 ls -alh $file
 
 hline "3. Login into server"
