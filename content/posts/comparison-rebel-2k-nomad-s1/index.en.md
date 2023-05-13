@@ -41,7 +41,7 @@ Here are some basic information about the tour:
 
 A complete overview can be found in a [nice PDF file](https://www.packrafting-store.de/images/content/CC_EN.pdf) from the Packrafting Store, but here's a summary:
 
-| Property | [Anfibio Rebel 2K](https://www.packrafting-store.de/Packrafts/Anfibio-packrafts/Anfibio-Rebel-2K::889.html?language=en) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-packrafts/MRS-Nomad-S1-light::844.html?language=en) | [MRS Nomad S1](https://www.packrafting-store.de/New/MRS-Nomad-S1-with-Spraydeck::799.html?language=en)
+| Property | [Anfibio Rebel 2K](https://www.anfibio.com/en/packrafting-gear/packrafts/rebel-2k/) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-packrafts/MRS-Nomad-S1-light::844.html?language=en) | [MRS Nomad S1](https://www.packrafting-store.de/New/MRS-Nomad-S1-with-Spraydeck::799.html?language=en)
 --- | --- | --- | ---
 | Weight (complete) | 2.3 kg / 5l bs | 3.5 kg / 7.7 lbs | 4.5 kg / 9.9 lbs |
 | Length (outside) | 231 cm / 7' 7" | 295 cm / 9' 8" | 295 cm / 9' 8" |
