@@ -42,7 +42,7 @@ Hier die Eckdaten der Touren:
 
 Eine komplette Übersicht gibt es in einer [netten PDF-Datei](https://www.packrafting-store.de/images/content/VT_DE.pdf) vom Packrafting Store, hier aber eine kleine Zusammenfassung:
 
-| Merkmal | [Anfibio Rebel 2K](https://www.packrafting-store.de/Packrafts/Anfibio-Packrafts/Anfibio-Rebel-2K::889.html?language=de) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-Packrafts/MRS-Nomad-S1-light::844.html?language=de) | [MRS Nomad S1](https://www.packrafting-store.de/Neu/MRS-Nomad-S1-mit-Spritzdecke::799.html?language=de)
+| Merkmal | [Anfibio Rebel 2K](https://www.anfibio.com/packrafting-gear/packrafts/rebel-2k/) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-Packrafts/MRS-Nomad-S1-light::844.html?language=de) | [MRS Nomad S1](https://www.packrafting-store.de/Neu/MRS-Nomad-S1-mit-Spritzdecke::799.html?language=de)
 | --- | --- | --- | ---
 | Gewicht (komplett) | 2,3 kg | 3,5 kg | 4,5 kg |
 | Länge (außen) | 231 cm | 295 cm | 295 cm |

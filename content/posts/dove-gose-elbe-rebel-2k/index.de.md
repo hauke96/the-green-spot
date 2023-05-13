@@ -10,7 +10,7 @@ images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern gehen kann (zumindest keine langen Touren mit schwerem Gepäck), plane ich eine längere Paddeltour.
 Ein leichtes Packraft scheint mir dafür genau die richtige Wahl zu sein um es später auch mal auf Wanderungen mit zu nehmen.
 
-Um aber nicht die Katze im Sack zu kaufen, habe ich mir zunächst das **[Anfibio Rebel 2K](https://www.packrafting-store.de/Packrafts/Anfibio-Packrafts/Anfibio-Rebel-2K::889.html?language=de)** für ein Wochenende über [packrafting-store.de gemietet](https://www.packrafting-store.de/Vermietung:::34.html).
+Um aber nicht die Katze im Sack zu kaufen, habe ich mir zunächst das **[Anfibio Rebel 2K](https://www.anfibio.com/packrafting-gear/packrafts/rebel-2k/)** für ein Wochenende über [packrafting-store.de gemietet](https://www.packrafting-store.de/Vermietung:::34.html).
 
 # Die Route
 

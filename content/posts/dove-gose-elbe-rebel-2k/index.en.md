@@ -10,7 +10,7 @@ images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
 Due to medical reasons at the time of this article, I'm not able to do hikes with heavy backpacks, so I'm planning a longer boat tour.
 A light packraft is probably the best choice since I can just take it with me on a hike.
 
-To not buy a pig in a poke, I rented the **[Anfibio Rebel 2K](https://www.packrafting-store.de/Packrafts/Anfibio-packrafts/Anfibio-Rebel-2K::889.html?language=en)** for one weekend via [packrafting-store.de](https://www.packrafting-store.de/Rentals:::34.html?language=en).
+To not buy a pig in a poke, I rented the **[Anfibio Rebel 2K](https://www.anfibio.com/en/packrafting-gear/packrafts/rebel-2k/)** for one weekend via [packrafting-store.de](https://www.packrafting-store.de/Rentals:::34.html?language=en).
 
 # The tour
 
