@@ -5,6 +5,7 @@ tags: ["iceland"]
 author: "hauke"
 images: ["images/iceland/DSC00515_1600.JPG"]
 summary: "All posts regarding our Iceland 2018 trip."
+aliases: ["iceland-2018"]
 ---
 
 {{< imgScale "images/iceland/DSC00515_1600.JPG" "This was taken on out third day suring my first Iceland trip in 2018. This was right after crossing the Fremri-Emstruá having the glacier Entujökull in the background." "500x" >}}
