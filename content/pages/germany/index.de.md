@@ -13,7 +13,8 @@ Hier findest du alle Artikel und Seiten, die sich in Deutschland abspielen.
 
 # Tourenberichte
 
-* [Mehrtages Paddeltour auf der Ems]({{< ref "/posts/ems-paddling-2021" >}}): Eine mehrtägige Paddeltour auf der Ems.
-* [Thüringer Wald]({{< ref "/posts/thueringer-wald-2022-report" >}}): Eine Mehrtagestour auf dem Rennsteig im Thüringer Wald.
+* [Auf der Schwentine von Plön nach Preetz]({{< ref "/posts/schwentine-paddling-2023" >}}): Kurze eintägige Tour auf der Schwentine von Plön nach Preetz.
 * [Besteigung Zugspitze]({{< ref "/posts/zugspitze-2022" >}}): Mein Versuch im November die Zugspitze zu besteigen.
+* [Thüringer Wald]({{< ref "/posts/thueringer-wald-2022-report" >}}): Eine Mehrtagestour auf dem Rennsteig im Thüringer Wald.
+* [Mehrtages Paddeltour auf der Ems]({{< ref "/posts/ems-paddling-2021" >}}): Eine mehrtägige Paddeltour auf der Ems.
 * [Dove und Gose Elbe Rundtour]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}): Paddeltour auf der Dove und Gose Elbe bei Hamburg.
