@@ -13,6 +13,7 @@ Paddling is like trekking ... but on water and not by foot and without a backpac
 
 # Posts
 
+* [On the Schwentine from Plön to Preetz]({{< ref "/posts/schwentine-paddling-2023" >}}): Simple single-day trip on the Schwentine river from Plön to Preetz.
 * [Multiday paddling tour on the Ems]({{< ref "/posts/ems-paddling-2021" >}}): A multi-day paddling tour on the Ems river.
 * [Dove and Gose Elbe roundtrip]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}): A nice paddling tour in the Dove and Gose Elbe rivers near Hamburg.
 * [Comparison: Anfibio Rebel 2K vs. MRS Nomad S1 Light]({{< ref "/posts/comparison-rebel-2k-nomad-s1" >}}): I rented both packrafts, took a tour and compare them here.

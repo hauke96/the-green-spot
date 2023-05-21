@@ -157,6 +157,11 @@ For vertical photos:
 convert -resize x1600 -auto-orient -quality 75 DSC00835.JPG DSC00835_1600.JPG
 ```
 
+Convert all pictures at once:
+```bash
+for f in ./*; do convert -resize 1600x -quality 75 $f "${f%.*}_1600.jpg"; done
+```
+
 Print all JPG names with qualities above 75%:
 ```bash
 for f in ./*; do q=$(identify -format '%Q' $f) && if [[ $q > 75 ]]; then echo "$f  ==>  $q"; fi; done
