@@ -4,12 +4,14 @@ summary: "Ich begegne immer wieder Vorurteilen, Mythen, Missverständnissen, Unw
 date: "2023-01-30T21:04:00+01:00"
 tags: ["wandern"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03727_1600.JPG"]
+images: ["images/thueringer-wald-2022-report/DSC03752_1600.JPG"]
 ---
 
 Ich begegne immer wieder Vorurteilen, Mythen, Missverständnissen, Unwissen und Ängsten gegenüber Wandern.
 Hier also eine Sammlung verschiedener Dinge, von denen ich gehört habe und meine Einschätzung dazu.
 Ich versuche die Liste laufend zu aktusliesieren und zu erweitern.
+
+{{< imgScale "images/thueringer-wald-2022-report/DSC03752_1600.JPG" "Viele Voruteile, Falschinformationen und Mythen gibt es runs ums Thema Wandern." "350x" >}}
 
 ## Allgemeines
 
@@ -37,7 +39,7 @@ Eine Wanderung muss auch nicht mehrere Tage dauern, auch eintägige Wanderungen 
 
 **Wandern ist nur was für alte Menschen.**
 
-Ganz im Gegenteil:
+Ganz im Gegenteil!
 Nicht nur Kinder haben in der Regel Spaß im Freien, auch für junge Erwachsene ist Wandern definitiv etwas.
 
 **Ich bin zu alt zum Wandern.**
@@ -48,7 +50,7 @@ Neben vielen jungen Menschen, Familien und Wandergruppen, begegnen mir auch imme
 **Ich bin zu unsportlich/untrainiert zum wandern.**
 
 Man muss nicht komplett durchtrainiert sein, um wandern zu können.
-Wie oben erwähnt, sind die meisten markierten Wege eher leicht und üblicherweise gibt es in einer Gegend viele Wege verschiedener Längen.
+Wie bereits erwähnt, sind die meisten markierten Wanderwege relativ einfach und in deiner Gegend gibt bestimmt auch Wanderwege von passender Schwierigkeit und Länge für dich.
 
 **Wandern ist entspannend/meditativ.**
 
@@ -56,8 +58,8 @@ Nein.<br>
 Bei schönem Wetter auf einem mittel-leichten Wanderweg durch schöne Landschaft -- vielleicht.
 Das ist jedoch eher selten der Fall, vor allem, wenn man häufiger und länger (über mehrere Tage) wandern geht.
 
-Geht man das Thema Wandern ernsthaft an, sollte man sich daran gewöhnen zu leiden und es auch lieben zu lernen.
-Ich persönlich gehe mittlerweile am liebsten bei Regen und <10 °C wandern -- dann sind kaum andere Menschen unterwegs.
+Geht man das Thema (mehrtägiges) Wandern ernsthaft an, sollte man sich daran gewöhnen etwas zu leiden und es auch lieben zu lernen.
+Ich persönlich gehe mittlerweile am liebsten bei Regen und <10 °C wandern -- dann sind kaum andere Menschen unterwegs und es ist etwas anspruchsvoller.
 
 **Da draußen sind viele Psychopathen unterwegs.**
 
@@ -67,6 +69,7 @@ Es gibt natürlich komische Menschen da draußen und vielleicht in den USA mehr 
 **Heute ist das Wetter zu schlecht zum Wandern.**
 
 Es gibt kein schlechtes Wetter, nur unpassende Kleidung!
+Dennoch ist es vielleicht keine gute Idee während eines Orkans im Wald zu wandern ;)
 
 **Niemals alleine wandern gehen!**
 
@@ -80,6 +83,8 @@ Wenn du solch eine Erfahrung gemacht hast, hast du etwas falsch gemacht.
 Ein Zelt ist kein 5-Sterne-Hotel, aber auf seine eigene Art und Weise eine wunderbare Unterkunft.
 
 ## Ausrüstung
+
+{{< imgScale "images/thueringer-wald-2022-report/DSC03740_1600.JPG" "In der Regel braucht man nicht viel für eine einfache Wanderung." "350x" >}}
 
 **Wandern ist kostenlos.**
 
@@ -99,6 +104,7 @@ Kein Witz, die *Therme SV Parka* Winterjacke für Herren von Arc'teryx kostete z
 
 Viele denken dabei eher an teure Ausrüstung.
 Je hochwertiger die Ausrüstung, desto besser, teuer muss das nicht immer sein.
+Die meisten Marken sind überbewertet und überteuert.
 
 **Ohne Profi-Equipment braucht man gar nicht erst anzufangen.**
 
@@ -113,8 +119,7 @@ Ich selbst mache z.B. Tagestouren in Alltagskleidung, nur meine Wanderschuhe mit
 **Ach, die kleine Flasche Wasser reicht bestimmt.**
 
 Nein.<br>
-Egal ob Winter oder Sommer, nimm lieber etwas mehr Wasser mit.
-Gerade im Sommer sollte man daran nicht sparen.
+Egal ob Winter oder Sommer, nimm lieber etwas mehr Wasser mit -- gerade im Sommer!
 
 **Spezielle Outdoor-Nahrung wird überschätzt.**
 
@@ -134,8 +139,9 @@ Wenn überhaupt, kann ein Mangel an Magnesium zu Krämpfen führen, das wars abe
 **Ich habe ja meine Regenjacke mit, also werde ich nicht nass.**
 
 Haha, doch, du wirst nass.
-Regenjacken haben eine gewisse Wassersäule, die suggeriert, dass das Material komplett wasserdicht ist -- ist es aber nicht.
-Wandert man einen ganzen Tag im Regen, ist man danach nass.
+
+Der Begriff "wasserdicht" suggeriert, dass das Material komplett wasserdicht ist -- ist es aber nicht.
+Regenjacken haben eine gewisse Wassersäule, aber wandert man einen ganzen Tag im Regen, ist man danach nass.
 Nicht überall und vielleicht nur ein bisschen an den Nähten der Jacke, aber nass.
 
 **Schafs-, Merino-, Baum- oder Alpaka-Wolle? Wolle ist Wolle.**
@@ -143,7 +149,7 @@ Nicht überall und vielleicht nur ein bisschen an den Nähten der Jacke, aber na
 Nein!<br>
 Im Englischen gibt es den Spruch *cotton kills*, also *Baumwolle tötet*.
 Verglichen mit echter Wolle bietet Baumwolle bei Nässe keine Isolation mehr.
-Unterschiede zwischen den anderen Wollarten gibt es zudem auch noch.
+Unterschiede zwischen den anderen Wollarten gibt es zudem auch noch, die auf jeden Fall Baumwolle vorgezogen werden sollten.
 
 **Ohne mein atmungsaktives Funktions-Merino-Viskose-Shirt gehe ich nicht aus dem Haus.**
 

@@ -32,7 +32,7 @@ Hier die Routen, dich ich mir angeschaut habe:
 
 1. **Rundtour Eibsee**: Vom Eibsee über den Stopselzieher zur Zugspitze und zurück. Länge rund 18 km, sowie 2 km An- und abstieg.
 2. **Eibsee → Zugspitze → Ehrwald** (oder andersrum): Alternativ zur ersten Route kann man auch den Abstieg nach Ehrwald machen (oder Aufstieg von Ehrwald und Abstieg zum Eibsee). Verkürzt die Route um ca. 1,5 km auf 16,5 km.
-3. **Höllental → Riffelscharte → Eibsee/Ehrwald**: Keine Zugspitzbesteigung! Von Hammersbach aus zur Höllentalangerhütte und über die Riffelscharte dann wahlweise zum Eibsee (insgesamt ca. 15 km) oder nach Ehrwald (insgesamt ca. 19 km).<br>**Achtung!** Das komplette Höllental samt Stangensteig ist im Winter nicht begehbar, da geschlossen und Brücken abgebaut werden!
+3. **Höllental → Riffelscharte → Eibsee/Ehrwald**: Keine Zugspitzbesteigung! Von Hammersbach aus zur Höllentalangerhütte und über die Riffelscharte dann wahlweise zum Eibsee (insgesamt ca. 15 km) oder nach Ehrwald (insgesamt ca. 19 km).<br>**Achtung!** Das komplette Höllental (samt Stangensteig) ist im Winter nicht begehbar! Wege sind gesperrt und Brücken abgebaut!
 5. **Rundtour Ehrwald**: Von Ehrwald über den Stopselzieher zur Zugspitze und zurück. Länge rund 16 km, sowie 2 km An- und Abstieg.
 
 Ich entschied mich für **Route 4**, da diese am kürzesten ist und der Anfang auf der West-/Südseite verläuft.
@@ -78,10 +78,10 @@ Ein paar Worte der Warnung:
 	2. Nebensaison: Kaum jemand ist unterwegs, man ist größtenteils komplett alleine (ist zwar schön, im Notfall aber ungünstig).
 	3. Wetter: Wie oben erwähnt, liegt definitiv Schnee und man sollte auf Temperaturen unter 0° C gefasst sein.
 2. **Klettersteig**: Auch, wenn der Stopselzieher als leicht, K1/K2 oder A/B klassifiziert ist, sollte man natürlich die eigenen Grenzen kennen. Der Aufstieg ist anstrengend und fühlt man sich bereits beim Georg-Jäger-Steig erschöpft, dreht um! Ich möchte hier die [Liste der Todesfälle an der Zugspitze](https://de.wikipedia.org/wiki/Liste_von_Todesf%C3%A4llen_an_der_Zugspitze) erwähnen -- 2012 war das letzte Jahr, in dem niemand beim Besteigen der Zugspitze gestorben ist!
-3. **Kontaktdaten**: Vergesst nicht eure Kontaktdaten, sowie der Routenverlauf bei Verwandten und Freunden zu hinterlegen. Sagt ihnen auch Bescheid, wenn ihr eure Tour beendet habt.
+3. **Kontaktdaten**: Vergesst nicht eure Kontaktdaten, Dauer der Tour und den Routenverlauf bei Hotel/Campingplatz Personal, Verwandten und Freunden zu hinterlegen. Sagt ihnen Bescheid, wenn ihr eure Tour beendet habt.
 
 Wenn du im Winter den Stopselzieher (oder auch eine andere Route) angehst: Mache dich mit dem Gedanken vertraut, vorher abzubrechen und umzukehren und plane das in die Route mit ein.
-Gehe keine zu großen Risiken ein!
+Gehe keine unnötigen Risiken ein!
 
 # Anreise
 
