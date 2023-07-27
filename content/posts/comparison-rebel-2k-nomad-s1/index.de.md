@@ -10,8 +10,8 @@ images: ["thumb.jpg"]
 Im Bericht über meine [Tour mit dem **Anfibio Rebel 2K**]({{< ref "/posts/dove-gose-elbe-rebel-2k" >}}) habe ich ja bereits ein wenig etwas über das Rebel 2K geschrieben.
 Kurz danach habe ich die identische Tour auch einmal mit dem **MRS Nomad S1 Light** gemacht.
 
-Das S1 gibt es in zwei Varianten, die Light-Variante und die normale Variante.
-Ich habe zwar die Light-Variante gemietet, gehe unten aber auch auf die Unterschiede zur normalen Variante ein.
+Das S1 gibt es in einer Light- und einer normalen Variante.
+Ich habe die Light-Variante gemietet, gehe unten aber auch auf die Unterschiede zur normalen Variante ein (die ich mittlerweile besitze).
 
 **Spoiler Alert**: Das Nomad S1 gefällt mir besser. Warum dem so ist, erfährst du unten ;)
 
@@ -129,7 +129,7 @@ Beide geliehenen Boote rochen ein wenig nach Kunststoff, aber nicht stark.
 Bei meinem frisch gekauften Nomad S1 hat aber beim Auspacken die ganze Wohnung einen Nachmittag lang nach Kunststoff gerochen.
 Im Gegensatz zum Rebel 2K ist der Boden nämlich zusätzlich geklebt, wodurch der Geruch entsteht.
 Selbst nach Monaten riecht es noch recht deutlich nach Kunststoff, wenn ich das eingepackte Boot mal in die Hand nehme.
-Unschön, aber seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
+Unschön, aber der Geruch verschwindet irgendwann und seien wir ehlich: Das Boot besteht zu 100% aus Plastik, also was habe ich erwartet?
 
 # Fahrverhalten
 
@@ -143,7 +143,7 @@ Für rauere Gewässer (Richtung Wildwasser), ist das Rebel 2K sicherlich besser 
 Es hat wirklich Spaß gemacht mit einem kräftigen Paddelschlag sich einmal komplett drehen zu können, das ging mit dem S1 nicht ganz.
 Touren, die länger oder über mehrere Tage gehen, würde ich jedoch lieber mit dem Nomad S1 machen.
 
-Bei beiden Booten fühlte ich mich aber sicher und hatte keine Angst zu kentern.
+Dennoch liegen beide Boote stabil im Wasser und ich hatte keine Angst zu kentern.
 
 # Geschwindigkeit
 
@@ -183,6 +183,9 @@ Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeu
 ## Nachtrag
 
 Im August 2021 habe ich mir das Nomad S1 gekauft (die normale Variante mit Spritzdecke).
-Bisher bin ich sehr zufrieden und habe natürlich auch schon eine längere Tour gemacht, aber dazu in einem eigenen Beitrag mehr.
+Bin sehr zufrieden mit der Wahl und habe natürlich auch schon längere Tourn gemacht, dazu aber in eigenen Beiträgen mehr:
+
+* [Mehrtägige Tour auf der Ems]({{< ref "/posts/ems-paddling-2021" >}})
+* [Eintägige Tour auf der Schwentine]({{< ref "/posts/schwentine-paddling-2023" >}})
 
 [^1]: Stand: 03.05.2023.
