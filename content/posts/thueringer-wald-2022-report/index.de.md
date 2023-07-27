@@ -2,7 +2,7 @@
 title: "Rennsteig - Thüringer Wald im April 2022"
 summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu bewandern. Mit Tarp und kleinem Gepäck ging es einige Tage durch den Thüringer Wald, schöne Aussichten, tolle Erlebnisse und nette Bekanntschaften inklusive."
 date: "2023-01-17T21:23:49+01:00"
-tags: ["wandern", "rennsteig", "thueringer-wald", "tarp"]
+tags: ["wandern", "rennsteig", "thueringer-wald", "tarp", "deutschland"]
 author: "hauke"
 images: ["images/thueringer-wald-2022-report/DSC03737_1600.JPG"]
 ---
@@ -22,7 +22,7 @@ Erst im Nachhinein habe ich erfahren, dass meine geplante Tour ziemlich genau --
 Also dann eben der Rennsteig im Thüringer Wald.
 
 Entsprechend habe ich nicht sehr viel Arbeit in die Planung gesteckt.
-Die Route biegt hauptsächlich zum [Bärengrund](#baerengrund) einmal ab (siehe "Camp 2" auf der Karte oben), aber ansonsten bin ich dem Rennsteig gefolgt.
+Die Route macht nur zum [Bärengrund](#baerengrund) einen Abstecher (siehe "Camp 2" auf der Karte oben), folgte aber sonst dem Rennsteig.
 
 Aufgrund meines beschränkten Urlaubs hatte ich drei Nächte im Freien eingeplant, sowie zusätzlich eine Nacht im Eisenach und zwei Nächte in Meiningen zum gemütlichen Ausklang.
 Hier soll es aber nur um die Wanderung gehen.
@@ -41,7 +41,7 @@ Als Stützen habe ich meine Wanderstöcke genommen.
 {{< imgScale "images/thueringer-wald-2022-report/backpack.JPG" "Mein Rucksack mit zwei Wasserflaschen an der Seite, wasserdichtem Beutel und Tarp links daneben." "333x" >}}
 
 An Kleidung hatte ich natürlich eine lange Hose, Wanderschuhe, Wandersocken und eine Regenjacke mit.
-Dazu normale T-Shirts und zwei/drei Paar Unterhosen und dünne und dicke Socken.
+Dazu normale T-Shirts und drei Paar Unterhosen und dünne und dicke Socken.
 Ich fahre die 2-Socken-Strategie (dünne Sneaker-Socken und darüber dicke Wandersocken).
 
 Zum schlafen meine *Ultralight Air Mat* (sehr zu empfehlen!) von Sea To Summit und einen Sommerschlafsack von Frilufts.
@@ -244,7 +244,7 @@ Trotz des fertigen Wanderweges aus der Tüte mit viel Infrastruktur, touristisch
 
 Man merkte aber an vielen Stellen, dass der Wald genutzt und Bäume großflächig gefällt werden.
 Solche Passagen sind natürlich nicht schön zu bewandern.
-Aber Stellen wie die [Drachenschlucht](#drachenschlucht), der [Inselberg](#grosser-inselberg) oder sonstige Aussichtspunkte und -türme, machen das wieder wett.
+Aber Stellen wie die [Drachenschlucht](#drachenschlucht), der [Inselberg](#grosser-inselberg), [Bärengrund](#baerengrund) oder die ganzen Aussichtspunkte und -türme, machen das wieder wett.
 
 **Also:**<br>
 Definitiv eine Reise wert und vielleicht mache ich irgendwann den Rest vom Rennsteig auch noch.
