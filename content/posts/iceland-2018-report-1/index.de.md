@@ -1,6 +1,6 @@
 ---
 title: "Island 2018: Reisebericht (Teil 1)"
-summary: "Die ersten drei Tage unserer Reise waren für uns sehr aufregend und wir haben bereits hier so einiges erlebt."
+summary: "Im Sommer 2018 waren wir drei Wochen am Stück im isländischen Süden wandern. Bereits die ersten paar Tage waren sehr ereginisreich."
 date: "2019-04-15T21:25:03+02:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
@@ -53,10 +53,15 @@ Die Fahrt dauerte ca. 45 Minuten und wir haben bereits erste Eindrücke bekommen
 
 Angekommen sind wir dann am BSÍ, dem zentralen Busbahnhof in Reykjavík.
 Direkt am BSÍ gibt es eine N1-Tankstelle bei der wir Spiritus für unseren Kocher kaufen wollten.
-Da wir mit dem isländischen Begriffen nicht vertraut waren (unbedingt grundlegende Vokabeln und Produktnamen kennen!) und es mehrere potentielle Spiritus Flaschen gab, haben wir einen Verkäufer gefragt.
+Da wir mit dem isländischen Begriffen nicht vertraut waren und es mehrere potentielle Spiritus Flaschen gab, haben wir einen Verkäufer gefragt.
 Dieser riet uns zu "Grill Vökni", wovon wir drei Flaschen (jeweils 642ISK/ca. 5€) kauften.
 Später stellte sich heraus, dass es wohl Petroleum/Lampenöl ist.
 Kauft kein "Grill Vökni" für einen Benzin/Spiritus Kocher!
+
+{{< note >}}
+**Lesson learned**:<br>
+Unbedingt grundlegende Vokabeln und Produktnamen kennen!
+{{< /note >}}
 
 ## Einkaufen in der Stadt
 Motiviert und sehr glücklich, gingen wir mit unserem ca. 30kg schweren Rucksäcken in die Stadt.
@@ -100,7 +105,7 @@ Dort haben wir dann drei Flaschen von "Coleman Bensin" (jeweils 1790ISK/ca. 14,3
 Ziemlich teuer aber nun gut, wir waren hungrig, nervös, es war spät und wir mussten am nächsten Tag früh raus.
 
 {{< note >}}
-Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- eigentlich ist **white spirit** Spiritus aber vielleicht auch Petroleum/Lampenöl? ...
+Richtiger Spiritus heißt **rodspirit/rödspirit**, **bensin** oder auch **vinandi** -- die ersten Flaschen, die wir kauften, waren Petroleum/Lampenöl, die zweiten Reinigungsbenzin ...
 {{< /note >}}
 
 Das Zeug hat ganz schön gerußt (war wohl irgendwas in Richtung Waschbenzin?), aber dafür funktionierte es sehr gut.
@@ -109,7 +114,7 @@ Wir haben es immer mit etwas Wasser verdünnt (je nach Temperatur und Wind), wod
 Ganz ohne Wasser war die Flamme viel zu hoch und stark, sodass selbst der Deckel vom Kocher das Feuer nicht löschen konnte!
 
 Nach der Mahlzeit sind wir direkt eingeschlafen und haben festgestellt, dass es gar nicht dunkel wurde.
-Ein kleiner Schahl, den man sich um die Augen binden kann, ist im isländischen Sommer also sehr nützlich!
+Ein kleiner Schal oder eine Maske um die Augen zu verdecken ist im isländischen Sommer also sehr nützlich!
 
 # Tag 2: Reykjavík → Þórsmörk → Bjórgil
 {{< smallDate "2018-07-19" >}}
@@ -185,7 +190,7 @@ Aber nur, wenn man mal den Wanderweg verlassen hat!
 {{< imgScale "images/iceland/DSC00493_1600.JPG" "Diese Aussicht auf den Markarfljót konnte man nur genießen, wenn man den Laugavegur verlassen hat." "500x r90" >}}
 
 Die Brücke über den Fremri-Emstruá war etwas abenteuerlich und die Hänge sehr steil.
-Danach sind wir _nicht_ wie die meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
+Danach sind wir nicht wie die meisten den Hang hinauf zum Campinglatz Botnar, sondern rechts abgebogen und in Richtung des Gletschers Entujökull gelaufen.
 
 {{< imgScale "images/iceland/DSC00509_1600.JPG" "Die Brücke über den Fremri-Emstruá war sehr abenteuerlich." "500x r90" >}}
 
