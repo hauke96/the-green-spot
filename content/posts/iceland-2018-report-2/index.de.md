@@ -1,6 +1,6 @@
 ---
 title: "Island 2018: Reisebericht (Teil 2)"
-summary: "Endlich ging es fern ab jeglicher Zivilisation weiter und die Landschaft wurde immer interessanter und schöner. Neben schönen Wasserfällen und Flüssen gab es allerdings auch schlechtes Wetter und Treibsand."
+summary: "Nachdem wir die Zivilisation hinter uns gelassen haben, wurde die Landschaft immer interessanter und schöner. Neben schönen Wasserfällen und Flüssen gab es allerdings auch schlechtes Wetter und Treibsand."
 date: "2019-12-08T12:29:08+01:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
@@ -34,7 +34,7 @@ Weiter entlang der Klippe gab es noch weitere Wasserfälle, aber dieser was am n
 Das Wasser war unglaublich kalt, aber es tat gut sich zu waschen und frische Wäsche anzuziehen.
 
 Die nasse Wäsche haben wir außen an unsere Rucksäcke gebunden, in der Hoffnung sie würde etwas trocknen.
-Leider regnete es leicht.
+Leider find es direkt an leicht zu regnen.
 
 ## Aufstieg
 Der Aufstieg war -- wie zu erwarten -- sehr anstrengend, vor allem das Gewicht der Rucksäcke machte uns zu schaffen.
@@ -73,8 +73,9 @@ Dort war der Boden nicht ganz so steinig, dafür aber etwas sandig.
 Wir haben uns für 6 Uhr morgens einen "Luscher-Wecker" gestellt um mal aus dem Zelt zu luschern ob der Nebel noch da ist.
 Es war leider noch genau so nebelig wie am Abend zuvor, also haben wir uns noch mal hingelegt und sind gemütlich um 8 Uhr aufgestanden.
 Als wir dann unser Zelt zusammen gepackt haben, war es schon nicht mehr so nebelig.
-Nach wir ein paar Meter gewandert sind, stellten wir fest, dass unser Zelt ca. 50 Meter von dem geplanten Fluss entfernt stand.
-Die Sicht war also wirklich nicht gut ;)
+Nach wir ein paar Meter gewandert sind, haben wir direkt den Fluss gefunden, den wir am Vortag gesucht hatten.
+Er war ca. 50 Meter von unserem Zelt entfernt.
+Die Sicht war wirklich nicht gut ;)
 
 ## Der Ar***loch-Fluss
 Etwas weiter kamen wir dann am Fluss Innri-Emstruá an.
@@ -134,7 +135,7 @@ Unseren Beinen und Füßen hat man nach dem Furten die mangelnde Durchblutung an
 Ich hatte zudem nach diesem Fluss ca. ein halbes Jahr lang **taube Zehen**.
 
 {{% note %}}
-Die Gefahr einer leichten Erfrierung ist also durchaus real und sollte nicht unterschätzt werden!
+Die Gefahr einer leichten Erfrierung oder Unterkühlung ist also durchaus real und sollte nicht unterschätzt werden!
 {{% /note %}}
 
 ## Endlose Weite auf der Mælifellsandur
@@ -152,7 +153,7 @@ Vereinzelt kamen uns Bäche entgegen, die wir allerdings überqueren konnten ohn
 
 {{< imgScale "images/iceland/DSC00580_1600.JPG" "Sehr breit aber auch sehr flach: Durch manche Bäche konnten wir einfach so durchlaufen." "500x" >}}
 
-Kurz vor dem Mælifell kamen wir an einen etwas größeren Fluss -- vermutlich der Brennivínskvísl -- den wir noch überqueren mussten.
+Kurz vor dem Mælifell kamen wir am Brennivínskvísl an, einen etwas größeren Fluss den wir noch überqueren mussten.
 Danach waren wir nach ca. sieben Stunden sandiger Ebene endlich da: Am Mælifell, einer der Highlights unserer Reise.
 
 {{< imgScale "images/iceland/DSC00623_1600.JPG" "Der Mælifell von der F210 aus gesehen." "500x" >}}
@@ -176,7 +177,7 @@ Nachdem wir ausgeschlafen hatten sind wir einen naheliegenden Hügel hinauf und 
 {{< imgScale "images/iceland/DSC00635_1600.JPG" "Ganz links der in Regen gehülle Brennivínskvísl, rechts der Gletscher Öldufellsjökull und mittig der Mælifell." "500x" >}}
 
 Uns wurde gesagt, dass der Handyempfang auf Hügeln besser sein soll.
-Das stimmte leider nur meistens und nach Murphy’s Law genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
+Das stimmte leider nur meistens und nach "Murphy’s Law" genau dann *nicht*, wenn man eine SMS an Verwandte abschicken möchte.
 
 {{< imgScale "images/iceland/DSC00376_1600.JPG" "Ich, wie ich versuche eine SMS zu senden." "500x" >}}
 
