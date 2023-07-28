@@ -8,17 +8,22 @@ images: []
 ---
 
 Für diesen Artikel bin ich viele wissenschaftliche Arbeiten ("Paper") durchgegangen und habe mir angeschaut was der Stand der Wissenschaft zum Thema Blasen ist.
-Dieser Artikel ist also eine Art Zusammenfassung der wissenschaftlichen Erkenntnisse.
+Dieser Artikel ist also eine Art Zusammenfassung der wissenschaftlichen Erkenntnisse, weswegen es ein paar Dinge zu beachten gibt:
 
-Alle Quellen sind unten angegeben.
-Die Paper wurden nicht zufällig irgendwo her genommen, sondern sind valide und häufig zitierte Werke angesehener Wissenschaftler.
+1. Alle benutzten Quellen sind angegeben und unten angegeben.
+2. Die Paper wurden nicht zufällig irgendwo her genommen, sondern sind valide und häufig zitierte Werke angesehener Wissenschaftler.
+3. Die genannten Paper referenzieren selbst weitere Paper, die ich entsprechend hier nicht aufgenommen habe. Nur weil ich ein Paper als Quelle angebe, heißt es nicht, dass dies das einzige Paper mit den Erkenntnissen ist.
+
+### In Kürze
+
+// TODO
 
 ## Biologiestunde: Was sind Blasen?
 
 Blasen sind allgemein Holräume zwischen Hautschichten, die sich mit Flüssigkeite gefüllt haben.
 In diesem Artikel geht es aber nur um Reibungsblasen, also nicht z.B. um Brandblasen.
 
-Die Haut besteht aus verschiedenen Schichten, Blasen entstehen aber nur in der *stratum spinosum* Schicht [[1]](#ref1).
+Die Haut besteht aus verschiedenen Schichten, Blasen entstehen aber nur in der *stratum spinosum* Schicht TODO.
 
 {{< imgScale "images/blisters-science/Blausen_0353_Epidermis.jpg" "Die Struktur der Epidermis. Blasen entstehen in der *stratum spinosum* Schickt. [© Wikimedia BruceBlaus](https://commons.wikimedia.org/wiki/File:Blausen_0353_Epidermis.png) ([CC-BY 3.0](https://creativecommons.org/licenses/by/3.0))" "350x" >}}
 
@@ -58,16 +63,23 @@ Hat man keinerlei Beschwerden hat man eine minimale Belastung der Haut.
 
 ### Mythen
 
-#### Blasen werden durch Wärme verursacht.
+#### Blasen werden durch Reibung verursacht.
+
+Stimmt nicht so wirklich.
+Scherkräfte sind verantwortlich (s.o.), die aber bei Reibung durchaus vorhanden sind.
+Es ist allerdings nicht die Belastung der äußeren Hornhautschichten, welche die Blase verursacht.
+
+#### Blasen werden durch Wärme/"hot spots" verursacht.
 
 Nein (sofern man keine Brandblasen meint).
-Aber: Wärme sorgt für mehr Schweiß und Schweiß für höhere Scherkräfte.
+Aber: Wärme allgemein sorgt aber natürlich für mehr Schweiß und Schweiß für höhere Scherkräfte.
 
 #### Blasen werden durch Druck verursacht.
 
-Auch nein, aber hat man drückende Stellen, ist die Haut dort natürlich stärker belastet und das Risiko für Blasen steigt.
+Nicht wirklich.
+Hat man drückende Stellen, ist die Haut dort natürlich stärker belastet, Scherkräfte steigen und das Risiko für Blasen ebenfalls.
 
-## Risikofaktoren: Wie kann man Blasen vermeiden?
+## Risikofaktoren
 
 Es gibt einige Dinge, die man tun kann um Blasen zu vermeiden.
 Aber es gibt auch viele häufig belegte Risikofaktoren, die sich nicht beeinflussen lassen.
@@ -83,11 +95,9 @@ Viele weitere Studien kamen zum selben Ergebnis was die Hautfarbe angeht [[4]](#
 Das **Alter** ist, wenn auch statistisch eher wenig belastbar, ebenfalls ein Risikofaktor, in dem Fall allerdings für jüngere [[4]](#ref4).
 Zum einen könnte das ebenfalls an einer elastischeren Haut liegen, häufig sind jüngere Studienteilnehmer aber auch unerfahrener.
 
-Das **Geschlecht** zeigte sich in einigen Studien [[3]](#ref3)[[6]](#ref6) ebenfalls als Risikofaktor.
+Das **Geschlecht** zeigte sich in einigen Studien [[3]](#ref3)[[6]](#ref6)[[8]](#ref8) ebenfalls als Risikofaktor.
 Genauer gesagt zeigten Frauen leicht erhöhte Aufkommen von Blasen.
-Die Ergebnisse sind allerdings statistisch wenig belastbar und mögliche Gründe sind mir nicht bekannt.
-
-// Vorherige Blasen
+Mögliche Grüne könnten eine erhöhte Schrittanzahl, weichere Haut und auch ein unpassendes Rucksackdesign für Frauen sein.
 
 ### Persönliche Faktoren
 
@@ -106,13 +116,26 @@ Das **Körpergewicht** ist aber ebenfalls ein Risikofaktor [[4]](#ref4), wenn au
 Das Risiko geht übrigens in beide Richtungen:
 Menschen mit hohem BMI, aber insbesondere Menschen mit niedrigem BMI haben ein erhöhtes Risiko für Blasen.
 
-// Krankheit
+Die generelle **Anfälligkeit für Blasen** ist ebenfalls ein interessanter Faktor [[5]](#ref5)[[10]](#ref10).
+Mit anderen Worten: Hat man in der Vergangenheit oft Blasen bekommen, wird das auch in der Zukunft so sein.
+Das sagt natürlich nichts über die Gründe aus, vielleicht waren einfach falsche Socken in der Vergangenheit der Grund.
+Andersrum gilt das aber auch: Bekommst du nie Blasen und du änderst nichts, dann wirst du auch zukünftig wahrscheinlich keine Blasen bekommen.
+Neue Schuhe oder andere Socken sollten dann mit Bedacht gewählt werden.
 
-// Rauchen
+Ein weiterer Faktor sind **vergangene Krankheiten** (in den letzten 12 Monaten), die im Bereich der Beine lagen [[3]](#ref3)[[5]](#ref5)[[10]](#ref10).
+Es wurde leider nicht erfasst um welche Krankheiten es ging, somit lässt sich nicht aussagen warum genau dies zu mehr Blasen führt.
+
+Auch **Rauchen** führt zu einem höheren Risiko von Blasen [[3]](#ref3)[[4]](#ref4) -- neben den sonstigen bekannten Nebenwirkungen.
+Bei **Alkohol** zeigte sich jedoch kein statistisch signifikanter Effekt.
 
 ### Kleidung
 
-### Hilfsmittel
+Das **Schuhwerk** ist ebenfalls ein nennenswerter Faktor [[5]](#ref5)[[6]](#ref6).
+Besonders wie häufig man den Wanderschuh trägt hat Einfluss auf die Häufigkeit von Blasen: Je häufiger und länger man die Schuhe trägt, desto seltener bekommt man Blasen.
+Schuh und Fuß passen sich in gewisser Weise aneinander an.
+
+Gerade auch **Socken** haben einen großen Einfluss, insbesondere Baumwolle.
+Wie ein gutes Socken-System aussieht, ist unten beschrieben.
 
 ### Sonstiges
 
@@ -120,22 +143,103 @@ Die **Länge der Tour** ist selbstverständlich ein Risikofaktor [[8]](#ref8).
 Jeden Tag besteht die Change eine Blase zu entwickeln, da steigt die Gesamtwahrscheinlichkeit irgendwann während der Tour eine Blase zu bekommen natürlich mit der Dauer an.
 Allerdings: Hat man generell keine Probleme mit Blasen, bleibt diese Wahrscheinlichkeit gering.
 
-## Behandlung von Blasen
+Wie oben schon erwähnt, erhöht **Feuchtigkeit** die Scherkraft, die auf die Haut einwirkt.
+Daher sollte man darauf achten trockene Füße zu haben.
 
-### Allgemein
+## Blasen vermeiden
+
+### Risikofaktoren minimieren
+
+Sollte klar sein:
+Die oben beschriebenen Risikofaktoren sollten minimiert werden, sofern man darauf Einfluss hat.
+Wie man das am besten anstellt ist natürlich sehr individuell und kann/will ich euch hier nicht vorschreiben.
+
+### Schuhe
+
+Gute und vor allem **passende & eingelaufene Schuhe** sind wichtige Faktoren zur Vermeidung von Blasen [[2]](#ref2)[[4]](#ref4)[[5]](#ref5)[[10]](#ref10).
+Gerade das regelmäßige tragen der Schuhe ist ein wichtiger Aspekt, da sich Schuh *und* Fuß gegenseitig anpassen (nicht nur der Schuhe wird eingelaufen).
+Durch häufige Belastung passt sich insbesondere die Haut daran an, wird gestärkt und es bilden sich seltener Blasen.
+
+### Ein gutes Socken-System finden
+
+Vielversprechend ist das Finden eines geeigneten Socken-Systems.
+Dabei gibt es ein paar zur Auswahl, wie in Studien untersucht wurden.
+
+#### Kunstfasersocken
+
+Auch wenn Kunstfasern im Outdoor-Bereich nicht unbedingt gerne gesehen werden:
+**Acryl-, Polyester-, Polypropylen- oder auch Nylon-Fasern** eignen sich gut darin Blasen zu vermeiden [[2]](#ref2)[[8]](#ref8)[[9]](#ref9).
+Baumwolle sollte vermieden werden.
+
+Die Theorie bei den Kunstfasern: Sie sind hydrophob, weisen Feuchtigkeit also ab, welche vom Fuß mit dem Temperaturgefälle nach außen geleitet wird (im Englischen *wicking* genannt).
+Somit bleibt der Fuß trocken, sofern die Feuchtigkeit sich nicht im Schuh sammelt sondern irgendwo hin kann.
+
+Hydrophobe Kunstfasern erwiesen sich in den Studien als sehr erfolgreich.
+
+#### Flauschige Socken
+
+Dicke, flauschige Socken können die einwirkenden Kräfte auf die Haut etwas abfedern und verhindern so Blasen [[1]](#ref1)[[2]](#ref2)[[9]](#ref9).
+Einige Studien verwendeten aber flauschige (Strick-)Socken als Socke über einer anderen Socke (siehe "Zwei-Socken-Strategie" unten").
+Ob der Effekt also allein durch die dickere Socke kan, ist fraglich.
+
+#### Zwei-Socken-Strategie
+
+Viele Studien, die Socken-Systeme untersucht haben, haben oft auch das Tragen von zwei Socken übereinander analysiert [[1]](#ref1)[[8]](#ref8)[[9]](#ref9)[[10]](#ref10).
+Die Idee ist einfach: Die Socken reiben aneinander und geben so einen Teil der Scherkräfte ab und die Haut wird entlastet.
+
+Kunstfaser-Socken innen und Mischfasern außen, hat sich in Studien aus erfolgreich rausgestellt.
+
+### Hilfsmittel
+
+Häufig wird **Babypuder** (Talcum) empfohlen, da es Feuchtigkeit aufnimmt und so Reibung verringern soll.
+Ein positiver Effekt lässt sich jedoch nicht eindeutig nachweisen [[2]](#ref2)[[10]](#ref10).
+
+Auch gilt **Deo** (Antitranspirant) als Hilfsmittel [[2]](#ref2)[[8]](#ref8)[[10]](#ref10)[[11]](#ref11), was aber ebenfall nicht eindeutig nachgewiesen werden konnte.
+Eine Studie [[8]](#ref8) zeigte Erfolg nachdem die Teilnehmer drei Nächte vor der Aktivität die kompletten Füße behandelt haben.
+Es führte jedoch auch dazu, dass die Hälfte der behandelten Füße Hautirritationen aufwiesen!
+
+Auch **Einlagen** sind beliebte Hilfsmittel, die tatsächlich erfolgsversprechend sind [[2]](#ref2).
+Regelmäßig **Socken wechseln** ist auch beliebt, zeigte aber keine großen Erfolge (schaden kanns trotzdem nicht).
+
+## Blasen behandeln
+
+Blasen sind **Verletzungen** und sollten als solche behandelt werden um Infektionen vorzubeugen.
+Ziele einer Behandlung sollten also sein:
+Schlimmeres verhindern, unangenehmes Gefühl reduzieren und Heilung fördern.
+
+**Hinweis:**<br>
+Da Blasen Verletzungen sind, sollten sie also auch unter sauberen (möglichst sterilen) Bedingungen behandelt werden!
 
 ### Aufstechen oder nicht?
 
+**In allen Fällen:** Steril arbeiten um Infektionen zu vermeiden!
+
+Ist die Haut der Blase intakt, dann **ja**, man kann und sollte sie aufstechen und entleeren [[2]](#ref2).
+Tatsächlich zeigt sich, dass gezielt und regelmäßig (alle 8-12 Stunden) entleerte Blasen Schmerzen reduzieren.
+Zudem dient die Haut als natürlicher Schutz, vor allem weil es darunter sauber ist und bleibt.
+Die Blase sollte daher steilisiert und verbunden werden.
+Ein Aufreißen der Haut sollte unbedingt vermieden werden!
+
+Ist die Haut der Blase **aufgerissen oder beschädigt**, dann ist es eh zu spät.
+Die Haut nur entfernen, wenn sie eh schon fast vollständig abgerissen ist!
+Die Wunde säubern und verbinden, wobei ggf. verbleibende Haut als Schutz erhalten bleiben sollte.
+Blasenpflaster können benutzt werden, gerade wenn die Haut komplett oder größtenteils abgerissen ist.
+
 ## Quellen
 
-Dies sind die Hauptquellen, die ich herangezogen habe:
+Diese Quellen habe ich herangezogen.
+Jedes Paper selbst referenziert diverse weitere mit vielen weiteren Studien und interessanten Informationen.
 
-<p id="ref1">[1] Akers, William A., and Marion B. Sulzberger. "The friction blister." Plastic and Reconstructive Surgery 50.1 (1972): 98.</p>
-<p id="ref2">[2] Knapik, Joseph J., et al. "Friction blisters: pathophysiology, prevention and treatment." Sports Medicine 20 (1995): 136-147.</p>
-<p id="ref3">[3] Knapik, Joseph J., Katy Reynolds, and John Barson. "Risk factors for foot blisters during road marching: tobacco use, ethnicity, foot type, previous illness, and other factors." Military medicine 164.2 (1999): 92-97.</p>
-<p id="ref4">[4] Reynolds, Katy L., et al. "Injuries and risk factors in a 100-mile (161-km) infantry road march." Preventive medicine 28.2 (1999): 167-173.</p>
-<p id="ref5">[5] Patterson, Harlan S., Thomas W. Woolley, and Wayne M. Lednar. "Foot blister risk factors in an ROTC summer camp population." Military medicine 159.2 (1994): 130-135.</p>
-<p id="ref6">[6] Brennan Jr, Fred H., et al. "Blisters on the battlefield: the prevalence of and factors associated with foot friction blisters during Operation Iraqi Freedom I." Military Medicine 177.2 (2012): 157-162.</p>
-<p id="ref7">[7] Knapik, Joseph J., et al. "Soldier performance and strenuous road marching: influence of load mass and load distribution." Military medicine 162.1 (1997): 62-67.</p>
-<p id="ref8">[8] Knapik, Joseph J., Katy L. Reynolds, and Everett Harman. "Soldier load carriage: historical, physiological, biomechanical, and medical aspects." Military medicine 169.1 (2004): 45-56.</p>
-<p id="ref">[] </p>
+// TODO add DOI links or so?
+
+<p id="ref1" style="font-size: smaller;">[1] Worthing, Robert M., Raechel L. Percy, and Jeremy D. Joslin. "Prevention of friction blisters in outdoor pursuits: a systematic review." Wilderness & Environmental Medicine 28.2 (2017): 139-149.</p>
+<p id="ref2" style="font-size: smaller;">[2] Knapik, Joseph J., et al. "Friction blisters: pathophysiology, prevention and treatment." Sports Medicine 20 (1995): 136-147.</p>
+<p id="ref3" style="font-size: smaller;">[3] Knapik, Joseph J., Katy Reynolds, and John Barson. "Risk factors for foot blisters during road marching: tobacco use, ethnicity, foot type, previous illness, and other factors." Military medicine 164.2 (1999): 92-97.</p>
+<p id="ref4" style="font-size: smaller;">[4] Reynolds, Katy L., et al. "Injuries and risk factors in a 100-mile (161-km) infantry road march." Preventive medicine 28.2 (1999): 167-173.</p>
+<p id="ref5" style="font-size: smaller;">[5] Patterson, Harlan S., Thomas W. Woolley, and Wayne M. Lednar. "Foot blister risk factors in an ROTC summer camp population." Military medicine 159.2 (1994): 130-135.</p>
+<p id="ref6" style="font-size: smaller;">[6] Brennan Jr, Fred H., et al. "Blisters on the battlefield: the prevalence of and factors associated with foot friction blisters during Operation Iraqi Freedom I." Military Medicine 177.2 (2012): 157-162.</p>
+<p id="ref7" style="font-size: smaller;">[7] Knapik, Joseph J., et al. "Soldier performance and strenuous road marching: influence of load mass and load distribution." Military medicine 162.1 (1997): 62-67.</p>
+<p id="ref8" style="font-size: smaller;">[8] Knapik, Joseph J., Katy L. Reynolds, and Everett Harman. "Soldier load carriage: historical, physiological, biomechanical, and medical aspects." Military medicine 169.1 (2004): 45-56.</p>
+<p id="ref9" style="font-size: smaller;">[9] Knapik, Joseph J., et al. "Influence of boot-sock systems on frequency and severity of foot blisters." Military medicine 161.10 (1996): 594-598.</p>
+<p id="ref10" style="font-size: smaller;">[10] Van Tiggelen, Damien, et al. "Sock systems to prevent foot blisters and the impact on overuse injuries of the knee joint." Military medicine 174.2 (2009): 183-189.</p>
+<p id="ref11" style="font-size: smaller;">[11] Reynolds, Katy, et al. "Effects of an antiperspirant with emollients on foot-sweat accumulation and blister formation while walking in the heat." Journal of the American Academy of Dermatology 33.4 (1995): 626-630.</p>
