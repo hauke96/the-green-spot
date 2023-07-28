@@ -22,7 +22,7 @@ After one night at the Hólmsárlón, we had three options on the next day:
 3. Follow the shore or the lake which looked quite challenging.
 
 We decided to try the third option and walked directly next to the water.
-As we discussed in out [article about travel preparations]({{< ref "posts/iceland-2018-preparation" >}}), we searched for alternatives and choosed the most comfortable one.
+As we discussed in our [article about travel preparations]({{< ref "posts/iceland-2018-preparation" >}}), we searched for alternatives and choosed the most comfortable one.
 
 {{< imgScale "images/iceland/DSC00764_1600.JPG" "The shore of the Hólmsárlón became small very quickly, sometimes we even had to go through the water." "500x" >}}
 

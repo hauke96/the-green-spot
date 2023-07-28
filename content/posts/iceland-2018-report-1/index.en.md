@@ -143,7 +143,7 @@ Afterward, the journey continued to Þórsmörk where we had to cross a larger r
 {{< imgScale "images/iceland/DSC00390_1600.JPG" "A mobile bridge over the Krossá river near Þórsmörk." "500x" >}}
 
 ## Repack and let's go
-We arrived at 2 pm, admired the big jeeps and walked to the campsite to repack out backpacks.
+We arrived at 2 pm, admired the big jeeps and walked to the campsite to repack our backpacks.
 We packed our backpacks very poorly in the morning because we had little time.
 We also tested our cooker again to become familiar with its usage (due to the strange white spirit we bought).
 

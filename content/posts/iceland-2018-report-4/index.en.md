@@ -228,7 +228,7 @@ Once I went outside I noticed that we were trapped inside a sandstorm.
 
 The sand even came into our tent to that everything started to scrunch a little bit.
 
-We stayed the whole day inside, because we directly had sand in our eyes once we went outside, and hoped that the wind won't destroy out tent.
+We stayed the whole day inside, because we directly had sand in our eyes once we went outside, and hoped that the wind won't destroy our tent.
 In the evening we tried to cook something warm but due to the wind half a liter took us half an hours to cook.
 
 {{< imgScale "images/iceland/DSC01080_1600.JPG" "In the evening the sight became better. The hill on the right side was barely visible earlier." "500x" >}}
