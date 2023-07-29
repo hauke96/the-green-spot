@@ -32,7 +32,7 @@ Die Haut besteht aus verschiedenen Schichten, Blasen entstehen aber nur in der *
 
 ## Was verursacht Blasen?
 
-Scherkräfte.
+Scherkräfte [[2]](#ref2)[[3]](#ref3)[[4]](#ref4)[[8]](#ref8).
 
 So, jetzt weißt du Bescheid.
 Gehen wir aber mal ins Detail.
@@ -64,23 +64,13 @@ Häufig benutzte, trockene, gut eingelaufene, bequeme Schuhe.
 Jede Druckstelle bedeutet höhere Scherkräfte oder Reibung, was beides schlecht ist.
 Hat man keinerlei Beschwerden, hat man eine minimale Belastung der Haut.
 
-### Mythen
+### Mythen zur Entstehung von Blasen
 
-#### Blasen werden durch Reibung verursacht.
+*"Blasen werden durch Reibung/Wärme/Feuchtigkeit/"hot spots"/Druck/... verursacht."*
 
-Stimmt nicht so wirklich.
-Scherkräfte sind verantwortlich (s.o.), die aber bei Reibung durchaus vorhanden sind.
-Es ist allerdings nicht die Belastung der äußeren Hornhaut, welche die Blase verursacht.
-
-#### Blasen werden durch Wärme/"hot spots" verursacht.
-
-Nein (sofern man keine Brandblasen meint).
-Aber: Wärme allgemein sorgt aber natürlich für mehr Schweiß und Schweiß für höhere Scherkräfte.
-
-#### Blasen werden durch Druck verursacht.
-
-Nicht wirklich.
-Hat man drückende Stellen, ist die Haut dort natürlich stärker belastet, Scherkräfte steigen und das Risiko für Blasen ebenfalls.
+Nicht wirklich.<br>
+Scherkräfte sind verantwortlich (s.o.), welche aber bei Reibung vorhanden sind und durch die anderen Effekte verstärkt werden.
+Gerade Feuchtigkeit (häufig ja durch Wärme verursacht) und Druck sind begünstigende Faktoren.
 
 ## Risikofaktoren
 

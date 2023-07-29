@@ -32,7 +32,7 @@ The skin is made up of different layers, but blisters only form in the *stratum 
 
 ## What causes blisters?
 
-Shear forces.
+Shear forces [[2]](#ref2)[[3]](#ref3)[[4]](#ref4)[[8]](#ref8).
 
 So, now you know.
 But let's get into the details.
@@ -64,23 +64,13 @@ Often used, dry, broken-in and comfortable shoes.
 Any pressure point means higher shear forces or friction, both of which are bad.
 If you have no discomfort at all, you have minimal stress on the skin.
 
-### Myths
+### Myths about blister formation
 
-#### Blusters are caused by friction.
+*"Blisters are caused by friction/heat/moisture/hot spots/pressure/.... caused."*
 
-Not really true.
-Shear forces are responsible (see above), but they are definitely present with friction.
-However, it is not the stress on the outer horny skin cells that causes the blister.
-
-#### Blisters are caused by heat/"hot spots".
-
-No (as long as you don't mean burn blisters).
-But: heat in general makes you sweat, which increases shear forces.
-
-#### Blisters are caused by pressure.
-
-Not really.
-If you have areas under higher pressure, the skin there is naturally more stressed, shear forces increase and so does the risk for blisters.
+Not really.<br>
+Shear forces are responsible (see above), but these are present with friction and are amplified by the other effects.
+Especially moisture (often caused by heat) and pressure are favoring factors.
 
 ## Risk factors
 
