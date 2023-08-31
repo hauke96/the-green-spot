@@ -16,7 +16,7 @@ images: ["images/iceland/DSC01026_1600.JPG"]
 {{< smallDate "2018-07-30" >}}
 
 Sind ausgeruht aufgestanden und haben uns in der Hütte ein schönes Frühstück gemacht.
-Die Hütte war sehr nett, klein und alt, an der Wand hing ein Plan vom Langisjór von 1959.
+Die Hütte war sehr nett, klein und alt, an der Wand hing ein alter Plan vom Langisjór von 1959, was ungefähr zum Alter der restlichen Hütte passte.
 
 {{< imgScale "images/iceland/DSC00938_1600.JPG" "Die Hütte in der wir übernachtet haben." "500x" >}}
 
@@ -37,13 +37,13 @@ Auf einer Landzunge im Langisjór gibt es allerdings eine Hütte, die wir angest
 Nach einem Besuch auf einem kleinen Aussichtspunkt, ging es dann weiter zur Hütte, welche man allerdings ebenfalls mieten muss.
 Dies ist zudem keine Útivist Hütte, sondern rein privat samt Zahlenschloss.
 
-Am See war es zudem weiterhin unglaublich windig, sodass wir unser zelt nicht hätten aufschlagen können (6°C, Regen, Orkanböhen).
+Am See war es zudem weiterhin unglaublich windig, sodass wir unser zelt nicht hätten aufschlagen können (6 °C, Regen, Orkanböhen).
 Wir überlegten schon im Windschatten der Hütte es zu versuchen, als plötzlich eine französische Familie ankam, die diese Hütte gemietet hatte.
 
 Wir fragten, ob es in Ordnung wäre, dass wir im Windschatten der Hütte unser Zelt aufbauen und der Vater der Familie hat uns direkt herein gebeten und angeboten, dass wir doch lieber in der Hütte schlafen sollten.
 Die Hütte hat einen kleinen Schlafraum mit vier Betten und eine Schlafcouch.
 Da die Familie fünf Köpfe hat, hat der Mann mit seiner Frau ein kleines Bett geteilt, sodass Kristina und ich uns die Schlafcouch teilen konnten.
-Viel gastfreundlicher gehts kaum, unglaublich!
+Viel gastfreundlicher gehts kaum -- unglaublich!
 
 Es war der letzte Urlaubstag der Familie, sodass sie genug Essen dabei hatten um auch uns durch zu füttern und es gab Reis mit pikantem Pesto.
 Simpel aber für uns nach 13 Tagen Fertigessen ein Festmahl.
@@ -162,7 +162,7 @@ Alles in allem aber durchaus machbar, auch ohne Bergsteigerausrüstung.
 Von oben hat man dann wohl einen der besten Aussichten, die es in Island gibt:
 Nach Norden konnte man die komplette Tungnaá entlang bis zum Vatnajökull schauen und im Süden/Westen ergab sich ein tolles Panorama aus den bunten Bergen rund um Landmannalaugar.
 
-{{< imgScale "images/iceland/DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50km Entfernung." "500x" >}}
+{{< imgScale "images/iceland/DSC01026_1600.JPG" "Lohnenswerter Aufstieg! Hier in die Richtung aus der wir kamen. Der weiße Bereich zwischen Wolkendecke und Horizont ist der Vatnajökull in ca. 50 km Entfernung." "500x" >}}
 
 {{< imgScale "images/iceland/DSC01050_small.JPG" "Blick in die andere Richtung nach Landmannalaugar. Von rechts kommt der Jökuldalakvísl und fließt in die Tungnaá." "500x" >}}
 
@@ -171,7 +171,7 @@ Innen drin lagen auf jeden Fall Fischerutensilien herum und etwas Whisky.
 
 {{< imgScale "images/iceland/DSC01021_1600.JPG" "Besagte 'Fischerhütte' am Stakihnúkur." "500x" >}}
 
-Am Nachmittag wurde es sehr sehr warm (schätzungsweise 20-25°C) und wir haben uns im See etwas abgekühlt.
+Am Nachmittag wurde es sehr sehr warm (schätzungsweise 20-25 °C) und wir haben uns im See etwas abgekühlt.
 Kristina war sogar etwas schwimmen, ich hab mich einfach so etwas gewaschen und abgekühlt.
 Da der See aber sehr flach war (man konnte das einmal komplett durch laufen), war das Wasser auch nicht mehr ar***kalt.
 
@@ -222,7 +222,7 @@ Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unse
 # Tag 21: Tjörvafell
 {{< smallDate "2018-08-07" >}}
 
-Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16m/s also knapp 60km/h), es wurde sogar ein Hering (22cm lang) aus dem recht festen Boden gerissen.
+Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16 m/s also knapp 60 km/h), es wurde sogar ein Hering (22 cm lang) aus dem recht festen Boden gerissen.
 
 Während wir frühstückten wurde es draußen immer diesiger und irgendwann konnten wir die ca. 700m entfernten Hänge vom Ljótipollur nicht mehr erkennen.
 Als ich kurz draußen war stellte ich dann fest, dass wir in einem Sandsturm feststeckten.
@@ -257,26 +257,26 @@ Selbst um den eigentlichen Zeltplatz gibt es diverse Parkplätze, die alle voll 
 {{< imgScale "images/iceland/DSC01108_1600.JPG" "Noch weit vor dem Campingplatz waren die Parkplätze überfüllt." "500x" >}}
 
 Der Platz selbst ist zwar groß aber eigentlich nicht zum zelten geeignet: Steinharter, unebener mit spitzen Steinen versehener Untergrund.
-Eine Nacht für zwei Personen im Zelt kostete uns 4000ISK/32€ und fürs Duschen sollte man weitere 500ISK/4€ zahlen.
+Eine Nacht für zwei Personen im Zelt kostete uns 4000 ISK / 32 € und fürs Duschen sollte man weitere 500 ISK / 4 € zahlen.
 
 {{< imgScale "images/iceland/DSC01115_1600.JPG" "Ein schöner Zeltplatz sieht anders aus, aber immerhin ist die Landschaft schön." "500x" >}}
 
 Wir haben also unser Zelt aufgeschlagen und fingen ein wenig an zu trauern, denn hiermit war unsere Wanderung vorbei.
 
 Vor Ort gibt es neben dem Info-Häuschen an dem man auch kleinere Snacks kaufen kann, einen Mini-mini-Supermarkt in einem alten Schulbus.
-Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500ISK/4€) und zwei Äpfel (jeweils 100ISK/0,80€) gegönnt.
+Dort haben wir uns für teuer Geld Triple-Choc-Kekse (500 ISK / 4 €) und zwei Äpfel (jeweils 100 ISK / 0,80 €) gegönnt.
 
 {{< imgScale "images/iceland/IMG_20180809_124718_1600.jpg" "Ein Mini-Supermarkt im linken Schulbus und im rechten ein kleines Cafe." "500x" >}}
 
 Am nächsten Tag sollte unser Bus am Nachmittag gehen und wir haben es sogar ohne Probleme geschafft vor Ort per Telefon das Ticket umzubuchen, sodass wir schon Mittags fuhren.
-Ohne extra Gebühren, ohne Storno-Kosten, einfach so per Telefon! Mega gut, sowas kann man in Deutschland vergessen.
+Ohne extra Gebühren, ohne Storno-Kosten, einfach so per Telefon -- Mega gut und undenkbar in Deutschland!
 
 {{< imgScale "images/iceland/IMG_20180809_111117_1600.jpg" "Uns gingen irgendwann die Gummibänder aus, also: Schnell zusammengeknotet und schon ist es wie neu." "500x" >}}
 
 # Tag 23: Landmannalaugar → Reykjavík → Keflavík
 {{< smallDate "2018-08-09" >}}
 
-Über die Nacht reden wir mal lieber nicht weiter (laut, ungemütlich, der harte Untergrund...) aber das Frühstück war umso besser, denn wir haben uns beim Mini-Supermarkt eine "Koko-Mjöll" (also eine Schokomilch für jeweils 250ISK/2€) und Blaubeer-Muffins gegönnt (jeweils 500ISK/4€ aber das war es uns wert).
+Über die Nacht reden wir mal lieber nicht weiter (laut, ungemütlich, der harte Untergrund...) aber das Frühstück war umso besser, denn wir haben uns beim Mini-Supermarkt eine "Koko-Mjöll" (also eine Schokomilch für jeweils 250 ISK / 2 €) und Blaubeer-Muffins gegönnt (jeweils 500 ISK / 4 € aber das war es uns wert).
 
 Vormittags waren wir noch kurz im angrenzenden Lavafeld Laugahraun wandern, aber um 13 Uhr ging dann auch schon unser Bus zurück nach Reykjavík.
 Der Bus war letztendlich ein LKW bei dem man den hinteren Teil zu einem Bus umgebaut hat.
@@ -288,11 +288,11 @@ Die Fahrt bis zur Hekla war recht ruppig, aber ab dort gab es eine asphaltierte 
 Sind vom BSÍ in Reykjavík dieselbe Route gelaufen wir vor drei Wochen: Erst zur Kirche und dann in die Innenstadt.
 Bei einem Bonus-Supermarkt haben wir Lakritz und isländischen Trockenfisch gekauft.
 
-Anschließen - wie es sich für richtige Touristen gehört - haben wir in diversen Läden nach Souveniers geschaut und bemerkt, dass alle Läden das gleiche haben und kein Laden signifikant günstiger ist.
+Anschließen -- wie es sich für richtige Touristen gehört -- haben wir in diversen Läden nach Souveniers geschaut und bemerkt, dass alle Läden das gleiche haben und kein Laden signifikant günstiger ist.
 Die Wahl fiel dann auf zwei Schnapsgläser mit Þór und Freya drauf.
 
 Im Fischrestaurant "Reykjavík Fish" haben wir dann leckeres Fish-and-Chips gegessen.
-Als Nachtisch gab es von der Eisdiele "Valdis" nebenan sehr sehr sehr leckeres Lakritz-Eis (je Kugel 300ISK/2,50€).
+Als Nachtisch gab es von der Eisdiele "Valdis" nebenan sehr sehr sehr leckeres Lakritz-Eis (je Kugel 300 ISK / 2,50 €).
 
 In der Eisdiele trafen wir ein Touristenpärchen aus dem Fischrestaurant wieder, welche auf der anderen Straßenseite in einem Ferienhaus wohnten.
 Wir haben uns bei den beiden, Travis und Vanessa, dann noch nett unterhalten und mussten dann hastig zum BSÍ aufbrechen.
@@ -312,9 +312,9 @@ Tja, um 4:15 klingelte unser Wecker und nach ca. fünf Stunden Schlaf ging es al
 Dort haben wir einen self-check-in gemacht, das restliche Reinigungsbenzin abgegeben (darf man ja eh nicht mitnehmen) und unsere Rucksäcke als Sperrgepäck aufgegeben.
 
 Bei den Duty-Free Geschäften haben wir uns dann mit isländischem Schnaps eingedeckt und sind etwas durch die anderen Souvenierläden geschlendert.
-Die Preise hier sind - wie zu erwarten - erheblich höher als in der Stadt.
+Die Preise hier sind -- wie zu erwarten -- erheblich höher als in der Stadt.
 
-Das beste Souvenier, das wir dort gefunden haben waren unbearbeitete Lavasteine (ca. 2-3cm groß) für 1080ISK/8€.
+Das beste Souvenier, das wir dort gefunden haben waren unbearbeitete Lavasteine (ca. 2-3 cm groß) für 1080 ISK / 8 €.
 Da wir unterwegs immer mal wieder solche Steine aufgesammelt und eingesteckt haben, haben wir in unserem Rucksack also ein Vermögen dabei!
 Also merke: Kauft keine Souveniers am Flughafen und überlegt besser kurz nach, bevor ihr irgendwas kauft ;)
 

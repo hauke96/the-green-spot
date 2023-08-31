@@ -207,7 +207,7 @@ Especially the hills were very steep and slippery.
 Not far from the tent ran the river Fremri-Emstruá, which consisted of very turbid water, so the water filter was definitely worth it.
 Nevertheless, we let the water stand overnight so the contained solids could settle.
 
-# To be continued ...
+# Next report (part 2)
 I hope you enjoyed this first part of our reports.
 We were 24 days in Iceland, so there will be a lot of reports.
 But I promise you, it won't get boring ;)
