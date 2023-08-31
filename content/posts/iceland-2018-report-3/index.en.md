@@ -239,7 +239,7 @@ Because the wind was way to strong for our tent, we stayed here and were quite h
 Next to the hut was a second hut (the brown one in the photo), which is some kind of measuring station for maybe weather and the river.
 We don't know what's actually for.
 
-# To be continued ...
+# Next report (part 4)
 I hope you liked the report and the pictures, the next part is the last one of our journey in 2018.
 
 {{< note >}}

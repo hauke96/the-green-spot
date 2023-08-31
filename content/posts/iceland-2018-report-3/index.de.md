@@ -245,7 +245,7 @@ Da wir bei dem Wind unser Zelt nicht hätten aufbauen können, waren wir über d
 Nebenan gab es noch eine zweite Hütte (in braun auf dem Bild), was wahrscheinlich eine Art Messtation für Wind oder Fluss ist.
 So genau wissen wir das aber nicht.
 
-# Fortsetzung folgt ...
+# Fortsetzung (Teil 4)
 Ich hoffe dir haben der Bericht und die Bilder gefallen, der nächste Teil ist der letzte unserer Reise in 2018.
 
 {{< note >}}

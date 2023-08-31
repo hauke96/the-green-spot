@@ -37,7 +37,7 @@ Auf einer Landzunge im Langisjór gibt es allerdings eine Hütte, die wir angest
 Nach einem Besuch auf einem kleinen Aussichtspunkt, ging es dann weiter zur Hütte, welche man allerdings ebenfalls mieten muss.
 Dies ist zudem keine Útivist Hütte, sondern rein privat samt Zahlenschloss.
 
-Am See war es zudem weiterhin unglaublich windig, sodass wir unser zelt nicht hätten aufschlagen können (6°C, Regen, Orkanböhen).
+Am See war es zudem weiterhin unglaublich windig, sodass wir unser zelt nicht hätten aufschlagen können (6 °C, Regen, Orkanböhen).
 Wir überlegten schon im Windschatten der Hütte es zu versuchen, als plötzlich eine französische Familie ankam, die diese Hütte gemietet hatte.
 
 Wir fragten, ob es in Ordnung wäre, dass wir im Windschatten der Hütte unser Zelt aufbauen und der Vater der Familie hat uns direkt herein gebeten und angeboten, dass wir doch lieber in der Hütte schlafen sollten.
@@ -171,7 +171,7 @@ Innen drin lagen auf jeden Fall Fischerutensilien herum und etwas Whisky.
 
 {{< imgScale "images/iceland/DSC01021_1600.JPG" "Besagte 'Fischerhütte' am Stakihnúkur." "500x" >}}
 
-Am Nachmittag wurde es sehr sehr warm (schätzungsweise 20-25°C) und wir haben uns im See etwas abgekühlt.
+Am Nachmittag wurde es sehr sehr warm (schätzungsweise 20-25 °C) und wir haben uns im See etwas abgekühlt.
 Kristina war sogar etwas schwimmen, ich hab mich einfach so etwas gewaschen und abgekühlt.
 Da der See aber sehr flach war (man konnte das einmal komplett durch laufen), war das Wasser auch nicht mehr ar***kalt.
 
