@@ -243,5 +243,5 @@ We don't know what's actually for.
 I hope you liked the report and the pictures, the next part is the last one of our journey in 2018.
 
 {{< note >}}
-**Next part:** Part 4
+**Next part:** [part 4]({{< ref "/posts/iceland-2018-report-4" >}})
 {{< /note >}}

@@ -249,5 +249,5 @@ So genau wissen wir das aber nicht.
 Ich hoffe dir haben der Bericht und die Bilder gefallen, der nächste Teil ist der letzte unserer Reise in 2018.
 
 {{< note >}}
-**Nächster Teil:** Teil 4
+**Nächster Teil:** [Teil 4]({{< ref "/posts/iceland-2018-report-4" >}})
 {{< /note >}}
