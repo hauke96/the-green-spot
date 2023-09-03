@@ -36,9 +36,12 @@ Weitere Infos:
 
 ## Tour & Equipment
 
+Durch die ruhigen Gewässer lassen sich viele leichte Touren planen.
+Viel Equipment braucht man nicht, beim überqueren der Seen sollte man aber Ausdauer mitbringen und auf den Wind achten.
+
 ### Tour
 
-Von Plön aus ging es über den großen Plöner See durch den Durchstich Prinzeninsel und den Mühlensee in den kleinen Plöner See.
+Von Plön aus ging es über den Großen Plöner See durch den Durchstich Prinzeninsel und den Mühlensee in den kleinen Plöner See.
 In Wittmoldt habe ich eine Pause eingelegt und bin dann weiter über Kronsee, Fuhlensee und Lanker See nach Preetz, wo meine Tour im Kirchsee endete.
 
 Insgesamt war die Tour 17 km lang, hat ziemlich genau 5 Stunden gedauert und ich musste einmal ([vor dem Mühlenteich](https://www.flussinfo.net/schwentine/umtragen/ploen-spitzenort/) an der B 430) beim Boot umtragen, bzw. umtreideln.
@@ -65,13 +68,13 @@ Die Anlage gehört -- soweit ich weiß -- *nicht* zum benachbarten Segler-Verein
 
 ## Großer und Kleiner Plöner See
 
-Von dort aus hat man die Wahl über den **Großen Plöner See** Richtung **Prinzeninsel** zu paddeln oder durch Plön die **Stadt-Schwentine** zu nehmen.
+Von dort aus hat man die Wahl über den [**Großen Plöner See**](https://de.wikipedia.org/wiki/Gro%C3%9Fer_Pl%C3%B6ner_See) Richtung **Prinzeninsel** zu paddeln oder durch Plön die **Stadt-Schwentine** zu nehmen.
 Ich habe mich für die Tour über den See entschieden, wo bereits nach kurzer Zeit etwas Seegang war.
 
 {{< imgScale "images/schwentine-2023/DSC03952_1600.jpg" "Gleich hinter den rechten Bäumen beginnt der Durchstich, der mit einer grünen Boje markiert ist." "500x" >}}
 
-Der Übergang in den **Kleinen Plöner See** geht dann entweder um die Prinzeninsel herum oder durch den **Durchstich Prinzeninsel**, welchen ich genommen habe.
-Am Naturcampingplatz Spitzenort vorbei kam ich dann an die erste und für mich einzige Umtragestelle.
+Der Übergang in den [**Kleinen Plöner See**](https://de.wikipedia.org/wiki/Kleiner_Pl%C3%B6ner_See) geht dann entweder um die Prinzeninsel herum oder durch den **Durchstich Prinzeninsel**, welchen ich genommen habe.
+Am Naturcampingplatz **Spitzenort** vorbei kam ich dann an die erste und für mich einzige Umtragestelle.
 
 {{< imgScale "images/schwentine-2023/DSC03957_edit_1600.jpg" "Der Durchstich Prinzeninsel." "500x" >}}
 
@@ -83,7 +86,7 @@ Da ich in meinem Packraft relativ tief sitze, tiefer als z.B. in einem Kanu, sch
 Hose und Jacke waren also direkt durchnässt.
 Warum ich nicht meine Spritzschürze dabei hatte? Tja ...
 
-Kurz vor **Gut Wittmoldt** hatte ich dann aber Rückenwind und auf einigen größeren Wellen hatte ich das Gefühl ein bisschen zu surfen.
+Danach hatte ich aber Rückenwind und auf einigen größeren Wellen hatte ich das Gefühl ein bisschen zu surfen.
 Danach, also bis zum nächsten Flussabschnitt Richtung Kronsee, war es aber ziemlich ruhig und ich konnte entspannt vor mich hin paddeln.
 
 In **Wittmoldt** gibt es einen Anleger und eine Badestelle samt Rastplatz, wo ich nach 7,5 km um 11:15 Uhr meine erste Pause gemacht habe.
@@ -95,7 +98,7 @@ In der Hütte konnte ich dann Pause machen und etwas essen.
 
 ## Durchfahrten beim Kronsee & Fuhlensee
 
-Die Durchfahrt zum **Kronsee** war einer der schönsten Abschnitt der Tour.
+Die Durchfahrt zum [**Kronsee**](https://de.wikipedia.org/wiki/Kronsee) war einer der schönsten Abschnitt der Tour.
 Sehr ruhig, windgeschützt und mit guter Strömung konnte man sich bequem treiben lassen und durch das glasklare Wasser die Wasserpflanzen beobachten.
 Auch hier war der Fluss relativ flach, aber es kam keine Stelle mit weniger als 40 cm Tiefe.
 Vor der Mündung in den Kronsee gab es sogar ein kleines mangrovenartiges Feuchtgebiet zu bewundern, welches man natürlich nicht befahren darf.
@@ -104,7 +107,7 @@ Vor der Mündung in den Kronsee gab es sogar ein kleines mangrovenartiges Feucht
 
 {{< imgScale "images/schwentine-2023/DSC04003_cut_1600.jpg" "Der nahegelegene mangrovenartige Wald." "500x" >}}
 
-Kronsee, Durchfahrt in den Fuhlensee und der **Fuhlensee** selbst waren auch schön, aber wenig spektakulär.
+Kronsee, Durchfahrt in den Fuhlensee und der [**Fuhlensee**](https://de.wikipedia.org/wiki/Fuhlensee_(Wahlstorf)) selbst waren auch schön, aber wenig spektakulär.
 Am nördlichen Ende des Fuhlensees befindet sich ein privater Anleger von **Fischer Bock**.
 Soweit ich gelesen habe, kann man dort aber gegen eine Gebühr sein Boot zu Wasser lassen.
 Möchte man da etwas essen, sollte es kein Problem sein dort anzulegen.
@@ -119,7 +122,7 @@ Die Durchfahrt vom Fuhlensee in den Lanker See führt vorbei am **Gut Wahlstorf*
 
 ## Lanker See
 
-Der **Lanker See** war dann wieder eine anstrengende Etappe, da ich zunächst teilweise und ab der zweiten Hälfte komplett Gegenwind hatte.
+Der [**Lanker See**](https://de.wikipedia.org/wiki/Lanker_See) war dann wieder eine anstrengende Etappe, da ich zunächst teilweise und ab der zweiten Hälfte komplett Gegenwind hatte.
 Auch wenn der See nicht riesig ist, konnten sich trotzdem einige Wellen bilden, deren Kronen bereits brachen.
 Einzelne Wellen erreichten durchaus 40 cm Höhe, größtenteils aber "nur" bis 30 cm.
 Auf jeden Fall schwappte regelmäßig Spritzwasser ins Boot und ab und zu auch mir ins Gesicht.
@@ -134,7 +137,7 @@ Ob man dort anlegen kann/darf, weiß ich allerdings nicht.
 
 ## Ende in Preetz
 
-Die Einfahrt nach Preetz war dann etwas windgeschützter und belebter.
+Die Einfahrt nach [**Preetz**](https://de.wikipedia.org/wiki/Preetz) war dann etwas windgeschützter und belebter.
 Anleger gibt es im **Kirchsee** gleich mehrere:
 
 * An der Bergbrauerei: relativ hoher Steg, der nur zu Fuß erreichbar ist.

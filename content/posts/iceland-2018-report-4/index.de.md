@@ -148,7 +148,7 @@ Der See und der Platz war unglaublich schön, sodass wir direkt an einer alten, 
 {{< smallDate "2018-08-04" >}}
 
 Wir haben beschlossen wieder einen Ruhetag einzulegen, bei dem wir jedoch nicht den ganzen Tag faul rumliegen wollten.
-Stattdessen haben wir uns in den Kopf gesetzt den Stakihnúkur zu besteigen (810m über NHN, bzw. ca. 210m über unserem Camp).
+Stattdessen haben wir uns in den Kopf gesetzt den Stakihnúkur zu besteigen (810 m über NHN, bzw. ca. 210 m über unserem Camp).
 Nicht die Welt, aber der Hang verläuft im 45 Grad Winkel.
 
 Beim Frühstück haben wir die zunächst die zweite von unseren drei Flaschen Brennstoff angebrochen.
@@ -224,7 +224,7 @@ Da es langsam Abend wurde und der Wind ordentlich stark wurde, schlugen wir unse
 
 Der Wind gewann über Nacht an Kraft und rüttelte uns ordentlich durch (laut Online Wetterkarte ca. 16 m/s also knapp 60 km/h), es wurde sogar ein Hering (22 cm lang) aus dem recht festen Boden gerissen.
 
-Während wir frühstückten wurde es draußen immer diesiger und irgendwann konnten wir die ca. 700m entfernten Hänge vom Ljótipollur nicht mehr erkennen.
+Während wir frühstückten wurde es draußen immer diesiger und irgendwann konnten wir die ca. 700 m entfernten Hänge vom Ljótipollur nicht mehr erkennen.
 Als ich kurz draußen war stellte ich dann fest, dass wir in einem Sandsturm feststeckten.
 
 Auch im Zelt sammelte sich allmählich Sand, jedoch nicht viel, alles knirschte aber etwas.

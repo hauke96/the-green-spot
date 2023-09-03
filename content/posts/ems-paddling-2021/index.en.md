@@ -1,6 +1,6 @@
 ---
 title: "Multiday paddling tour on the Ems 2021"
-summary: "In the summer of 2021 I was on a multiday paddling trip with my packraft on the Ems river in northern Germany. Unfortunately, I had to break off the tour early, but I was still able to collect some impressions and would like to share them."
+summary: "In the summer of 2021 I was on a multi-day paddling trip with my packraft on the Ems river in northern Germany. Unfortunately, I had to break off the tour early, but I was still able to collect some impressions and would like to share them."
 date: "2023-02-19T22:45:00+01:00"
 tags: ["ems", "paddling", "tarp", "germany"]
 author: "hauke"
@@ -15,7 +15,7 @@ The first longer tour should take place at the end of August 2021 on the Ems in 
 Unlike hiking, the river dictates the route.
 The tour should start in **Warendorf** and end at the weir of **Herbrum**.
 
-Unfortunately it did not come so far, already on the third day I had to break off my tour in Emsdetten due to illness.
+Unfortunately, it did not come so far, already on the third day I had to break off my tour in Emsdetten due to illness.
 But until then it was a nice and quiet tour.
 
 {{< umap "//umap.openstreetmap.de/en/map/ems-2021_36100" "10/52.1/7.75" >}}
@@ -23,12 +23,12 @@ But until then it was a nice and quiet tour.
 
 ## Equipment
 
-Of course I had my *MRS Nomad S1* with me, whose light variant I had [already tested](/en/posts/comparison-rebel-2k-nomad-s1/) once before, as well as the double paddle *ExtaSea Tour Vario* made of fiberglass in the 220-240 cm version.
+Of course, I had my *MRS Nomad S1* with me, whose light variant I had [already tested](/en/posts/comparison-rebel-2k-nomad-s1/) once before, as well as the double paddle *ExtaSea Tour Vario* made of fiberglass in the 220-240 cm version.
 
 I slept under my tarp, which is simply a tarpaulin from a hardware store with eyelets and has proven itself on [other tours](/en/posts/thueringer-wald-2022-report/).
 My lightweight *Ultralight Air Mat* from Sea To Summit and my simple summer sleeping bag from Frilufts were also with me.
 
-In electronics I had a solar panel from Anker with, as well as cell phone, eBook reader and camera.
+In electronics, I brought a solar panel from Anker, my smartphone, an eBook reader and my camera.
 I obviously didn't need a lot of navigation equipment, yet I printed out the route and took it with me.
 
 Apart from that, the usual and a lot of smaller stuff: Gas stove, hat (August is still summer), sunscreen, deer tallow cream for the hands, spare clothes, dry bags and so on.
@@ -36,12 +36,12 @@ Apart from that, the usual and a lot of smaller stuff: Gas stove, hat (August is
 ## Day 1: Warendorf → Gelmer
 {{< smallDate "2021-08-30" >}}
 
-I got up at just after 4 AM, since my train left at 5:46.
+I got up just after 4 a.m., since my train left at 5:46.
 Around 8:50 I arrived in Warendorf and set up my packraft at the **Teufelsbrücke** bridge, where you can easily get into the water via a small staircase.
 
 {{< imgScale "images/ems-2021/DSC03529.JPG" "My packraft at the Ems in Warendorf. In the background the Teufelsbrücke and on the right the stairs down into the water." "500x" >}}
 
-Around 10 o'clock I went into the water and the tour started.
+Around 10 a.m. I went into the water and the tour started.
 The current was quite good and I made fast progress.
 After a smaller rapid behind Warendorf came a larger and more challenging rapid before the village of **Einen**.
 If you feel uncomfortable paddling through the rapids, there are -- as with almost all rapids -- the possibilities to transfer.
@@ -98,13 +98,13 @@ Here the remaining bank was again very steep and the Ems was quite straightened 
 {{< smallDate "2021-09-01" >}}
 
 Unfortunately, I got ill and hardly slept through the night, so I had to abort the tour in Emsdetten.
-At the bridge of the B475 road there is a slipway, where you can let in and get out your boat very well, even with larger boats.
+At the bridge of the B475 road, there is a slipway, where you can let in and get out your boat very well, even with larger boats.
 My tour was already over here.
 
 ## Fazit
 
-On the one hand it was nice to paddle for a longer time, to master the rapids and to let oneself drift now and then.
-However, the Ems is mostly straightened and despite some well done renaturations it is mediocre.
+On the one hand, it was nice to paddle for a longer time, to master the rapids and to let oneself drift now and then.
+On the other hand, the Ems is mostly straightened and despite some well-done renaturations, it is mediocre.
 Especially the artificial and steep banks (see last picture) are not a feast for the eyes, you feel like in a trough and sometimes have no opportunities for a break over several kilometers.
 
 I found it therefore not too bad to finish the tour in Emsdetten.

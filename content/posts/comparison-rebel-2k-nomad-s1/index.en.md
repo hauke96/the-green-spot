@@ -31,7 +31,7 @@ The following comparison will be based on the following aspects:
 Here are some basic information about the tour:
 
 * Route: Identical for both boats (Dove Elbe and Gose Elbe near Hamburg, Germany)
-* Distance: 19 km / 12mi
+* Distance: 19 km / 12 mi
 * Water: calm, no current
 * Wind:
   * Tour with the Rebel 2K: No wind
@@ -111,8 +111,8 @@ Both seats are more or less comfortable, so I don't have real negative points he
 The backrest of the S1 is -- unlike the backrest of my Rebel 2K at the time -- attached to the boat with small rods and straps, which gives a little more stability and I liked it better.
 In the current variant of the 2K, however, the comfort seat -- contrary to the smaller standard seat -- can also be attached, which stabilizes the seat and backrest.
 
-Due to the improved design of the current Rebel 2K variant, you sit high enough (the seat is 16cm / 6" high) to use a normal 220 cm paddle.
-My seat at the time was lower, which made the paddle a little too short, a 230-240 cm / 7'7" - 7'10" paddle would have been more suitable.
+Due to the improved design of the current Rebel 2K variant, you sit high enough (the seat is 16 cm / 6 in high) to use a normal 220 cm paddle.
+My seat at the time was lower, which made the paddle a little too short, a 230-240 cm / 90.5-95.5 in paddle would have been more suitable.
 With the Nomad S1, however, I had no problems because you generally sit nice and high in there.
 
 ## Floor

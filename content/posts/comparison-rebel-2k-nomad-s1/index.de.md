@@ -111,7 +111,7 @@ Beide Sitze waren in ihrer Bequemlichkeit okay, wirklich negativ (unbequem, Druc
 Die Rückenlehne vom S1 ist -- im Gegensatz zur Lehne von meinem Rebel 2K damals -- am Boot mit kleinen Stangen und Riemen befestigt, das gibt etwas mehr Stabilität und gefiel mir besser.
 In der aktuellen Variante vom 2K lässt sich der Komfort-Sitz -- anders als beim kleineren Standardsitz -- aber ebenfalls befestigen, was Sitz und Rücklehne stabilisiert.
 
-Durch das verbesserte Design der aktuellen Rebel 2K Variante sitzt man auch hoch genug (der Sitz ist 16cm hoch) um mit einem normalen 220 cm Paddel auszukommen.
+Durch das verbesserte Design der aktuellen Rebel 2K Variante sitzt man auch hoch genug (der Sitz ist 16 cm hoch) um mit einem normalen 220 cm Paddel auszukommen.
 Mein Sitz damals war niedriger, wodurch mir das Paddel etwas zu kurz war, ein 230-240 cm Paddel wäre passender gewesen.
 Beim Nomad S1 hatte ich hingegen keine Probleme, da man bei dessen Sitz ebenfalls schön hoch sitzt.
 

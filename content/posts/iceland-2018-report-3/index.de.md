@@ -191,7 +191,7 @@ Dieses mal sogar ein richtiges, trockenes Bett.
 {{< smallDate "2018-07-29" >}}
 
 Als wir am morgen ausgeschlafen aufgewacht sind, haben wir am Fenster der Hütte drei sehr große Raben gesehen.
-Diese können gut und gerne mal über 60cm groß werden.
+Diese können gut und gerne mal über 60 cm groß werden.
 In dem Moment wussten wir auch, was wahrscheinlich das Schaf vom Vortag erlegt oder zumindest verspeist hat.
 
 Nach einem guten Frühstück ging es recht spät (ca. 11:30) weiter bei windigem Wetter in Richtung Sveinstindur.

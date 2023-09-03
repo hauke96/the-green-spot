@@ -70,8 +70,8 @@ The ground there was not so stony but more sandy.
 # Day 5: Innri-Emstruá → Mælifell
 {{< smallDate "2018-07-22" >}}
 
-We set up a "peeky-timer" for 6 am to see if the fog is still there.
-Unfortunately, it was as foggy as the day before, so we slept until 8 am.
+We set up a "peeky-timer" for 6 a.m. to see if the fog is still there.
+Unfortunately, it was as foggy as the day before, so we slept until 8 a.m.
 While collecting all our stuff and taking down the tent, the fog was nearly gone.
 After walking a few meters, we immediately saw the river we searched the day before.
 It was about 50 meters next to our tent.
@@ -142,7 +142,7 @@ The danger of light frostbite and hypothermia is real and should not be underest
 After the Innri-Emstruá the trip was quite relaxing and also the weather became better.
 After a short ascent, we reached a lake near the bottom of the Sléttjökull.
 
-{{< imgScale "images/iceland/DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10km)." "500x" >}}
+{{< imgScale "images/iceland/DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10 km / 6 mi)." "500x" >}}
 
 We relaxed a bit at the lake, filled up our water bottles and continued via the Mælifellsandur towards the Mælifell.
 
