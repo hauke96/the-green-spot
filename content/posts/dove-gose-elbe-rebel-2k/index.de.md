@@ -23,8 +23,8 @@ Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* w
 
 {{< umap "//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448" "13/53.4650/10.146" >}}
 
-Gestartet bin ich beim roten Marker am *Allermöher Deich* und zunächst die Dove Elbe hinunter (also nach Westen).
-Am Naturschutzgebiet *Die Reit* ging es dann die Gose Elbe hinauf und durch den *Neuengammer Durchstich* zurück in die Dove Elbe Richtung Anleger.
+Gestartet bin ich beim roten Marker am **Allermöher Deich** und zunächst die Dove Elbe hinunter (also nach Westen).
+Am Naturschutzgebiet **Die Reit** ging es dann die Gose Elbe hinauf und durch den **Neuengammer Durchstich** zurück in die Dove Elbe Richtung Anleger.
 
 Die Tour ist insgesamt ca. 18km lang und ich habe dafür ohne Wind, ohne Strömung und inklusive Pausen rund acht Stunden gebraucht.
 
@@ -58,7 +58,7 @@ Großartig!
 
 Nach einiger Zeit begegnete ich ein paar Ruderern, die flott an mir vorbei zogen und bei meiner ersten [Pause an der Ruderrennstrecke](https://osm.org/go/0HoKV37zI?m=) begegnete ich dem ersten Böötje-Fahrer.
 
-Danach war ich wieder alleine, nur einem Angler am Naturschutzgebiet *Die Reit* bin ich begegnet. [^2]
+Danach war ich wieder alleine, nur einem Angler am Naturschutzgebiet **Die Reit** bin ich begegnet. [^2]
 Wer sich über den Namen wundert: Das Gebiet liegt im Stadtteil *Reit*brook und *reit* bedeutet auf Platt *Reet* (also Schilfrohr) und davon wuchs da wohl schon vor 850 Jahren jede Menge, als Reitbrook das erste mal urkundlich erwähnt wurde.
 
 # Gose Elbe
@@ -90,7 +90,7 @@ Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen 
 Ab und zu kamen mir Paddlergruppen oder Menschen auf ihrem SUP-Board entgegen.
 Bei der geringen Breite des Durchstichs musste ich als wendiger Packrafter schon mal rechts ran fahren um die Gruppen vorbei zu lassen.
 
-In der Mitte vom Durchstich gibt es recht ursprüngliche Feuchtgebiete, man ist hier auch mitten im *Naturschutzgebiet Kirchwerder Wiesen* (und ja, es gibt hier viele Wiesen).
+In der Mitte vom Durchstich gibt es recht ursprüngliche Feuchtgebiete, man ist hier auch mitten im **Naturschutzgebiet Kirchwerder Wiesen** (und ja, es gibt hier viele Wiesen).
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03496.JPG" "Feuchtgebiete und kleine Inseln im Neuengammer Durchstich." "500x" >}}
 

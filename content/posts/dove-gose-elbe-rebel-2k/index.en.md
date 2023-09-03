@@ -22,30 +22,30 @@ The Dove Elbe however has nothing to do with the bird but the name comes from th
 
 {{< umap "//umap.openstreetmap.de/en/map/rundtour-dove-und-gose-elbe-mit-dem-anfibio-rebel-_16448" "13/53.4650/10.146" >}}
 
-I started at the red marker near the road *Allermöher Deich* and first paddled down the Dove Elbe (so towards west).
-From the natural reserve area *Die Reit* I paddled the Gose Elbe upstream, through the canal *Neuengammer Durchstich* back to my starting point.
+I started at the red marker near the road **Allermöher Deich** and first paddled down the Dove Elbe (so towards west).
+From the natural reserve area **Die Reit** I paddled the Gose Elbe upstream, through the canal **Neuengammer Durchstich** back to my starting point.
 
-The tour is about 18km / 11mi long and without wind, without current and including breaks it took me about eight hours.
+The tour is about 18 km / 11 mi long and without wind, without current and including breaks it took me about eight hours.
 
 Some parts are under nature protection and only *non*-motorized boats are allowed there (so SUP, kanoe, kayak, packraft, etc.) and even that not during the entire year.
 But more about that later.
 
 # Let's go
 
-I wanted to start early, so I stood up at 4 a.m. and went to my starting point by bus and train so that I arrived there at around 5:45 a.m..
-The starting point has a [very nice pier](https://osm.org/go/0HoK2mFI0?m=) that's unrestrictedly accessible and is perfect to start a tour.
+I wanted to start early, so I stood up at 4 a.m. and went to my starting point by bus and train so that I arrived there at around 5:45 a.m.
+The starting point has a [very nice pier](https://osm.org/go/0HoK2mFI0?m=) that is publicly accessible and a perfect start for a tour.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03479.JPG" "The packraft with my backpack next to it." "500x" >}}
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03480.JPG" "The pier at the Allermöher Deich." "500x" >}}
 
-This is the first time ever I go paddling and therefore it was the first time ever I set up a packraft.
+This was the first time ever that I was paddling and therefore it was the first time ever I set up a packraft.
 To be honest, I tried it earlier at home, so after about half an hour my packraft was ready.
 
 Entering it was really easy, it's very stable thanks to the wide design of the boat.
 
-The first paddle moves were ok but after a few minutes I noticed: I'm not trained for paddling.
-Not trained at all, this will give severe muscle soreness tomorrow and I only traveled the first 100m.
+The first paddle moves were ok but after a few minutes, I noticed: I'm not trained for paddling.
+Not trained at all, this will give me severe muscle soreness tomorrow and I only traveled the first 100m.
 Greeeeeat...
 
 At least it was incredibly relaxing and very silent on the water, especially when I stopped paddling for a while it was completely silent.
@@ -55,9 +55,9 @@ Awesome!
 
 # Break and the first people
 
-After a while I met the first rowers passing by very quickly and during my first [break at the rowing course](https://osm.org/go/0HoKV37zI?m=) the first boaters arrived.
+After a while, I met the first rowers passing by very quickly and during my first [break at the rowing course](https://osm.org/go/0HoKV37zI?m=) the first boaters arrived.
 
-Once I moved on, I was alone, except one fisherman near the nature protection area *Die Reit*. [^2]
+Once I moved on, I was alone, except one fisherman near the nature protection area **Die Reit**. [^2]
 The name comes from the city district *Reit*brook and in Low German *reit* means *reed* and there must have been a lot of it growing here 850 years ago, when Reitbrook was first documentary mentioned.
 
 # Gose Elbe
@@ -69,13 +69,13 @@ Luckily the current is -- if present at all -- very weak.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03486_edit_02.jpg" "Pond roses line the edge of the Gose Elbe. The bushes on the right in the picture belong to a [small island](https://osm.org/go/0HoKR2Op4--?m=) within the Gose Elbe." "500x" >}}
 
-After I passed some canoeists and a yoga group, who did their exercises on SUP-board for an extra training of their sense of balance, the Gose Elbe became more and more narrow.
+After I passed some canoeists and a yoga group, who did their exercises on SUP-boards for extra balance-training, the Gose Elbe became more and more narrow.
 Two paddlers could still pass but it became tricky later on.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03489_edit.jpg" "The Gose Elbe became more and more narrow and the number of pond roses increased." "500x" >}}
 
 And then just a small path was passable through all the pond roses.
-Paddling didn't became easier by that, the paddle constandly got stuck in all the roses and the fin of my boat collected a lot of branches and leafs.
+Paddling didn't become easier by that, the paddle got constantly stuck in all the roses and the fin of my boat collected a lot of branches and leaves.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03493.JPG" "Pond roses: Beautiful to look at but impractical for paddling." "500x" >}}
 
@@ -86,33 +86,33 @@ The breakthrough is an artificial and former drainage canal between Dove and Gos
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "It became more and more enchanted: The Neuengamme breakthrough between Dove and Gose Elbe." "500x" >}}
 
-Every once in a while a paddling group or some stand up paddler came towards me.
+Every once in a while, a paddling group or some stand-up paddler came towards me.
 Due to the narrowness of the breakthrough, I had to kind of pull over to let them through.
 
-In the middle of the breakthrough there are a lot of quite pristine areas of wetland, this was in the middle of the nature protection area *Kirchwerder Wiesen* (which translates to *meadows of Kirchwerder* and yes, there are a lot of meadows).
+In the middle of the breakthrough, there were a lot of quite pristine areas of wetland, this was in the middle of the nature protection area **Kirchwerder Wiesen** (which translates to *meadows of Kirchwerder* and yes, there are a lot of meadows).
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03496.JPG" "Wetlands and small islands in the Neuengamme breakthrough." "500x" >}}
 
-Unfortunately there was a construction site shortly after the beautiful wetlands, where the breakthrough was interrupted.
+Unfortunately, there was a construction site shortly after the beautiful wetlands, where the breakthrough was interrupted.
 Luckily there were good entry and exit points on both sides of the construction site.
 
 I also met a kayak paddler again, with whom I talked before about my packraft during a break.
-He quickly moved on but here I catched up.
+He quickly moved on but I caught up at him at the construction site.
 
-We carried our boates together to the other side of the construction site and we also had a little chat with two stand up paddlers.
+We carried our boats together to the other side of the construction site and we also had a little chat with two stand-up paddlers.
 
-After that I quickly moved on to the Dove Elbe and after a short while back to my starting point.
+After that, I quickly moved on to the Dove Elbe and after a short while back to my starting point.
 In the meanwhile a lot of people went outside with their boats, SUPs, canoes and even some touristic excursion boats were driving around.
 
 # Conclusion about the route
 
 The Dove and Gose Elbe are wonderful rivers for paddling!
-Even with sometimes nearby roads, the route is very beautiful, has a lot of shade, is quite, calm and very relaxing.
+Even with sometimes nearby roads, the route is very beautiful, has a lot of shade, is quiet, calm and very relaxing.
 
-Every now and then you'll find some good spots for a break (see some of the marking on the map above), the pond roses however are a bit tricky and made the paddling more difficult.
-Same goes for all the duckweed at Neuengammer Durchstich, which grows there in warm summers.
+Every now and then you'll find some good spots for a break (see some of the markers on the map above), the pond roses, however, are a bit tricky and make the paddling more difficult.
+The same goes for all the duckweed at Neuengammer Durchstich, which grows there in warm summers.
 
-But all in all it's definitely worth a recommendation!
+But all in all, I can definitely recommend the tour!
 
 # Conclusion to the Anfibio Rebel 2K
 
@@ -122,9 +122,9 @@ In the meantime, I also have the [comparison with the MRS Nomad S1]({{< ref "/po
 ## Pro
 
 * Very stable, entering and getting out is no problem
-* The floor and the spray deck are thicker and more resistant then I initially thought
+* The floor and the spray deck are thicker and more resistant than I initially thought
 * The spray deck is very useful, opening and closing is very easy thanks to the velcro fastening
-* I was able to easily attach/tighten my -- to be honest quite empty -- 45+10L backpack plus a pack sack to the bow of the boat
+* I was able to easily attach/tighten my -- to be honest quite empty -- 45+10L backpack plus a packsack to the bow of the boat
 * Setup and dismantling is very easy
 * It's very light (approx. 2.4kg / 5.3lbs): Lifting it out of the water? No problem!
 
@@ -142,5 +142,5 @@ Only regarding the old version (with the non-attachable standard seat):
 * The seat in my rented Rebel 2K (which was the old variant, s. above) was a bit low and the paddle therefore a bit too short: It was only 220cm / 86.6in long, so if you sit not so high, you probably need something like 230-240cm / 90.5-95.5in.
 
 
-[^1]: More in the wikipedia articles about the [Dove](https://en.wikipedia.org/wiki/Dove_Elbe) and [Gose Elbe](https://en.wikipedia.org/wiki/Gose_Elbe) (however the German articles are much more detailed).
-[^2]: Here the [wikipedia](https://de.wikipedia.org/wiki/Naturschutzgebiet_Die_Reit) (unfortunately German only) offers a lot of interesing information: Did you know there's a hiking trail through the Reit area? Well, me neither. What would we just do without wikipedia?
+[^1]: More in the Wikipedia articles about the [Dove](https://en.wikipedia.org/wiki/Dove_Elbe) and [Gose Elbe](https://en.wikipedia.org/wiki/Gose_Elbe) (however the German articles are much more detailed).
+[^2]: Here the [wikipedia](https://de.wikipedia.org/wiki/Naturschutzgebiet_Die_Reit) (unfortunately German only) offers a lot of interesting information: Did you know there's a hiking trail through the Reit area? Well, me neither. What would we just do without Wikipedia?
