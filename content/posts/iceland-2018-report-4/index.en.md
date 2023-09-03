@@ -149,7 +149,7 @@ The lake and our campsite were amazing and we pitched up our tent next to an old
 {{< smallDate "2018-08-04" >}}
 
 We again decided to make this a resting day, but we weren't just chilling and lying around.
-Instead, we had the idea to climb the Stakihnúkur (810m / 1650ft above sea level or approx. 210m / 688ft above our camp).
+Instead, we had the idea to climb the Stakihnúkur (810 m / 1650 ft above sea level or approx. 210 m / 688 ft above our camp).
 Nothing really serious, but the slope is quite steep with a 45° angle.
 
 During breakfast, we opened the second of our three bottles of fuel, so we bought way too much of it but at least we were safe and didn't run out of fuel.
@@ -222,7 +222,7 @@ In the evening the wind became really strong and we built our camp a bit east of
 # Day 21: Tjörvafell
 {{< smallDate "2018-08-07" >}}
 
-The wind became even stronger during the night and shook us through (according to an online wind map at about 16m/s, so about 60 km/h / 37 mph) and even pulled a tent peg (22 cm / 9 in) out of the ground.
+The wind became even stronger during the night and shook us through (according to an online wind map at about 16 m/s, so about 60 km/h / 37 mph) and even pulled a tent peg (22 cm / 9 in) out of the ground.
 
 During breakfast the air outside became more and more hazy and after a while we weren't able to see the hills of the Ljótipollur 700 m / 2300 ft away from us.
 Once I went outside I noticed that we were trapped inside a sandstorm.

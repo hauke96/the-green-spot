@@ -172,7 +172,7 @@ Being pretty exhausted but in a good mood, we marked our first camp on our hikin
 {{< smallDate "2018-07-20" >}}
 
 The alarm clock rang at 8:30 a.m.
-While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
+While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7 km / 4.5 mi away).
 Somehow comprehensible, because there were a lot more hiking groups later in the day.
 
 {{< imgScale "images/iceland/IMG_20180719_211758_1600.jpg" "Our camp in the morning." "500x" >}}
@@ -180,7 +180,7 @@ Somehow comprehensible, because there were a lot more hiking groups later in the
 One couple crossed our way, we asked them how far the campsite Botnar is away and came to the conclusion that we hiked not nearly as far as we thought we did.
 Later in the evening and disillusioned, we corrected the position of our camp on the map.
 
-But first, we walked further along the Markarfljót, which runs through an approx 80m (~260ft) deep canyon.
+But first, we walked further along the Markarfljót, which runs through an approx 80 m / 260 ft deep canyon.
 Before entering the plain Sandar and passing the river Fremri-Emstruá, we had a breathtaking view through the canyon (s. below).
 But only because we left the normal hiking path!
 

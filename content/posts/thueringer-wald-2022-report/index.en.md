@@ -140,7 +140,7 @@ At the snack bar **Imbiss zur Wallfahrt** near the **Schillerbuche**, I continue
 
 {{< imgScale "images/thueringer-wald-2022-report/DSC03733_1600.JPG" "One of the more beautiful hiking trails after the Schillerbuche." "333x" >}}
 
-After a short break and another 5 km / 3 mi, I reached the <span id="grosser-inselberg">**Großen Inselberg**</span> mountain at 916 m / 3000ft, the highest point of my tour.
+After a short break and another 5 km / 3 mi, I reached the <span id="grosser-inselberg">**Großen Inselberg**</span> mountain at 916 m / 3000 ft, the highest point of my tour.
 The highest point of the whole Rennsteig is with 983 m / 3225 ft the **Großer Beerenberg** further south.
 Even in the somewhat hazy air, one occasionally had a great view.
 On the summit, I treated myself to a coffee and met a group of hikers who wanted to make the entire Rennsteig trail.

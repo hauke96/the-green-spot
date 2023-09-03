@@ -26,7 +26,7 @@ Die Namen der Dove und Gose Elbe kommen übrigens aus dem Plattdeutschen *dov* w
 Gestartet bin ich beim roten Marker am **Allermöher Deich** und zunächst die Dove Elbe hinunter (also nach Westen).
 Am Naturschutzgebiet **Die Reit** ging es dann die Gose Elbe hinauf und durch den **Neuengammer Durchstich** zurück in die Dove Elbe Richtung Anleger.
 
-Die Tour ist insgesamt ca. 18km lang und ich habe dafür ohne Wind, ohne Strömung und inklusive Pausen rund acht Stunden gebraucht.
+Die Tour ist insgesamt ca. 18 km lang und ich habe dafür ohne Wind, ohne Strömung und inklusive Pausen rund acht Stunden gebraucht.
 
 Einige Teile stehen unter Naturschutz und dürfen nur mit einem *nicht*-motorisierten Gefährt (Stand-Up Paddel, Kanu, Kajak, Packraft, etc.) befahren werden und auch das nicht das ganze Jahr über.
 Dazu aber später mehr.
@@ -46,7 +46,7 @@ Zugegeben habe ich es Zuhause einmal probiert, entsprechend war nach knapp einer
 Der Einstieg ging auch super, dank der breiten Bauform liegt es sehr stabil im Wasser und man kann ganz bequem einsteigen.
 
 Die ersten Paddelzüge gingen noch, aber schon nach ein paar Minuten zeigte sich: Ich bin fürs paddeln nicht trainiert.
-Ü-ber-haupt nicht trainiert, das wird schönen Muskelkater geben und ich habe erst 100m zurückgelegt.
+Ü-ber-haupt nicht trainiert, das wird schönen Muskelkater geben und ich habe erst 100 m zurückgelegt.
 Suuuuper...
 
 Dennoch war es sehr entspannend und absolut ruhig auf dem Wasser, vor allem wenn man kurz aufhört zu paddeln gleitet man lautlos dahin.
@@ -140,7 +140,7 @@ Gilt nur für die ältere Version (mit dem Standard-Sitz):
 
 ## Hinweis
 
-* Beim gemieteten Rebel 2K (welches noch von der alten Variante war, s.o.) war das gemietete Paddel leider etwas kurz: Es war 220cm lang, sitzt man etwas tiefer bräuchte man eher 230-240cm.
+* Beim gemieteten Rebel 2K (welches noch von der alten Variante war, s.o.) war das gemietete Paddel leider etwas kurz: Es war 220 cm lang, sitzt man etwas tiefer bräuchte man eher 230-240 cm.
 
 [^1]: Mehr dazu bei den lesenswerten Wikipedia Artikeln zur [Dove](https://de.wikipedia.org/wiki/Dove_Elbe) und [Gose Elbe](https://de.wikipedia.org/wiki/Gose_Elbe).
 [^2]: Auch hier gibt es bei [Wikipedia](https://de.wikipedia.org/wiki/Naturschutzgebiet_Die_Reit) viele interessante Infos: Wusstest du, dass es durch die Reit einen Wanderweg gibt? Tja, ich auch nicht. Was wären wir nur ohne Wikipedia?

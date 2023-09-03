@@ -45,7 +45,7 @@ To be honest, I tried it earlier at home, so after about half an hour my packraf
 Entering it was really easy, it's very stable thanks to the wide design of the boat.
 
 The first paddle moves were ok but after a few minutes, I noticed: I'm not trained for paddling.
-Not trained at all, this will give me severe muscle soreness tomorrow and I only traveled the first 100m.
+Not trained at all, this will give me severe muscle soreness tomorrow and I only traveled the first 100 m / 330 ft.
 Greeeeeat...
 
 At least it was incredibly relaxing and very silent on the water, especially when I stopped paddling for a while it was completely silent.
@@ -65,7 +65,7 @@ The name comes from the city district *Reit*brook and in Low German *reit* means
 Next to the Reit, the Gose Elbe enters the Dove Elbe, so from here on I paddled up the Gose Elbe.
 Luckily the current is -- if present at all -- very weak.
 
-**Important:** Driving with motorized boats is **forbidden** here! The river is -- as the name says -- quite shallow and often less than 1m / 3ft deep.
+**Important:** Driving with motorized boats is **forbidden** here! The river is -- as the name says -- quite shallow and often less than 1 m / 3 ft deep.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03486_edit_02.jpg" "Pond roses line the edge of the Gose Elbe. The bushes on the right in the picture belong to a [small island](https://osm.org/go/0HoKR2Op4--?m=) within the Gose Elbe." "500x" >}}
 
@@ -139,7 +139,7 @@ Only regarding the old version (with the non-attachable standard seat):
 
 ## Notice
 
-* The seat in my rented Rebel 2K (which was the old variant, s. above) was a bit low and the paddle therefore a bit too short: It was only 220cm / 86.6in long, so if you sit not so high, you probably need something like 230-240cm / 90.5-95.5in.
+* The seat in my rented Rebel 2K (which was the old variant, s. above) was a bit low and the paddle therefore a bit too short: It was only 220 cm / 86.6 in long, so if you sit not so high, you probably need something like 230-240 cm / 90.5-95.5 in.
 
 
 [^1]: More in the Wikipedia articles about the [Dove](https://en.wikipedia.org/wiki/Dove_Elbe) and [Gose Elbe](https://en.wikipedia.org/wiki/Gose_Elbe) (however the German articles are much more detailed).

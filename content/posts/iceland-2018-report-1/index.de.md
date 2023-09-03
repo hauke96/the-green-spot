@@ -175,7 +175,7 @@ Ein wenig K.O. aber mit guter Laune markierten wir stolz unsere erste Etappe auf
 {{< smallDate "2018-07-20" >}}
 
 Um 8:30 klingelte für uns der Wecker.
-Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7km entfernt) unglaublich früh aufgebrochen sein mussten.
+Schon beim Frühstück haben wir viele Wanderer auf dem Laugavegur gesehen, die beim nächsten Campingplatz (Botnar, ca. 7 km entfernt) unglaublich früh aufgebrochen sein mussten.
 Irgendwie nachvollziehbar, da wir später am Tag noch wesentlich mehr Wandergruppen begegnet sind.
 
 {{< imgScale "images/iceland/IMG_20180719_211758_1600.jpg" "Unser camp am Morgen." "500x" >}}
@@ -183,7 +183,7 @@ Irgendwie nachvollziehbar, da wir später am Tag noch wesentlich mehr Wandergrup
 Ein Pärchen haben wir gefragt wie weit der Campingplatz Botnar noch entfernt sei und mussten feststellen, dass wir nicht so weit gekommen waren wie wir dachten.
 Am Abend haben wir dann etwas ernüchtert die Position unseres Camps auf der Karte korrigiert.
 
-Zunächst ging es aber weiter am Fluss Markarfljót entlang, der weiter nördlich durch einen ca 80m tiefen Canyon floss.
+Zunächst ging es aber weiter am Fluss Markarfljót entlang, der weiter nördlich durch einen ca 80 m tiefen Canyon floss.
 Kurz bevor es in die Ebene Sandar und über den Fluss Fremri-Emstruá ging hatte man nochmals einen atemberaubenden Blick in den Canyon (s.u.).
 Aber nur, wenn man mal den Wanderweg verlassen hat!
 

@@ -142,7 +142,7 @@ The danger of light frostbite and hypothermia is real and should not be underest
 After the Innri-Emstruá the trip was quite relaxing and also the weather became better.
 After a short ascent, we reached a lake near the bottom of the Sléttjökull.
 
-{{< imgScale "images/iceland/DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10km)." "500x" >}}
+{{< imgScale "images/iceland/DSC00571_1600.JPG" "A clear lake at the bottom of the Sléttjökull. You'll see the top of the Mælifell in the background (distance is about 10 km / 6 mi)." "500x" >}}
 
 We relaxed a bit at the lake, filled up our water bottles and continued via the Mælifellsandur towards the Mælifell.
 

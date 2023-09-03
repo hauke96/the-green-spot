@@ -186,7 +186,7 @@ This time in a real and dry bed -- Awesome!
 # Day 12: Skælingar hut → Sveinstindur emergency shelter
 {{< smallDate "2018-07-29" >}}
 
-After waking up, we saw three large black ravens outside the window, which can grow up to 60cm / 2ft.
+After waking up, we saw three large black ravens outside the window, which can grow up to 60 cm / 2 ft.
 At that moment, we knew who hunted, killed or at least ate the sheep from the day before.
 
 After some good breakfast, we started pretty late (at 11:30 a.m.) towards Sveinstindur and had lots of wind.
@@ -196,7 +196,7 @@ Near Sveinstindur was another hut marked on our map and we planned to stay there
 
 ## Fog ... again ...
 
-As we walked up a hill on a piste, it became foggy again, we only were able to see approx. 20m / 65ft far this time.
+As we walked up a hill on a piste, it became foggy again, we only were able to see approx. 20 m / 65 ft far this time.
 At least we were on the correct piste but had to watch out for a left turn where we wanted to leave the piste.
 Luckily we both had a compass and constantly checked the direction we were walking to.
 

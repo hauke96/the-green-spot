@@ -87,7 +87,7 @@ Das Wasser war sehr trüb (gespeist vom naheliegenden Gletscher), somit konnten 
 Daher haben wir unsere Hosen sicherheitshalber gleich ganz ausgezogen.
 Nachdem wir alle elektronischen Geräte, Kleidung und sonstiges Equipment in separate Beutel verpackt und unsere Gurte gelockert haben, ging es los.
 
-Die Stelle, an der wir gefurtet sind, betrug die Tiefe ca. 80cm, sodass unsere Unterhosen teilweise nass wurden.
+Die Stelle, an der wir gefurtet sind, betrug die Tiefe ca. 80 cm, sodass unsere Unterhosen teilweise nass wurden.
 Für mich reichte das Wasser bis zum Anfang des Schritts, für Kristina eher bis zum Anfang der Hüfte.
 Die Kräfte, die durch die Tiefe auf uns wirkten, waren enorm, sodass das Furten nur langsam möglich war.
 
@@ -116,7 +116,7 @@ Wir haben für die Distanz von ca. 25 Metern 15-20 Minuten gebraucht.
 Wir hatten zwei Alternativen um nicht den Innri-Emstruá zu furten:
 Eine Brücke der F261 weiter nördlich und den Gletscher weiter südlich.
 
-Die Brücke bedeutete einen Umweg von ca. 15km (für uns über einen Tagesmarsch), was ein mittelgroßes Problem darstellte.
+Die Brücke bedeutete einen Umweg von ca. 15 km (für uns über einen Tagesmarsch), was ein mittelgroßes Problem darstellte.
 Der Gletscher wäre die andere Möglichkeit gewesen, die mangels Erfahrung nicht unbedingt sicherer gewesen wäre.
 
 In unserem Artikel über die [Planung unserer Reise]({{< ref "posts/iceland-2018-preparation" >}}) haben wir über die Suche von Alternativen geschrieben.
@@ -142,7 +142,7 @@ Die Gefahr einer leichten Erfrierung oder Unterkühlung ist also durchaus real u
 Nach dem Innri-Emstruá ging es relativ entspannt weiter, auch das Wetter wurde zunehmend besser.
 Nach einem kurzen Aufstieg erreichten wir einen See am Fuße des Sléttjökull.
 
-{{< imgScale "images/iceland/DSC00571_1600.JPG" "Ein klarer See am Fuße des Sléttjökull. Im Hintergrund sieht man die Spitze vom Mælifell (Luftlinie ca. 10km entfernt)." "500x" >}}
+{{< imgScale "images/iceland/DSC00571_1600.JPG" "Ein klarer See am Fuße des Sléttjökull. Im Hintergrund sieht man die Spitze vom Mælifell (Luftlinie ca. 10 km entfernt)." "500x" >}}
 
 Am See haben wir uns etwas ausgeruht, die Wasservorräte aufgefüllt und sind dann los auf die Mælifellsandur Richtung Mælifell.
 
