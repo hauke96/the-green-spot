@@ -32,7 +32,7 @@ But more about that later.
 
 # Let's go
 
-I wanted to start early, so I stood up at 4am and went to my starting point by bus and train so that I arrived there at around 5:45 am.
+I wanted to start early, so I stood up at 4 a.m. and went to my starting point by bus and train so that I arrived there at around 5:45 a.m..
 The starting point has a [very nice pier](https://osm.org/go/0HoK2mFI0?m=) that's unrestrictedly accessible and is perfect to start a tour.
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03479.JPG" "The packraft with my backpack next to it." "500x" >}}

@@ -61,7 +61,7 @@ Since it was only a day trip, I only brought a few things:
 ## Start in Plön
 
 The train station in Plön is conveniently located right next to a wonderful little slipway.
-I set up my packraft there and left at 9:15 am.
+I set up my packraft there and left at 9:15 a.m.
 The facility belongs -- as far as I know -- *not* to the neighboring sailing club, at least I have not seen any signs and no one complained that I set up my boat there.
 
 {{< imgScale "images/schwentine-2023/DSC03944_1600.jpg" "The well reachable slipway in Plön." "500x" >}}

@@ -17,9 +17,9 @@ On the day before the departure, we quickly packed our things and went on July 1
 This journey was our dream for one year and then it finally started!
 
 ## The flight
-At 2:50 pm the plane from Hamburg to Keflavík started.
+At 2:50 p.m. the plane from Hamburg to Keflavík started.
 We flew with IcelandAir, which was more expensive than low-price-airlines, but also more relaxing.
-At 3:15 pm our plane landed in Keflavík, where a Bus brought us to the terminal.
+At 3:15 p.m. our plane landed in Keflavík, where a Bus brought us to the terminal.
 
 One backpack came quickly at the luggage belts but the second didn't.
 After much irritated searching, we found it at the **bulky luggage** section, just a big door with some luggage in front of it.
@@ -45,7 +45,7 @@ Our theory: As long as you don't bring milk or meet products with you, the paper
 ## Arrival in Reykjavík
 We used the FlyBus from Reykjavík, a bus line specially made for travelers from the airport.
 Regarding FlyBus, the buses depart 30-45 minutes after a plane arrived.
-Because we took longer in the airport, we were a bit late, but for us (at 4 pm) it looked like buses depart every 15 to 30 minutes.
+Because we took longer in the airport, we were a bit late, but for us (at 4 p.m.) it looked like buses depart every 15 to 30 minutes.
 
 The bus trip took us about 45 minutes and we were able to gather first impressions, which raised our pre-joy a lot.
 
@@ -118,7 +118,7 @@ A small scarf or mask to cover your eyes is very helpful in the Icelandic summer
 {{< smallDate "2018-07-19" >}}
 
 ## Departure from Reykjavík
-We stood up at 6 am and our bus left at 7:15am to Þórsmörk.
+We stood up at 6 a.m. and our bus left at 7:15 a.m. to Þórsmörk.
 Some people were already waiting at the bus stop, which is directly located at the entrance to the campsite.
 Among others, there was a couple from Germany hastily wrapping their backpacks in plastic bags.
 They heard that the luggage compartments of the buses may be flooded (which is not unlikely on deeper fords).
@@ -143,7 +143,7 @@ Afterward, the journey continued to Þórsmörk where we had to cross a larger r
 {{< imgScale "images/iceland/DSC00390_1600.JPG" "A mobile bridge over the Krossá river near Þórsmörk." "500x" >}}
 
 ## Repack and let's go
-We arrived at 2 pm, admired the big jeeps and walked to the campsite to repack our backpacks.
+We arrived at 2 p.m., admired the big jeeps and walked to the campsite to repack our backpacks.
 We packed our backpacks very poorly in the morning because we had little time.
 We also tested our cooker again to become familiar with its usage (due to the strange white spirit we bought).
 
@@ -171,7 +171,7 @@ Being pretty exhausted but in a good mood, we marked our first camp on our hikin
 # Day 3: Bjórgil → Bíldufell
 {{< smallDate "2018-07-20" >}}
 
-The alarm clock rang at 8:30 am.
+The alarm clock rang at 8:30 a.m..
 While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
 Somehow comprehensible, because there were a lot more hiking groups later in the day.
 

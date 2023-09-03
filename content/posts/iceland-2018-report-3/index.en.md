@@ -129,13 +129,13 @@ A short time later, it became foggy and some clouds flew into the Canyon.
 
 We quickly went further into the Eldgjá canyon.
 The ground became a swamp and we were only able to walk on the side of the valley but it became a bit better towards the end.
-Because it was late (11 pm) and very foggy, we decided to build up our camp and hide it behind a big rock (to not get caught).
+Because it was late (11 p.m.) and very foggy, we decided to build up our camp and hide it behind a big rock (to not get caught).
 You are officially not allowed to camp inside the Eldgjá but it was the only opportunity for us.
 
 # Day 11: Eldgjá → Skælingar hut
 {{< smallDate "2018-07-28" >}}
 
-To not getting caught, we woke up at 5am and started hiking at 6am.
+To not getting caught, we woke up at 5 a.m. and started hiking at 6 a.m.
 It was still foggy, so nobody was able to see us, but we just wanted to be safe.
 
 ## End of the canyon
@@ -189,7 +189,7 @@ This time in a real and dry bed -- Awesome!
 After waking up, we saw three large black ravens outside the window, which can grow up to 60cm / 2ft.
 At that moment, we knew who hunted, killed or at least ate the sheep from the day before.
 
-After some good breakfast, we started pretty late (at 11:30am) towards Sveinstindur and had lots of wind.
+After some good breakfast, we started pretty late (at 11:30 a.m.) towards Sveinstindur and had lots of wind.
 Near Sveinstindur was another hut marked on our map and we planned to stay there.
 
 {{< imgScale "images/iceland/DSC00869_1600.JPG" "The Skælingar hut from the outside." "500x" >}}
@@ -203,8 +203,8 @@ Luckily we both had a compass and constantly checked the direction we were walki
 After some time we saw a guidepost coming out of the fog and we knew that we had to leave the piste at this point.
 Right at that moment, the fog disappeared and within seconds we had a clear and great view over the landscape.
 
-{{< imgScale "images/iceland/DSC00876_1600.JPG" "Cars have to go left, we had to keep going straight. Time of photo: 3:32pm." "500x" >}}
-{{< imgScale "images/iceland/DSC00877_1600.JPG" "Same spot but at 3:34pm." "500x" >}}
+{{< imgScale "images/iceland/DSC00876_1600.JPG" "Cars have to go left, we had to keep going straight. Time of photo: 3:32 p.m." "500x" >}}
+{{< imgScale "images/iceland/DSC00877_1600.JPG" "Same spot but at 3:34 p.m." "500x" >}}
 {{< imgScale "images/iceland/DSC00895_1600.JPG" "Awesome view over the landscape with clouds passing by." "500x" >}}
 
 The fog was actually a low-hanging cloud that just passed by, so we enjoyed the view and made a little break.

@@ -70,8 +70,8 @@ The ground there was not so stony but more sandy.
 # Day 5: Innri-Emstruá → Mælifell
 {{< smallDate "2018-07-22" >}}
 
-We set up a "peeky-timer" for 6 am to see if the fog is still there.
-Unfortunately, it was as foggy as the day before, so we slept until 8 am.
+We set up a "peeky-timer" for 6 a.m. to see if the fog is still there.
+Unfortunately, it was as foggy as the day before, so we slept until 8 a.m.
 While collecting all our stuff and taking down the tent, the fog was nearly gone.
 After walking a few meters, we immediately saw the river we searched the day before.
 It was about 50 meters next to our tent.

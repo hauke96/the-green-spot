@@ -20,7 +20,7 @@ On the wall, there was an old map of the Langisjór from 1959, which fitted into
 
 {{< imgScale "images/iceland/DSC00938_1600.JPG" "The hut we slept in." "500x" >}}
 
-Shortly after 12 pm we started our way to the Langisjór lake.
+Shortly after 12 p.m. we started our way to the Langisjór lake.
 On our way, we found the actual Sveinstindur hut, which is marked on our hiking map and which we originally wanted to reach.
 Again it was a Útivist hut which was rented to a group of people so that we weren't able to sleep there anyway.
 
@@ -278,7 +278,7 @@ Changing the ticket without extra costs, without cancellation fees, simply by a 
 
 Let us not talk about the night (noisy, uncomfortable, hard ground, ...) but the breakfast was really good, because we bought some "Koko-Mjöll" (so chocolate milk for each 250 ISK / 2 € / 2 $) and blueberry muffins (each 500 ISK / 4 € / 5 $ but definitely worth it).
 
-In the morning we went for a small hike in the nearby Laugahraun lava field but the bus to Reykjavík left at 1pm.
+In the morning we went for a small hike in the nearby Laugahraun lava field but the bus to Reykjavík left at 1 p.m.
 The bus was actually a modified truck with the rear part built into a bus.
 Awesome vehicle!
 The drive to the Hekla volcano was quite rough but until then the road was paved and therefore the journey became more comfortable.
