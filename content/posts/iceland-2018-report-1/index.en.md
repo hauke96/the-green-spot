@@ -171,7 +171,7 @@ Being pretty exhausted but in a good mood, we marked our first camp on our hikin
 # Day 3: Bjórgil → Bíldufell
 {{< smallDate "2018-07-20" >}}
 
-The alarm clock rang at 8:30 a.m..
+The alarm clock rang at 8:30 a.m.
 While eating our breakfast, we already saw a lot of hikers on the Laguavegur, which had to get up incredibly early on the next campsite (Botnar, approx. 7km away).
 Somehow comprehensible, because there were a lot more hiking groups later in the day.
 
