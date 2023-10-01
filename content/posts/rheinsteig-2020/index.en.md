@@ -1,8 +1,8 @@
 ---
 title: "Multiday tour on the Rheinsteig in the Middle Rhine Valley"
 summary: "In the summer of 2020, I took a multi-day hike along the Rheinsteig, Germany. I hiked in picturesque scenery along various vineyards and the Loreley cliff. Unfortunately, the summer temperatures made the trip very sweaty."
-date: "2023-09-28T10:00:00+02:00"
-tags: ["rheinsteig", "wandern", "deutschland"]
+date: "2023-10-01T14:19:00+02:00"
+tags: ["rheinsteig", "hiking", "germany"]
 author: "hauke"
 images: ["images/rheinsteig-2020/DSC03231_1600.jpg"]
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Mehrtagestour auf dem Rheinsteig im Mittelrheintal"
 summary: "Im Sommer 2020 habe ich eine mehrtägige Wanderung entlang des Rheinsteigs unternommen. In malerischer Kulisse entlang diverser Weinberge und der Loreley kam ich bei den sommerlichen Temperaturen aber auch gut ins schwitzen."
-date: "2023-09-28T10:00:00+02:00"
+date: "2023-10-01T14:19:00+02:00"
 tags: ["rheinsteig", "wandern", "deutschland"]
 author: "hauke"
 images: ["images/rheinsteig-2020/DSC03231_1600.jpg"]
