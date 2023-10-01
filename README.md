@@ -171,3 +171,8 @@ Convert all JPG files with a quality of over 75%:
 ```bash
 for f in ./*; do q=$(identify -format '%Q' $f) && if [[ $q > 75 ]]; then mogrify -quality 75 $f; fi; done
 ```
+
+Adjust hue/saturation/value (here 20% more saturation):
+```bash
+for f in ./*; do convert -modulate 100,120,100 $f "../rheinsteig-2020_saturation/${f}"; done
+```
