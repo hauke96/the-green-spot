@@ -4,7 +4,7 @@ summary: "Im Sommer 2020 habe ich eine mehrtägige Wanderung entlang des Rheinst
 date: "2023-09-28T10:00:00+02:00"
 tags: ["rheinsteig", "wandern", "deutschland"]
 author: "hauke"
-images: ["images/rheinsteig-2020/???.jpg"]
+images: ["images/rheinsteig-2020/DSC03231_1600.jpg"]
 ---
 
 Im Sommer 2020 habe ich eine fünftägige Tour entlang des Rheinsteigs gemacht.
@@ -20,7 +20,7 @@ Insgesamt war meine Tour rund 44 km lang und kam auf stattliche 1,7 km Auf- und 
 Die erste Nacht und die letzten beiden Nächte habe ich auf Campingplätzen verbracht, zwei Nächte dazwischen habe ich wild gecampt.
 Dabei hatte ich nur mein Tarp dabei, was aber kein Problem war, da es auch nachts warm war und kaum geregnet hat.
 
-Die sonstige **Ausrüstung** bestand -- neben dem üblichen Kram -- aus selbstgemachtem Trekking-Essen (habe mich an [Sackis Rezepten](https://www.youtube.com/watch?v=z52pOktn46I) orientiert), Solarpanel, Sommerschlafsack und meinem Tarp, welches lediglich eine Baumarktplane ist.
+Die sonstige **Ausrüstung** bestand -- neben dem üblichen Kram -- aus selbstgemachtem Trekking-Essen (habe mich an [Sackis Rezepten](https://www.youtube.com/watch?v=z52pOktn46I) orientiert), Solarpanel, Sommerschlafsack und meinem Tarp, welches lediglich eine Baumarkt-Gewebeplane ist.
 
 Als **Rucksack** hatte ich meinen Deuter Aircontact 45+10 mit, der aber für die kurze Tour zu groß war und somit auch zu viel Eigengewicht mitbrachte.
 Bei der mehrtägigen [Tour durch den Thüringer Wald]({{< ref "posts/thueringer-wald-2022-report" >}}) habe ich daraus gelernt und einen wesentlich kleineren Rucksack mitgenommen.
@@ -103,7 +103,7 @@ Ein Stück weiter, an der **Felsklippe Rossstein**, gibt es dann eine nette Sitz
 {{< imgScale "images/rheinsteig-2020/IMG_20200823_153631_1600.jpg" "Ausblick hinter dem Burgdenkmal Herzogenstein." "500x" >}}
 
 Nach einer Pause mit Ausblick auf den Rhein ging es dann ein eigentlich zum **Aussichtspunkt Lennig**.
-Da die Wege in der Region aber aufgrund absterbender Bäume gesperrt waren, habe ich mein Camp an anderer Stelle in der Nähe aufgeschlagen.
+Da die Wege in der Region aber aufgrund der Gefahr von absterbenden Bäumen gesperrt waren, habe ich mein Camp an anderer Stelle in der Nähe aufgeschlagen.
 
 {{< imgScale "images/rheinsteig-2020/DSC03272_1600.jpg" "Mein zweites Wildcamp." "500x" >}}
 
@@ -114,7 +114,7 @@ Trotz viel Geraschel um mich herum bin ich ausgeruht um 9:30 weiter gezogen.
 Die erste Station war dabei der **Bornichbach** mit kleinem Wasserfall, wo ich meine Wasserflasche auffüllen konnte.
 Auch wenn das Wasser sehr klar war, habe ich es trotzdem nochmal gefiltert -- sicher ist sicher.
 
-{{< imgScale "images/rheinsteig-2020/DSC03278_1600.jpg" "Brücke über den Bornichbach." "500x" >}}
+{{< imgScale "images/rheinsteig-2020/DSC03278_1600.jpg" "Der kleine Wasserfall und die Brücke über den Bornichbach." "500x" >}}
 
 Nach weiteren ca. 2 km kam ich an den Felsformationen und Aussichtspunkten **Spitznack** an.
 Dort hat man von mehreren Stellen aus einen unverbauten Blick auf den Rhein von Loreley bis zur Felsklippe Rossstein.
@@ -136,7 +136,7 @@ Es kam auch kaum ein Besucher auf die Idee mal in der Gegen etwas wandern zu geh
 Aber meinetwegen, so war es vor und hinter der Loreley beinahe menschenleer.
 
 Nach kurzer Zeit und ein paar Fotos bin ich dann weiter nach **St. Goarshausen**, einem weiteren schmucken Örtchen.
-Der dortige Campingplatz [**Camping Loreleystadt**](https://www.camping-loreleystadt.de), wo ich dann mein letztes Campp aufgeschlagen habe, liegt sogar direkt am Wasser.
+Der dortige Campingplatz [**Camping Loreleystadt**](https://www.camping-loreleystadt.de), wo ich dann mein letztes Camp für zwei Nächte aufgeschlagen habe, liegt sogar direkt am Wasser.
 
 {{< imgScale "images/rheinsteig-2020/DSC03305_1600.jpg" "Mein Camp auf dem Campingplatz St. Goarshausen." "500x" >}}
 
@@ -152,7 +152,7 @@ Man sollte definitiv trittsichere Schuhe dabei haben und auch etwas schwindelfre
 
 Den Steig kann ich definitiv empfehlen zu gehen, weitere Infos gibt es z.B. im Klettersteig-Portal [via-ferrata.de](https://www.via-ferrata.de/klettersteige/topo/rabenacksteig).
 
-{{< imgScale "images/rheinsteig-2020/DSC03325_1600.jpg" "Neben den typischen \"Riesen-Büroklammern\" im Fels gibt es auch Abschnitte mit Leitern." "500x" >}}
+{{< imgScale "images/rheinsteig-2020/DSC03325_1600.jpg" "Neben den typischen \"Riesen-Tackerklammern\" im Fels gibt es auch Abschnitte mit Leitern." "500x" >}}
 
 {{< imgScale "images/rheinsteig-2020/DSC03326_1600.jpg" "Teil des Klettersteiges zum Felsen in der Bildmitte. Im Hintergrund St. Goarshausen und St. Goar (andere Rheinseite)." "500x" >}}
 
