@@ -13,6 +13,7 @@ Hier findest du alle Artikel und Seiten, die sich in Deutschland abspielen.
 
 # Tourenberichte
 
+* [Rheinsteig]({{< ref "/posts/rheinsteig-2020" >}}): Mehrtägige Tour auf dem Rheinsteig mit vielen guten Aussichtspunkten, Weinbergen und Burgen.
 * [Auf der Schwentine von Plön nach Preetz]({{< ref "/posts/schwentine-paddling-2023" >}}): Kurze eintägige Tour auf der Schwentine von Plön nach Preetz.
 * [Besteigung Zugspitze]({{< ref "/posts/zugspitze-2022" >}}): Mein Versuch im November die Zugspitze zu besteigen.
 * [Thüringer Wald]({{< ref "/posts/thueringer-wald-2022-report" >}}): Eine Mehrtagestour auf dem Rennsteig im Thüringer Wald.
