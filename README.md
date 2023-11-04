@@ -100,38 +100,16 @@ For larger features or posts (which takes longer then a day or two):
 1. Create a feature/article/post called `foo`: Create a branch `<type>/foo` (where `<type>` is one of `feature`, `post` or `page`)
 2. Write and commit
 3. Merge into `dev` when done
-
-## Release workflow
-1. Create branch for the next version, e.g. `release/v1.2` when `v1.1` is the latest version
-2. Make last changes neccessary for deployment
-3. Merge into `dev`
-4. Merge into `master` (with `git merge --no-ff release/v1.2`)
-5. Create a tag `v1.2` (on the `master` branch)
-6. Deploy this tag
-7. Delete the `release/v1.2` branch
-
-## Fix bugs/mistakes
-1. Checkout the latest version from the master (e.g. `v1.2`)
-2. Create a new branch `fix/v1.2`
-3. Fix the mistake
-4. Make last changes neccessary for deployment
-5. Merge into `dev`
-6. Merge into `master` (with `git merge --no-ff fix/v1.2`)
-7. Create a tag `v1.3` (on the `master` branch; `git tag -a v1.3 -m "Some message"`)
-8. Deploy this tag
-9. Delete the `fix/v1.2` branch
-
-## Forbidden workflows
-These things are **not allowed**:
-
-* Merge from feature-branch into master
-* Merge from dev-branch directly into master
-* Merge from master into any other branch
-* Tag any commit which is not on the master
-* Release something which is not on the master
-* ...
+4. Adjust additional stuff if needed
+5. Merge into `master` branch
+6. Create a new tag
+	1. Major: Do not increase unless huge change (e.g. redesign of blog)
+	2. Minor: Increase for new article, post, etc.
+	3. Patch: Increase for smaller adjustments, fixed typos, rewriting of passages, etc.
+7. Deploy on blog
 
 # Compression of images
+
 I used the following configurations:
 
 ## Background image
