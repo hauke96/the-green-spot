@@ -1,6 +1,6 @@
 ---
 title: "Tegelbergsteig im November 2022"
-summary: "Im Spätherbst 2022 habe ich neben der Zugspitze auch die beiden Klettersteige Tegelbergsteig und Gelbe-Wand-Steig ausprobiert. Der Tegelbergstreig ist dabei schon etwas anspruchsvoller, lohnt sich aber allemal!"
+summary: "Im Spätherbst 2022 habe ich neben der Zugspitze auch die beiden Klettersteige Tegelbergsteig und Gelbe-Wand-Steig ausprobiert. Der Tegelbergsteig ist dabei schon etwas anspruchsvoller, lohnt sich aber allemal!"
 date: "2023-11-04T09:17:00+01:00"
 tags: ["klettersteig", "wandern", "alpen","deutschland"]
 author: "hauke"
@@ -16,34 +16,34 @@ Es geht also in diesem Artikel um die Rundtour Hohenschwangau → Tegelbergsteig
 
 ## Route
 
-Meine ca. 10km lange Tour begann in **Hohenschwangau**, also am Fuße von Schloss Neuschwanstein, und führte östliche der **Talstation Tegelbergbahn** zum Anfang des **Gelbe-Wand-Steigs**.
+Meine ca. 10 km lange Tour begann in **Hohenschwangau**, also am Fuße von Schloss Neuschwanstein, und führte östliche der **Talstation Tegelbergbahn** zum Anfang des **Gelbe-Wand-Steigs**.
 Am Einstieg in den **Tegelbergsteig**, bin ich auf diesen gewechselt.
 Das Ende vom Tegelbergsteig mündet wieder in den Gelbe-Wand-Steig, den man auf den letzten Metern zum nächsten Wanderweg folgt.
 Der Tegelbergsteig ist also quasi eine Alternativroute für das Mittelstück des Gelbe-Wand-Steigs.
 
-Von Hohenschwangau bis zum Anfang des Gelbe-Wand-Steigs von es ca. 3,5km und 500 Höhenmeter.
+Von Hohenschwangau bis zum Anfang des Gelbe-Wand-Steigs sind es ca. 3,5 km und 500 Höhenmeter.
 
-### Infos zu den Klettesteigen
+### Infos zu den Klettersteigen
 
-Mit *Zustieg* meine ich hier die ersten 500m vom Startpunkt des Gelbe-Wand-Steig aus, da der Anfang des Gelbe-Wand-Steigs noch kein Klettersteig-Feeling bietet, sondern einfach ein anspruchsvoller Wanderweg ist.
+Mit *Zustieg* meine ich hier die ersten 500 m vom Startpunkt des Gelbe-Wand-Steigs aus, da der Anfang des Gelbe-Wand-Steigs noch kein Klettersteig-Feeling bietet, sondern einfach ein anspruchsvoller Wanderweg ist.
 
 * Tegelbergsteig:
-	* Länge: ca. 1,3km (650m Zustieg, 350m Klettersteig, 250m Rest vom Gelbe-Wand-Steig)
+	* Länge: ca. 1,3 km (650 m Zustieg, 350 m Klettersteig, 250 m Rest vom Gelbe-Wand-Steig)
 	* Schwierigkeit: C
 	* Dauer: ca. 1,5-2 Stunden (2-2,5 Stunden inkl. Zustieg)
 	* Mehr Infos [hier](https://www.via-ferrata.de/klettersteige/topo/klettersteig-tegelberg-tegelbergsteig) und [hier](https://www.bergsteigen.com/touren/klettersteig/tegelbergsteig-klettersteig-tegelberg/)
 * Gelbe-Wand-Steig:  
-	* Länge: ca. 1,5km (500m Zustieg, 1km Klettersteig)
+	* Länge: ca. 1,5 km (500 m Zustieg, 1 km Klettersteig)
 	* Schwierigkeit: A/B
 	* Dauer: ca. 1,5-2 Stunden (2-2,5 Stunden inkl. Zustieg)
 	* Mehr Infos [hier](https://www.via-ferrata.de/klettersteige/topo/klettersteig-gelbe-wand) und [hier](https://www.bergsteigen.com/touren/klettersteig/gelbe-wand-steig-klettersteig/)
 
 ## Ausrüstung
 
-Für den Zusteig (wie oben beschrieben die ersten 500m vom Gelbe-Wand-Steig) benötigt man nur festes Schuhwerk, da es einfach ein anspruchsvoller Wanderweg ist.
-Ab Anfang Gelbe-Wand-Steig bis zum Einstieg Tegelbergsteig benötigt man nicht zwingend eine Klettesteig-Ausrüstung, empfehle ich aber dennoch.
+Für den Zustieg (wie oben beschrieben die ersten 500m vom Gelbe-Wand-Steig) benötigt man nur festes Schuhwerk, da es einfach ein anspruchsvoller Wanderweg ist.
+Ab Anfang Gelbe-Wand-Steig bis zum Einstieg Tegelbergsteig benötigt man nicht zwingend eine Klettersteig-Ausrüstung, empfehle ich aber dennoch.
 
-Auf dem Tegelbergsteig ist ein Klettesteigset ein Muss!
+Auf dem Tegelbergsteig ist ein Klettersteigset ein Muss!
 
 Für die restlichen Wanderwege (nach dem Tegelbergsteig) sind natürlich festes Schuhwerk und zum Wetter passende Kleidung angebracht.
 
@@ -52,7 +52,7 @@ Für die restlichen Wanderwege (nach dem Tegelbergsteig) sind natürlich festes 
 Man sollte durchaus fit sein.
 Der Tegelbergsteig ist mit der Bewertung C als "schwierig" und eher nicht für Einsteiger klassifiziert.
 Entsprechend anstrengend ist der Steig und durch speckigen Fels (s. Bilder unten) hat man an manchen felsigen Stellen kaum Halt, was teilweise sehr anstrengend ist.
-Zudem darf man den Aufstieg bis zum Klettersteig nicht vergessen (von Hohenschwangau bis Einstieg Tegelbergsteig knapp 4km und ca. 500 Höhenmeter).
+Zudem darf man den Aufstieg bis zum Klettersteig nicht vergessen (von Hohenschwangau bis Einstieg Tegelbergsteig knapp 4 km und ca. 500 Höhenmeter).
 
 ## Zeitplan
 
@@ -76,7 +76,7 @@ Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder.
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03903_1600.jpg" "Häufig war der Fels schon sehr speckig und rutschig. Gerade an Felswänden hat man mit normalen Wanderschuhen stellenweise Probleme Halt zu finden." "500x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03908_1600.jpg" "Interessante Felsformation mit einem Durchgang. Der Klettesteig geht allerdings nicht da durch." "r90 350x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03908_1600.jpg" "Interessante Felsformation mit einem Durchgang. Der Klettersteig geht allerdings nicht da durch." "r90 350x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03913_1600.jpg" "Ausblick auf den Forggensee und Bannwaldsee." "500x" >}}
 
