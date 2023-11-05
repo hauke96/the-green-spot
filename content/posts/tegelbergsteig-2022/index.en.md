@@ -7,7 +7,8 @@ author: "hauke"
 images: ["images/tegelbergsteig-2022/thumbnail.jpg"]
 ---
 
-In November 2022, I not only attempted to climb the [Zugspitze]({{< ref "posts/zugspitze-2022" >}}) (Germany's highest mountain), but also tried out the **Tegelbergsteig**, a rather difficult via ferrata, in the area around Neuschwanstein Castle.
+In November 2022, I not only attempted to climb the [Zugspitze]({{< ref "posts/zugspitze-2022" >}}) (Germany's highest mountain) but also tried out the **Tegelbergsteig**.
+It's a rather difficult via ferrata in the area around the famous Neuschwanstein Castle.
 
 So this article is about the Hohenschwangau → Tegelbergsteig → Hohenschwangau circular tour.
 
@@ -42,7 +43,7 @@ By *ascent* I mean the first 500 m / 0.3 mi from the official starting point of 
 ## Equipment
 
 For the ascend (as described above, the first 500m of the Gelbe-Wand-Steig) you only need sturdy footwear, as it is simply a demanding hiking trail.
-From the actual start of via ferrata section of the Gelbe-Wand-Steig to the start of the Tegelbergsteig, you don't necessarily need via ferrata equipment, but I still recommend it.
+You don't necessarily need via ferrata equipment from the actual start of the via ferrata section of the Gelbe-Wand-Steig to the start of the Tegelbergsteig, but I still recommend it.
 
 A via ferrata set is a must on the Tegelbergsteig!
 
@@ -70,7 +71,7 @@ In some places, however, the rock is already very slippery and greasy (see pictu
 
 ## Impressions
 
-Instead of a detailed tour report, here are just a few pictures to give you an impression on the tour.
+Instead of a detailed tour report, here are just a few pictures to give you an impression of the tour.
 
 ### Bis Anfang Tegelbergsteig
 
@@ -84,7 +85,7 @@ Instead of a detailed tour report, here are just a few pictures to give you an i
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03903_1600.jpg" "The rock was sometimes very greasy and slippery. Especially on rock faces, you sometimes have problems finding your footing with normal hiking boots." "500x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03909_1600.jpg" "Interesting rock formation with a passage through which the trail continues. Definitely something different and a unique feature and small highlight of the Tegelbergsteig." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03909_1600.jpg" "Interesting rock formation with a passage through which the trail continues. Definitely something different, a unique aspect of the trail and a small highlight of the Tegelbergsteig." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03913_1600.jpg" "View of the Forggensee and Bannwaldsee lakes." "500x" >}}
 
