@@ -25,7 +25,7 @@ Von Hohenschwangau bis zum Anfang des Gelbe-Wand-Steigs sind es ca. 3,5 km und 5
 
 ### Infos zu den Klettersteigen
 
-Mit *Zustieg* meine ich hier die ersten 500 m vom Startpunkt des Gelbe-Wand-Steigs aus, da der Anfang des Gelbe-Wand-Steigs noch kein Klettersteig-Feeling bietet, sondern einfach ein anspruchsvoller Wanderweg ist.
+Mit *Zustieg* meine ich hier die ersten 500 m vom offiziellen Startpunkt des Gelbe-Wand-Steigs aus, da der Anfang des Gelbe-Wand-Steigs noch kein Klettersteig-Feeling bietet, sondern einfach ein anspruchsvoller Wanderweg ist.
 
 * Tegelbergsteig:
 	* Länge: ca. 1,3 km (650 m Zustieg, 350 m Klettersteig, 250 m Rest vom Gelbe-Wand-Steig)
@@ -41,11 +41,11 @@ Mit *Zustieg* meine ich hier die ersten 500 m vom Startpunkt des Gelbe-Wand-Stei
 ## Ausrüstung
 
 Für den Zustieg (wie oben beschrieben die ersten 500m vom Gelbe-Wand-Steig) benötigt man nur festes Schuhwerk, da es einfach ein anspruchsvoller Wanderweg ist.
-Ab Anfang Gelbe-Wand-Steig bis zum Einstieg Tegelbergsteig benötigt man nicht zwingend eine Klettersteig-Ausrüstung, empfehle ich aber dennoch.
+Ab Anfang vom Klettersteig-Abschnitts des Gelbe-Wand-Steigs bis zum Einstieg Tegelbergsteig benötigt man nicht zwingend eine Klettersteig-Ausrüstung, empfehle ich aber dennoch.
 
 Auf dem Tegelbergsteig ist ein Klettersteigset ein Muss!
 
-Für die restlichen Wanderwege (nach dem Tegelbergsteig) sind natürlich festes Schuhwerk und zum Wetter passende Kleidung angebracht.
+Für sämtliche Abschnitte dieser Tour sind natürlich festes Schuhwerk und zum Wetter passende Kleidung angebracht.
 
 ## Kondition
 
@@ -60,9 +60,16 @@ Um ca. 10:15 ging es für mich in Hohenschwangau los und ich war um 12:30 am Ein
 Der Tegelbergsteig lässt sich also in ca. zwei Stunden bequem begehen.
 Macht man nicht dauernd Fotos und muss man nicht auf andere warten, ist er auch in 1:30 Stunden möglich.
 
+## Qualität des Tegelbergsteigs
+
+Der Klettersteig ist insgesamt in einem sehr guten Zustand.
+Sicherungen sind überall vorhanden, es gibt ab und zu Stellen zum ausruhen, eine tolle Aussicht und mit Nummern versehene Rettungspunkte für den Fall der Fälle.
+
+An einigen Stellen ist der Fels jedoch schon sehr glatt und speckig (s. Bilder unten), dort findet man kaum Halt, was jedoch nur wenige Stellen betrifft.
+
 ## Impressionen
 
-Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder.
+Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder um dir einen Eindruck der Tour zu geben.
 
 ### Bis Anfang Tegelbergsteig
 
@@ -74,9 +81,9 @@ Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder.
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03896_1600.jpg" "Passage entlang einer Felswand. Mit rot habe ich den Verlauf des Steigs nachgezeichnet." "350x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03903_1600.jpg" "Häufig war der Fels schon sehr speckig und rutschig. Gerade an Felswänden hat man mit normalen Wanderschuhen stellenweise Probleme Halt zu finden." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03903_1600.jpg" "Manchmal war der Fels schon sehr speckig und rutschig. Gerade an Felswänden hat man mit normalen Wanderschuhen stellenweise Probleme Halt zu finden." "500x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03908_1600.jpg" "Interessante Felsformation mit einem Durchgang. Der Klettersteig geht allerdings nicht da durch." "r90 350x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03908_1600.jpg" "Interessante Felsformation mit einem Durchgang, durch den es weiter geht. Definitiv mal was anderes und ein Alleinstellungsmerkmal und kleines Highlight dieses Steigs." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03913_1600.jpg" "Ausblick auf den Forggensee und Bannwaldsee." "500x" >}}
 
@@ -84,11 +91,11 @@ Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder.
 
 ### Abstieg über Neuschwanstein
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03930_1600.jpg" "Ausblick über das Pöllattal Richtung Schlagstein/Kreuzkopf." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03930_1600.jpg" "Ausblick über das Pöllattal Richtung Schlagstein und Kreuzkopf." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03933_1600.jpg" "Neuschwanstein von oben. Man hat wirklich viele tolle Aussichtspunkte entlang des Abstiegs." "r90 350x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03936_01_1600.jpg" "Blick Richtung Hohenschwangau und Füssen mit Alpsee (links) und Schwansee (rechts)." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03936_01_1600.jpg" "Blick Richtung Hohenschwangau und Füssen mit Alpsee (links) und Schwansee (rechts). Man kann schön sehen, dass man am Start der Alpen ist, denn nach rechts ist die Gegend recht flach." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03941_1600.jpg" "Neuschwanstein nochmal von Nahem." "500x" >}}
 
@@ -96,6 +103,6 @@ Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder.
 
 Was soll ich sagen: Großartige Tour!
 Die Gegend ist wunderschön und die Klettersteige machen echt Spaß.
-Der speckige Fels ist der einzige Wermutstropfen, aber stört auch nicht groß.
+Der manchmal speckige Fels ist der einzige Wermutstropfen, aber stört auch nicht groß.
 
 Insgesamt kann ich die Tour sehr empfehlen!
