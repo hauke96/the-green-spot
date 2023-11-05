@@ -63,17 +63,17 @@ Macht man nicht dauernd Fotos und muss man nicht auf andere warten, ist er auch 
 ## Qualität des Tegelbergsteigs
 
 Der Klettersteig ist insgesamt in einem sehr guten Zustand.
-Sicherungen sind überall vorhanden, es gibt ab und zu Stellen zum ausruhen, eine tolle Aussicht und mit Nummern versehene Rettungspunkte für den Fall der Fälle.
+Sicherungen sind überall vorhanden, es gibt ab und zu Stellen zum Ausruhen, eine tolle Aussicht und mit Nummern versehene Rettungspunkte für den Fall der Fälle.
 
 An einigen Stellen ist der Fels jedoch schon sehr glatt und speckig (s. Bilder unten), dort findet man kaum Halt, was jedoch nur wenige Stellen betrifft.
 
 ## Impressionen
 
-Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder um dir einen Eindruck der Tour zu geben.
+Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder, um dir einen Eindruck der Tour zu geben.
 
 ### Bis Anfang Tegelbergsteig
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03884_1600.jpg" "Anfang vom Gelbe-Wand-Steig. Hier ist noch kein Klettersteig-Set Pflicht, aber trotzdem empfehlenswert." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03884_1600.jpg" "Anfang vom Gelbe-Wand-Steig. Hier ist noch kein Klettersteigset Pflicht, aber trotzdem empfehlenswert." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03887_1600.jpg" "Einstieg zum Tegelbergsteig." "r90 350x" >}}
 
