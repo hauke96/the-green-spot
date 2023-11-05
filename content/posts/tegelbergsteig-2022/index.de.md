@@ -1,7 +1,7 @@
 ---
 title: "Tegelbergsteig im November 2022"
-summary: "Im Spätherbst 2022 habe ich neben der Zugspitze auch die beiden Klettersteige Tegelbergsteig und Gelbe-Wand-Steig ausprobiert. Der Tegelbergsteig ist dabei schon etwas anspruchsvoller, lohnt sich aber allemal!"
-date: "2023-11-04T09:17:00+01:00"
+summary: "Im Spätherbst 2022 habe ich zusätzlich zu meinem Versuch, die Zugspitze zu besteigen, den Klettersteig Tegelbergsteig in der Nähe von Neuschwanstein ausprobiert. Der Tegelbergsteig ist anspruchsvoll, aber es lohnt sich auf jeden Fall!"
+date: "2023-11-05T11:57:00+01:00"
 tags: ["klettersteig", "wandern", "alpen","deutschland"]
 author: "hauke"
 images: ["images/tegelbergsteig-2022/thumbnail.jpg"]
