@@ -1,5 +1,5 @@
 ---
-title: "Blisters: This is what science says about them"
+title: "Blisters: Scientific insights and how to prevent blisters"
 summary: "Various information, prevention and treatment methods for blisters are circulating on the web. But what does science actually say about it, where do blisters come from and which methods have been proven to help prevent them?"
 date: "2023-07-29T12:15:00+02:00"
 tags: ["health", "guide", "knowledge"]
@@ -12,16 +12,16 @@ So this article is a kind of summary of the scientific findings, which is why th
 
 1. All sources used are cited and given below.
 2. The papers were not taken randomly from anywhere, but are valid and frequently cited works of respected scientists.
-3. The mentioned papers themselves reference other papers, which I have not included here. Just because I cite a paper as a source does not mean that this is the only paper with the findings.
+3. The mentioned papers themselves reference other papers that I have not included here. So there are many more possible sources and scientific results for every aspect of this article.
 
 ### Briefly summarized
 
-* Shear forces cause blisters (favored but *not caused* by pressure, friction, heat or moisture).
-* Besides many influencing factors (e.g. amount of equipment or smoking), there are also non-influenceable factors.
-* Good and frequently used boots, proper socks, a two-sock system and insoles successfully prevent blisters.
-* Intact blisters can be drained.
+* [Shear forces](#what-are-shear-forces) cause blisters (favored but *not caused* by pressure, friction, heat or moisture).
+* There are many [risk factors](#risk-factors), some of which you can influence (e.g. amount of luggage or smoking).
+* [Prevent blisters](#avoid-blisters): E.g. by frequently used shoes and [good socks](#finding-a-good-sock-system).
+* Intact blisters can be [lanced and deflated](#blister-treatment).
 
-## Biology lesson: What are blisters?
+## Biology lesson: How are blisters formed?
 
 Blisters are generally cavities between layers of skin that have filled with fluid [[2]](#ref2).
 However, this article is only about friction blisters, so not, for example, burn blisters.
@@ -102,6 +102,7 @@ For example, if the weight is evenly distributed to the front and back, it reduc
 {{< note >}}
 **Bonus knowledge:**<br>
 Every additional kilogram of weight increases the energy consumption of about 4 % [[8]](#ref8).
+One kilogram on the feet (e.g. due to heavy boots) even by up to 10%!
 {{< /note >}}
 
 However, **body weight** is also a risk factor [[4]](#ref4), although not all studies have found a correlation [[5]](#ref5).
@@ -193,7 +194,7 @@ However, half of the people experienced skin irritations!
 **Insoles** are also popular aids that actually show promise [[2]](#ref2).
 Regularly **change socks** is also popular, but did not show great success (still can't hurt).
 
-## Treat blisters
+## Blister treatment
 
 Blisters are **injuries** and should be treated as such to prevent infection.
 So goals of treatment should be:
