@@ -1,8 +1,8 @@
 ---
-title: "Tegelbergsteig im November 2022"
+title: "Tegelbergsteig in November 2022"
 summary: "In late fall 2022, in addition to my attempt to climb the Zugspitze, I tried out the Tegelbergsteig via ferrata near Neuschwanstein Castle. The Tegelbergsteig is challenging, but it's definitely worth it!"
 date: "2023-11-05T11:57:00+01:00"
-tags: ["klettersteig", "wandern", "alpen","deutschland"]
+tags: ["via ferrata", "hiking", "alps", "germany"]
 author: "hauke"
 images: ["images/tegelbergsteig-2022/thumbnail.jpg"]
 ---
