@@ -13,6 +13,7 @@ Here you'll find all articles and pages, which take place in Germany.
 
 # Trip reports
 
+* [Tegelbergsteig]({{< ref "/posts/tegelbergsteig-2022" >}}): One-day tour near Neuschwanstein Castle via the Tegelbergsteig, a moderately difficult via ferrata.
 * [Rheinsteig]({{< ref "/posts/rheinsteig-2020" >}}): Multi-day tour on the Rheinsteig with many good viewpoints, vineyards and castles.
 * [On the Schwentine from Plön to Preetz]({{< ref "/posts/schwentine-paddling-2023" >}}): Simple single-day trip on the Schwentine river from Plön to Preetz.
 * [Ascending the Zugspitze]({{< ref "/posts/zugspitze-2022" >}}): My attempt to ascend the Zugspitze, Germanys highest mountain, in November.

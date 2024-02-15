@@ -1,5 +1,5 @@
 ---
-title: "Blasen: Das sagt die Wissenschaft darüber"
+title: "Blasen: Erkenntnisse der Wissenschaft und wie man Blasen vermeidet"
 summary: "Im Netz kursieren diverse Informationen, Präventions- und Behandlungsmethoden zu Blasen. Aber was sagt die Wissenschaft eigentlich dazu, woher kommen Blasen und welche Methoden helfen erwiesenermaßen sie zu verhindern?"
 date: "2023-07-29T12:15:00+02:00"
 tags: ["gesundheit", "ratgeber", "wissenswert"]
@@ -10,16 +10,16 @@ images: ["images/blisters-science/skin-sketch.jpg"]
 Für diesen Artikel bin ich viele wissenschaftliche Arbeiten ("Paper") durchgegangen und habe mir angeschaut, was der Stand der Wissenschaft zum Thema Blasen ist.
 Dieser Artikel ist also eine Art Zusammenfassung der wissenschaftlichen Erkenntnisse, weswegen es ein paar Dinge zu beachten gibt:
 
-1. Alle benutzten Quellen sind angegeben und unten angegeben.
+1. Alle benutzten Quellen sind unten angegeben.
 2. Die Paper wurden nicht zufällig irgendwo hergenommen, sondern sind valide und häufig zitierte Werke angesehener Wissenschaftler.
-3. Die genannten Paper referenzieren selbst weitere Paper, die ich entsprechend hier nicht aufgenommen habe. Nur weil ich ein Paper als Quelle angebe, heißt es nicht, dass dies das einzige Paper mit den Erkenntnissen ist.
+3. Die genannten Paper referenzieren selbst weitere Paper, die ich hier nicht aufgenommen habe. Zu jedem Aspekt in diesem Artikel gibt es also noch viel mehr mögliche Quellen un wissenschaftliche Ergebnisse.
 
 ### In Kürze
 
-* Scherkräfte verursachen Blasen (begünstigt aber *nicht verursacht* durch Druck, Reibung, Wärme oder Feuchtigkeit).
-* Neben vielen beeinflussbaren Faktoren (z.B. Menge an Gepäck oder Rauchen), gibt auch nicht beeinflussbare Faktoren.
-* Gute und häufig benutzte Schuhe, richtige Socken, ein Zwei-Socken-System und Einlagen verhindern erfolgreich Blasen.
-* Intakte Blasen kann man aufstechen und entleeren.
+* [Scherkräfte](#was-sind-scherkräfte) verursachen Blasen (begünstigt aber *nicht verursacht* durch Druck, Reibung, Wärme oder Feuchtigkeit).
+* Es gibt viele [Risikofaktoren](#risikofaktoren), auf einige hat man Einfluss (z.B. Menge an Gepäck oder Rauchen).
+* [Blasen verhindern](#blasen-vermeiden): U.A. durch häufig benutzte Schuhe und [gute Socken](#ein-gutes-socken-system-finden).
+* Intakte Blasen kann man [aufstechen und entleeren](#blasen-behandeln).
 
 ## Biologiestunde: Was sind Blasen?
 
@@ -102,6 +102,7 @@ Ist das Gewicht z.B. vorne und hinten gleichmäßig verteilt, reduziert das Sche
 {{< note >}}
 **Bonus-Wissen:**<br>
 Jedes zusätzliche Kilogramm Gewicht erhöht den Energieverbrauch um ca. 4 % [[8]](#ref8).
+Ein kilo an den Füßen (z.B. durch schwere Stiefel) sogar um bis zu 10%!
 {{< /note >}}
 
 Das **Körpergewicht** ist aber ebenfalls ein Risikofaktor [[4]](#ref4), wenn auch nicht alle Studien einen Zusammenhang feststellen konnten [[5]](#ref5).
