@@ -12,8 +12,13 @@ enableGitInfo = true
 	changefreq = 'weekly'
 
 # Render uMap frames
-[markup.goldmark.renderer]
-	unsafe = true
+[markup]
+	[markup.goldmark.renderer]
+		unsafe = true
+	[markup.tableOfContents]
+		endLevel = 2
+		ordered = false
+		startLevel = 2
 
 [languages]
 	[languages.en]
