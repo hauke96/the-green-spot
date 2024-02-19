@@ -9,7 +9,7 @@ tableOfContents: true
 ---
 
 Dieser Artikel gibt dir einen Überblick zum Thema Wandern in Deutschland.
-Er ist nicht abschließend, aber gibt einen ersten Eindruck wie das hier in Deutschland so funktioniert.
+Er ist nicht abschließend, aber gibt einen ersten Eindruck, wie das hier in Deutschland so funktioniert.
 
 Ich gehe insgesamt davon aus, dass du einfache Wanderungen alleine oder in einer kleinen Gruppe machen wirst, also keine Skitouren oder große Familienurlaube.
 
@@ -25,7 +25,7 @@ Viele Deutsche lieben Struktur, Ordnung, Effizienz und Genauigkeit.
 Wir reservieren gerne einen Zeltplatz auf einem Campingplatz, auch wenn Nebensaison ist.
 
 Deutsche sind zudem relativ direkt und werden wahrscheinlich keine aufgesetzte Höflichkeit an den Tag legen.
-Dadurch hört man häufig, wie Deutsche meckern oder sich sich über Dinge beschweren.
+Dadurch hört man häufig, wie Deutsche meckern oder sich über Dinge beschweren.
 
 Wichtig sind auch Zurückhaltung, Ruhe und Respekt sind wichtig.
 Fremde Leute in einem Restaurant ansprechen, weil man deren Gespräch mitgehört hat, ist ein No-Go.
@@ -33,8 +33,8 @@ Fremde Leute in einem Restaurant ansprechen, weil man deren Gespräch mitgehört
 Auf der anderen Seite sind Deutsche verhältnismäßig offen und liberal.
 An jedem Badestrand gibt es z.B. einen FKK-Bereich und öffentliches Küssen oder auch Homosexualität ist kein Problem.
 
-Nachhaltigkeit und ökologisches Bewusstsein ist auch ein Thema.
-Müll in der Natur entsorgen ist ein No-Go und ist zurecht illegal.
+Nachhaltigkeit und ökologisches Bewusstsein sind auch ein Thema.
+Müll in der Natur entsorgen ist ein No-Go und ist zu Recht illegal.
 
 ## Geographie Deutschlands
 
@@ -47,12 +47,12 @@ Genauer wäre die 16 Bundesländer, aber die gröbere Unterteilung kann man sich
 
 Viele Küstenregionen und wenig Wald, dafür Acker- und Heideland.
 Auf diversen Inseln kann man auch gut wandern gehen und natürlich im Meer baden.
-Wadnerfreunde kommen hier nicht überall auf ihre Kosten, Leute mit einem Paddelboot [schon eher]({{< ref "posts/schwentine-paddling-2023" >}}).
+Wanderfreunde kommen hier nicht überall auf ihre Kosten, Leute mit einem Paddelboot [schon eher]({{< ref "posts/schwentine-paddling-2023" >}}).
 
 ### Süddeutschland
 
 Bekannt durch [die Alpen]({{< ref "posts/zugspitze-2022" >}}), aber auch viele Wälder (z.B. den Schwarzwald oder den Bayrischen Wald) und Gebirge gibt es hier.
-Süddeutschland lässt entsprechend das Wandererherz höher schlagen.
+Süddeutschland lässt entsprechend das Wanderherz höher schlagen.
 
 ### Ostdeutschland
 
@@ -68,15 +68,14 @@ Dennoch gibt es einige schöne Flecken, wie die [Rhein-Mosel Region]({{< ref "po
 
 ### Mitteldeutschland
 
-Auch wenn kaum ein Deutscher so genau sagen kann, was es hier gibt, findet man hier Gebiete den den Harz oder auch den [Thüringer Wald]({{< ref "posts/thueringer-wald-2022-report" >}}), die zum Wandern einladen.
+Auch wenn kaum ein Deutscher so genau sagen kann, was es hier gibt, findet man hier Gebiete, wie den Harz oder auch den [Thüringer Wald]({{< ref "posts/thueringer-wald-2022-report" >}}), die zum Wandern einladen.
 Viel Wald besteht aber auch hier aus Monokulturen, es gibt aber dennoch genug schöne Ecken.
-
 
 ## Sprache
 
-Da du den Artikel bereits auf Deutsch liest gehe ich hier wenig drauf ein.
+Da du den Artikel bereits auf Deutsch liest, gehe ich hier wenig drauf ein.
 
-Grüße mit "Hallo" oder "Guten Morgen/Abend" sage "Auf wiedersehen" oder "Tschüss" zum Abschied und "Danke" um dich zu bedanken.
+Grüße mit "Hallo" oder "Guten Morgen/Abend", sage "Auf Wiedersehen" oder "Tschüss" zum Abschied und "Danke", um dich zu bedanken.
 Beim Wandern ist ein "Hallo" oder "Hi" üblich, wenn man Leuten begegnet.
 
 ## Anreise, Abreise und Mobilität
@@ -86,43 +85,45 @@ Beim Wandern ist ein "Hallo" oder "Hi" üblich, wenn man Leuten begegnet.
 Kurz: Nicht wirklich nötig, Deutschland hat insgesamt gute öffentliche Verkehrsmittel.
 
 Ich wohne in Deutschland, gehe hier auch wandern (z.B. im Thüringer Wald oder in den Alpen) und besitze weder privat ein Auto noch miete ich mir eins im Urlaub.
-Möchte man sehr flexibel sein oder ist man an einem Ort ohne öffentliche Verkehrsmittel, kann es Sinn ergeben sich ein Auto zu mieten.
+Möchte man sehr flexibel sein, hat viel Gepäck oder man ist an einem Ort ohne öffentliche Verkehrsmittel, dann kann ein Mietwagen Sinn ergeben.
 
 ### Öffentliche Verkehrsmittel
 
-Ich rate aber allen dazu zunächst ohne Auto auszukommen und stattdessen sich das [**Deutschland-Ticket**](https://int.bahn.de/en/offers/regional/deutschland-ticket) zu kaufen.
-Damit kann man für 49€ einen Monat lang durch ganz Deutschland fahren, das ist einfach unschlagbar!
+Ich rate allen dazu, zunächst, ohne Auto auszukommen und stattdessen sich das [**Deutschland-Ticket**](https://int.bahn.de/en/offers/regional/deutschland-ticket) zu kaufen.
+Damit kann man für 49 € einen Monat lang durch ganz Deutschland fahren, das ist einfach unschlagbar!
 
 ## Einkaufen und Verpflegung
 
 ### Bezahlen
 
-Bargeld ist weiterhin sehr beliebt und wird eigentlich überall genommen (ausnahme vielleicht irgendwelche hippen fancy-pancy-Coffeshops).
+Bargeld ist weiterhin sehr beliebt und wird eigentlich überall genommen (Ausnahme vielleicht irgendwelche hippen fancy-pancy-Coffeshops).
 Visa und Mastercard sind aber auch weit verbreitet und werden fast überall akzeptiert.
 Andere Kartenanbieter (z.B. American Express) werden schon weit weniger häufig unterstützt.
-Online ist PayPal die gängigste Methode um etwas zu kaufen oder zu buchen.
+Online ist PayPal die gängigste Methode, um etwas zu kaufen oder zu buchen.
 
 ### Einkaufsmöglichkeiten
 
-In Deutschland sind Supermärkte üblich, Malls oder große Einkaufszentren gibt es nur in Ballungsräumen.
+In Deutschland sind Supermärkte üblich, große Einkaufszentren gibt es nur in Ballungsräumen.
 Typische Supermarkt-Ketten, die man überall findet: Aldi, Lidl, Edeka, Rewe, Kaufland, Netto und Real.
 Preislich unterscheiden sich die Ketten nicht signifikant voneinander.
 Bargeld wird überall akzeptiert, genauso wie Visa und Mastercard.
 
 **Tipp:** Kaufe die günstigen Eigenmarken vom Supermarkt (z.B. "Gut und günstig" oder "ja!") und halte dich an der Kasse bereits alles einzupacken - Kassierer sind sehr schnell!
 
+**Wichtig:** Geschäfte haben sonn- und feiertags geschlossen!
+
 ### Gastronomie
 
 In fast jedem Ort, gerade touristisch erschlossenen, gibt es Restaurants und Kneipen.
-Gutes Essen gibt es für 10 - 15 €, Getränkte liegen für Coca Cola 0,33 L bei ca. 3 € und 0,5 L Bier bei 5 €.
+Gutes Essen gibt es für 10 - 15 €, Getränke liegen mit z.B. 0,33 L Coca-Cola bei ca. 3 € und 0,5 L Bier bei 5 €.
 Manche Restaurants akzeptieren nur Bargeld (ist aber eher selten der Fall).
 
 Der **Ablauf** ist meist wie folgt:
-Ins Restaurant kommen, nach einem Tisch fragen (oder sagen, dass man reserviert hat), Essen aussuchen und bestellen, Essen essen und am Ende bezahlen.
-Viele Deutsche verbringen gehen danach direkt wieder, wenn man noch etwas zu trinken bestellt ist es aber auch ok etwas länger zu bleiben.
+Ins Restaurant kommen, nach einem Tisch fragen (oder sagen, dass man reserviert hat), Essen aussuchen und bestellen, Essen essen, Bedienung rufen und bezahlen.
+Viele Deutsche verbringen gehen danach direkt wieder, wenn man noch etwas zu trinken bestellt, ist es aber auch ok etwas länger zu bleiben.
 
 Thema **Trinkgeld**.
-Generell sind 10% üblich, aber es ist auch ok kein Tringeld zu geben.
+Generell sind 10 % üblich, aber es ist auch ok kein Trinkgeld zu geben (Angestellte sind nicht zwingend aufs Trinkgeld angewiesen).
 Die meisten entscheiden das nach Qualität der Speisen, Getränke und des Services.
 
 ## Übernachten
@@ -141,7 +142,7 @@ Viele sind darüber auch ohne Kreditkarte buchbar.
 
 ### Campingplätze
 
-Gibt es fast überall in Deutschland, knapp 4300 Capingplätze sind in [OpenStreetMap](https://osm.org) (einer offenen Datenbank für allerlei Geodaten) erfasst.
+Gibt es fast überall in Deutschland, knapp 4300 Campingplätze sind in [OpenStreetMap](https://osm.org) (einer offenen Datenbank für allerlei Geodaten) erfasst.
 Buchen kann man Campingplätze teilweise online, bei vielen geht man aber einfach hin und kriegt einen Zeltplatz.
 Vorher anrufen und ggf. reservieren kann aber nicht schaden.
 Manche größere Campingplätze bieten auch kleine Ferienhäuser an, man braucht also nicht überall ein Zelt.
@@ -154,8 +155,8 @@ Preislich ist man mit ca. 10 - 20 € pro Person pro Nacht dabei, je nach Region
 
 {{< imgScale "images/hiking-in-germany/Olpererhütte_im_August_2011_11.JPG" "Die Olpererhütte über dem Schlegeisspeicher auf 2389 m Höhe, eine von vielen DAV-Hütten. [© Wikimedia böhringer friedrich](https://de.wikipedia.org/wiki/Datei:Olpererh%C3%BCtte_im_August_2011_11.JPG) ([CC BY-SA 2.5 Deed](https://creativecommons.org/licenses/by-sa/2.5/deed.de))" "500x" >}}
 
-Vom _Deutschen Alpenverein_ (DAV) gibt es gerade in den Alpen diverse Hütten in denen man übernachten kann.
-Kostenlos sind hütten zwar nicht, aber in der Regel ist man mit unter 50 € pro Nacht dabei (bei Mehrbett-Zimmern oder Matratzenlagern weniger).
+Vom _Deutschen Alpenverein_ (DAV) gibt es gerade in den Alpen diverse Hütten, in denen man übernachten kann.
+Kostenlos sind Hütten zwar nicht, aber in der Regel ist man mit unter 50 € pro Nacht dabei (bei Mehrbett-Zimmern oder Matratzenlagern weniger).
 DAV-Mitglieder bekommen zudem eine Vergünstigung.
 
 Es gibt neben DAV-Hütten auch private Hütten, die aber wesentlich teurer sind und sich erst ab größeren Gruppen lohnen.
@@ -168,14 +169,14 @@ Es gibt neben DAV-Hütten auch private Hütten, die aber wesentlich teurer sind 
 
 Kurz: In Deutschland verboten. Punkt.
 
-Es gibt jedoch einige sogenannte _Trekking-Plätze_, auf denen man im übernachten darf.
+Es gibt jedoch einige sogenannte _Trekking-Plätze_, auf denen man im Wald übernachten darf.
 Das sind offiziell ausgewiesene Stellen im Wald, teilweise mit Feuerstelle und Plumpsklo, für die man online eine Übernachtung buchen kann.
 
 Preislich ist man bei 10 - 20 € pro Zelt dabei.
 
 **Wichtig:** Viele Trekking-Plätze haben im Winter geschlossen.
 
-## Wetter
+## Wetter TODO spellchecking
 
 Hier kommt es sehr auf die Jahreszeit und Region an, deswegen ein paar Daumenregeln.
 Mit "Norden" ist dabei alles nördlich vom Harz gemeint, und mit "Süden" eben alles südlicher.
@@ -231,6 +232,36 @@ Wanderrouten können auch auf Forstwegen aber auch auf anspruchsvollen Pfaden ve
 Häufig gibt es Wegweiser, Schilder, Infotafeln, Karten und Schutzhütten entlang von Wanderrouten.
 
 Es kann immer vorkommen, dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagt, Naturschutz oder Waldarbeiten.
+
+## Was erlaubt und verboten ist
+
+Generell ist vieles durch Gesetze in den Ländern geregelt, zudem gibt es zu jedem Schutzgebiet eine eigene Verordnung, wo Details (z.B. Feuermachen) geregelt sind, und sowieso ist Wald ganz häufig Privatbesitz, wo.
+Trotzdem lassen sich ein paar Daumenregeln ableiten.
+
+### Das ist erlaubt
+
+* Wald zur Erholung (also z.B. zum Wandern) betreten.
+* Nur _außerhalb_ von Schutzgebieten erlaubt: Pflanzen und Pilze in geringen Mengen (also zum Eigenbedarf) pflücken.
+* Hunde dürfen mitgenommen werden, in Naturschutzgebieten müssen sie aber angeleint sein.
+
+### Das ist verboten
+
+* Im Wald übernachten (egal ob mit Zelt, Biwak oder sonst was).
+    * Siehe hierzu den Punkt oben zum [wild campen](#wild-campen).
+* Feuer machen (auch außerhalb von Schutzgebieten).
+* Jegliches Hinterlassen von Abfällen (dazu zählen auch Reste von z.B. einem Apfel).
+* Stören (z.B. laute Musik oder helle Beleuchtung).
+* Rauchen ist teilweise verboten (je nach Land oder Jahreszeit).
+
+### Schutzgebiete
+
+{{< imgScale "images/hiking-in-germany/germany-protected-areas.jpg" "Schutzgebiete in Deutschland gemäß Daten aus OpenStreetMap." "500x" >}}
+
+Innerhalb von Schutzgebieten ist noch mehr verboten, wäre sonst ja auch etwas seltsam.
+In Schutzgebieten ist also _zusätzlich_ verboten:
+
+* Wege verlassen
+* Pflanzen und Pilze pflücken oder beschätigen
 
 ## Gefahren
 
@@ -328,10 +359,57 @@ Hier einige wichtige Verhaltensregeln allgemein und speziell fürs wandern.
 2. **Snacks anbieten.** Ist kein Muss, wird aber auch nicht als unhöflich empfunden. Wenn ein Deutscher aber ablehnt, dann heißt das wirklich "Nein".
 3. **Platz machen.** Priorität haben dabei Wanderer, die bergauf gehen. Mountainbikes haben auf Wanderwegen jedoch keine Priorität.
 4. **Natur respektieren.** Das heißt nicht nur Naturschutzgesetze zu beachten, sondern auch z.B. keine Zweige abzuknicken oder Tiere zu stören.
+5. **Müll sammeln.** Also nicht nur den eigenen, sondern auch den Müll, den man so findet. Hier und da mal eine Schockoriegel-Verpackung mitnehmen tut nicht weh.
 
 ## FAQ -- Häufig gestellte Fragen
 
 
-Mobilfunkempfang
-Mücken
-Psychos auf dem Trail
+Hier einige Themen zu denen häufig Fragen kommen.
+
+**Sprechen alle Deutschen Englisch?**
+
+Nicht alle aber definitiv die meisten sprechen English auf hohem Niveau.
+
+**Gibt es überall Mobilfunkempfang?**
+
+Nein, es gibt Funklöcher in entlegenen Gebieten.
+
+In Deutschland ist der Mobilfunkausbau gerade um urbanen bereich eigentlich ganz gut.
+In ländlichen Gegenden oder gerade im Wald kann es aber Funklöcher geben.
+Gerade in Tälern oder Schluchten ist man sehr schnell komplett offline, aber auf Hügeln oder Gipfeln gibt es selten Probleme.
+Tief in den Alpen mag das jedoch anders aussehen.
+
+**Gibt es Mücken?**
+
+Gerade im Sommer gibt es eigentlich überall Mücken.
+Aber besonders an stehenden Gewässern und Feuchtgebieten wird man bei warmem Wetter regelrecht überfallen.
+Lange Kleidung, windige Tage, Regen und Mückenspray können helfen.
+Zum Glück sind die meisten Mücken harmlos, aber es gibt mehr und mehr tropische Mücken in Deutschland und damit auch übertragene Krankheiten.
+
+**Gibt es "Psychopathen" auf dem Trail?**
+
+Auf Reddit liest man häufiger von unangenehmen bis gefährlichen Begegnungen mit seltsamen Menschen auf Wanderwegen.
+Habe ich bisher in Deutschland noch nicht erlebt und ist mir bisher auch noch nicht zu Ohren gekommen.
+
+**Ist es sicher alleine wandern zu gehen?**
+
+Als Gruppe zu wandern ist immer sicherer, man halt auf einer Solo-Wanderung aber keine besonderen Gefahren zu befürchten.
+Frauen sei aber gesagt, dass es auch in Deutschland Ar*löcher gibt, die Blicke und Sprüche nicht für sich behalten können.
+Ich wage aber zu behaupten, dass sich diese eher in Städten und weniger auf Wanderrouten befinden.
+
+**Was ist die beste Zeit fürs Wandern in Deutschland?**
+
+Meiner Meinung nach Herbst, also Mitte September bis Mitte November.
+Die Bäume verfärben sich, es sind weniger Touristen unterwegs, alle Campingplätze und Hütten haben noch auf und es ist nicht mehr so warm.
+Ja das Wetter kann mal ungemütlich werden, das heißt aber nur, dass weniger Menschen unterwegs sind und man seine Ruhe hat ;)
+
+**Was sind die schönsten Orte?**
+
+Das ist Geschmackssache, aber hier meine persönlichen Empfehlungen:
+Die Sächsische Schweiz, [die Alpen]({{< ref "posts/zugspitze-2022" >}}), Bayerischer Wald, der nördliche Teil vom [Rennsteig]({{< ref "posts/thueringer-wald-2022-report" >}}), der Schwarzwald, die Lüneburger Heide und der [Rheinsteig]({{< ref "posts/rheinsteig-2020" >}}).
+Es gibt aber noch viele viele weitere schöne Ecken, online findet man eine ganze Menge dazu.
+
+## Noch Fragen?
+
+Du hast weitere Fragen zum Thema Wandern in Deutschland?
+Dann schreibe gerne einen Kommentar oder kontaktiere mich per Mail :)
