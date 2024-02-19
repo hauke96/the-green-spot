@@ -12,6 +12,10 @@ I constantly update and expand this list.
 
 {{< imgScale "images/thueringer-wald-2022-report/DSC03752_1600.JPG" "There are many preconceptions, misinformation and myths about hiking." "350x" >}}
 
+**Content**
+
+{{< toc >}}
+
 ## General
 
 **Walking is boring.**
