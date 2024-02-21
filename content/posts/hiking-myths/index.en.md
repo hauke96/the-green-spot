@@ -2,7 +2,7 @@
 title: "Hiking: Myths and prejudices"
 summary: "I often encounter prejudices, myths, misunderstandings, ignorance and fears about hiking. So here's a collection of various things I've heard about with my opinion on them."
 date: "2023-01-30T21:04:00+01:00"
-tags: ["wandern"]
+tags: ["hiking", "knowledge"]
 author: "hauke"
 images: ["images/thueringer-wald-2022-report/DSC03752_1600.JPG"]
 ---
