@@ -1,6 +1,6 @@
 ---
 title: "Wandern in Deutschland"
-summary: "Hier findest du alle relevanten Informationen rund um Wandern in Deutschland: Anreise, Abreise, was erlaubt ist, wo man schlafen kann, wie das Wetter sein wird, do's und don'ts, etc."
+summary: "Hier findest du alle relevanten Informationen rund um Wandern in Deutschland: Übernachtungen, Verpflegung, Wetter, was erlaubt ist, Do's und Don'ts und vieles mehr."
 date: "2024-02-18T11:10:59+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
