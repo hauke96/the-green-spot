@@ -4,7 +4,7 @@ summary: "Hier findest du alle relevanten Informationen rund um Wandern in Deuts
 date: "2024-02-18T11:10:59+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
-images: []
+images: ["images/hiking-in-germany/DSC03942_1600.JPG"]
 ---
 
 Dieser Artikel gibt dir einen Überblick zum Thema Wandern in Deutschland.
@@ -35,12 +35,12 @@ An jedem Badestrand gibt es z.B. einen FKK-Bereich und öffentliches Küssen ode
 Nachhaltigkeit und ökologisches Bewusstsein sind auch ein Thema.
 Müll in der Natur entsorgen ist ein No-Go und ist zu Recht illegal.
 
+{{< imgScale "images/hiking-in-germany/DSC03942_1600.JPG" "Schloss Neuschwanstein, eines der bekanntesten Wahrzeichen Deutschlands. Von den umliegenden Wanderwegen aus hat man diesen wundervollen Blick aufs Schloss und die Umgebung." "500x" >}}
+
 ## Geographie Deutschlands
 
 Deutschland kann man gut in Nord-, Süd-, West-, Ost- und Mitteldeutschland teilen.
 Genauer wäre die 16 Bundesländer, aber die gröbere Unterteilung kann man sich besser merken.
-
-{{< imgScale "images/hiking-in-germany/germany-map.jpg" "Kleine Auswahl netter Gegenden zum Wandern in Deutschland." "500x" >}}
 
 ### Norddeutschland
 
@@ -69,6 +69,8 @@ Dennoch gibt es einige schöne Flecken, wie die [Rhein-Mosel Region]({{< ref "po
 
 Auch wenn kaum ein Deutscher so genau sagen kann, was es hier gibt, findet man hier Gebiete, wie den Harz oder auch den [Thüringer Wald]({{< ref "posts/thueringer-wald-2022-report" >}}), die zum Wandern einladen.
 Viel Wald besteht aber auch hier aus Monokulturen, es gibt aber dennoch genug schöne Ecken.
+
+{{< imgScale "images/hiking-in-germany/germany-map.jpg" "Kleine Auswahl netter Gegenden zum Wandern in Deutschland." "500x" >}}
 
 ## Sprache
 
