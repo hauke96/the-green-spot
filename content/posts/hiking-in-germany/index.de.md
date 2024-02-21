@@ -5,7 +5,6 @@ date: "2024-02-18T11:10:59+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
 images: []
-tableOfContents: true
 ---
 
 Dieser Artikel gibt dir einen Überblick zum Thema Wandern in Deutschland.
@@ -176,16 +175,16 @@ Preislich ist man bei 10 - 20 € pro Zelt dabei.
 
 **Wichtig:** Viele Trekking-Plätze haben im Winter geschlossen.
 
-## Wetter TODO spellchecking
+## Wetter spellchecking
 
 Hier kommt es sehr auf die Jahreszeit und Region an, deswegen ein paar Daumenregeln.
 Mit "Norden" ist dabei alles nördlich vom Harz gemeint, und mit "Süden" eben alles südlicher.
-Für eine Historische Übersicht seien die [Klimakarten vom Deutschen Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimakartendeutschland/klimakartendeutschland.html) und Daten von [Kachelmannwetter](https://kachelmannwetter.com/de/messwerte/deutschland) empfohlen.
+Für eine historische Übersicht seien die [Klimakarten vom Deutschen Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimakartendeutschland/klimakartendeutschland.html) und Daten von [Kachelmannwetter](https://kachelmannwetter.com/de/messwerte/deutschland) empfohlen.
 
 * Allgemein
     * Im Norden und Osten regnet es generell mehr als im Süden.
     * Je höher, desto kälter und nasser.
-    * Oft regnet es nicht stark aber dafür für ein paar Tage am Stück.
+    * Oft regnet es nicht stark, aber dafür für ein paar Tage am Stück.
     * Anfang Sommer (Mai/Juni) und Anfang Herbst (August/September) ist die niedrigste Regenwahrscheinlichkeit.
     * Luftfeuchtigkeit meistens über 50 - 80 %, im Winter 70 - 100 %.
 * Frühling & Herbst
@@ -206,9 +205,9 @@ Kurz: Den Gegebenheiten entsprechend. Deutschland hat sonst keine besonderen Anf
 
 Es kommt natürlich sehr auf die Jahreszeit an, aber ein paar Worte zum Thema Kleidung.
 
-* **Festes Schuhwerk** ist Pflicht (also nicht rechtlich, aber ohne ist es nicht empfehlenswert!). Ob Schuh oder Stiefel ist egal, hauptsache du hast einen sicheren Tritt und fühlst sich wohl in den Schuhen.
+* **Festes Schuhwerk** ist Pflicht (also nicht rechtlich, aber ohne ist es nicht empfehlenswert!). Ob Schuh oder Stiefel ist egal, Hauptsache du hast einen sicheren Tritt und fühlst dich wohl in den Schuhen.
 * **Regenfeste Kleidung** ist ebenfalls wichtig, auch im Sommer. Ich empfehle Ponchos, wenn man keine separate Regenjacke mitnehmen möchte.
-* Im **Winter**: Der Temperatur entsprechend, also warme Kleidung. Wollsocken genaus wo Daunen oder Fleece-Jacken sind empfehlendwert.
+* Im **Winter**: Der Temperatur entsprechend, also warme Kleidung. Wollsocken, sowie Daunen- oder Fleece-Jacken sind empfehlenswert.
 * Im **Sommer**: Sonnencreme, gerade in Süddeutschland und auf höheren Lagen. Ansonsten luftige aber lange Kleidung (schützt vor Sonne, Zecken und Mücken).
 
 Gutes Equipment ist ebenfalls wichtig.
@@ -221,17 +220,17 @@ Gutes Equipment ist ebenfalls wichtig.
 
 {{< imgScale "images/hiking-in-germany/IMGP8042_1600.JPG" "Wander- und Radrouten sind häufig gut ausgeschildert, wie hier in der Fischbeker Heide nahe Hamburg." "500x" >}}
 
-Ich würde sagen es gibt vier wesentliche Arten von Wanderwegen, auch wenn diese Unterteilung alles andere als verbreitet oder offiziell ist.
+Ich würde sagen, es gibt vier wesentliche Arten von Wanderwegen, auch wenn diese Unterteilung alles andere als verbreitet oder offiziell ist.
 
-* **Befestigte Wege:** Gerade Wege auf denen Radrouten verlaufen, Zufahrtswege oder auch stark frequentierte Forstwege können gepflastert oder gar asphaltiert sein. Findet man allerdings eher in besiedelten Gebieten und eher außerhalb von Wäldern.
+* **Befestigte Wege:** Gerade Wege, auf denen Radrouten verlaufen, Zufahrtswege oder auch stark frequentierte Forstwege können gepflastert oder gar asphaltiert sein. Findet man allerdings eher in besiedelten Gebieten und eher außerhalb von Wäldern.
 * **Forstwege:** Bestehen häufig aus befestigtem Bodenmaterial oder Schotter und sind breit genug für Waldfahrzeuge, LKWs und Traktoren. Es gibt aber gerade tief in Wäldern auch unbefestigte Forstwege, die bei Regen auch gerne matschig werden.
-* **Wanderwege:** Sind ausgeschildert und werden gepflegt, sprich umgestützte Bäume werden entfernt. Es findet aber eher selten eine Befestigung der Wege statt, man findet aber an schwierigen Stellen Geländer und Brücken über Bäche.
-* **Pfade:** Unbefestigte, ungepflegte und nicht unbedingt markierte Wege. Teilweise sind diese nicht offiziell und in Naturschutzgebieten (s. TODO) somit nicht erlaubt.
+* **Wanderwege:** Sind ausgeschildert und werden gepflegt, sprich umgestürzte Bäume werden entfernt. Es findet aber eher selten eine Befestigung der Wege statt; man findet aber an schwierigen Stellen Geländer und Brücken über Bäche.
+* **Pfade:** Unbefestigte, ungepflegte und nicht unbedingt markierte Wege. Teilweise sind diese nicht offiziell und in Naturschutzgebieten (s. [Schutzgebiete](#schutzgebiete)) somit nicht erlaubt.
 
-Wanderrouten können auch auf Forstwegen aber auch auf anspruchsvollen Pfaden verlaufen, entsprechend muss man vorher schauen ob eine Route für einen selbst geeignet ist.
+Wanderrouten können auf befestigten Forstwegen bis hin zu kleinen anspruchsvollen Pfaden verlaufen, entsprechend sollte man vorher schauen, ob eine Route für einen selbst geeignet ist.
 Häufig gibt es Wegweiser, Schilder, Infotafeln, Karten und Schutzhütten entlang von Wanderrouten.
 
-Es kann immer vorkommen, dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagt, Naturschutz oder Waldarbeiten.
+Es kann immer vorkommen, dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagd, Naturschutz oder Waldarbeiten.
 
 ## Was erlaubt und verboten ist
 
@@ -247,7 +246,7 @@ Trotzdem lassen sich ein paar Daumenregeln ableiten.
 ### Das ist verboten
 
 * Im Wald übernachten (egal ob mit Zelt, Biwak oder sonst was).
-    * Siehe hierzu den Punkt oben zum [wild campen](#wild-campen).
+    * Siehe hierzu den Punkt oben zum [wild Campen](#wild-campen).
 * Feuer machen (auch außerhalb von Schutzgebieten).
 * Jegliches Hinterlassen von Abfällen (dazu zählen auch Reste von z.B. einem Apfel).
 * Stören (z.B. laute Musik oder helle Beleuchtung).
@@ -261,29 +260,29 @@ Innerhalb von Schutzgebieten ist noch mehr verboten, wäre sonst ja auch etwas s
 In Schutzgebieten ist also _zusätzlich_ verboten:
 
 * Wege verlassen
-* Pflanzen und Pilze pflücken oder beschätigen
+* Pflanzen und Pilze pflücken oder beschädigen
 
 ## Gefahren
 
-Allgemein ist Deutschland ein sehr sicheres Land zum wandern, es könnte fast nicht besser sein.
+Allgemein ist Deutschland ein sehr sicheres Land zum Wandern, es könnte fast nicht besser sein.
 Dennoch gibt es ein paar Dinge zu beachten.
 
 ### Pflanzen und Pilze
 
 Esse keine Pflanzen oder Pilze, die du nicht kennst!
-Es gibt viele Beeren und Stäucher, die harmlos aussehen und vielleicht auch gut riechen, aber dennoch giftig oder unbekömmlich sind.
-Dabei gibt es eine ganze Reihe von Pflanzen, die sogar tödlich sind.
+Es gibt viele Beeren und Sträucher, die harmlos aussehen und vielleicht auch gut riechen, aber dennoch giftig oder zumindest unbekömmlich sind.
+Dabei gibt es auch in Deutschland eine ganze Hand voll Pflanzen, die sogar tödlich sind.
 
-Bei Pilzen das gleiche, vor allem gibt es dort viele Doppelgänger, also giftige Pilze, die aber bekömmlichen Verwandten sehr ähnlich sehen.
-Daumenregel: Bunte farben oder Lamellen statt Röhren → Stehen lassen!
+Bei Pilzen das Gleiche, vor allem gibt es dort viele Doppelgänger, also giftige Pilze, die aber bekömmlichen Verwandten sehr ähnlich sehen.
+Daumenregel: Bunte Farben oder Lamellen statt Röhren → Stehen lassen!
 Bücher zum Bestimmen der Pilze sind gerade für Anfänger ein Muss.
 
 ### Tiere
 
-In Deutschland gibt es so gut wie keine Todefälle durch Tiere.
+In Deutschland gibt es so gut wie keine Todesfälle durch Tiere.
 Statistisch stirbt alle sechs Jahre ein Mensch durch einen Tierangriff.
 
-Nicht-tödliche Angriffe kommen jedoch häufiger vor.
+Nicht tödliche Angriffe kommen jedoch häufiger vor.
 Gefährliche Wildtiere sind dabei Wildschweine, Wölfe und viele Insekten und Spinnen wie Bienen, Wespen und vor allem Zecken.
 
 Gerade im Sommer solltest du dich nach jeder Tour auf Zeckenbisse untersuchen.
@@ -295,13 +294,13 @@ An sich sind die nicht gefährlich, aber Zecken können Viren enthalten, die zu 
 
 Nicht jeder anspruchsvolle oder gefährliche Weg ist gesichert.
 Bei Regen, Eis, Schnee oder schlechten Sichtverhältnissen kann man also leicht irgendwo abrutschen oder umknicken.
-Schaue vorher welche schwierigkeit eine Route hat und ob du der Herausforderung gewachsen bist.
+Schaue vorher, welche Schwierigkeit eine Route hat und ob du der Herausforderung gewachsen bist.
 
 ### Andere Menschen
 
 Ja, auch andere Menschen können gefährlich werden.
 Bei Reddit liest man häufig von Psychopathen mit Waffen, die Trails unsicher machen.
-Soetwas ist mir in Deutschland noch nie zu Ohren gekommen.
+So etwas ist mir in Deutschland noch nie zu Ohren gekommen.
 
 Auch Jäger gibt es hier, in der Regel passiert aber auch da nichts.
 Wenn ein Gebiet aber wegen Jagd abgesperrt ist, dann mache einen Bogen drum ;)
@@ -315,42 +314,42 @@ Wettervorhersagen sollten am Vorabend geprüft und die Tour entsprechend angepas
 
 ## Notfälle
 
-Die Rufnummer der Feuerweter/Rettungsdienst ist **112**.
+Die Rufnummer der Feuerwehr/Rettungsdienst ist **112**.
 See- und Bergrettung hat ggf. eine andere Nummer, sollte man im Vorhinein also in Erfahrung bringen.
 
-**Wichtig:** Holt euch eine passende Reiseversicherungen! Diese übernehmen Kosten für Suche, Rettung, Transport und Operationen, wenn auch teilweise nur bis zu einer bestimmten Höhe.
+**Wichtig:** Hole dir eine passende Reiseversicherung! Diese übernehmen Kosten für Suche, Rettung, Transport und Operationen, wenn auch teilweise nur bis zu einer bestimmten Höhe.
 
-## Do's und don'ts
+## Do's und Don'ts
 
-Hier einige wichtige Verhaltensregeln allgemein und speziell fürs wandern.
+Hier einige wichtige Verhaltensregeln allgemein und speziell fürs Wandern.
 
-### Allgemeine Do's und Don'ts
+### Allgemein
 
 #### Klare Don'ts
 
-1. **Anderen nicht auf die Nerven gehen.** Musik beim wandern? No-Go! Im Restaurant laut unterhalten? No-Go! Auch Gespräche aufzuzwingen ist ein No-Go.
-2. **Körperkontakt.** Einfach so Fremde Menschen berühren, z.B. auf die Schulder klopfen, wird eher aufdringlich empfungen. Sobald man sich besser kennt ist das was anderes.
+1. **Anderen nicht auf die Nerven gehen.** Musik beim Wandern? No-Go! Im Restaurant laut unterhalten? No-Go! Auch Gespräche aufzuzwingen, ist ein No-Go.
+2. **Körperkontakt.** Einfach so fremde Menschen berühren, z.B. auf die Schulter klopfen, wird eher aufdringlich empfunden. Sobald man sich besser kennt, ist das was anderes.
 3. **Verkehrsregeln beachten.** Auch wenn viele Deutsche das selbst nicht können, ist es trotzdem ein wichtiges Thema.
-4. **Smalltalk und aufgesetzte Höflichkeit.** Lieber direkt sein und nicht um den heißen Brei herum labern. Kein Deutscher käme auf die Idee einen Fremden zu fragen wie es ihm geht.
-5. **Respektvoll mit der Nazizeit und WW2 umgehen.** Das Thema ist für viele Deutsche schwierig und viele Äußerungen und Gesten aus der Zeit sind zurecht illegal.
-6. **Verlangen statt zu fragen.** Es ist ok nach Unterstützung zu fragen, aber darauf zu bestehen oder gar Leute zu bedrängen ist ein No-Go.
+4. **Smalltalk und aufgesetzte Höflichkeit.** Lieber direkt sein und nicht um den heißen Brei herum labern. Kein Deutscher käme auf die Idee, einen Fremden zu fragen, wie es ihm geht.
+5. **Respektvoll mit der Nazizeit und WW2 umgehen.** Das Thema ist für viele Deutsche schwierig und viele Äußerungen und Gesten aus der Zeit sind zu Recht illegal.
+6. **Fordern statt bitten.** Es ist ok nach Unterstützung zu fragen, aber darauf zu bestehen oder gar Leute zu bedrängen ist ein No-Go.
 7. **Einfach so Bilder von Personen(gruppen) machen.** Das ist nicht nur unglaublich unhöflich, sondern auch illegal.
-8. **Deutsche auf Stereotypen reduzieren.** Niemand trägt Lederhosen, nicht jeder Deutsche mag Bier, die meisten kommen nicht aus Bayern und nein, nich überall auf der Autobahn darf man so schnell fahren wie man möchte.
+8. **Deutsche auf Stereotypen reduzieren.** Niemand trägt Lederhosen, nicht jeder Deutsche mag Bier, die meisten kommen nicht aus Bayern und nein, nicht überall auf der Autobahn darf man so schnell fahren, wie man möchte.
 
 #### Klare Do's
 
-1. **Begrüßen und Verabschieden.** Wie oben schon beschrieben, ein einfaches "Hallo" und "Auf wiedersehen" reicht aus.
+1. **Begrüßen und Verabschieden.** Wie oben schon beschrieben, ein einfaches "Hallo" und "Auf Wiedersehen" reicht aus.
 2. **Recycling.** Wird generell gerne gesehen.
-3. **Ernsthafte Gespräche.** Es ist total ok ein Gespräch anzufangen, wenn die andere Person nicht gerade beschäftigt ist (Gespräch, Musikhören, Lesen, Essen, etc.). Smalltalk finden aber viele eher nervig.
+3. **Ernsthafte Gespräche.** Es ist total ok, ein Gespräch anzufangen, wenn die andere Person nicht gerade beschäftigt ist (Musikhören, Lesen, Essen, etc.). Smalltalk finden aber viele eher nervig.
 4. **Bargeld dabei haben.** Sicher ist sicher, da man nicht überall mit Karte zahlen kann.
 5. **Deutsch sprechen.** Wenn man ein paar Wörter/Sätze Deutsch kann, dann raus damit. Englisch ist aber vollkommen ok.
 
-### Do's und Don'ts beim Wandern
+### Beim Wandern
 
 #### Klare Don'ts
 
 1. **Stören.** Also Musik, laute Gespräche, Telefonate, etc. sind beim Wandern eher fehl am Platz.
-2. **Müll in der Natur entsorgen.** Abfall (auch ein Papiertaschentuch oder ein Apfel) gehört nicht in die Natur. Auch im Wald gibt es manchmal Abfalleimer, ansonsten gehört es sich den eigenen Müll einfach mitzunehmen.
+2. **Müll in der Natur entsorgen.** Abfall (auch ein Papiertaschentuch oder ein Apfel) gehört nicht in die Natur. Auch im Wald gibt es manchmal Abfalleimer, ansonsten gehört es sich, den eigenen Müll einfach mitzunehmen.
 3. **Naturschutz missachten.** In Naturschutzgebieten gibt es strenge Regeln, z.B. die Wege nicht zu verlassen. Das ist einzuhalten.
 
 #### Klare Do's
@@ -359,22 +358,21 @@ Hier einige wichtige Verhaltensregeln allgemein und speziell fürs wandern.
 2. **Snacks anbieten.** Ist kein Muss, wird aber auch nicht als unhöflich empfunden. Wenn ein Deutscher aber ablehnt, dann heißt das wirklich "Nein".
 3. **Platz machen.** Priorität haben dabei Wanderer, die bergauf gehen. Mountainbikes haben auf Wanderwegen jedoch keine Priorität.
 4. **Natur respektieren.** Das heißt nicht nur Naturschutzgesetze zu beachten, sondern auch z.B. keine Zweige abzuknicken oder Tiere zu stören.
-5. **Müll sammeln.** Also nicht nur den eigenen, sondern auch den Müll, den man so findet. Hier und da mal eine Schockoriegel-Verpackung mitnehmen tut nicht weh.
+5. **Müll sammeln.** Also nicht nur den eigenen, sondern auch den Müll, den man so findet. Hier und da mal eine Schokoriegel-Verpackung mitnehmen, tut nicht weh.
 
 ## FAQ -- Häufig gestellte Fragen
 
-
-Hier einige Themen zu denen häufig Fragen kommen.
+Hier einige Themen, zu denen häufig Fragen kommen.
 
 **Sprechen alle Deutschen Englisch?**
 
-Nicht alle aber definitiv die meisten sprechen English auf hohem Niveau.
+Nicht alle, aber definitiv die meisten sprechen Englisch auf hohem Niveau.
 
 **Gibt es überall Mobilfunkempfang?**
 
 Nein, es gibt Funklöcher in entlegenen Gebieten.
 
-In Deutschland ist der Mobilfunkausbau gerade um urbanen bereich eigentlich ganz gut.
+In Deutschland ist der Mobilfunkausbau gerade im urbanen Bereich eigentlich ganz gut.
 In ländlichen Gegenden oder gerade im Wald kann es aber Funklöcher geben.
 Gerade in Tälern oder Schluchten ist man sehr schnell komplett offline, aber auf Hügeln oder Gipfeln gibt es selten Probleme.
 Tief in den Alpen mag das jedoch anders aussehen.
@@ -391,9 +389,9 @@ Zum Glück sind die meisten Mücken harmlos, aber es gibt mehr und mehr tropisch
 Auf Reddit liest man häufiger von unangenehmen bis gefährlichen Begegnungen mit seltsamen Menschen auf Wanderwegen.
 Habe ich bisher in Deutschland noch nicht erlebt und ist mir bisher auch noch nicht zu Ohren gekommen.
 
-**Ist es sicher alleine wandern zu gehen?**
+**Ist es sicher, alleine wandern zu gehen?**
 
-Als Gruppe zu wandern ist immer sicherer, man halt auf einer Solo-Wanderung aber keine besonderen Gefahren zu befürchten.
+Als Gruppe zu wandern ist immer sicherer, man halt auf einer Solo-Wanderung, aber keine besonderen Gefahren zu befürchten.
 Frauen sei aber gesagt, dass es auch in Deutschland Ar*löcher gibt, die Blicke und Sprüche nicht für sich behalten können.
 Ich wage aber zu behaupten, dass sich diese eher in Städten und weniger auf Wanderrouten befinden.
 
@@ -401,15 +399,18 @@ Ich wage aber zu behaupten, dass sich diese eher in Städten und weniger auf Wan
 
 Meiner Meinung nach Herbst, also Mitte September bis Mitte November.
 Die Bäume verfärben sich, es sind weniger Touristen unterwegs, alle Campingplätze und Hütten haben noch auf und es ist nicht mehr so warm.
-Ja das Wetter kann mal ungemütlich werden, das heißt aber nur, dass weniger Menschen unterwegs sind und man seine Ruhe hat ;)
+Ja, das Wetter kann mal ungemütlich werden, das heißt aber nur, dass weniger Menschen unterwegs sind und man seine Ruhe hat ;)
 
 **Was sind die schönsten Orte?**
 
 Das ist Geschmackssache, aber hier meine persönlichen Empfehlungen:
 Die Sächsische Schweiz, [die Alpen]({{< ref "posts/zugspitze-2022" >}}), Bayerischer Wald, der nördliche Teil vom [Rennsteig]({{< ref "posts/thueringer-wald-2022-report" >}}), der Schwarzwald, die Lüneburger Heide und der [Rheinsteig]({{< ref "posts/rheinsteig-2020" >}}).
-Es gibt aber noch viele viele weitere schöne Ecken, online findet man eine ganze Menge dazu.
+Es gibt aber noch viele viele weitere schöne Ecken; online findet man eine ganze Menge dazu.
 
 ## Noch Fragen?
 
 Du hast weitere Fragen zum Thema Wandern in Deutschland?
-Dann schreibe gerne einen Kommentar oder kontaktiere mich per Mail :)
+Dann schreibe gerne einen Kommentar oder kontaktiere mich per E-Mail (s. Button unten).
+
+Was bleibt mir noch zu sagen?
+Viel Spaß beim Wandern in Deutschland :)
