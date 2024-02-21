@@ -25,9 +25,10 @@ enableGitInfo = true
 		languageCode = "en"
 		languageName = "English"
 		weight = 2
-		subtitle = "Experiences from trekking, hiking and paddling in wild nature"
-		description = "Experiences from trekking, hiking and paddling in wild nature"
 		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
+		[languages.en.params]
+			subtitle = "Experiences from trekking, hiking and paddling in wild nature"
+			description = "Experiences from trekking, hiking and paddling in wild nature"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				name = "Iceland"
@@ -53,9 +54,10 @@ enableGitInfo = true
 		languageCode = "de"
 		languageName = "Deutsch"
 		weight = 1
-		subtitle = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
-		description = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
 		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
+		[languages.de.params]
+			subtitle = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
+			description = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
 				name = "Island"

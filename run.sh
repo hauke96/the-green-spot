@@ -10,4 +10,4 @@ then
 	bash -c "sleep 2; firefox $URL" &
 fi
 
-hugo server --environment $ENVIRONMENT -D -v
+hugo server --environment $ENVIRONMENT -D --logLevel debug
