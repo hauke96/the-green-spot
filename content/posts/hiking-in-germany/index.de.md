@@ -1,6 +1,6 @@
 ---
-title: "Wandern in Deutschland"
-summary: "Hier findest du alle relevanten Informationen rund um Wandern in Deutschland: Übernachtungen, Verpflegung, Wetter, was erlaubt ist, Do's und Don'ts und vieles mehr."
+title: "Wandern in Deutschland: Ein kompletter Ratgeber"
+summary: "In diesem umfassenden Ratgeber findest du alle relevanten Informationen zum Wandern in Deutschland: Unterkunft, Verpflegung, Wetter, was erlaubt und verboten ist und vieles mehr. Dazu gehören auch gute Orte zum Wandern, Tipps, Empfehlungen und Gepflogenheiten."
 date: "2024-02-18T11:10:59+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
@@ -41,6 +41,10 @@ Müll in der Natur entsorgen ist ein No-Go und ist zu Recht illegal.
 
 Deutschland kann man gut in Nord-, Süd-, West-, Ost- und Mitteldeutschland teilen.
 Genauer wäre die 16 Bundesländer, aber die gröbere Unterteilung kann man sich besser merken.
+
+Allgemein ist Deutschland sehr dicht besiedelt und z.B. über sechs mal dichter als die USA.
+Entsprechend gibt es wenig große und zusammenhängende Flächen in denen niemand lebt.
+Das hat aber auch Vorteile und man findet dennoch schöne Orte zum Wandern.
 
 ### Norddeutschland
 
@@ -85,7 +89,7 @@ Beim Wandern ist ein "Hallo" oder "Hi" üblich, wenn man Leuten begegnet.
 
 Kurz: Nicht wirklich nötig, Deutschland hat insgesamt gute öffentliche Verkehrsmittel.
 
-Ich wohne in Deutschland, gehe hier auch wandern (z.B. im Thüringer Wald oder in den Alpen) und besitze weder privat ein Auto noch miete ich mir eins im Urlaub.
+Ich wohne in Deutschland, gehe hier auch wandern (z.B. im [Thüringer Wald]({{< ref "posts/thueringer-wald-2022-report" >}}) oder in den [Alpen]({{< ref "posts/zugspitze-2022" >}})) und besitze weder privat ein Auto noch miete ich mir eins im Urlaub.
 Möchte man sehr flexibel sein, hat viel Gepäck oder man ist an einem Ort ohne öffentliche Verkehrsmittel, dann kann ein Mietwagen Sinn ergeben.
 
 ### Öffentliche Verkehrsmittel
@@ -148,7 +152,7 @@ Buchen kann man Campingplätze teilweise online, bei vielen geht man aber einfac
 Vorher anrufen und ggf. reservieren kann aber nicht schaden.
 Manche größere Campingplätze bieten auch kleine Ferienhäuser an, man braucht also nicht überall ein Zelt.
 
-Preislich ist man mit ca. 10 - 20 € pro Person pro Nacht dabei, je nach Region und Saison.
+Preislich ist man mit Zelt bei ca. 10 - 20 € pro Person pro Nacht dabei, je nach Region und Saison.
 
 **Wichtig:** Viele Campingplätze haben im Winter geschlossen.
 
@@ -171,13 +175,11 @@ Es gibt neben DAV-Hütten auch private Hütten, die aber wesentlich teurer sind 
 Kurz: In Deutschland verboten. Punkt.
 
 Es gibt jedoch einige sogenannte _Trekking-Plätze_, auf denen man im Wald übernachten darf.
-Das sind offiziell ausgewiesene Stellen im Wald, teilweise mit Feuerstelle und Plumpsklo, für die man online eine Übernachtung buchen kann.
-
-Preislich ist man bei 10 - 20 € pro Zelt dabei.
+Das sind offiziell ausgewiesene Stellen im Wald, teilweise mit Feuerstelle und Plumpsklo, für die man online eine Übernachtung für 10 - 20 € pro Zelt buchen kann.
 
 **Wichtig:** Viele Trekking-Plätze haben im Winter geschlossen.
 
-## Wetter spellchecking
+## Wetter
 
 Hier kommt es sehr auf die Jahreszeit und Region an, deswegen ein paar Daumenregeln.
 Mit "Norden" ist dabei alles nördlich vom Harz gemeint, und mit "Süden" eben alles südlicher.
@@ -203,14 +205,15 @@ Für eine historische Übersicht seien die [Klimakarten vom Deutschen Wetterdien
 
 ## Kleidung & Equipment
 
-Kurz: Den Gegebenheiten entsprechend. Deutschland hat sonst keine besonderen Anforderungen an Kleidung und Equipment.
+Kurz: Den Gegebenheiten entsprechend.
+Deutschland hat sonst keine besonderen Anforderungen an Kleidung und Equipment.
 
 Es kommt natürlich sehr auf die Jahreszeit an, aber ein paar Worte zum Thema Kleidung.
 
-* **Festes Schuhwerk** ist Pflicht (also nicht rechtlich, aber ohne ist es nicht empfehlenswert!). Ob Schuh oder Stiefel ist egal, Hauptsache du hast einen sicheren Tritt und fühlst dich wohl in den Schuhen.
+* **Festes Schuhwerk** ist Pflicht (also nicht rechtlich, aber empfehlenswert!). Ob Schuh oder Stiefel ist egal, Hauptsache du hast einen sicheren Tritt und fühlst dich wohl in den Schuhen.
 * **Regenfeste Kleidung** ist ebenfalls wichtig, auch im Sommer. Ich empfehle Ponchos, wenn man keine separate Regenjacke mitnehmen möchte.
 * Im **Winter**: Der Temperatur entsprechend, also warme Kleidung. Wollsocken, sowie Daunen- oder Fleece-Jacken sind empfehlenswert.
-* Im **Sommer**: Sonnencreme, gerade in Süddeutschland und auf höheren Lagen. Ansonsten luftige aber lange Kleidung (schützt vor Sonne, Zecken und Mücken).
+* Im **Sommer**: Sonnencreme, gerade in Süddeutschland und auf höheren Lagen. Ansonsten luftige aber lange Kleidung (schützt vor Sonne, Zecken und Mücken). Nimm genug Wasser mit!
 
 Gutes Equipment ist ebenfalls wichtig.
 
@@ -227,12 +230,12 @@ Ich würde sagen, es gibt vier wesentliche Arten von Wanderwegen, auch wenn dies
 * **Befestigte Wege:** Gerade Wege, auf denen Radrouten verlaufen, Zufahrtswege oder auch stark frequentierte Forstwege können gepflastert oder gar asphaltiert sein. Findet man allerdings eher in besiedelten Gebieten und eher außerhalb von Wäldern.
 * **Forstwege:** Bestehen häufig aus befestigtem Bodenmaterial oder Schotter und sind breit genug für Waldfahrzeuge, LKWs und Traktoren. Es gibt aber gerade tief in Wäldern auch unbefestigte Forstwege, die bei Regen auch gerne matschig werden.
 * **Wanderwege:** Sind ausgeschildert und werden gepflegt, sprich umgestürzte Bäume werden entfernt. Es findet aber eher selten eine Befestigung der Wege statt; man findet aber an schwierigen Stellen Geländer und Brücken über Bäche.
-* **Pfade:** Unbefestigte, ungepflegte und nicht unbedingt markierte Wege. Teilweise sind diese nicht offiziell und in Naturschutzgebieten (s. [Schutzgebiete](#schutzgebiete)) somit nicht erlaubt.
+* **Pfade:** Unbefestigte, ungepflegte und nicht unbedingt markierte Wege. Viele sind nicht offiziell und in Naturschutzgebieten (s. [Schutzgebiete](#schutzgebiete)) somit nicht erlaubt.
 
 Wanderrouten können auf befestigten Forstwegen bis hin zu kleinen anspruchsvollen Pfaden verlaufen, entsprechend sollte man vorher schauen, ob eine Route für einen selbst geeignet ist.
 Häufig gibt es Wegweiser, Schilder, Infotafeln, Karten und Schutzhütten entlang von Wanderrouten.
 
-Es kann immer vorkommen, dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagd, Naturschutz oder Waldarbeiten.
+Es kann immer vorkommen (ohne vorherige Bekanntmachung), dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagd, Naturschutz oder Waldarbeiten.
 
 ## Was erlaubt und verboten ist
 
@@ -254,9 +257,16 @@ Trotzdem lassen sich ein paar Daumenregeln ableiten.
 * Stören (z.B. laute Musik oder helle Beleuchtung).
 * Rauchen ist teilweise verboten (je nach Land oder Jahreszeit).
 
-### Schutzgebiete
+## Schutzgebiete
+
+In Deutschland gibt es zahlreiche Schutzgebiete verschiedener Klassen, von Naturreservaten und Nationalparks (die ein hohes Schutzniveau haben) bis hin zu Naturschutzgebieten und zahlreichen anderen Arten von Schutzgebieten.
+
+Du kannst diese Schutzgebiete unter den unten aufgeführten Bedingungen frei betreten.
+Für den Besuch dieser Schutzgebiete müssen Sie auch **keine Gebühr** bezahlen und auch kein Ticket kaufen.
 
 {{< imgScale "images/hiking-in-germany/germany-protected-areas.jpg" "Schutzgebiete in Deutschland gemäß Daten aus OpenStreetMap." "500x" >}}
+
+### Das ist verboten
 
 Innerhalb von Schutzgebieten ist noch mehr verboten, wäre sonst ja auch etwas seltsam.
 In Schutzgebieten ist also _zusätzlich_ verboten:
@@ -276,12 +286,11 @@ Es gibt viele Beeren und Sträucher, die harmlos aussehen und vielleicht auch gu
 Dabei gibt es auch in Deutschland eine ganze Hand voll Pflanzen, die sogar tödlich sind.
 
 Bei Pilzen das Gleiche, vor allem gibt es dort viele Doppelgänger, also giftige Pilze, die aber bekömmlichen Verwandten sehr ähnlich sehen.
-Daumenregel: Bunte Farben oder Lamellen statt Röhren → Stehen lassen!
 Bücher zum Bestimmen der Pilze sind gerade für Anfänger ein Muss.
 
 ### Tiere
 
-In Deutschland gibt es so gut wie keine Todesfälle durch Tiere.
+In Deutschland gibt es so gut wie keine Todesfälle durch Tierangriffe.
 Statistisch stirbt alle sechs Jahre ein Mensch durch einen Tierangriff.
 
 Nicht tödliche Angriffe kommen jedoch häufiger vor.
@@ -312,7 +321,7 @@ Wenn ein Gebiet aber wegen Jagd abgesperrt ist, dann mache einen Bogen drum ;)
 Anders als z.B. [auf meiner Island-Reise](/de/posts/iceland-2018-report-3/#es-werde-licht), gibt es in Deutschland eher selten starke und schnelle Wetterumschwünge.
 Dennoch kann es morgens sonnig und nachmittags regnerisch sein, meistens ist der Verlauf aber langsam und fließend.
 Gerade in höheren Lagen kann es zu Nebel und starken Winden kommen.
-Wettervorhersagen sollten am Vorabend geprüft und die Tour entsprechend angepasst werden.
+Du solltest die Wettervorhersag am Vorabend prüfen und die Tour ggf. anpassen.
 
 ## Notfälle
 
@@ -351,7 +360,7 @@ Hier einige wichtige Verhaltensregeln allgemein und speziell fürs Wandern.
 #### Klare Don'ts
 
 1. **Stören.** Also Musik, laute Gespräche, Telefonate, etc. sind beim Wandern eher fehl am Platz.
-2. **Müll in der Natur entsorgen.** Abfall (auch ein Papiertaschentuch oder ein Apfel) gehört nicht in die Natur. Auch im Wald gibt es manchmal Abfalleimer, ansonsten gehört es sich, den eigenen Müll einfach mitzunehmen.
+2. **Müll in der Natur entsorgen.** Abfall (auch ein Papiertaschentuch oder ein Apfel) gehört nicht in die Natur! Auch im Wald gibt es manchmal Abfalleimer, ansonsten gehört es sich, den eigenen Müll einfach mitzunehmen.
 3. **Naturschutz missachten.** In Naturschutzgebieten gibt es strenge Regeln, z.B. die Wege nicht zu verlassen. Das ist einzuhalten.
 
 #### Klare Do's
@@ -400,7 +409,7 @@ Ich wage aber zu behaupten, dass sich diese eher in Städten und weniger auf Wan
 **Was ist die beste Zeit fürs Wandern in Deutschland?**
 
 Meiner Meinung nach Herbst, also Mitte September bis Mitte November.
-Die Bäume verfärben sich, es sind weniger Touristen unterwegs, alle Campingplätze und Hütten haben noch auf und es ist nicht mehr so warm.
+Die Bäume verfärben sich, es sind weniger Touristen unterwegs, es gibt keine oder weniger Mücken, alle Campingplätze und Hütten haben noch auf und es ist nicht mehr so warm.
 Ja, das Wetter kann mal ungemütlich werden, das heißt aber nur, dass weniger Menschen unterwegs sind und man seine Ruhe hat ;)
 
 **Was sind die schönsten Orte?**

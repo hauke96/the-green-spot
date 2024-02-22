@@ -1,6 +1,6 @@
 ---
-title: "A guide to hiking in Germany"
-summary: "Here you will find all relevant information on hiking in Germany: accommodation, food, weather, what is allowed, do's and don'ts and much more."
+title: "Hiking in Germany: A complete guide"
+summary: "In this comprehensive guide, you will find all relevant information on hiking in Germany: accommodation, food, weather, what is allowed, do's and don'ts and much more. This also includes good hiking spots, tips, recommendations and practices."
 date: "2024-02-18T11:10:59+01:00"
 tags: ["guide", "knowledge", "germany", "hiking"]
 author: "hauke"
@@ -41,6 +41,10 @@ Disposing of waste in nature is a no-go and is rightly illegal.
 
 Germany can easily be divided into North, South, West, East and Central Germany.
 The 16 federal states would be more accurate, but the coarser division is easier to remember.
+
+In general, Germany is very densely populated and, for example, over six times more densely populated than the USA.
+Accordingly, there are few large and contiguous areas where nobody lives.
+However, this also has its advantages and you can still find beautiful places to hike.
 
 ### Northern Germany
 
@@ -101,33 +105,33 @@ If in doubt, use formal phrases.
 
 _**"Ja"**_ ([dict](https://www.dict.cc/?s=ja)) / _**"Nein"**_ ([dict](https://www.dict.cc/?s=nein)) → _"Yes"_ / _"No"_<br>
 _**"Danke"**_ ([dict](https://www.dict.cc/?s=danke)) → _"Thanks"_<br>
-_**"Bitte"**_ ([dict](https://www.dict.cc/?s=bitte)) → _"Please"_ and _"You're welcome"_<br>
-Same German word for e.g. requesting (_please_) and returning something (_you're welcome_).<br>
-_**"Nicht"**_ ([dict](https://www.dict.cc/?s=nicht)) / _**"Kein"**_ ([dict](https://www.dict.cc/?s=kein)) → _"not"_ / _"no"_<br>
-Simple negations as in _kein Trinkwasser_ for _no drinking water_.
+_**"Bitte"**_ ([dict](https://www.dict.cc/?s=bitte)) → _"Please"_ and _"You're welcome"_.
+Same German word for requesting (_"please"_) and returning / giving something (_"you're welcome"_).<br>
+_**"Nicht"**_ ([dict](https://www.dict.cc/?s=nicht)) / _**"Kein"**_ ([dict](https://www.dict.cc/?s=kein)) → _"not"_ / _"no"_.
+Simple negations as in _"kein Trinkwasser"_ for _"no drinking water"_.
 
 ### Hello and bye
 
-_**"Hallo"**_ ([dict](https://www.dict.cc/?s=Hallo)) → _"Hello"_<br>
+_**"Hallo"**_ ([dict](https://www.dict.cc/?s=Hallo)) → _"Hello"_.
 It's used just like in English. It's fine to use this one in all occasions.<br>
-_**"Hi"**_ ([dict](https://www.dict.cc/?s=Hi)) → _"Hi"_<br>
-Not exactly German, but still frequently used in more informal contexts and by younger people.<br>
-_**"Guten Morgen/Tag/Abend"**_ ([dict](https://www.dict.cc/?s=Guten+tag)) → _"Good morning"_, _"Gidday"_ / _"Hello"_ and _"Good evening"_<br>
-_Guten Tag_ is a bit more formal version of _Hallo_ but not much.
+_**"Hi"**_ ([dict](https://www.dict.cc/?s=Hi)) → _"Hi"_.
+Not exactly German, but still often used, especially by younger people.<br>
+_**"Guten Morgen/Tag/Abend"**_ ([dict](https://www.dict.cc/?s=Guten+tag)) → _"Good morning"_, _"Gidday"_ / _"Hello"_ and _"Good evening"_.
+_"Guten Tag"_ is a bit more formal version of _"Hallo"_ but not much.
 
 Only in _northern_ Germany:<br>
-_**"Moin"**_ ([dict](https://www.dict.cc/?s=Moin)) → _"Hello"_<br>
-It's actually not German but Lower German (different language!) and I could explain the origin but it basically means _Hello_.
+_**"Moin"**_ ([dict](https://www.dict.cc/?s=Moin)) → _"Hello"_.
+It's actually not German but Low German (different language!) and I could explain the origin but it basically means _"Hello"_.
 
 Only in _southern_ Germany:<br>
 _**"Servus"**_ ([dict](https://www.dict.cc/?s=Servus)) or _**"Grüß Gott!"**_ ([dict](https://www.dict.cc/?s=Grüß+Gott!)) → _"Hello"_
 
-_**"Tschüss"**_ ([dict](https://www.dict.cc/?s=Tschüss)) → _"Bye"_<br>
+_**"Tschüss"**_ ([dict](https://www.dict.cc/?s=Tschüss)) → _"Bye"_.
 Informal version of _bye_.<br>
-_**"Auf Wiedersehen"**_ ([dict](https://www.dict.cc/?s=Auf+Wiedersehen)) → _"Good bye"_<br>
-Means literally _see you again_ and is a bit more formal than _Tschüss_.<br>
-_**"Bis dann!"**_ ([dict](https://www.dict.cc/?s=Bis+dann!)) → _"See ya!"_<br>
-Kind of the informal version of _Auf Wiedersehen_.
+_**"Auf Wiedersehen"**_ ([dict](https://www.dict.cc/?s=Auf+Wiedersehen)) → _"Good bye"_.
+Literally _see you again_ and is a bit more formal than _"Tschüss!"_.<br>
+_**"Bis dann!"**_ ([dict](https://www.dict.cc/?s=Bis+dann!)) → _"See ya!"_.
+Kind of the informal version of _"Auf Wiedersehen"_.
 
 ### Relevant for hiking
 
@@ -136,9 +140,9 @@ _**"Weg"**_ ([dict](https://www.dict.cc/?s=Weg)) → _"path"_ or _"trail"_<br>
 _**"Wanderweg"**_ ([dict](https://www.dict.cc/?s=Wanderweg)) → _"hiking trail"_<br>
 
 _**"Betreten"**_ ([dict](https://www.dict.cc/?s=betreten)) → _"enter"_<br>
-_**"Verlassen"**_ ([dict](https://www.dict.cc/?s=betreten)) → _"leave"_<br>
-_**"Verboten"**_ ([dict](https://www.dict.cc/?s=)) → _"forbidden"_<br>
-And together _Betreten verboten!_ means _Do not enter!_. And _Verlassen der Wege verboten!_ therefore means _Do not leave the trails!_.
+_**"Verlassen"**_ ([dict](https://www.dict.cc/?s=Verlassen)) → _"leave"_<br>
+_**"Verboten"**_ ([dict](https://www.dict.cc/?s=Verboten)) → _"forbidden"_.
+And together _"Betreten verboten!"_ means _"Do not enter!"_. The phrase _"Verlassen der Wege verboten!"_ therefore means _"Do not leave the trails!"_.
 
 _**"Berg"**_ ([dict](https://www.dict.cc/?s=Berg)) → _"mountain"_<br>
 _**"Gipfel"**_ ([dict](https://www.dict.cc/?s=Gipfel)) → _"summit"_<br>
@@ -146,356 +150,354 @@ _**"Wald"**_ ([dict](https://www.dict.cc/?s=Wald)) / _**"Forst"**_ ([dict](https
 _**"Bach"**_ ([dict](https://www.dict.cc/?s=Bach)) → _"stream"_<br>
 
 _**"Campingplatz"**_ ([dict](https://www.dict.cc/?s=Campingplatz)) → _"camp site"_<br>
+_**"Schutzgebiet"**_ ([dict](https://www.dict.cc/?s=Schutzgebiet)) → _"protected area"_. Typical use if _"Naturschutzgebiet"_, which is a protected natural habitat area as [described below](#protected-areas).<br>
 
-### Additional phrases
+## Arrival, departure and mobility
 
-_**"Bezahlen"**_ ([dict](https://www.dict.cc/?s=bezahlen)) → _"to pay"_<br>
+### Rental car
 
-_**""**_ ([dict](https://www.dict.cc/?s=)) → _""_<br>
+In short: Not really necessary, Germany has quite good public transportation.
 
-_**""**_ ([dict](https://www.dict.cc/?s=)) → _""_<br>
+I live in Germany, I also go hiking here (e.g. in the [Thuringian Forest]({{< ref "posts/thueringer-wald-2022-report" >}}) or in the [Alps]({{< ref "posts/zugspitze-2022" >}})) and I neither own a car nor do I rent one on vacation.
+If you want to be very flexible, have a lot of luggage or are in a place without public transportation (might happen in very rural areas), then a rental car might make sense.
+Check [this article](https://www.german-way.com/travel-and-tourism/driving-in-europe/driving/driving-in-germany-rental/) out, which gives an overview about cars in Germany.
 
-_**""**_ ([dict](https://www.dict.cc/?s=)) → _""_<br>
+### Public transportation
 
-_**""**_ ([dict](https://www.dict.cc/?s=)) → _""_<br>
+I advise everyone to start without a car and buy the [**Deutschland-Ticket**](https://int.bahn.de/en/offers/regional/deutschland-ticket) (also "49€-Ticket") instead.
+This allows you to travel all over Germany for one month for only €49, which is simply unbeatable!
 
-_**""**_ ([dict](https://www.dict.cc/?s=)) → _""_<br>
+This ticket includes busses, trams, subways and all kind of local and regional trains.
+Long distant and high-speed trains, like EC, IC and ICE trains, are not included!
+However, a lot of historic and steam trains are partially accepting the ticket.
 
+## Shopping and catering
 
-## Anreise, Abreise und Mobilität
+### Paying
 
-### Mietwagen
+Cash is still very popular and is basically accepted everywhere (with the possible exception of some hip fancy-pancy coffee shops).
+Therefore, ATMs can be found everywhere but depending on your card provider, withdrawing money might cost a few Euros.
+Visa and Mastercard are also widely used and are accepted almost everywhere, at least in all kind of shops, hotels, etc.
+Other card providers (e.g. American Express) are supported far less frequently.
+When buying things online, PayPal is the most common payment service.
 
-Kurz: Nicht wirklich nötig, Deutschland hat insgesamt gute öffentliche Verkehrsmittel.
+### Shopping facilities
 
-Ich wohne in Deutschland, gehe hier auch wandern (z.B. im Thüringer Wald oder in den Alpen) und besitze weder privat ein Auto noch miete ich mir eins im Urlaub.
-Möchte man sehr flexibel sein, hat viel Gepäck oder man ist an einem Ort ohne öffentliche Verkehrsmittel, dann kann ein Mietwagen Sinn ergeben.
+Supermarkets are common in Germany, large shopping centers or malls are only found in metropolitan areas and larger cities.
+Typical supermarket chains that can be found everywhere: Aldi, Lidl, Edeka, Rewe, Kaufland, Netto and Real.
+There are no significant price differences between the chains.
+Cash is accepted everywhere, as are Visa and Mastercard.
 
-### Öffentliche Verkehrsmittel
+**Tip:** Buy the supermarket's own brands (e.g. "Gut und günstig" at Edeka or "ja!" at Rewe) and be prepared to pack everything at the checkout as fast as you can - cashiers are very quick!
 
-Ich rate allen dazu, zunächst, ohne Auto auszukommen und stattdessen sich das [**Deutschland-Ticket**](https://int.bahn.de/en/offers/regional/deutschland-ticket) zu kaufen.
-Damit kann man für 49 € einen Monat lang durch ganz Deutschland fahren, das ist einfach unschlagbar!
+**Important:** Shops are closed on Sundays and public holidays! However, places like restaurants, bakeries and gas stations are usually open.
 
-## Einkaufen und Verpflegung
+### Gastronomy
 
-### Bezahlen
+There are restaurants and pubs in almost every town, especially in tourist areas.
+Good food is available for 10 - 15 €, soft drinks, e.g. 0.33 L Coca-Cola, are around 3 € and 0.5 L beer costs about 5 €.
+Some restaurants only accept cash (but this is rarely the case).
 
-Bargeld ist weiterhin sehr beliebt und wird eigentlich überall genommen (Ausnahme vielleicht irgendwelche hippen fancy-pancy-Coffeshops).
-Visa und Mastercard sind aber auch weit verbreitet und werden fast überall akzeptiert.
-Andere Kartenanbieter (z.B. American Express) werden schon weit weniger häufig unterstützt.
-Online ist PayPal die gängigste Methode, um etwas zu kaufen oder zu buchen.
+The **process** is usually as follows:
+Enter the restaurant, ask for a table (or say that you have a reservation), choose and order your food, eat your food, call the waiter and pay.
+Many Germans leave immediately afterwards, but especially if you order something to drink, it's totally fine to stay longer.
 
-### Einkaufsmöglichkeiten
+**Tipping**.
+Generally speaking, 10% is usual, but it is also ok not to tip (employees do not dependent on tips).
+Most people decide according to the quality of the food, drinks and service.
 
-In Deutschland sind Supermärkte üblich, große Einkaufszentren gibt es nur in Ballungsräumen.
-Typische Supermarkt-Ketten, die man überall findet: Aldi, Lidl, Edeka, Rewe, Kaufland, Netto und Real.
-Preislich unterscheiden sich die Ketten nicht signifikant voneinander.
-Bargeld wird überall akzeptiert, genauso wie Visa und Mastercard.
-
-**Tipp:** Kaufe die günstigen Eigenmarken vom Supermarkt (z.B. "Gut und günstig" oder "ja!") und halte dich an der Kasse bereits alles einzupacken - Kassierer sind sehr schnell!
-
-**Wichtig:** Geschäfte haben sonn- und feiertags geschlossen!
-
-### Gastronomie
-
-In fast jedem Ort, gerade touristisch erschlossenen, gibt es Restaurants und Kneipen.
-Gutes Essen gibt es für 10 - 15 €, Getränke liegen mit z.B. 0,33 L Coca-Cola bei ca. 3 € und 0,5 L Bier bei 5 €.
-Manche Restaurants akzeptieren nur Bargeld (ist aber eher selten der Fall).
-
-Der **Ablauf** ist meist wie folgt:
-Ins Restaurant kommen, nach einem Tisch fragen (oder sagen, dass man reserviert hat), Essen aussuchen und bestellen, Essen essen, Bedienung rufen und bezahlen.
-Viele Deutsche verbringen gehen danach direkt wieder, wenn man noch etwas zu trinken bestellt, ist es aber auch ok etwas länger zu bleiben.
-
-Thema **Trinkgeld**.
-Generell sind 10 % üblich, aber es ist auch ok kein Trinkgeld zu geben (Angestellte sind nicht zwingend aufs Trinkgeld angewiesen).
-Die meisten entscheiden das nach Qualität der Speisen, Getränke und des Services.
-
-## Übernachten
+## Overnight stay
 
 ### Hotels / Hostels
 
-Es gibt überall in Deutschland Hotels, manchmal sogar in sehr kleinen Ortschaften.
-Mit 60 - 100 € pro Nacht findet man ein angemessenes Hotel mit Frühstück, selbst in touristisch erschlossenen Gebieten.
+There are hotels everywhere in Germany, sometimes even in villages.
+You can find a decent hotel with breakfast for 60 - 100 € per night, even in tourist areas.
 
-**Wichtig:** Früh buchen! Die Preise unterscheiden sich zudem häufig zwischen Haupt- und Nebensaison.
+**Important:** Book early! Prices often differ between high and low season.
 
-Buchen kann man Hotels meist auf deren Website oder über Portale wie booking.com, hrs.de oder hotels.check24.de.
-Viele sind darüber auch ohne Kreditkarte buchbar.
+Hotels can usually be booked on their website or via portals such as booking.com, hrs.de or hotels.check24.de.
+Many of them can also be booked without a credit card.
 
-**Tipp:** Manche Hotels sind auf ihrer Website günstiger, weil die Vergleichsportale natürlich eine Provision vom Hotel verlangen.
+**Tip:** Some hotels are cheaper on their own website, because external booking websites naturally charge the hotel a commission.
 
-### Campingplätze
+### Campsites
 
-Gibt es fast überall in Deutschland, knapp 4300 Campingplätze sind in [OpenStreetMap](https://osm.org) (einer offenen Datenbank für allerlei Geodaten) erfasst.
-Buchen kann man Campingplätze teilweise online, bei vielen geht man aber einfach hin und kriegt einen Zeltplatz.
-Vorher anrufen und ggf. reservieren kann aber nicht schaden.
-Manche größere Campingplätze bieten auch kleine Ferienhäuser an, man braucht also nicht überall ein Zelt.
+There are campsites almost everywhere in Germany, almost 4300 campsites are recorded in [OpenStreetMap](https://osm.org) (an open database for all kinds of geodata).
+Some campsites can be booked online, but at many you can simply go there and get a pitch.
+However, it doesn't hurt to call ahead and make a reservation if necessary.
+Some larger campsites also offer things like huts, so you don't need a tent everywhere.
 
-Preislich ist man mit ca. 10 - 20 € pro Person pro Nacht dabei, je nach Region und Saison.
+The price with a tent is around €10 - €20 per person per night, depending on the region and season.
 
-**Wichtig:** Viele Campingplätze haben im Winter geschlossen.
+**Important:** Many campsites are closed in winter.
 
-### Hütten
+### Huts
 
-{{< imgScale "images/hiking-in-germany/Olpererhütte_im_August_2011_11.JPG" "Die Olpererhütte über dem Schlegeisspeicher auf 2389 m Höhe, eine von vielen DAV-Hütten. [© Wikimedia böhringer friedrich](https://de.wikipedia.org/wiki/Datei:Olpererh%C3%BCtte_im_August_2011_11.JPG) ([CC BY-SA 2.5 Deed](https://creativecommons.org/licenses/by-sa/2.5/deed.de))" "500x" >}}
+{{< imgScale "images/hiking-in-germany/Olpererhütte_im_August_2011_11.JPG" "The Olpererhütte above the Schlegeisspeicher at 2389 m altitude, one of many DAV huts. [© Wikimedia böhringer friedrich](https://de.wikipedia.org/wiki/Datei:Olpererh%C3%BCtte_im_August_2011_11.JPG) ([CC BY-SA 2.5 Deed](https://creativecommons.org/licenses/by-sa/2.5/deed.de))" "500x" >}}
 
-Vom _Deutschen Alpenverein_ (DAV) gibt es gerade in den Alpen diverse Hütten, in denen man übernachten kann.
-Kostenlos sind Hütten zwar nicht, aber in der Regel ist man mit unter 50 € pro Nacht dabei (bei Mehrbett-Zimmern oder Matratzenlagern weniger).
-DAV-Mitglieder bekommen zudem eine Vergünstigung.
+The German Alpine Association (_Deutscher Alpenverein_, DAV) has various huts in the Alps where you can spend the night.
+Huts are not free of charge, but you can usually stay for less than €50 per night (less for multi-bed rooms or mattress dormitories).
+DAV members get a discount.
 
-Es gibt neben DAV-Hütten auch private Hütten, die aber wesentlich teurer sind und sich erst ab größeren Gruppen lohnen.
+In addition to DAV huts, there are also private huts, but these are considerably more expensive and are only worthwhile for larger groups.
 
-**Wichtig:** Viele Hütten haben im Winter oder Sommer geschlossen.
+**Important:** Many huts are closed in winter or summer.
 
-### Wild campen
+### Wild camping
 
-{{< imgScale "images/thueringer-wald-2022-report/DSC03737_1600.JPG" "Eins meiner wilden Camps im [Thüringer-Wald](/de/posts/thueringer-wald-2022-report)." "500x" >}}
+{{< imgScale "images/thueringer-wald-2022-report/DSC03737_1600.JPG" "One of my wild camps in the [Thuringian Forest](/en/posts/thueringer-wald-2022-report)." "500x" >}}
 
-Kurz: In Deutschland verboten. Punkt.
+In short: Forbidden in Germany. Period.
 
-Es gibt jedoch einige sogenannte _Trekking-Plätze_, auf denen man im Wald übernachten darf.
-Das sind offiziell ausgewiesene Stellen im Wald, teilweise mit Feuerstelle und Plumpsklo, für die man online eine Übernachtung buchen kann.
+However, there are some so-called _trekking sites_ where you are allowed to spend the night in the forest.
+These are officially designated spots in the forest, some with a fire pit and outhouse, for which you can book an overnight stay online for about 10 - 20 € per tent.
 
-Preislich ist man bei 10 - 20 € pro Zelt dabei.
+**Important:** Many trekking sites are closed in winter.
 
-**Wichtig:** Viele Trekking-Plätze haben im Winter geschlossen.
+## Weather
 
-## Wetter spellchecking
+It all depends on the time of year and the region, so here are a few rules of thumb.
+By "north" we mean everything north of the Harz mountains, and by "south" we mean everything south of it.
+For a historical overview, the [climate maps from the German Weather Service (DWD)](https://www.dwd.de/DE/leistungen/klimakartendeutschland/klimakartendeutschland.html) and data from [Kachelmannwetter](https://kachelmannwetter.com/de/messwerte/deutschland) are recommended.
 
-Hier kommt es sehr auf die Jahreszeit und Region an, deswegen ein paar Daumenregeln.
-Mit "Norden" ist dabei alles nördlich vom Harz gemeint, und mit "Süden" eben alles südlicher.
-Für eine historische Übersicht seien die [Klimakarten vom Deutschen Wetterdienst (DWD)](https://www.dwd.de/DE/leistungen/klimakartendeutschland/klimakartendeutschland.html) und Daten von [Kachelmannwetter](https://kachelmannwetter.com/de/messwerte/deutschland) empfohlen.
-
-* Allgemein
-    * Im Norden und Osten regnet es generell mehr als im Süden.
-    * Je höher, desto kälter und nasser.
-    * Oft regnet es nicht stark, aber dafür für ein paar Tage am Stück.
-    * Anfang Sommer (Mai/Juni) und Anfang Herbst (August/September) ist die niedrigste Regenwahrscheinlichkeit.
-    * Luftfeuchtigkeit meistens über 50 - 80 %, im Winter 70 - 100 %.
-* Frühling & Herbst
-    * Überall ca. 5 - 15 °C.
-    * Gerade im Herbst ist es häufig nebelig und regnerisch.
+* General
+    * It generally rains more in the north and east than in the south.
+    * The higher the altitude, the colder and wetter.
+    * It often does not rain heavily, but for a few days in a row.
+    * Early summer (May/June) and early fall (August/September) have the lowest probability of rain.
+    * Humidity is above 50 - 80 % in summer and in winter at 70 - 100 %.
+* Spring & fall
+    * Everywhere approx. 5 - 15 °C.
+    * Especially in fall it is often foggy and rainy.
 * Winter
-    * Je nach Region -10 bis +5 °C sind üblich.
-    * Im Norden ist es durch die Küste und weniger Gebirge ca. 5 °C _wärmer_ als im Süden.
-    * Es regnet, bzw. schneit, generell häufig und an mehreren Tagen am Stück.
-* Sommer
-    * Je nach Region und Zeit 25 - 35 °C sind üblich. Auf meiner [Rheinsteig-Tour]({{< ref "posts/rheinsteig-2020" >}}) waren es auch mal um die 40 °C.
-    * Im Nordern ist es durch die Küste ca. 5 °C _kühler_ als im Süden, wo es auch mehr Sonnenstunden gibt.
-    * Starkregen ist im Sommer am wahrscheinlichsten.
+    * Depending on the region, -10 to +5 °C are common.
+    * In the north it is approx. 5 °C _warmer_ than in the south due to the coast and fewer mountains.
+    * It generally rains or snows frequently and for several days at a time.
+* Summer
+    * About 25 - 35 °C are common. On my [Rheinsteig-Tour]({{< ref "posts/rheinsteig-2020" >}}) it was around 40 °C on one day.
+    * Due to the coast, it is about 5 °C _cooler_ in the north than in the south, where there are also more hours of sunshine.
+    * Short but heavy rain is most likely in summer.
 
-## Kleidung & Equipment
+## Clothing & equipment
 
-Kurz: Den Gegebenheiten entsprechend. Deutschland hat sonst keine besonderen Anforderungen an Kleidung und Equipment.
+In short: According to the circumstances.
+Germany has no other special requirements for clothing and equipment.
 
-Es kommt natürlich sehr auf die Jahreszeit an, aber ein paar Worte zum Thema Kleidung.
+Of course, it depends on the time of year, but a few words about clothing.
 
-* **Festes Schuhwerk** ist Pflicht (also nicht rechtlich, aber ohne ist es nicht empfehlenswert!). Ob Schuh oder Stiefel ist egal, Hauptsache du hast einen sicheren Tritt und fühlst dich wohl in den Schuhen.
-* **Regenfeste Kleidung** ist ebenfalls wichtig, auch im Sommer. Ich empfehle Ponchos, wenn man keine separate Regenjacke mitnehmen möchte.
-* Im **Winter**: Der Temperatur entsprechend, also warme Kleidung. Wollsocken, sowie Daunen- oder Fleece-Jacken sind empfehlenswert.
-* Im **Sommer**: Sonnencreme, gerade in Süddeutschland und auf höheren Lagen. Ansonsten luftige aber lange Kleidung (schützt vor Sonne, Zecken und Mücken).
+* **Sturdy footwear** is mandatory (not legally required, but stroingly recommended!). It doesn't matter whether you wear shoes or boots, the main thing is that you have a secure step and feel comfortable in your shoes.
+* **Rainproof clothing** is also important, even in summer. I recommend ponchos if you don't want to take a separate rain jacket.
+* In **winter**: Warm clothing according to the temperature. Wool socks and down or fleece jackets are recommended.
+* In **summer**: Sun cream, especially in southern Germany and at higher altitudes. Otherwise, wear airy but long clothing (protects you from the sun, ticks and mosquitoes). Bring enough water!
 
-Gutes Equipment ist ebenfalls wichtig.
+Good equipment is also important.
 
-* Eine **Karte** ist wichtig, da man sich a) nicht alleine auf elektronische Geräte verlassen sollte und b) es nicht überall Strom und Internet gibt.
-* Wörterbuch / Übersetzungs-App, für den Fall der Fälle, dass doch mal jemand kein Englisch spricht.
-* Notfallinformationen (siehe auch unten), also mindestens Notrufnummern und Versicherungskarte.
+* A **map** is important, as a) you should not rely solely on electronic devices and b) there are places without electricity and internet (as described below in the [faq](#faq)).
+* Dictionary / translation app, just in case someone doesn't speak English.
+* Emergency information (see also below), i.e. at least emergency numbers and insurance card.
 
-## Wanderwege
+## Hiking trails
 
-{{< imgScale "images/hiking-in-germany/IMGP8042_1600.JPG" "Wander- und Radrouten sind häufig gut ausgeschildert, wie hier in der Fischbeker Heide nahe Hamburg." "500x" >}}
+{{< imgScale "images/hiking-in-germany/IMGP8042_1600.JPG" "Hiking and cycling routes are often well marked, as here in the Fischbeker Heide near Hamburg." "500x" >}}
 
-Ich würde sagen, es gibt vier wesentliche Arten von Wanderwegen, auch wenn diese Unterteilung alles andere als verbreitet oder offiziell ist.
+I would say there are four main types of hiking trails, even if this division is anything but common or official.
 
-* **Befestigte Wege:** Gerade Wege, auf denen Radrouten verlaufen, Zufahrtswege oder auch stark frequentierte Forstwege können gepflastert oder gar asphaltiert sein. Findet man allerdings eher in besiedelten Gebieten und eher außerhalb von Wäldern.
-* **Forstwege:** Bestehen häufig aus befestigtem Bodenmaterial oder Schotter und sind breit genug für Waldfahrzeuge, LKWs und Traktoren. Es gibt aber gerade tief in Wäldern auch unbefestigte Forstwege, die bei Regen auch gerne matschig werden.
-* **Wanderwege:** Sind ausgeschildert und werden gepflegt, sprich umgestürzte Bäume werden entfernt. Es findet aber eher selten eine Befestigung der Wege statt; man findet aber an schwierigen Stellen Geländer und Brücken über Bäche.
-* **Pfade:** Unbefestigte, ungepflegte und nicht unbedingt markierte Wege. Teilweise sind diese nicht offiziell und in Naturschutzgebieten (s. [Schutzgebiete](#schutzgebiete)) somit nicht erlaubt.
+* **Paved paths:** Straight paths on which cycle routes run, access roads or even often used forestry tracks; can be paved or even asphalted. However, they are more likely to be found in populated areas and outside forests.
+* **Forest paths:** Often consist of paved ground material or compacted gravel and are wide enough for forest vehicles, trucks and tractors. However, there are also unpaved forest roads deep in forests, which can also become muddy when it rains.
+* **Hiking trails:** Are signposted and are maintained, i.e. fallen trees are removed. The paths surface is not maintained, but there are bridges over streams and railings at difficult passages.
+* **Paths:** Unpaved, unmaintained and not necessarily marked paths. Many of these are not official and therefore not permitted in nature reserves (see [protected areas](#protected-areas)).
 
-Wanderrouten können auf befestigten Forstwegen bis hin zu kleinen anspruchsvollen Pfaden verlaufen, entsprechend sollte man vorher schauen, ob eine Route für einen selbst geeignet ist.
-Häufig gibt es Wegweiser, Schilder, Infotafeln, Karten und Schutzhütten entlang von Wanderrouten.
+Hiking routes can range from paved forest paths to small, challenging trails, so you should check the trail description and rating in beforehand.
+There are often signposts, signs, information boards, maps and shelters along hiking routes.
 
-Es kann immer vorkommen, dass Wege gesperrt werden, z.B. wegen Gefahren (Steinschlag, Lawinen, Eis, etc.), Jagd, Naturschutz oder Waldarbeiten.
+It can always happen (without prior notice) that paths are closed, e.g. due to dangers (rockfall, avalanches, ice, etc.), hunting, nature conservation or forestry work.
 
-## Was erlaubt und verboten ist
+## What is allowed and forbidden
 
-Generell ist vieles durch Gesetze in den Ländern geregelt, zudem gibt es zu jedem Schutzgebiet eine eigene Verordnung, wo Details (z.B. Feuermachen) geregelt sind, und sowieso ist Wald ganz häufig Privatbesitz, wo.
-Trotzdem lassen sich ein paar Daumenregeln ableiten.
+Many things are regulated by laws on federal level, in the individual states and by separate ordinances for each protected area, where details (e.g. making fires) are regulated.
+In addition, forests are often private property and therefore used for forestry.
+Nevertheless, a few rules of thumb can be derived.
 
-### Das ist erlaubt
+### This is allowed
 
-* Wald zur Erholung (also z.B. zum Wandern) betreten.
-* Nur _außerhalb_ von Schutzgebieten erlaubt: Pflanzen und Pilze in geringen Mengen (also zum Eigenbedarf) pflücken.
-* Hunde dürfen mitgenommen werden, in Naturschutzgebieten müssen sie aber angeleint sein.
+* Enter the forest for recreation (e.g. hiking). This also applies to private forests!
+* Only permitted _outside_ protected areas: picking plants and mushrooms in small quantities (i.e. for personal use).
+* Dogs may be taken along, but must be kept on a leash in nature reserves.
 
-### Das ist verboten
+### This is forbidden
 
-* Im Wald übernachten (egal ob mit Zelt, Biwak oder sonst was).
-    * Siehe hierzu den Punkt oben zum [wild Campen](#wild-campen).
-* Feuer machen (auch außerhalb von Schutzgebieten).
-* Jegliches Hinterlassen von Abfällen (dazu zählen auch Reste von z.B. einem Apfel).
-* Stören (z.B. laute Musik oder helle Beleuchtung).
-* Rauchen ist teilweise verboten (je nach Land oder Jahreszeit).
+* Spending the night in the forest (whether with a tent, bivouac or anything else).
+    * See the point above on [wild camping](#wild-camping).
+* Making fires (also outside protected areas).
+* Leaving any waste behind (including the remains of e.g. an apple).
+* Disturbance (e.g. loud music or bright lights).
+* Smoking is sometimes prohibited (depending on the state or season).
 
-### Schutzgebiete
+## Protected areas
 
-{{< imgScale "images/hiking-in-germany/germany-protected-areas.jpg" "Schutzgebiete in Deutschland gemäß Daten aus OpenStreetMap." "500x" >}}
+Germany contains numerous protected areas of different classes, from nature reserves and national parks (which have a high level of protection) to protected habitats and numerous other types of protection levels.
 
-Innerhalb von Schutzgebieten ist noch mehr verboten, wäre sonst ja auch etwas seltsam.
-In Schutzgebieten ist also _zusätzlich_ verboten:
+You are free to enter these protected areas under the main terms listed below.
+There's also **no fee** to pay and no tickets to buy when visiting these protected areas.
 
-* Wege verlassen
-* Pflanzen und Pilze pflücken oder beschädigen
+{{< imgScale "images/hiking-in-germany/germany-protected-areas.jpg" "Protected areas in Germany according to data from OpenStreetMap." "500x" >}}
 
-## Gefahren
+### This is forbidden
 
-Allgemein ist Deutschland ein sehr sicheres Land zum Wandern, es könnte fast nicht besser sein.
-Dennoch gibt es ein paar Dinge zu beachten.
+Even more is prohibited within protected areas, otherwise it would be a bit strange.
+In protected areas it is _additionally_ forbidden:
 
-### Pflanzen und Pilze
+* Leaving the marked trails
+* Picking or damaging plants and mushrooms
 
-Esse keine Pflanzen oder Pilze, die du nicht kennst!
-Es gibt viele Beeren und Sträucher, die harmlos aussehen und vielleicht auch gut riechen, aber dennoch giftig oder zumindest unbekömmlich sind.
-Dabei gibt es auch in Deutschland eine ganze Hand voll Pflanzen, die sogar tödlich sind.
+## Dangers
 
-Bei Pilzen das Gleiche, vor allem gibt es dort viele Doppelgänger, also giftige Pilze, die aber bekömmlichen Verwandten sehr ähnlich sehen.
-Daumenregel: Bunte Farben oder Lamellen statt Röhren → Stehen lassen!
-Bücher zum Bestimmen der Pilze sind gerade für Anfänger ein Muss.
+In general, Germany is a very safe country for hiking, it could hardly be better.
+Nevertheless, there are a few things to bear in mind.
 
-### Tiere
+### Plants and mushrooms
 
-In Deutschland gibt es so gut wie keine Todesfälle durch Tiere.
-Statistisch stirbt alle sechs Jahre ein Mensch durch einen Tierangriff.
+Don't eat plants or mushrooms you don't know!
+There are many berries and shrubs that look harmless and perhaps even smell good, but are nevertheless poisonous or at least unpalatable.
+There are also a whole handful of plants in Germany that are even deadly.
 
-Nicht tödliche Angriffe kommen jedoch häufiger vor.
-Gefährliche Wildtiere sind dabei Wildschweine, Wölfe und viele Insekten und Spinnen wie Bienen, Wespen und vor allem Zecken.
+It's the same with mushrooms, especially as there are many lookalikes, i.e. poisonous mushrooms that look very similar to edible relatives.
+Books on mushroom identification are a must, especially for beginners.
 
-Gerade im Sommer solltest du dich nach jeder Tour auf Zeckenbisse untersuchen.
-An sich sind die nicht gefährlich, aber Zecken können Viren enthalten, die zu Borreliose oder FSME führen.
+### Animals
 
-### Gelände
+In Germany, there are virtually no deaths caused by animal attacks.
+Statistically, one person dies every six years as a result of an animal attack.
 
-{{< imgScale "/images/rheinsteig-2020/DSC03231_1600.jpg" "Nicht überall gibt es Sicherungen und festes Schuhwerk ist oftmals ein Muss, wie hier am [Rheinsteig](/de/posts/rheinsteig-2020/)." "500x" >}}
+However, non-fatal attacks occur more frequently.
+Dangerous wild animals include wild boars, wolves and many insects and spiders such as bees, wasps and especially ticks.
 
-Nicht jeder anspruchsvolle oder gefährliche Weg ist gesichert.
-Bei Regen, Eis, Schnee oder schlechten Sichtverhältnissen kann man also leicht irgendwo abrutschen oder umknicken.
-Schaue vorher, welche Schwierigkeit eine Route hat und ob du der Herausforderung gewachsen bist.
+Especially in summer, you should check yourself for tick bites after every tour.
+They are not dangerous in themselves, but ticks can contain viruses that lead to Lyme disease or TBE.
 
-### Andere Menschen
+### Terrain
 
-Ja, auch andere Menschen können gefährlich werden.
-Bei Reddit liest man häufig von Psychopathen mit Waffen, die Trails unsicher machen.
-So etwas ist mir in Deutschland noch nie zu Ohren gekommen.
+{{< imgScale "/images/rheinsteig-2020/DSC03231_1600.jpg" "Railings and belays do not exist everywhere and sturdy footwear is often a must, as here on the [Rheinsteig trail](/en/posts/rheinsteig-2020/)." "500x" >}}
 
-Auch Jäger gibt es hier, in der Regel passiert aber auch da nichts.
-Wenn ein Gebiet aber wegen Jagd abgesperrt ist, dann mache einen Bogen drum ;)
+Not every challenging or dangerous path is secured.
+In rain, ice, snow or poor visibility, you can easily slip or twist somewhere.
+Check the difficulty of a route beforehand and see if you are up to the challenge.
 
-### Wetter
+### Other people
 
-Anders als z.B. [auf meiner Island-Reise](/de/posts/iceland-2018-report-3/#es-werde-licht), gibt es in Deutschland eher selten starke und schnelle Wetterumschwünge.
-Dennoch kann es morgens sonnig und nachmittags regnerisch sein, meistens ist der Verlauf aber langsam und fließend.
-Gerade in höheren Lagen kann es zu Nebel und starken Winden kommen.
-Wettervorhersagen sollten am Vorabend geprüft und die Tour entsprechend angepasst werden.
+Yes, other people can also be dangerous.
+On Reddit, you often read about psychopaths with weapons who make trails unsafe.
+I've never heard of anything like that in Germany.
 
-## Notfälle
+There are also hunters here, but usually nothing happens there either.
+But if an area is closed for hunting, choose an alternative trail ;)
 
-Die Rufnummer der Feuerwehr/Rettungsdienst ist **112**.
-See- und Bergrettung hat ggf. eine andere Nummer, sollte man im Vorhinein also in Erfahrung bringen.
+### Weather
 
-**Wichtig:** Hole dir eine passende Reiseversicherung! Diese übernehmen Kosten für Suche, Rettung, Transport und Operationen, wenn auch teilweise nur bis zu einer bestimmten Höhe.
+Unlike, for example, [on my trip to Iceland](/en/posts/iceland-2018-report-3/#and-it-was-light), the weather in Germany rarely changes strongly and quickly.
+Nevertheless, it can be sunny in the morning and rainy in the afternoon, but the transition is usually slow and gradual.
+Fog and strong winds can occur, especially at higher altitudes.
+You should check the weather forecast the evening before and adjust the tour if necessary.
 
-## Do's und Don'ts
+## Emergencies
 
-Hier einige wichtige Verhaltensregeln allgemein und speziell fürs Wandern.
+The telephone number for the fire department and rescue services is **112**.
+Sea and mountain rescue services may have a different number, so you should find out in advance.
 
-### Allgemein
+**Important:** Get suitable travel insurance! These cover the costs of search, rescue, transportation and operations, although sometimes only up to a certain amount.
 
-#### Klare Don'ts
+## Do's and Don'ts
 
-1. **Anderen nicht auf die Nerven gehen.** Musik beim Wandern? No-Go! Im Restaurant laut unterhalten? No-Go! Auch Gespräche aufzuzwingen, ist ein No-Go.
-2. **Körperkontakt.** Einfach so fremde Menschen berühren, z.B. auf die Schulter klopfen, wird eher aufdringlich empfunden. Sobald man sich besser kennt, ist das was anderes.
-3. **Verkehrsregeln beachten.** Auch wenn viele Deutsche das selbst nicht können, ist es trotzdem ein wichtiges Thema.
-4. **Smalltalk und aufgesetzte Höflichkeit.** Lieber direkt sein und nicht um den heißen Brei herum labern. Kein Deutscher käme auf die Idee, einen Fremden zu fragen, wie es ihm geht.
-5. **Respektvoll mit der Nazizeit und WW2 umgehen.** Das Thema ist für viele Deutsche schwierig und viele Äußerungen und Gesten aus der Zeit sind zu Recht illegal.
-6. **Fordern statt bitten.** Es ist ok nach Unterstützung zu fragen, aber darauf zu bestehen oder gar Leute zu bedrängen ist ein No-Go.
-7. **Einfach so Bilder von Personen(gruppen) machen.** Das ist nicht nur unglaublich unhöflich, sondern auch illegal.
-8. **Deutsche auf Stereotypen reduzieren.** Niemand trägt Lederhosen, nicht jeder Deutsche mag Bier, die meisten kommen nicht aus Bayern und nein, nicht überall auf der Autobahn darf man so schnell fahren, wie man möchte.
+Here are some important rules of conduct in general and especially for hiking.
 
-#### Klare Do's
+### General
 
-1. **Begrüßen und Verabschieden.** Wie oben schon beschrieben, ein einfaches "Hallo" und "Auf Wiedersehen" reicht aus.
-2. **Recycling.** Wird generell gerne gesehen.
-3. **Ernsthafte Gespräche.** Es ist total ok, ein Gespräch anzufangen, wenn die andere Person nicht gerade beschäftigt ist (Musikhören, Lesen, Essen, etc.). Smalltalk finden aber viele eher nervig.
-4. **Bargeld dabei haben.** Sicher ist sicher, da man nicht überall mit Karte zahlen kann.
-5. **Deutsch sprechen.** Wenn man ein paar Wörter/Sätze Deutsch kann, dann raus damit. Englisch ist aber vollkommen ok.
+#### Clear don'ts
 
-### Beim Wandern
+1. **Don't get on other people's nerves.** Music while hiking? No-go! Talking loudly in a restaurant? No-go! Forcing conversations on others? No-go.
+2. **Body contact.** Simply touching strangers, e.g. patting them on the shoulder, is perceived as intrusive. As soon as you know each other better, it's a different matter.
+3. **Obey traffic rules.** Even if many Germans don't do this themselves, it's still an important topic.
+4. **Small talk and artificial politeness.** It's better to be direct and not beat around the bush. For exmaple, no German would think of asking a stranger how they are doing as a form of greeting.
+5. **Respectfully handle the Nazi and WW2 era.** The subject is difficult for many Germans and many statements and gestures from that time are rightly illegal.
+6. **Ask instead of demand.** It is ok to ask for support, but insisting on it or even pressurizing people is a no-go.
+7. **Taking pictures of people (groups).** This is not only incredibly rude, but also illegal. Taking a picture of a scenery with people accidentally being in the picture is ok, though.
+8. **Reducing Germans to stereotypes.** Nobody wears lederhosen, not every German likes beer, most Germans are not from Bavaria and no, you are not allowed to drive as fast as you want everywhere on the autobahn.
 
-#### Klare Don'ts
+#### Clear Do's
 
-1. **Stören.** Also Musik, laute Gespräche, Telefonate, etc. sind beim Wandern eher fehl am Platz.
-2. **Müll in der Natur entsorgen.** Abfall (auch ein Papiertaschentuch oder ein Apfel) gehört nicht in die Natur. Auch im Wald gibt es manchmal Abfalleimer, ansonsten gehört es sich, den eigenen Müll einfach mitzunehmen.
-3. **Naturschutz missachten.** In Naturschutzgebieten gibt es strenge Regeln, z.B. die Wege nicht zu verlassen. Das ist einzuhalten.
+1. **Greet and say goodbye.** As described above, a simple "hallo" and "tschüss" is sufficient.
+2. **Recycling.** This is generally appreciated.
+3. **Serious conversation.** It is totally fine to start a conversation when the other person is not busy (listening to music, reading, eating, etc.). However, many people find small talk rather annoying.
+4. **Have cash with you.** Better safe than sorry, as you can't pay by card everywhere.
+5. **Speak German.** If you can only speak a few words/phrases in German, then let's hear it. But English is still perfectly fine.
 
-#### Klare Do's
+### When hiking
 
-1. **Bei Begegnungen grüßen.** Ein einfaches "Hallo" oder "Hi" ist üblich, wenn man sich begegnet.
-2. **Snacks anbieten.** Ist kein Muss, wird aber auch nicht als unhöflich empfunden. Wenn ein Deutscher aber ablehnt, dann heißt das wirklich "Nein".
-3. **Platz machen.** Priorität haben dabei Wanderer, die bergauf gehen. Mountainbikes haben auf Wanderwegen jedoch keine Priorität.
-4. **Natur respektieren.** Das heißt nicht nur Naturschutzgesetze zu beachten, sondern auch z.B. keine Zweige abzuknicken oder Tiere zu stören.
-5. **Müll sammeln.** Also nicht nur den eigenen, sondern auch den Müll, den man so findet. Hier und da mal eine Schokoriegel-Verpackung mitnehmen, tut nicht weh.
+#### Clear don'ts
 
-## FAQ -- Häufig gestellte Fragen
+1. **Disturbance.** Music, loud conversations, phone calls, etc. are rather out of place when hiking.
+2. **Dispose of waste in nature.** Waste (even a paper handkerchief or an apple) does not belong in nature! Sometimes there are garbage cans in the forest, but otherwise it is best to simply take your own garbage with you.
+3. **Disregard nature conservation.** There are strict rules in protected areas, e.g. do not leave the paths. This must be adhered to.
 
-Hier einige Themen, zu denen häufig Fragen kommen.
+#### Clear do's
 
-**Sprechen alle Deutschen Englisch?**
+1. **Greet each other when you meet.** A simple "hallo" or "hi" is customary when you meet.
+2. **Offer snacks.** Is not a must, but is definitely not considered rude. However, if a German refuses, it really means "no".
+3. **Make way.** Priority is given to hikers going uphill. However, mountain bikes do not have priority on hiking trails.
+4. **Respect nature.** This not only means to adhere to nature conservation laws, but also, for example, not breaking branches or disturbing animals.
+5. **Collect garbage.** And I mean not just your own, but also the garbage you find on the trail. It doesn't hurt to pick up a chocolate bar wrapper here and there.
 
-Nicht alle, aber definitiv die meisten sprechen Englisch auf hohem Niveau.
+## FAQ
 
-**Gibt es überall Mobilfunkempfang?**
+Here are some topics that are frequently asked.
 
-Nein, es gibt Funklöcher in entlegenen Gebieten.
+**Do all Germans speak English?**
 
-In Deutschland ist der Mobilfunkausbau gerade im urbanen Bereich eigentlich ganz gut.
-In ländlichen Gegenden oder gerade im Wald kann es aber Funklöcher geben.
-Gerade in Tälern oder Schluchten ist man sehr schnell komplett offline, aber auf Hügeln oder Gipfeln gibt es selten Probleme.
-Tief in den Alpen mag das jedoch anders aussehen.
+Not all, but definitely most speak English at a high level.
 
-**Gibt es Mücken?**
+**Is there mobile phone reception everywhere?**
 
-Gerade im Sommer gibt es eigentlich überall Mücken.
-Aber besonders an stehenden Gewässern und Feuchtgebieten wird man bei warmem Wetter regelrecht überfallen.
-Lange Kleidung, windige Tage, Regen und Mückenspray können helfen.
-Zum Glück sind die meisten Mücken harmlos, aber es gibt mehr und mehr tropische Mücken in Deutschland und damit auch übertragene Krankheiten.
+No, there are dead spots in remote areas.
 
-**Gibt es "Psychopathen" auf dem Trail?**
+In Germany, mobile phone coverage is actually quite good, especially in urban areas.
+However, there can be dead spots in rural areas or in the forest.
+Especially in valleys or gorges, you can very quickly find yourself completely offline, but there are rarely any problems on hills or peaks.
+Deep in the Alps, however, the situation may be different.
 
-Auf Reddit liest man häufiger von unangenehmen bis gefährlichen Begegnungen mit seltsamen Menschen auf Wanderwegen.
-Habe ich bisher in Deutschland noch nicht erlebt und ist mir bisher auch noch nicht zu Ohren gekommen.
+**Are there mosquitoes?**
 
-**Ist es sicher, alleine wandern zu gehen?**
+Mosquitoes are everywhere, especially in summer.
+Especially in stagnant water and wetlands you will be attacked in warm weather.
+Long clothing, windy days, rain and mosquito spray can help.
+Fortunately, most mosquitoes are harmless, but there are more and more tropical mosquitoes in Germany and thus also transmitted diseases.
 
-Als Gruppe zu wandern ist immer sicherer, man halt auf einer Solo-Wanderung, aber keine besonderen Gefahren zu befürchten.
-Frauen sei aber gesagt, dass es auch in Deutschland Ar*löcher gibt, die Blicke und Sprüche nicht für sich behalten können.
-Ich wage aber zu behaupten, dass sich diese eher in Städten und weniger auf Wanderrouten befinden.
+**Are there "psychopaths" on the trail?**
 
-**Was ist die beste Zeit fürs Wandern in Deutschland?**
+On Reddit, you often read about unpleasant to dangerous encounters with strange people on hiking trails.
+I have not yet experienced this in Germany and have not yet heard of it.
 
-Meiner Meinung nach Herbst, also Mitte September bis Mitte November.
-Die Bäume verfärben sich, es sind weniger Touristen unterwegs, alle Campingplätze und Hütten haben noch auf und es ist nicht mehr so warm.
-Ja, das Wetter kann mal ungemütlich werden, das heißt aber nur, dass weniger Menschen unterwegs sind und man seine Ruhe hat ;)
+**Is it safe to go hiking alone?**
 
-**Was sind die schönsten Orte?**
+Hiking as a group is always safer than hiking alone, but there are no particular dangers to fear when solo-hiking.
+However, women should know that there are a*holes in Germany as well, who can't keep their looks and stupid remarks to themselves.
+But I dare say that these are more likely to be found in cities and less on hiking trails.
 
-Das ist Geschmackssache, aber hier meine persönlichen Empfehlungen:
-Die Sächsische Schweiz, [die Alpen]({{< ref "posts/zugspitze-2022" >}}), Bayerischer Wald, der nördliche Teil vom [Rennsteig]({{< ref "posts/thueringer-wald-2022-report" >}}), der Schwarzwald, die Lüneburger Heide und der [Rheinsteig]({{< ref "posts/rheinsteig-2020" >}}).
-Es gibt aber noch viele viele weitere schöne Ecken; online findet man eine ganze Menge dazu.
+**What is the best time for hiking in Germany?**
 
-## Noch Fragen?
+In my opinion, fall, i.e. mid-September to mid-November.
+The trees are changing color, there are fewer tourists, no or less mosquitos, all the campsites and huts are still open and it's not too warm.
+Yes, the weather can get uncomfortable, but that just means that there are fewer people around and you have your peace and quiet ;)
 
-Du hast weitere Fragen zum Thema Wandern in Deutschland?
-Dann schreibe gerne einen Kommentar oder kontaktiere mich per E-Mail (s. Button unten).
+**What are the most beautiful places?**
 
-Was bleibt mir noch zu sagen?
-Viel Spaß beim Wandern in Deutschland :)
+That's a matter of taste, but here are my personal recommendations:
+Saxon Switzerland, [the Alps]({{< ref "posts/zugspitze-2022" >}}), the Bavarian Forest, the northern part of the [Rennsteig]({{< ref "posts/thueringer-wald-2022-report" >}}), the Black Forest, the Lüneburg Heath and the [Rheinsteig]({{< ref "posts/rheinsteig-2020" >}}).
+But there are many more beautiful places; you can find a lot more online.
+
+## Any more questions?
+
+Do you have further questions about hiking in Germany?
+Then feel free to write a comment or contact me by e-mail (see button below).
+
+What else can I say?
+Have fun hiking in Germany :)
