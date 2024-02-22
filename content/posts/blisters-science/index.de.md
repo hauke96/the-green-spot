@@ -14,7 +14,11 @@ Dieser Artikel ist also eine Art Zusammenfassung der wissenschaftlichen Erkenntn
 2. Die Paper wurden nicht zufällig irgendwo hergenommen, sondern sind valide und häufig zitierte Werke angesehener Wissenschaftler.
 3. Die genannten Paper referenzieren selbst weitere Paper, die ich hier nicht aufgenommen habe. Zu jedem Aspekt in diesem Artikel gibt es also noch viel mehr mögliche Quellen un wissenschaftliche Ergebnisse.
 
-### In Kürze
+**Inhalt**
+
+{{< toc >}}
+
+## In Kürze
 
 * [Scherkräfte](#was-sind-scherkräfte) verursachen Blasen (begünstigt aber *nicht verursacht* durch Druck, Reibung, Wärme oder Feuchtigkeit).
 * Es gibt viele [Risikofaktoren](#risikofaktoren), auf einige hat man Einfluss (z.B. Menge an Gepäck oder Rauchen).

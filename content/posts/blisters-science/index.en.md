@@ -14,7 +14,11 @@ So this article is a kind of summary of the scientific findings, which is why th
 2. The papers were not taken randomly from anywhere, but are valid and frequently cited works of respected scientists.
 3. The mentioned papers themselves reference other papers that I have not included here. So there are many more possible sources and scientific results for every aspect of this article.
 
-### Briefly summarized
+**Content**
+
+{{< toc >}}
+
+## Summary
 
 * [Shear forces](#what-are-shear-forces) cause blisters (favored but *not caused* by pressure, friction, heat or moisture).
 * There are many [risk factors](#risk-factors), some of which you can influence (e.g. amount of luggage or smoking).
