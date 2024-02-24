@@ -1,7 +1,7 @@
 ---
 title: "Wandern in Deutschland: Ein kompletter Ratgeber"
 summary: "In diesem umfassenden Ratgeber findest du alle relevanten Informationen zum Wandern in Deutschland: Unterkunft, Verpflegung, Wetter, was erlaubt und verboten ist und vieles mehr. Dazu gehören auch gute Orte zum Wandern, Tipps, Empfehlungen und Gepflogenheiten."
-date: "2024-02-18T11:10:59+01:00"
+date: "2024-02-24T11:26:00+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
 images: ["images/hiking-in-germany/DSC03942_1600.JPG"]

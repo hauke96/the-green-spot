@@ -2,7 +2,7 @@
 
 set -e
 
-home=/the-green-spot/httpdocs
+home=/the-green-spot.de/httpdocs
 
 function hline {
 	echo

@@ -1,7 +1,7 @@
 ---
 title: "Hiking in Germany: A complete guide"
 summary: "In this comprehensive guide, you will find all relevant information on hiking in Germany: accommodation, food, weather, what is allowed, do's and don'ts and much more. This also includes good hiking spots, tips, recommendations and practices."
-date: "2024-02-18T11:10:59+01:00"
+date: "2024-02-24T11:26:00+01:00"
 tags: ["guide", "knowledge", "germany", "hiking"]
 author: "hauke"
 images: ["images/hiking-in-germany/DSC03942_1600.JPG"]
