@@ -318,7 +318,7 @@ Wenn ein Gebiet aber wegen Jagd abgesperrt ist, dann mache einen Bogen drum ;)
 
 ### Wetter
 
-Anders als z.B. [auf meiner Island-Reise](/de/posts/iceland-2018-report-3/#es-werde-licht), gibt es in Deutschland eher selten starke und schnelle Wetterumschwünge.
+Anders als z.B. [auf meiner Island-Reise]({{< ref "/posts/iceland-2018-report-3/#es-werde-licht" >}}), gibt es in Deutschland eher selten starke und schnelle Wetterumschwünge.
 Dennoch kann es morgens sonnig und nachmittags regnerisch sein, meistens ist der Verlauf aber langsam und fließend.
 Gerade in höheren Lagen kann es zu Nebel und starken Winden kommen.
 Du solltest die Wettervorhersag am Vorabend prüfen und die Tour ggf. anpassen.

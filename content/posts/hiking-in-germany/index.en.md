@@ -76,7 +76,7 @@ However, much of the forest here also consists of monocultures, but there are st
 
 {{< imgScale "images/hiking-in-germany/germany-map.jpg" "Small selection of nice areas for hiking in Germany." "500x" >}}
 
-## Sprache
+## Language
 
 The German language has the stereotype to be harsh, and yes, it has certain sharp sounding noises, but it's actually not so bad ... I hope ...
 
@@ -394,7 +394,7 @@ But if an area is closed for hunting, choose an alternative trail ;)
 
 ### Weather
 
-Unlike, for example, [on my trip to Iceland](/en/posts/iceland-2018-report-3/#and-it-was-light), the weather in Germany rarely changes strongly and quickly.
+Unlike, for example, [on my trip to Iceland]({{< ref "/posts/iceland-2018-report-3/#and-it-was-light" >}}), the weather in Germany rarely changes strongly and quickly.
 Nevertheless, it can be sunny in the morning and rainy in the afternoon, but the transition is usually slow and gradual.
 Fog and strong winds can occur, especially at higher altitudes.
 You should check the weather forecast the evening before and adjust the tour if necessary.
