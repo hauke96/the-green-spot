@@ -2,8 +2,7 @@
 
 set -e
 
-httpdocs=/httpdocs
-home=$httpdocs/the-green-spot
+home=/the-green-spot/httpdocs
 
 function hline {
 	echo
@@ -42,7 +41,7 @@ hline "3. Login into server"
 
 #echo -n "Username: "
 #read username
-username="sub6691_26"
+username="hosting198303"
 echo -n "Password (SSH): "
 read -s password
 echo
@@ -51,11 +50,11 @@ hline "4. Upload package"
 
 echo "Upload file $file"
 
-sshpass -p $password scp -oHostKeyAlgorithms=+ssh-rsa -r $file $username@the-green-spot.de:$home/
+sshpass -p $password scp -r $file $username@the-green-spot.de:$home/
 
 hline "5. Extract package"
 
-sshpass -p $password ssh -oHostKeyAlgorithms=+ssh-rsa $username@the-green-spot.de "cd $home && rm -rf de en images css fonts && unzip -q -o $file && rm -f *.zip"
+sshpass -p $password ssh $username@the-green-spot.de "cd $home && rm -rf de en images css fonts && unzip -q -o $file && rm -f *.zip"
 
 echo
 echo
