@@ -11,6 +11,10 @@ summary: "Alle Beiträge aus Deutschland."
 
 Hier findest du alle Artikel und Seiten, die sich in Deutschland abspielen.
 
+# Ratgeber
+
+* [Wandern in Deutschland: Ein kompletter Ratgeber]({{< ref "/posts/hiking-in-germany" >}}): Ein Retgeber mit allen wesentlichen Infos für alle, die in Deutschland wandern gehen möchten.
+
 # Tourenberichte
 
 * [Tegelbergsteig]({{< ref "/posts/tegelbergsteig-2022" >}}): Eintägige Tour in der Nähe von Neuschwanstein über den Tegelbergsteig, einem mittelschweren Klettersteig.

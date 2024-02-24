@@ -17,7 +17,7 @@ Trotz hoher Temperaturen war es eine sehr schöne Tour und die Gegend kann sich 
 Meine Tour ging von **Assmannshausen** nach **St. Goarshausen** und ich folgte somit ein paar Abschnitten vom **Rheinsteig**.
 Insgesamt war meine Tour rund 44 km lang und kam auf stattliche 1,7 km Auf- und Abstieg, weswegen der Rheinsteig auch als Achterbahn bezeichnet wird.
 
-Die erste Nacht und die letzten beiden Nächte habe ich auf Campingplätzen verbracht, zwei Nächte dazwischen habe ich wild gecampt.
+Die erste Nacht und die letzten beiden Nächte habe ich auf Campingplätzen verbracht, zwei Nächte dazwischen habe ich wild gecampt (auch, wenn es eigentlich [verboten ist]({{< ref "/posts/hiking-in-germany/#wild-campen" >}})).
 Dabei hatte ich nur mein Tarp dabei, was aber kein Problem war, da es auch nachts warm war und kaum geregnet hat.
 
 Die sonstige **Ausrüstung** bestand -- neben dem üblichen Kram -- aus selbstgemachtem Trekking-Essen (habe mich an [Sackis Rezepten](https://www.youtube.com/watch?v=z52pOktn46I) orientiert), Solarpanel, Sommerschlafsack und meinem Tarp, welches lediglich eine Baumarkt-Gewebeplane ist.

@@ -11,6 +11,10 @@ summary: "All posts from Germany."
 
 Here you'll find all articles and pages, which take place in Germany.
 
+# Guides
+
+* [Hiking in Germany: A complete guide]({{< ref "/posts/hiking-in-germany" >}}): A guide with all the essential information for anyone who wants to go hiking in Germany.
+
 # Trip reports
 
 * [Tegelbergsteig]({{< ref "/posts/tegelbergsteig-2022" >}}): One-day tour near Neuschwanstein Castle via the Tegelbergsteig, a moderately difficult via ferrata.

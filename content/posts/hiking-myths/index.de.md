@@ -2,7 +2,7 @@
 title: "Wandern: Mythen und Vorurteile"
 summary: "Ich begegne immer wieder Vorurteilen, Mythen, Missverständnissen, Unwissen und Ängsten gegenüber Wandern. Hier also eine Sammlung verschiedener Dinge, von denen ich gehört habe und meine Einschätzung dazu."
 date: "2023-01-30T21:04:00+01:00"
-tags: ["wandern"]
+tags: ["wandern", "wissenswert"]
 author: "hauke"
 images: ["images/thueringer-wald-2022-report/DSC03752_1600.JPG"]
 ---
@@ -12,6 +12,10 @@ Hier also eine Sammlung verschiedener Dinge, von denen ich gehört habe und mein
 Ich versuche die Liste laufend zu aktusliesieren und zu erweitern.
 
 {{< imgScale "images/thueringer-wald-2022-report/DSC03752_1600.JPG" "Viele Voruteile, Falschinformationen und Mythen gibt es runs ums Thema Wandern." "350x" >}}
+
+**Inhalt**
+
+{{< toc >}}
 
 ## Allgemeines
 

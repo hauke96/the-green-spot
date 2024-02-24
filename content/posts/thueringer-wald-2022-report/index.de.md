@@ -66,6 +66,12 @@ Zum aufwärmen hatte ich natürlich Tee, Suppe, Brühe und heiße Zitrone dabei.
 Da der Rennsteig ziemlich bekannt ist, kann man sich zumindest an einzelnen Punkten entlang der Route gut verpflegen (siehe [Karte oben](#route)).
 Selbst in der Nebensaison hatte vieles geöffnet.
 
+## Übernachtungen
+
+Ich habe alle drei Übernachtungen im Wald verbracht.
+Die letzte in einer der vielen Schutzhütten, die es dort gibt.
+Zwar ist in Deutschland ist [Wildcampen verboten]({{< ref "posts/hiking-in-germany/#wild-campen" >}}), es gibt aber entlang des Rennsteigs viele Schutzhütten in denen das übernachten toleriert wird.
+
 ## Wetter
 
 Am ersten Tag war es relativ warm (ich schätze ca. 15 °C bis 20 °C am Mittag).
