@@ -17,7 +17,7 @@ Despite the high temperatures, it was a very nice tour and the area is really wo
 My tour went from **Assmannshausen** to **St. Goarshausen**, so I followed a few sections of the **Rheinsteig**.
 In total, my tour was about 27 mi / 44 km long and came to a stately 5580 ft / 1.7 km of ascent and descent, which is why the Rheinsteig is also called a roller coaster.
 
-I spent the first and the last two nights at campsites and camped two nights in the forests.
+I spent the first and the last two nights at campsites and camped two nights in the forests (even though, it's actually [forbidden]({{< ref "/posts/hiking-in-germany/#wild-camping" >}})).
 I had only my tarp with me, but that was no problem, because it was warm during the night and hardly rained.
 
 The other **equipment** consisted -- besides the usual stuff -- of homemade trekking food (have oriented me to [Sacki's recipes](https://www.youtube.com/watch?v=z52pOktn46I)), a solar panel, my summer sleeping bag and my tarp, which is just a diy-store tarpulin.

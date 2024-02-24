@@ -66,6 +66,12 @@ I had tea, soup, broth and hot lemon (shugar powder with lemon flavour and vitam
 Since the Rennsteig is quite well known, you can eat and drink something at several locations along the route (see [map above](#route)).
 Even in the off-season, many locations were open.
 
+## Overnight stays
+
+I spent all three nights in the forest.
+The last one in one of the many shelters there.
+Although [wild camping is prohibited in Germany]({{< ref "posts/hiking-in-germany/#wild-camping" >}}), there are many shelters along the Rennsteig where overnight stays are tolerated.
+
 ## Weather
 
 The first day it was relatively warm (I guess about 15 °C / 60°F up to 20 °C / 70°F at noon).
