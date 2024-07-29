@@ -1,7 +1,7 @@
 ---
 title: "On the Peene river from Anklam to Demmin"
 summary: "At the beginning of May 2024, I spent four days in northern Germany on the Peene river, the _Amazon of the North_. If you want to experience almost untouched nature, the Peene is well worth a trip."
-date: "2024-07-28T15:55:00+02:00"
+date: "2024-07-29T21:32:00+02:00"
 tags: ["peene", "paddling", "germany"]
 author: "hauke"
 images: ["images/peene-2024/DSC04287_1600.jpg"]

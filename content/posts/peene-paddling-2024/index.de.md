@@ -1,7 +1,7 @@
 ---
 title: "Auf der Peene von Anklam nach Demmin"
 summary: "Anfang Mai 2024 war ich für vier Tage auf der Peene unterwegs, dem _Amazonas des Nordens_. Wenn man nahezu unberührte Natur erfahren möchte, ist die Peene einen Ausflug wert."
-date: "2024-07-28T15:55:00+02:00"
+date: "2024-07-29T21:32:00+02:00"
 tags: ["peene", "paddeln", "deutschland"]
 author: "hauke"
 images: ["images/peene-2024/DSC04287_1600.jpg"]
