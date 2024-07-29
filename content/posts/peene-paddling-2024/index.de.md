@@ -37,7 +37,7 @@ Dies sind meist sehr simple Campingplätze, aber dazu unten im Bericht mehr.
 
 ### Equipment
 
-Wie bei normalen mehrtägigen Touren hatte ich folgendes dabei:
+Wie bei anderen [mehrtägigen](/de/posts/ems-paddling-2021) und [eintägigen](/de/posts/schwentine-paddling-2023) Touren hatte ich folgendes dabei:
 
 * Mein Packraft **MRS Nomad S1**, Paddel
 * Wechselkleidung

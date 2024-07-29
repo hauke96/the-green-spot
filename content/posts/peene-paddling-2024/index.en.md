@@ -38,7 +38,7 @@ These are mostly very simple campsites, but more on that in the report below.
 
 ### Equipment
 
-As with normal multi-day tours, I had the following with me:
+As with normal [multi-](/en/posts/ems-paddling-2021) and [single-day](/en/posts/schwentine-paddling-2023) tours, I had the following with me:
 
 * My packraft **MRS Nomad S1**, paddle
 * Change of clothes
