@@ -1,14 +1,14 @@
 ---
 title: "Auf der Peene von Anklam nach Demmin"
-summary: ""
+summary: "Anfang Mai 2024 war ich für vier Tage auf der Peene unterwegs, dem _Amazonas des Nordens_. Wenn man nahezu unberührte Natur erfahren möchte, ist die Peene einen Ausflug wert."
 date: "2024-07-28T15:55:00+02:00"
 tags: ["peene", "paddeln", "deutschland"]
 author: "hauke"
-images: [""]
+images: ["images/peene-2024/DSC04287_1600.jpg"]
 ---
 
-Im Mai 2024 habe ich mal wieder eine mehrtätige Paddeltour gemacht, dieses mal auf der **Peene** von **Anklam** nach **Demming**.
-Die Strecke ist rund **58km** lang und ich habe dafür **vier Tage** (also drei Nächte) gebraucht.
+Im Mai 2024 habe ich mal wieder eine mehrtägige Paddeltour gemacht, dieses mal auf der **Peene** von **Anklam** nach **Demmin**.
+Die Strecke ist rund **58 km** lang und ich habe dafür **vier Tage** (also drei Nächte) gebraucht.
 
 ## Paddeln auf der Peene
 
@@ -49,7 +49,7 @@ Wie bei normalen mehrtägigen Touren hatte ich folgendes dabei:
 ## Tag 1: Anklam → Stolpe
 {{< smallDate "2024-05-06" >}}
 
-Ich bin sehr früh mit dem Zug los gefahren und um 11:15 in Anklam angekommen.
+Ich bin sehr früh mit dem Zug losgefahren und um 11:15 in Anklam angekommen.
 Vom Bahnhof sind es durch die Innenstadt 1,8 km zum **Wasserwanderrastplatz Anklam**, wo es unter anderem eine Slipanlage, Bootsverleih und Zeltplatz gibt.
 Normalerweise kostet die Nutzung des Anlegers und der Slipanlage eine Gebühr, aber die Leute vom Campingplatz waren so nett mir mit meinem kleinen Packraft diese Gebühr zu erlassen.
 Um ca. 13:00 ging es für mich dann los.
@@ -66,12 +66,12 @@ Trotzdem habe ich nach ca. einer Stunde und 4,3 km den **Wasserwanderrastplatz M
 {{< imgScale "images/peene-2024/IMG_20240506_141826_1600.jpg" "An allen Wasserwanderrastplätzen gibt es Informationstafeln mit geltenden Regeln und einer Karte mit dem aktuellen Flussabschnitt inklusive umliegender Rastplätze." "350x" >}}
 
 Eigentlich wollte ich in Menzlin mein Camp aufschlagen.
-Ich habe aber Wind und Stömung überschätzt, sodass ich mich dazu entschlossen habe bis nach Stolpe weiter zu paddeln.
-Eine Strömung habe ich sowieso nicht gemerkt, das schlimmste war der Wind.
+Ich habe aber Wind und Strömung überschätzt, sodass ich mich dazu entschlossen habe bis nach Stolpe weiter zu paddeln.
+Eine Strömung habe ich sowieso nicht gemerkt, das Schlimmste war der Wind.
 
 Entlohnt wurde ich aber bereits an diesem Tag von der Natur.
 Neben springenden Fischen, diversen Vögeln und naturbelassenen Waldstücken habe ich auch meinen ersten Seeadler gesehen.
-Als ich relativ nah am Ufer entlang paddelte stieg plötzlich einer aus dem Gebüsch auf.
+Als ich relativ nah am Ufer entlang paddelte, stieg plötzlich einer aus dem Gebüsch auf.
 Ich habe mich richtig erschrocken und war sehr erstaunt über die Größe.
 
 Vom Menzlin nach Stolpe sind es nochmal 4,3 km, sodass ich ca. 16 Uhr in **Stolpe** angekommen bin.
@@ -81,8 +81,8 @@ Die Zeltwiese ist schön groß, direkt am Wasser gelegen und abseits der Straße
 
 {{< imgScale "images/peene-2024/DSC04229_1600.jpg" "Mein Tarp in Stolpe direkt am Wasser." "500x" >}}
 
-Es gibt in Stolpe auch einen kleinen Imbiss, wo man Getränke, Eis und Würstchen bekommen.
-Die Sanitäranlagen sind mit einem Code gesichert, den man vom Hafenmeiste bekommt und waren sehr sauber.
+Es gibt in Stolpe auch einen kleinen Imbiss, wo man Getränke, Snacks, Eis und Würstchen bekommen kann.
+Die Sanitäranlagen sind mit einem Code gesichert, den man vom Hafenmeister bekommt, und waren sehr sauber.
 
 {{< imgScale "images/peene-2024/DSC04234_1600.jpg" "Ruhige Stimmung in Stolpe als es zum Abend hin windstill wurde." "500x" >}}
 
@@ -96,7 +96,7 @@ Das sind von Stolpe aus 28 km und ich war nicht sicher, ob ich es schaffen würd
 
 Leider gibt es keinen Übernachtungsplatz in geeigneter Entfernung von Stolpe aus.
 Gützkow ist ca. 12 km entfernt, zu kurz für eine Tagesetappe, und der nächste Übernachtungsplatz danach ist dann auch schon Alt Plestlin.
-In Jarmen, Alt Jargenow und Trissow darf man nicht übernachten.
+In Jarmen, Alt Jargenow und Trissow, den anderen Rastplätzen dazwischen, darf man nicht übernachten.
 Zum Glück hatte ich aber Rückenwind und bin gut voran bekommen.
 
 {{< imgScale "images/peene-2024/DSC04236_1600.jpg" "Einer von mehreren Biberburgen, die ich während meiner Tour gesehen habe. Einen Biber selbst habe ich aber nicht zu Gesicht bekommen." "500x" >}}
@@ -108,14 +108,14 @@ Bei letzterem gibt zudem noch eine Slipanlage und ich habe mich dort nett mit ei
 
 {{< imgScale "images/peene-2024/DSC04251_1600.jpg" "Der Wasserwanderrastplatz in Pentin." "500x" >}}
 
-Der nächst größere Stop war dann in **Jarmen**, wo es auch einen Rastplatz gibt, auf dem man aber ebenfalls _nicht_ übernachten darf.
-Leider habe ich davon kein Foto mitgebracht, es ist aber auch nur ein einfacher Rastplatz auf dem man ohnehin nicht übernachten wollen würde: Steg, Bänke, Landstraße nebenan, am Rand eines Hafenkais, Schild mit Regeln und Karte.
+Der nächst größere Stopp war dann in **Jarmen**, wo es auch einen Rastplatz gibt, auf dem man aber ebenfalls _nicht_ übernachten darf.
+Leider habe ich davon kein Foto gemacht, es ist aber auch nur ein einfacher Rastplatz, auf dem man ohnehin nicht übernachten wollen würde: Steg, Bänke, Landstraße nebenan, am Rand eines Hafenkais, Schild mit Regeln und Karte.
 Keinen Sanitäranlagen oder sonstige Annehmlichkeiten.
 
-Der Rastplatz bei **Alt Jargenow** hingegen ist schöner und man hat wieder seine Ruhe in mitten der Natur.
+Der Rastplatz bei **Alt Jargenow** hingegen ist schöner und man hat wieder seine Ruhe inmitten der Natur.
 Wie man auf dem Bild unten sieht, haben Leute dort eine Bank hingestellt und eine Feuerstelle eingerichtet.
 Das lädt natürlich dazu ein hier ein gemütliches Lagerfeuer zu machen, das ist aber nicht erlaubt!
-Gerade im Sommer ist man umgeben von trockenem Gras und viel Totholz - keine geeignete Umgebung für Lagerfeuer!
+Gerade im Sommer ist man umgeben von trockenem Gras und viel Totholz - _keine_ geeignete Umgebung für Lagerfeuer!
 
 {{< imgScale "images/peene-2024/DSC04253_1600.jpg" "Der Wasserwanderrastplatz bei Alt Jargenow." "500x" >}}
 
@@ -123,19 +123,19 @@ Gerade im Sommer ist man umgeben von trockenem Gras und viel Totholz - keine gee
 
 Insgesamt sind mir an diesem Tag vielleicht vier andere Paddler begegnet, zwei Angler und zweimal die Wasserschutzpolizei.
 Letztere haben mir freundlich zugewunken und mich nicht angehalten oder so.
-Meine Bootskennzeichnung scheint also zu funktionieren und OK zu sein (dran denken: Die Peene ist Bundeswasserstraße).
+Meine Bootskennzeichnung, auf einigen Bildern weiter unten zu erkennen, scheint also zu funktionieren und OK zu sein (dran denken: Die Peene ist Bundeswasserstraße).
 
 {{< imgScale "images/peene-2024/DSC04257_1600.jpg" "Einfacher und abgelegener Wasserwanderrastplatz ca. 3 km flussabwärts von Alt Plestlin." "500x" >}}
 
 Gegen 18:45 bin ich dann ziemlich fertig und mit schlaffen Armen in **Alt Plestlin** angekommen.
-Der Platz ist relativ abgelegen, weswegen der Hafenmeister nur morgens und abends einmal vorbei kommt und um diese Uhrzeit schon weg war.
+Der Platz ist relativ abgelegen, weswegen der Hafenmeister nur morgens und abends einmal vorbeikommt und um diese Uhrzeit schon weg war.
 Die Sanitäranlagen waren ... ausreichend.
 Es gab eine Toilette, Waschbecken und Dusche, wobei es nur kaltes Wasser gab.
 Ansonsten ist der Platz sehr schön, hat mehrere Anleger, eine Slipanlage und eine kleine Zeltwiese.
 Ich war auch nicht alleine dort, zwei weitere Paddler, ein paar Böötchenfahrer und ein älteres Ehepaar mit Wohnwagen waren auch noch dort.
 Mit meinem Tarp habe ich gut für Gesprächsstoff gesorgt, weil man ja doch relativ ungeschützt draußen liegt.
 
-{{< imgScale "images/peene-2024/DSC04259_1600.jpg" "Blick von meinem Tarp auf die Peene kurz nachdem die Sonne ungergegangen ist." "500x" >}}
+{{< imgScale "images/peene-2024/DSC04259_1600.jpg" "Blick von meinem Tarp auf die Peene kurz nachdem die Sonne untergegangen ist." "500x" >}}
 
 ## Tag 3: Alt Plestlin → Pensin
 {{< smallDate "2024-05-08" >}}
@@ -144,9 +144,9 @@ Am Morgen ist dann der Hafenmeister gekommen und ich habe für die eine Übernac
 Ich kann verstehen, dass der Unterhalt des Platzes aufwändiger ist, da er so angelegen liegt, dennoch empfinde ich den Preis als zu hoch.
 Auch die Böötchenfahrer, für die es noch teurer wurde, haben sich darüber unterhalten.
 
-{{< imgScale "images/peene-2024/DSC04263_1600.jpg" "Mein Zeltplatz am Morgen mit meiner _Tony_ und meinem Gepäck kurz vor Abfahrt." "500x" >}}
+{{< imgScale "images/peene-2024/DSC04263_1600.jpg" "Mein Zeltplatz am Morgen mit meiner \"Tony\" und meinem Gepäck kurz vor Abfahrt." "500x" >}}
 
-{{< imgScale "images/peene-2024/DSC04265_1600.jpg" "Der restliche Rastplatz mit Sanitärhaäuschen, Unterstand und Mülleimern." "500x" >}}
+{{< imgScale "images/peene-2024/DSC04265_1600.jpg" "Der restliche Rastplatz mit Sanitärhäuschen, Unterstand und Mülleimern." "500x" >}}
 
 Um 10:45 ging es dann entspannt weiter flussaufwärts nach Pensin.
 Wie schon am Tag zuvor habe ich die meisten Wasserwanderrastplätze mitgenommen, so auch **Sophienhof** und **Loitz**.
@@ -156,12 +156,13 @@ An beiden Orten kann man auch übernachten, wobei der Rastplatz in Loitz innerha
 
 {{< imgScale "images/peene-2024/DSC04274_1600.jpg" "Die Zeltwiese an der Marina in Loitz mit Wohnmobilstellplatz. In der Nähe ist auch ein richtiger Campingplatz." "500x" >}}
 
-Nach einer Mittagspause in Loitz ging es dann auch direkt weiter am Rastplatz **Zeltlow** vorbei (wo ich keinen Stop eingelegt habe) nach Pensin.
+Nach einer Mittagspause in Loitz ging es dann auch direkt weiter am Rastplatz **Zeltlow** vorbei (wo ich keinen Stopp eingelegt habe) nach Pensin.
 Da die Etappe an diesem Tag auch nur 14 km waren, war ich entsprechend früh um 15 Uhr schon da.
 
-Der **Wasserwanderrastplatz Pensin** ist schön groß, hat eine an Land gezogene alte Fähre als Denkmal und Picknickmöglichkeit, einen schönen Anleger, eine Badestelle und ein kleines Sanitärhäuschen.
+Der **Wasserwanderrastplatz Pensin** ist schön groß, hat eine an Land gezogene alte Fähre als Denkmal und Picknickmöglichkeit, einen schönen Anleger, eine Badestelle mit kleinem Strand und ein Sanitärhäuschen.
 Eine Dusche gibt es jedoch nicht, nur Toiletten und einen Hahn für Trinkwasser.
-Neben mir waren noch fünf andere Paddler dort, sowie ein Vater, der mit drei Kindern dort Campen war und gestresst seinen ganzen Bulli voll Equipment auslud um alles aufzubauen.
+Neben mir waren noch fünf andere Paddler dort, sowie ein Vater, der mit drei Kindern dort campen war und gestresst seinen ganzen Bulli voller Equipment auslud, um alles aufzubauen.
+Habe mich den Nachmittag und Abend nett mit zweien aus Süddeutschland unterhalten, die auch viel wandern gehen und so konnten wir uns gut austauschen.
 Außerdem war wohl irgendein Fest im Dorf, weswegen Teile der Dorfjugend ans Wasser kamen, aber sich sehr pfleglich benommen haben und auch zum Abend hin wieder gegangen sind.
 
 {{< imgScale "images/peene-2024/DSC04277_1600.jpg" "Mein Camp am Abend in Pensin. Hinten links der Anleger mit Badestelle und hinten rechts die alte Fähre." "500x" >}}
@@ -170,7 +171,7 @@ Außerdem war wohl irgendein Fest im Dorf, weswegen Teile der Dorfjugend ans Was
 {{< smallDate "2024-05-09" >}}
 
 Da ich in Demmin mit der Bahn zurück nach Hause wollte, musste ich mich sputen und war schon um 6:30 wieder im Wasser.
-Das ist zu früh um den Hafenmeister abzupassen, aber glücklickerweise gibt es eine Kasse, wo ich meine gerade einmal 6 € Gebühr einwerfen konnte.
+Das ist zu früh, um den Hafenmeister abzupassen, aber glücklicherweise gibt es eine Kasse, wo ich meine gerade einmal 6 € Gebühr einwerfen konnte.
 Man merkt also, dass die Preise von Platz zu Platz stark schwanken.
 
 In der Nacht wurde es wieder ordentlich kalt (ich schätze so 5 °C), weswegen am Morgen nicht nur alle meine Sachen nass waren, sondern auch alles in Nebel gehüllt war und aus der Peene jede Menge Dampf aufstieg.
@@ -179,7 +180,7 @@ In der Nacht wurde es wieder ordentlich kalt (ich schätze so 5 °C), weswegen a
 
 {{< imgScale "images/peene-2024/DSC04287_1600.jpg" "Komplett windstill ging es los Richtung Demmin." "500x" >}}
 
-In **Demmin** selbst gibt es zwar auch einen Wasserwanderrastplatz, ich habe aber an einem kleinen Steg kurz vorher beim Boot aus dem Wasser geholt um etwas Zeit wegen dem Zug zu sparen.
+In **Demmin** selbst gibt es zwar auch einen Wasserwanderrastplatz, ich habe aber an einem kleinen Steg kurz vorher beim Boot aus dem Wasser geholt, um etwas Zeit wegen des Zugs zu sparen.
 
 {{< imgScale "images/peene-2024/IMG_20240509_083203_1600.jpg" "Kleiner und sicherlich inoffizieller/privater Anleger in Demmin bei der Kahldenbrücke." "500x" >}}
 
@@ -187,11 +188,11 @@ In **Demmin** selbst gibt es zwar auch einen Wasserwanderrastplatz, ich habe abe
 
 Insgesamt eine wirklich sehr schöne Tour!
 
-Die Natur hat einiges zu bieten und wenn man nicht gerade während der Sommerferien zur absoluten Hochsaison fährt ist man einen Großteil der Zeit komplett alleine.
-Beim Übernachten auf den Rastplätzen kommt -- entgegen meiner ursprünglichen Hoffnung -- jedoch kein Wild-Camping-Feeling auf, man hat doch eher das Gefühl auf einem normalen Campinsplatz zu schlafen.
-Dafür hat man unterwegs fast keine Störungen durch Verkehr, Schiffahrt, Siedlungen oder generell Menschen.
+Die Natur hat einiges zu bieten und wenn man nicht gerade während der Sommerferien zur absoluten Hochsaison fährt, ist man einen Großteil der Zeit komplett alleine.
+Beim Übernachten auf den Rastplätzen kommt -- entgegen meiner ursprünglichen Hoffnung -- jedoch kein Wild-Camping-Feeling auf; man hat doch eher das Gefühl, auf einem normalen Campingplatz zu schlafen.
+Dafür hat man unterwegs fast keine Störungen durch Verkehr, Schifffahrt, Siedlungen oder generell Menschen.
 
 Die Gegend kann ich also für mehrtägige Paddeltouren absolut sehr empfehlen, da man hier wirklich ruhige und nahezu unberührte Natur erleben kann.
-Ich glaube ich habe insgesamt so viele Seeadler gesehen wie Enten -- absoluter Wahnsinn!
+Ich glaube, ich habe insgesamt so viele Seeadler gesehen wie Enten -- absoluter Wahnsinn!
 
 P.S.: Mir wurde auch mehrfach die Strecke zwischen Kummerower See und Demmin empfohlen, die mache ich vielleicht auch nochmal.
