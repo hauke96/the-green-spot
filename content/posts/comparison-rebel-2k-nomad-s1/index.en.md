@@ -41,7 +41,7 @@ Here are some basic information about the tour:
 
 A complete overview can be found in a [nice PDF file](https://www.packrafting-store.de/images/content/CC_EN.pdf) from the Packrafting Store, but here's a summary:
 
-| Property | [Anfibio Rebel 2K](https://www.anfibio.com/en/packrafting-gear/packrafts/rebel-2k/) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-packrafts/MRS-Nomad-S1-light::844.html?language=en) | [MRS Nomad S1](https://www.packrafting-store.de/New/MRS-Nomad-S1-with-Spraydeck::799.html?language=en)
+| Property | [Anfibio Rebel 2K](https://www.packrafting-store.de/anfibio-rebel-2k_1) | [MRS Nomad S1 Light](https://www.packrafting-store.de/mrs-nomad-s1-light_1) | [MRS Nomad S1](https://www.packrafting-store.de/mrs-nomad-s1-with-spraydeck)
 --- | --- | --- | ---
 | Weight (complete) | 2.3 kg / 5l bs | 3.5 kg / 7.7 lbs | 4.5 kg / 9.9 lbs |
 | Length (outside) | 231 cm / 7' 7" | 295 cm / 9' 8" | 295 cm / 9' 8" |
@@ -49,7 +49,7 @@ A complete overview can be found in a [nice PDF file](https://www.packrafting-st
 | Fin | Yes | No (but with mount) | Yes |
 | Spraydeck | Yes | No | Yes |
 | Loops | 7 | 8 | 8 |
-| Price[^1] | €799 | €1099 | €1499 |
+| Price[^1] | € 799 | € 997 | € 1351 |
 
 Both boats have a seat with a backrest and enough loops to tighten your stuff.
 
@@ -176,7 +176,7 @@ Luckily there are actual alternatives for the S1, for example, the Sigma TXL or 
 # Conclusion
 
 For *me* the Nomad S1 is the better Packraft (especially the normal version with the fin and spraydeck).
-But I'm planning for calmer and [longer trips](/en/posts/ems-paddling-2021/) and especially the additional storage capacity and better driving behavior convinced me.
+But I'm planning for calmer and [longer trips](/en/posts/peene-paddling-2024/) and especially the additional storage capacity and better driving behavior convinced me.
 
 ## Update
 
@@ -185,5 +185,6 @@ I'm very happy with this choice and, of course, made a few longer trips with it:
 
 * [Multi-day trip on the Ems river]({{< ref "/posts/ems-paddling-2021" >}})
 * [Shorter trip on the Schwentine river]({{< ref "/posts/schwentine-paddling-2023" >}})
+* [Multi-day trip on the Peene river]({{< ref "/posts/peene-paddling-2024" >}})
 
-[^1]: Prices as of 03.05.2023 and approx. the same in US $ (maybe a bit less).
+[^1]: Prices as of 29.07.2024 and approx. the same in US $ (maybe a bit less).
