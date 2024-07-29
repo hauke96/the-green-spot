@@ -42,7 +42,7 @@ Hier die Eckdaten der Touren:
 
 Eine komplette Übersicht gibt es in einer [netten PDF-Datei](https://www.packrafting-store.de/images/content/VT_DE.pdf) vom Packrafting Store, hier aber eine kleine Zusammenfassung:
 
-| Merkmal | [Anfibio Rebel 2K](https://www.anfibio.com/packrafting-gear/packrafts/rebel-2k/) | [MRS Nomad S1 Light](https://www.packrafting-store.de/Packrafts/MRS-Packrafts/MRS-Nomad-S1-light::844.html?language=de) | [MRS Nomad S1](https://www.packrafting-store.de/Neu/MRS-Nomad-S1-mit-Spritzdecke::799.html?language=de)
+| Merkmal | [Anfibio Rebel 2K](https://www.packrafting-store.de/anfibio-rebel-2k) | [MRS Nomad S1 Light](https://www.packrafting-store.de/mrs-nomad-s1-light) | [MRS Nomad S1](https://www.packrafting-store.de/mrs-nomad-s1-royal-blue-mit-spritzdecke_1)
 | --- | --- | --- | ---
 | Gewicht (komplett) | 2,3 kg | 3,5 kg | 4,5 kg |
 | Länge (außen) | 231 cm | 295 cm | 295 cm |
@@ -50,7 +50,7 @@ Eine komplette Übersicht gibt es in einer [netten PDF-Datei](https://www.packra
 | Finne | Ja | Nein (Halterung vorhanden) | Ja |
 | Spritzdecke | Ja | Nein | Ja |
 | Schlaufen | 7 | 8 | 8 |
-| Preis[^1] | 799€ | 1099€ | 1499€ |
+| Preis[^1] | 799 € | 997 € | 1351 € |
 
 Beide Boote haben: Sitz mit Rückenlehne, viele Schlaufen für Gepäck.
 
@@ -177,7 +177,7 @@ Es gibt aber durchaus Alternativen zum S1, wie z.B. das Sigma TXL oder andere hy
 # Fazit
 
 Für *mich* ist das S1 das bessere Packraft (besonders in der normalen Variante mit Spritzdecke).
-Ich plane aber auch eher ruhigere und [längere Touren](/de/posts/ems-paddling-2021/) zu machen.
+Ich plane aber auch eher ruhigere und [längere Touren](/de/posts/peene-paddling-2024/) zu machen.
 Aber gerade der zustäzliche Stauraum und die Lage im Wasser haben mich überzeugt.
 
 ## Nachtrag
@@ -187,5 +187,6 @@ Bin sehr zufrieden mit der Wahl und habe natürlich auch schon längere Tourn ge
 
 * [Mehrtägige Tour auf der Ems]({{< ref "/posts/ems-paddling-2021" >}})
 * [Eintägige Tour auf der Schwentine]({{< ref "/posts/schwentine-paddling-2023" >}})
+* [Mehrtägige Tour auf der Peene]({{< ref "/posts/peene-paddling-2024" >}})
 
-[^1]: Stand: 03.05.2023.
+[^1]: Stand: 29.07.2024.
