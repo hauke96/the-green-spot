@@ -83,7 +83,7 @@ Statt eines ausführlichen Tour-Berichts hier einfach ein paar Bilder, um dir ei
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03903_1600.jpg" "Manchmal war der Fels schon sehr speckig und rutschig. Gerade an Felswänden hat man mit normalen Wanderschuhen stellenweise Probleme Halt zu finden." "500x" >}}
 
-{{< imgScale "images/tegelbergsteig-2022/DSC03908_1600.jpg" "Interessante Felsformation mit einem Durchgang, durch den es weiter geht. Definitiv mal was anderes und ein Alleinstellungsmerkmal und kleines Highlight dieses Steigs." "500x" >}}
+{{< imgScale "images/tegelbergsteig-2022/DSC03909_1600.jpg" "Interessante Felsformation mit einem Durchgang, durch den es weiter geht. Definitiv mal was anderes und ein Alleinstellungsmerkmal und kleines Highlight dieses Steigs." "500x" >}}
 
 {{< imgScale "images/tegelbergsteig-2022/DSC03913_1600.jpg" "Ausblick auf den Forggensee und Bannwaldsee." "500x" >}}
 

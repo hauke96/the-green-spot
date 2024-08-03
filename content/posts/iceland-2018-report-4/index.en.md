@@ -90,9 +90,9 @@ Because it wasn't too late, we were able to relax and watch the beautiful sunset
 
 {{< imgScale "images/iceland/DSC00961_1600.JPG" "Comfy evening in our tent next to the lake." "500x r90" >}}
 
-{{< imgScale "images/iceland/DSC00984_edit_01_1600.JPG" "A bit of macro photography in the evening." "500x" >}}
+{{< imgScale "images/iceland/DSC00984_edit_01_1600.jpg" "A bit of macro photography in the evening." "500x" >}}
 
-{{< imgScale "images/iceland/DSC00987_edit_1600.JPG" "And some more, unfortunately, I had no macro lens with me." "500x" >}}
+{{< imgScale "images/iceland/DSC00987_edit_1600.jpg" "And some more, unfortunately, I had no macro lens with me." "500x" >}}
 
 # Day 15: Lónakvísl → Faxafit
 {{< smallDate "2018-08-01" >}}

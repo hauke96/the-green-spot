@@ -46,10 +46,15 @@ enableGitInfo = true
 				url = "pages/paddling"
 				weight = 3
 			[[languages.en.menu.main]]
+				name = "Knowledge"
+				identifier = "knowledge"
+				url = "pages/knowledge"
+				weight = 4
+			[[languages.en.menu.main]]
 				name = "About"
 				identifier = "about"
 				url = "pages/about"
-				weight = 4
+				weight = 5
 	[languages.de]
 		languageCode = "de"
 		languageName = "Deutsch"
@@ -75,10 +80,15 @@ enableGitInfo = true
 				url = "pages/paddling"
 				weight = 3
 			[[languages.de.menu.main]]
+				name = "Wissen"
+				identifier = "wissen"
+				url = "pages/knowledge"
+				weight = 4
+			[[languages.de.menu.main]]
 				name = "Über"
 				identifier = "about"
 				url = "pages/about"
-				weight = 4
+				weight = 5
 
 [params]
 	# Social accounts. Link to these accounts are displayed in the header and
