@@ -22,8 +22,8 @@ enableGitInfo = true
 
 [languages]
 	[languages.en]
-		languageCode = "en"
-		languageName = "English"
+		locale = "en"
+		label = "English"
 		weight = 2
 		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.params]
@@ -56,8 +56,8 @@ enableGitInfo = true
 				url = "pages/about"
 				weight = 5
 	[languages.de]
-		languageCode = "de"
-		languageName = "Deutsch"
+		locale = "de"
+		label = "Deutsch"
 		weight = 1
 		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.params]
