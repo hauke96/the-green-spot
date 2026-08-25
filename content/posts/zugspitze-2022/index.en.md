@@ -2,12 +2,12 @@
 title: "Ascending the Zugspitze in November 2022"
 summary: "In early November 2022, I tried to ascend the Zugspitze over the via ferrata \"Stopselzieher\". Even though it didn't work out and I had to turn back, it was a beautiful tour."
 date: "2022-11-21T23:18:00+01:00"
-tags: ["zugspitze", "mountaineering", "hiking", "alps","germany"]
+tags: ["zugspitze", "mountaineering", "hiking", "alps", "germany"]
 author: "hauke"
 images: ["images/zugspitze-2022/GOPR8140_1600.JPG"]
 ---
 
-In early November, I went on vacation to the Alps and wanted to try to ascend the Zugspitze over a [via ferrata](https://en.wikipedia.org/wiki/Via_ferrata) called [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (German Wikipedia article; Route on [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)).
+In early November 2022, I went on vacation to the Alps and wanted to try to ascend the Zugspitze over a [via ferrata](https://en.wikipedia.org/wiki/Via_ferrata) called [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (German Wikipedia article; Route on [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)).
 After the first day of hiking along the high-altitude trail ("Höhenweg") at the Eibsee, I ascended the Zugspitze on November 9th
 
 ... at least almost, but more about that below.
