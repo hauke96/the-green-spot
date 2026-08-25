@@ -4,7 +4,7 @@ summary: "Anfang Oktober 2024 habe ich bei sehr schönem Wetter die Kramerspitz 
 date: "2026-08-25T20:58:18+02:00"
 tags: ["kramerspitz", "bergsteigen", "wandern", "alpen", "deutschland"]
 author: "hauke"
-images: ["images/kramerspitz-2024/DSC04505_1600.jpg"]
+images: ["images/kramerspitz-2024/DSC04504_1600.jpg"]
 ---
 
 In 2024 habe ich wieder Wanderurlaub in den Alpen gemacht und die [**Kramerspitz**](https://de.wikipedia.org/wiki/Kramerspitz) erklommen.
