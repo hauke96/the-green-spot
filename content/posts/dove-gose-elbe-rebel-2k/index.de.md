@@ -83,7 +83,8 @@ Das Paddeln wurde dadurch nicht leichter, da man dauernd an den Dingern hängen 
 # Neuengammer Durchstich
 
 Dann kam ich nach einiger Zeit am Eingang vom *[Neuengammer Durchstich](https://osm.org/go/0HoKj~KIV?m=)* an (nicht zu verwechseln mit dem *[Neuengammer Stichkanal](https://osm.org/go/0G91ftH1L?m=)*, der zum ehemaligen KZ Neuengamme führt).
-Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen der Dove und Gose Elbe, der aus Naturschutzgründen zwischen April und Juni nicht befahren werden darf -- auch nicht von Paddelbooten!
+Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen der Dove und Gose Elbe.
+Aus Naturschutzgründen ist das **Befahren vom 01. Februar bis 30. April verboten** -- auch für Paddelboote, SUPs, etc.!
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
 
