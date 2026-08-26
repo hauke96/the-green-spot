@@ -17,6 +17,7 @@ Here you'll find all articles and pages, which take place in Germany.
 
 # Trip reports
 
+* [Ascending the Kramerspitz]({{< ref "/posts/kramerspitz-2024" >}}): Successull ascend of the Kramerspitz summit near Garmisch-Partenkirchen.
 * [Multi-day paddling tour on the Peene]({{< ref "/posts/peene-paddling-2024" >}}): A multi-day paddling tour on the Peene river, the "Amazon of the North".
 * [Tegelbergsteig]({{< ref "/posts/tegelbergsteig-2022" >}}): One-day tour near Neuschwanstein Castle via the Tegelbergsteig, a moderately difficult via ferrata.
 * [Rheinsteig]({{< ref "/posts/rheinsteig-2020" >}}): Multi-day tour on the Rheinsteig with many good viewpoints, vineyards and castles.

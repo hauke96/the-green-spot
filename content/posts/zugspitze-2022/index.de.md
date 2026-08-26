@@ -23,7 +23,7 @@ Zudem habe ich Karten studiert, Routen durchgespielt, andere Reise-Berichte gele
 Außerdem habe ich mir natürlich Infos zu [Öffnungszeiten der Bahnen](https://zugspitze.de/de/Aktuell/Live-Info/Garmisch-Classic?type=opening-hours) angeschaut und erst nach der Buchung meines Urlaubs gesehen, dass alle Bahnen in Revision und damit außer Betrieb sind.
 Ich konnte also weder mit der Zahnrad-, noch mit der Seilbahn wieder runter fahren.
 
-Vor Ort fährt in der Revisionszeit eigentlich nur der Eibseebus ([Fahrplan](http://www.eibseebus.de/images/ganzjahresplan.png), [Tarife](http://www.eibseebus.de/download/Tarifbestimmungen_2022.pdf)), den man mit der [Grainau-GästeKarte](https://www.grainau.de/gaestekarte) kostenlos benutzen kann, welche ich im Hotel beim Check-in bekommen habe.
+Vor Ort fährt in der Revisionszeit eigentlich nur der Eibseebus ([Fahrplan](https://zugspitze.de/Downloads/Fahrpl%C3%A4ne/Fahrplan-Eibseebus.pdf)), den man mit der [Grainau-GästeKarte](https://www.grainau.de/gaestekarte) kostenlos benutzen kann, welche ich im Hotel beim Check-in bekommen habe.
 
 ## Routenplanung
 

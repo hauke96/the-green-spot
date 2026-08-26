@@ -23,7 +23,7 @@ In addition, I studied maps, went through routes, read other trip reports, and w
 Also, I looked up the [opening hours of the railroads](https://zugspitze.de/de/Aktuell/Live-Info/Garmisch-Classic?type=opening-hours) and didn't see until after I booked my vacation that the railroad and all cable cars were out of service.
 So I couldn't go back down with either the cogwheel or the cable car.
 
-During this revision period, there is only the Eibsee bus ([timetable](http://www.eibseebus.de/images/ganzjahresplan.png), [fares](http://www.eibseebus.de/download/Tarifbestimmungen_2022.pdf)), which you can use for free with the [Grainau-GuestCard](https://www.grainau.de/en/guestcard-en) ("Grainau-GästeKarte"), which I got at the hotel during check-in.
+During this revision period, there is only the Eibsee bus ([timetable](https://zugspitze.de/Downloads/Fahrpl%C3%A4ne/Fahrplan-Eibseebus.pdf)), which you can use for free with the [Grainau-GuestCard](https://www.grainau.de/en/guestcard-en) ("Grainau-GästeKarte"), which I got at the hotel during check-in.
 
 ## Route planning
 
@@ -125,7 +125,7 @@ Between mountain pines, it goes further up and I met the first mountain goats, w
 
 {{< imgScale "images/zugspitze-2022/GOPR8121_1600.JPG" "Through coniferous bushes of mountain pines I went further up on scree." "500x" >}}
 
-About another 2 km / 1.2 mi and 400 m / 1300 ft of altitude after the Gamsalmhütte I came to the **Wiesbrunnen** (translates to ***meadow fountain ***), a water fountain with a nice bench to rest on.
+About another 2 km / 1.2 mi and 400 m / 1300 ft of altitude after the Gamsalmhütte I came to the **Wiesbrunnen** (translates to *meadow fountain*), a water fountain with a nice bench to rest on.
 Of course, it's worth taking a break here, the view is just awesome!
 I could also fill my water bottle, which holds a liter, but was already almost empty.
 After this short break, I went on in a T-shirt, even my sweat jacket was now too warm for me.

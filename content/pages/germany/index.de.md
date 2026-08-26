@@ -17,6 +17,7 @@ Hier findest du alle Artikel und Seiten, die sich in Deutschland abspielen.
 
 # Tourenberichte
 
+* [Besteigung der Kramerspitz]({{< ref "/posts/kramerspitz-2024" >}}): Erfolgreiche Besteigung des Kramerspitz Gipfels bei Garmisch-Partenkirchen.
 * [Mehrtages Paddeltour auf der Peene]({{< ref "/posts/peene-paddling-2024" >}}): Eine mehrtägige Paddeltour auf der Peene, dem "Amazonas des Nordens".
 * [Tegelbergsteig]({{< ref "/posts/tegelbergsteig-2022" >}}): Eintägige Tour in der Nähe von Neuschwanstein über den Tegelbergsteig, einem mittelschweren Klettersteig.
 * [Rheinsteig]({{< ref "/posts/rheinsteig-2020" >}}): Mehrtägige Tour auf dem Rheinsteig mit vielen guten Aussichtspunkten, Weinbergen und Burgen.

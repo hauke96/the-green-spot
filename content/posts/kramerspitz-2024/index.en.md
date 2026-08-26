@@ -80,7 +80,7 @@ From the viewing point onwards, it gets even more difficult.
 The path winds its way up the mountain in serpentines, and every now and then you need to use your hands to pull yourself up.
 You don't have to actually climb (it's not a [via ferrata]({{< ref "/posts/tegelbergsteig-2022" >}})), but the terrain is quite challenging.
 
-As someone from northern Germany (it's very flat there), I wasn't used to this kind of hiking at all, and even though it was no more than 10 °C / 50 °F and windy, I was drenched in sweat.
+As someone from northern Germany (it's very [flat there]({{< ref "/posts/hiking-in-germany#northern-germany" >}})), I wasn't used to this kind of hiking at all, and even though it was no more than 10 °C / 50 °F and windy, I was drenched in sweat.
 A few older people passed me, as if the elevation and terrain was nothing.
 
 A bit more than an hour later, I reached the upper section of the Kramersteig around **11:45 AM**.
