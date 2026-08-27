@@ -28,7 +28,7 @@ enableGitInfo = true
 		copyright = "&copy; All content licensed under <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> license"
 		[languages.en.params]
 			subtitle = "Experiences from trekking, hiking and paddling in wild nature"
-			description = "Experiences from trekking, hiking and paddling in wild nature"
+			description = "A blog with experiences about outdoor, trekking, hiking and paddling in wild and pristine nature"
 		[languages.en.menu]
 			[[languages.en.menu.main]]
 				name = "Iceland"
@@ -62,7 +62,7 @@ enableGitInfo = true
 		copyright = "&copy; Alle Inhalte stehen unter der <a href='https://creativecommons.org/licenses/by-nc-sa/4.0/'>CC BY-NC-SA 4.0</a> Lizenz"
 		[languages.de.params]
 			subtitle = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
-			description = "Erfahrungen vom Trekking, Wandern und Paddeln in wilder Natur"
+			description = "Ein Blog mit Erfahrungen rund um die Themen Outdoor, Trekking, Wandern und Paddeln in wilder und unberührter Natur"
 		[languages.de.menu]
 			[[languages.de.menu.main]]
 				name = "Island"
