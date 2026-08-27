@@ -4,7 +4,7 @@ summary: "Im Sommer 2018 waren wir drei Wochen am Stück im isländischen Süden
 date: "2019-04-15T21:25:03+02:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["images/iceland/DSC00515_1600.JPG"]
+image: "images/iceland/DSC00515_1600.JPG"
 ---
 Im Sommer 2018 sind Kristina und ich drei Wochen lang in Island wandern gewesen -- ohne Auto, Campingplatz oder feste Unterkunft.
 Nach [unseren Vorbereitungen]({{< ref "/posts/iceland-2018-preparation" >}}) konnte unsere Tour von Þórsmörk über Mælifell, Hólmsárlón, Eldgjá, Langisjór nach Landmannalaugar endlich los gehen.

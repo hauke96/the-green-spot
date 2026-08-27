@@ -3,7 +3,7 @@ title: "Iceland"
 date: 2020-04-24T16:39:08+02:00
 tags: ["iceland"]
 author: "hauke"
-images: ["images/iceland/DSC00515_1600.JPG"]
+image: "images/iceland/DSC00515_1600.JPG"
 summary: "All posts regarding our Iceland 2018 trip."
 aliases: ["iceland-2018"]
 ---

@@ -4,7 +4,7 @@ summary: "Im Sommer 2020 habe ich eine mehrtägige Wanderung entlang des Rheinst
 date: "2023-10-01T14:19:00+02:00"
 tags: ["rheinsteig", "wandern", "deutschland"]
 author: "hauke"
-images: ["images/rheinsteig-2020/DSC03231_1600.jpg"]
+image: "images/rheinsteig-2020/DSC03231_1600.jpg"
 ---
 
 Im Sommer 2020 habe ich eine fünftägige Tour entlang des Rheinsteigs gemacht.

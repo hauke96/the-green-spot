@@ -4,7 +4,7 @@ summary: "This time it goes leisurely with a rented packraft along the Gose and 
 date: "2021-07-31T00:20:00+02:00"
 tags: ["hamburg", "elbe", "paddling", "germany"]
 author: "hauke"
-images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+image: "images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"
 ---
 
 Due to medical reasons at the time of this article, I'm not able to do hikes with heavy backpacks, so I'm planning a longer boat tour.
@@ -82,7 +82,8 @@ Paddling didn't become easier by that, the paddle got constantly stuck in all th
 # Neuengamme breakthrough
 
 After a while I reached the entrance to the *[Neuengamme breakthrough](https://osm.org/go/0HoKj~KIV?m=)* (Neuengammer Durchstich) but don't get confused with the *[Neuengamme branch canal](https://osm.org/go/0G91ftH1L?m=)* (Neuengammer Stichkanal), which leads to the former concentration camp Neuengamme.
-The breakthrough is an artificial and former drainage canal between Dove and Gose Elbe and it's forbidden (even for paddling boats) to drive there between April and June to protect nature.
+The breakthrough is an artificial and former drainage canal between Dove and Gose Elbe.
+Due to nature protection regulations, it's **forbidden to go there from 1st of February until 30th of April** -- even for paddling boats, SUPs, etc.!
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "It became more and more enchanted: The Neuengamme breakthrough between Dove and Gose Elbe." "500x" >}}
 

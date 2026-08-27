@@ -4,7 +4,7 @@ summary: "Im Netz kursieren diverse Informationen, Präventions- und Behandlungs
 date: "2023-07-29T12:15:00+02:00"
 tags: ["gesundheit", "ratgeber", "wissenswert"]
 author: "hauke"
-images: ["images/blisters-science/skin-sketch.jpg"]
+image: "images/blisters-science/skin-sketch.jpg"
 ---
 
 Für diesen Artikel bin ich viele wissenschaftliche Arbeiten ("Paper") durchgegangen und habe mir angeschaut, was der Stand der Wissenschaft zum Thema Blasen ist.

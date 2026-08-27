@@ -4,7 +4,7 @@ summary: "Im Sommer 2021 war ich mit meinem Packraft mehrere Tage auf der Ems un
 date: "2023-02-19T22:45:00+01:00"
 tags: ["ems", "paddeln", "tarp", "deutschland"]
 author: "hauke"
-images: ["images/ems-2021/DSC03565.JPG"]
+image: "images/ems-2021/DSC03565.JPG"
 ---
 
 Nachdem ich zwei vielversprechende Packrafts [ausprobiert](/de/posts/dove-gose-elbe-rebel-2k) und [verglichen](/de/posts/comparison-rebel-2k-nomad-s1) habe, habe ich mich für das *MRS Nomad S1* in der normalen (also nicht-light) Variante entschieden.

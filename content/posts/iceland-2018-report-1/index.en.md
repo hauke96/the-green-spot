@@ -4,7 +4,7 @@ summary: "In the summer of 2018, we spent three weeks hiking in the south of Ice
 date: "2019-04-15T21:25:03+02:00"
 tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
-images: ["images/iceland/DSC00515_1600.JPG"]
+image: "images/iceland/DSC00515_1600.JPG"
 ---
 In the summer 2018, Kristina and I hiked for three weeks in Iceland -- without a car, campsite or stable accommodation.
 After we did [our preparations]({{< ref "/posts/iceland-2018-preparation" >}}), the tour from Þórsmörk via Mælifell, Hólmsárlón, Eldgjá, Langisjór to Landmannalaugar was ready to start.

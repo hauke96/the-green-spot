@@ -2,12 +2,12 @@
 title: "Besteigung Zugspitze November 2022"
 summary: "Anfang November 2022 habe ich versucht die Zugspitze über die Route durch den Stopselzieher zu besteigen. Auch wenn das nicht geklappt hat und ich umkehren musste, war es eine wunderschöne Tour."
 date: "2022-11-21T23:18:00+01:00"
-tags: ["zugspitze", "bergsteigen", "wandern", "alpen","deutschland"]
+tags: ["zugspitze", "bergsteigen", "wandern", "alpen", "deutschland"]
 author: "hauke"
-images: ["images/zugspitze-2022/GOPR8140_1600.JPG"]
+image: "images/zugspitze-2022/GOPR8140_1600.JPG"
 ---
 
-Anfang November habe ich in den Alpen etwas Urlaub gemacht und wollte versuchen die Zugspitze über den [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (Route bei [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)) [Klettersteig](https://de.wikipedia.org/wiki/Klettersteig) zu besteigen.
+Anfang November 2022 habe ich in den Alpen etwas Urlaub gemacht und wollte versuchen die Zugspitze über den [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (Route bei [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)) [Klettersteig](https://de.wikipedia.org/wiki/Klettersteig) zu besteigen.
 Nach dem ersten Wandertag entlang des Höhenwegs am Eibsee, ging es dann am 9.11. auf die Zugspitze
 
 ... zumindest fast, aber dazu unten mehr.
@@ -23,7 +23,7 @@ Zudem habe ich Karten studiert, Routen durchgespielt, andere Reise-Berichte gele
 Außerdem habe ich mir natürlich Infos zu [Öffnungszeiten der Bahnen](https://zugspitze.de/de/Aktuell/Live-Info/Garmisch-Classic?type=opening-hours) angeschaut und erst nach der Buchung meines Urlaubs gesehen, dass alle Bahnen in Revision und damit außer Betrieb sind.
 Ich konnte also weder mit der Zahnrad-, noch mit der Seilbahn wieder runter fahren.
 
-Vor Ort fährt in der Revisionszeit eigentlich nur der Eibseebus ([Fahrplan](http://www.eibseebus.de/images/ganzjahresplan.png), [Tarife](http://www.eibseebus.de/download/Tarifbestimmungen_2022.pdf)), den man mit der [Grainau-GästeKarte](https://www.grainau.de/gaestekarte) kostenlos benutzen kann, welche ich im Hotel beim Check-in bekommen habe.
+Vor Ort fährt in der Revisionszeit eigentlich nur der Eibseebus ([Fahrplan](https://zugspitze.de/Downloads/Fahrpl%C3%A4ne/Fahrplan-Eibseebus.pdf)), den man mit der [Grainau-GästeKarte](https://www.grainau.de/gaestekarte) kostenlos benutzen kann, welche ich im Hotel beim Check-in bekommen habe.
 
 ## Routenplanung
 

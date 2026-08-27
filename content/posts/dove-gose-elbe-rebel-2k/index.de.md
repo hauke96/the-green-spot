@@ -4,7 +4,7 @@ summary: "Dieses mal geht es gemütlich mit einem gemieteten Packraft die Gose u
 date: "2021-07-31T00:20:00+02:00"
 tags: ["hamburg", "elbe", "paddeln", "deutschland"]
 author: "hauke"
-images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+image: "images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"
 ---
 
 Da ich aus gesundheitlichen Gründen zum Zeitpunkt dieses Artikels nicht wandern gehen kann (zumindest keine langen Touren mit schwerem Gepäck), plane ich eine längere Paddeltour.
@@ -83,7 +83,8 @@ Das Paddeln wurde dadurch nicht leichter, da man dauernd an den Dingern hängen 
 # Neuengammer Durchstich
 
 Dann kam ich nach einiger Zeit am Eingang vom *[Neuengammer Durchstich](https://osm.org/go/0HoKj~KIV?m=)* an (nicht zu verwechseln mit dem *[Neuengammer Stichkanal](https://osm.org/go/0G91ftH1L?m=)*, der zum ehemaligen KZ Neuengamme führt).
-Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen der Dove und Gose Elbe, der aus Naturschutzgründen zwischen April und Juni nicht befahren werden darf -- auch nicht von Paddelbooten!
+Der Durchstich ist ein künstlicher und ehemaliger Entwässerungskanal zwischen der Dove und Gose Elbe.
+Aus Naturschutzgründen ist das **Befahren vom 01. Februar bis 30. April verboten** -- auch für Paddelboote, SUPs, etc.!
 
 {{< imgScale "images/dove-gose-elbe-rebel-2k/DSC03495_edit.jpg" "Es wurde immer verwunschener: Der Neuengammer Durchstich zwischen Dove und Gose Elbe." "500x" >}}
 

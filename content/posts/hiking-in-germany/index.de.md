@@ -4,7 +4,7 @@ summary: "In diesem umfassenden Ratgeber findest du alle relevanten Informatione
 date: "2024-02-24T11:26:00+01:00"
 tags: ["ratgeber", "wissenswert", "deutschland", "wandern"]
 author: "hauke"
-images: ["images/hiking-in-germany/DSC03942_1600.JPG"]
+image: "images/hiking-in-germany/DSC03942_1600.JPG"
 ---
 
 Dieser Artikel gibt dir einen Überblick zum Thema Wandern in Deutschland.

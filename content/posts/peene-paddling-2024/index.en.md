@@ -4,7 +4,7 @@ summary: "At the beginning of May 2024, I spent four days in northern Germany on
 date: "2024-07-29T21:32:00+02:00"
 tags: ["peene", "paddling", "germany"]
 author: "hauke"
-images: ["images/peene-2024/DSC04287_1600.jpg"]
+image: "images/peene-2024/DSC04287_1600.jpg"
 ---
 
 In May 2024, I once again went on a multi-day paddling trip, this time in northern Germany on the **Peene** river from **Anklam** to **Demmin**.

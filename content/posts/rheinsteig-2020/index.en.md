@@ -4,7 +4,7 @@ summary: "In the summer of 2020, I took a multi-day hike along the Rheinsteig, G
 date: "2023-10-01T14:19:00+02:00"
 tags: ["rheinsteig", "hiking", "germany"]
 author: "hauke"
-images: ["images/rheinsteig-2020/DSC03231_1600.jpg"]
+image: "images/rheinsteig-2020/DSC03231_1600.jpg"
 ---
 
 In the summer of 2020, I made a five-day tour along the Rheinsteig in central western Germany.

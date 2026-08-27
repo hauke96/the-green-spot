@@ -4,7 +4,7 @@ summary: "Nachdem wir die Zivilisation hinter uns gelassen haben, wurde die Land
 date: "2019-12-08T12:29:08+01:00"
 tags: ["island-2018","wandern","zelt","island"]
 author: "hauke"
-images: ["images/iceland/DSC00749_1600.JPG"]
+image: "images/iceland/DSC00749_1600.JPG"
 ---
 {{< note >}}
 **Vorheriger Teil:** [Teil 1]({{< ref "/posts/iceland-2018-report-1" >}})
