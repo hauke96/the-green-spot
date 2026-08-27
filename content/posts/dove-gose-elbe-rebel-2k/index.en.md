@@ -4,7 +4,7 @@ summary: "This time it goes leisurely with a rented packraft along the Gose and 
 date: "2021-07-31T00:20:00+02:00"
 tags: ["hamburg", "elbe", "paddling", "germany"]
 author: "hauke"
-images: ["images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"]
+image: "images/dove-gose-elbe-rebel-2k/DSC03481_edit_02.jpg"
 ---
 
 Due to medical reasons at the time of this article, I'm not able to do hikes with heavy backpacks, so I'm planning a longer boat tour.

@@ -3,7 +3,7 @@ title: "Paddeln"
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddeln"]
 author: "hauke"
-images: ["images/peene-2024/DSC04254_1600.jpg"]
+image: "images/peene-2024/DSC04254_1600.jpg"
 summary: "Alle Beiträge zum Thema Paddeln und Packrafts."
 ---
 

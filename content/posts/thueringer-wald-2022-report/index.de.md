@@ -4,7 +4,7 @@ summary: "Von Eisenach aus habe ich im April 2022 den Rennsteig angefangen zu be
 date: "2023-01-17T21:23:49+01:00"
 tags: ["wandern", "rennsteig", "thueringer-wald", "tarp", "deutschland"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03737_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03737_1600.JPG"
 ---
 
 Nach langer Corona-Pause und ausschließlich Tagesrouten, ging es am 21.04.2022 endlich los zu einer Mehrtagestour, dieses mal auf dem **Rennsteig** durch den Thüringer Wald.

@@ -4,7 +4,7 @@ summary: "In early October 2024, I climbed the Kramerspitz in beautiful weather 
 date: "2026-08-25T20:58:18+02:00"
 tags: ["kramerspitz", "mountaineering", "hiking", "alps", "germany"]
 author: "hauke"
-images: ["images/kramerspitz-2024/DSC04504_1600.jpg"]
+image: "images/kramerspitz-2024/DSC04504_1600.jpg"
 ---
 
 In October 2024, I went on another hiking vacation in the Alps and climbed the [**Kramerspitz**](https://de.wikipedia.org/wiki/Kramerspitz).

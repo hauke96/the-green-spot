@@ -4,7 +4,7 @@ summary: "In late fall 2022, in addition to my attempt to climb the Zugspitze, I
 date: "2023-11-05T11:57:00+01:00"
 tags: ["via ferrata", "hiking", "alps", "germany"]
 author: "hauke"
-images: ["images/tegelbergsteig-2022/thumbnail.jpg"]
+image: "images/tegelbergsteig-2022/thumbnail.jpg"
 ---
 
 In November 2022, I not only attempted to climb the [Zugspitze]({{< ref "posts/zugspitze-2022" >}}) (Germany's highest mountain) but also tried out the **Tegelbergsteig**.

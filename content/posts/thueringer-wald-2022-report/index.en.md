@@ -4,7 +4,7 @@ summary: "I started hiking the Rennsteig from Eisenach in April 2022. With tarp 
 date: "2023-01-17T21:23:49+01:00"
 tags: ["hiking", "rennsteig", "thuringian-forest", "tarp", "germany"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03737_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03737_1600.JPG"
 ---
 
 After a long Corona break and only single-day tours, I finally went on April 21st 2022 to a multi-day tour, this time on the **Rennsteig** through the Thuringian Forest.

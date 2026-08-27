@@ -4,7 +4,7 @@ summary: "Ich begegne immer wieder Vorurteilen, Mythen, Missverständnissen, Unw
 date: "2023-01-30T21:04:00+01:00"
 tags: ["wandern", "wissenswert"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03752_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03752_1600.JPG"
 ---
 
 Ich begegne immer wieder Vorurteilen, Mythen, Missverständnissen, Unwissen und Ängsten gegenüber Wandern.

@@ -3,7 +3,7 @@ title: "Deutschland"
 date: 2023-01-18T21:17:00+01:00
 tags: ["deutschland"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03657_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03657_1600.JPG"
 summary: "Alle Beiträge aus Deutschland."
 ---
 

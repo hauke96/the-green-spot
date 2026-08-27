@@ -4,7 +4,7 @@ summary: "Anfang November 2022 habe ich versucht die Zugspitze über die Route d
 date: "2022-11-21T23:18:00+01:00"
 tags: ["zugspitze", "bergsteigen", "wandern", "alpen", "deutschland"]
 author: "hauke"
-images: ["images/zugspitze-2022/GOPR8140_1600.JPG"]
+image: "images/zugspitze-2022/GOPR8140_1600.JPG"
 ---
 
 Anfang November 2022 habe ich in den Alpen etwas Urlaub gemacht und wollte versuchen die Zugspitze über den [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (Route bei [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)) [Klettersteig](https://de.wikipedia.org/wiki/Klettersteig) zu besteigen.

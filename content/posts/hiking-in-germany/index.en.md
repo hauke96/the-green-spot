@@ -4,7 +4,7 @@ summary: "In this comprehensive guide, you will find all relevant information on
 date: "2024-02-24T11:26:00+01:00"
 tags: ["guide", "knowledge", "germany", "hiking"]
 author: "hauke"
-images: ["images/hiking-in-germany/DSC03942_1600.JPG"]
+image: "images/hiking-in-germany/DSC03942_1600.JPG"
 ---
 
 This article gives you an overview of hiking in Germany.

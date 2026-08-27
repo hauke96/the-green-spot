@@ -4,7 +4,7 @@ summary: "I often encounter prejudices, myths, misunderstandings, ignorance and 
 date: "2023-01-30T21:04:00+01:00"
 tags: ["hiking", "knowledge"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03752_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03752_1600.JPG"
 ---
 
 I often encounter prejudices, myths, misunderstandings, ignorance and fears about hiking. So here's a collection of various things I've heard about with my opinion on them.

@@ -4,7 +4,7 @@ summary: "After we left civilization behind us, the landscape became more and mo
 date: "2019-12-08T12:29:08+01:00"
 tags: ["iceland-2018","hiking","tent","iceland"]
 author: "hauke"
-images: ["images/iceland/DSC00749_1600.JPG"]
+image: "images/iceland/DSC00749_1600.JPG"
 ---
 
 {{< note >}}

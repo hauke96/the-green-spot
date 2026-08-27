@@ -4,7 +4,7 @@ summary: "In May 2023 I paddled 17 km / 10 mi down the Schwentine between Plön 
 date: "2023-05-20T20:09:00+02:00"
 tags: ["schwentine", "paddling", "germany"]
 author: "hauke"
-images: ["images/schwentine-2023/DSC04015_1600.jpg"]
+image: "images/schwentine-2023/DSC04015_1600.jpg"
 ---
 
 In May 2023 I spontaneously went on the river **Schwentine** in [Holstein Switzerland](https://en.wikipedia.org/wiki/Holstein_Switzerland), northern Germany, and paddled 17 km / 10 mi from **Plön to Preetz**.

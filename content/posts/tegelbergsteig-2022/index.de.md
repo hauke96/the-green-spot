@@ -4,7 +4,7 @@ summary: "Im Spätherbst 2022 habe ich zusätzlich zu meinem Versuch, die Zugspi
 date: "2023-11-05T11:57:00+01:00"
 tags: ["klettersteig", "wandern", "alpen","deutschland"]
 author: "hauke"
-images: ["images/tegelbergsteig-2022/thumbnail.jpg"]
+image: "images/tegelbergsteig-2022/thumbnail.jpg"
 ---
 
 Im November 2022 habe ich nicht nur versucht die [Zugspitze zu besteigen]({{< ref "posts/zugspitze-2022" >}}), sondern in der Gegend um Neuschwanstein auch den **Tegelbergsteig**, einen mittelschweren Klettersteig, ausprobiert.

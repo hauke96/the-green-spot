@@ -4,7 +4,7 @@ summary: "Im Mai 2023 bin ich 17 km die Schwentine zwischen Plön und Preetz hin
 date: "2023-05-20T20:09:00+02:00"
 tags: ["schwentine", "paddeln", "deutschland"]
 author: "hauke"
-images: ["images/schwentine-2023/DSC04015_1600.jpg"]
+image: "images/schwentine-2023/DSC04015_1600.jpg"
 ---
 
 Im Mai 2023 habe ich mich spontan auf den Fluss **Schwentine** in der [Holsteinischen Schweiz](https://de.wikipedia.org/wiki/Holsteinische_Schweiz) begeben und bin 17 km von **Plön nach Preetz** gepaddelt.

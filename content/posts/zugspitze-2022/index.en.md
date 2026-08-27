@@ -4,7 +4,7 @@ summary: "In early November 2022, I tried to ascend the Zugspitze over the via f
 date: "2022-11-21T23:18:00+01:00"
 tags: ["zugspitze", "mountaineering", "hiking", "alps", "germany"]
 author: "hauke"
-images: ["images/zugspitze-2022/GOPR8140_1600.JPG"]
+image: "images/zugspitze-2022/GOPR8140_1600.JPG"
 ---
 
 In early November 2022, I went on vacation to the Alps and wanted to try to ascend the Zugspitze over a [via ferrata](https://en.wikipedia.org/wiki/Via_ferrata) called [Stopselzieher](https://de.wikipedia.org/wiki/Stopselzieher-Klettersteig) (German Wikipedia article; Route on [OpenStreetMap](https://www.openstreetmap.org/relation/14503625)).

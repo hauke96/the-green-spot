@@ -4,7 +4,7 @@ summary: "In the summer of 2021 I was on a multi-day paddling trip with my packr
 date: "2023-02-19T22:45:00+01:00"
 tags: ["ems", "paddling", "tarp", "germany"]
 author: "hauke"
-images: ["images/ems-2021/DSC03565.JPG"]
+image: "images/ems-2021/DSC03565.JPG"
 ---
 
 After I [tried](/en/posts/dove-gose-elbe-rebel-2k) and [compared](/en/posts/comparison-rebel-2k-nomad-s1) two promising Packrafts, I decided to buy the *MRS Nomad S1* in the normal (so non-light) variant.

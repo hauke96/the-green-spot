@@ -4,7 +4,7 @@ summary: "Anfang Mai 2024 war ich für vier Tage auf der Peene unterwegs, dem _A
 date: "2024-07-29T21:32:00+02:00"
 tags: ["peene", "paddeln", "deutschland"]
 author: "hauke"
-images: ["images/peene-2024/DSC04287_1600.jpg"]
+image: "images/peene-2024/DSC04287_1600.jpg"
 ---
 
 Im Mai 2024 habe ich mal wieder eine mehrtägige Paddeltour gemacht, dieses mal auf der **Peene** von **Anklam** nach **Demmin**.

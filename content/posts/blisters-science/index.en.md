@@ -4,7 +4,7 @@ summary: "Various information, prevention and treatment methods for blisters are
 date: "2023-07-29T12:15:00+02:00"
 tags: ["health", "guide", "knowledge"]
 author: "hauke"
-images: ["images/blisters-science/skin-sketch.jpg"]
+image: "images/blisters-science/skin-sketch.jpg"
 ---
 
 For this article, I went through a lot of scientific papers and looked at what the state of the science is on the topic of blisters.

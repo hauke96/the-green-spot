@@ -3,7 +3,7 @@ title: "Paddling"
 date: "2022-08-11T17:00:00+02:00"
 tags: ["paddling"]
 author: "hauke"
-images: ["images/peene-2024/DSC04254_1600.jpg"]
+image: "images/peene-2024/DSC04254_1600.jpg"
 summary: "All posts regarding paddling and packrafting."
 ---
 

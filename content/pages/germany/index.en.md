@@ -3,7 +3,7 @@ title: "Germany"
 date: 2023-01-18T21:17:00+01:00
 tags: ["germany"]
 author: "hauke"
-images: ["images/thueringer-wald-2022-report/DSC03657_1600.JPG"]
+image: "images/thueringer-wald-2022-report/DSC03657_1600.JPG"
 summary: "All posts from Germany."
 ---
 
