@@ -2,4 +2,25 @@ RewriteEngine On
 RewriteCond %{HTTP_HOST} !^the-green-spot.de$
 RewriteRule ^(.*)$ https://the-green-spot.de/$1 [R=301,L]
 
-ErrorDocument 404 /de/404.html
+<IfModule mod_headers.c>
+  # HTML, CSS, JS and pages: Cache for 1 hour, because they can change frequently
+  <FilesMatch "\.(?i:html|htm|xml|txt)$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+  <FilesMatch "/$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+  <FilesMatch "\.(?i:css|js|mjs)$">
+    Header set Cache-Control "public, max-age=3600"
+  </FilesMatch>
+
+  # Images, Fonts: Cache for 1 week
+  <FilesMatch "\.(?i:jpg|jpeg|png|gif|webp|avif|svg|ico)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+  <FilesMatch "\.(?i:woff2|woff|ttf|otf|eot)$">
+    Header set Cache-Control "public, max-age=604800"
+  </FilesMatch>
+</IfModule>
+
+ErrorDocument 404 /en/404.html

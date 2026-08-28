@@ -96,7 +96,7 @@ Der Weg ist auch eher ein Auf und Ab zwischen vielen schroffen Gipfeln und Klipp
 
 {{< imgScale "images/kramerspitz-2024/DSC04494_1600.jpg" "Immer mal wieder kam der Gipfel in Sicht. Einige Menschen waren an dem Tag unterwegs und waren schon oben." "500x" >}}
 
-{{< imgScale "images/kramerspitz-2024/DSC04504_1600.jpg" "Ein Grat und ein paar hundert Meter bis zum Gipfel. Die Perspektive täuscht, die Kramerspitz (man sieht das Gipfelkreuz) ist ein Stück höher, als der Buckel davor." "500x" >}}
+{{< imgScale "images/kramerspitz-2024/DSC04504_1600.jpg" "Ein Grat und ein paar hundert Meter bis zum Gipfel." "500x" >}}
 
 Und schließlich, gegen **12:45 Uhr** war ich auf dem 1985 m hohen Gipfel der **Kramerspitz** angekommen.
 Oben war es wirklich sehr kalt und windig, ich war froh eine Jacke dabei gehabt zu haben.

@@ -96,7 +96,7 @@ The trail was more a series of ups and downs amoing rugged peaks and rough cliff
 
 {{< imgScale "images/kramerspitz-2024/DSC04494_1600.jpg" "Every now and then, the summit came into view. A few people were out hiking that day and had already reached the top." "500x" >}}
 
-{{< imgScale "images/kramerspitz-2024/DSC04504_1600.jpg" "A ridge and a few hundred meters to the summit. The perspective is deceiving, the Kramerspitz (you can see the summit cross) is a bit higher than the hump in front of it." "500x" >}}
+{{< imgScale "images/kramerspitz-2024/DSC04504_1600.jpg" "A ridge and a few hundred meters to the summit." "500x" >}}
 
 And finally, around **12:45 PM**, I reached the 1985 m / 6500 ft high summit of the **Kramerspitz**.
 It was really cold and windy up there and I was glad, that I brought a jacket.

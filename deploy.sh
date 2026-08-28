@@ -33,7 +33,7 @@ date_str=$(date -u +"%y-%m-%d_%H-%M-%S")
 file="the-green-spot_$date_str.zip"
 
 cd public 
-zip -q -r -9 ../$file ./*
+zip -q -r -9 ../$file ./* .[^.]*
 cd ..
 ls -alh $file
 
@@ -54,7 +54,7 @@ sshpass -p $password scp -r $file $username@the-green-spot.de:$home/
 
 hline "5. Extract package"
 
-sshpass -p $password ssh $username@the-green-spot.de "cd $home && rm -rf de en images css fonts && unzip -q -o $file && rm -f *.zip"
+sshpass -p $password ssh $username@the-green-spot.de "cd $home && rm -rf .htaccess index.html robots.txt sitemap.xml favicon.* apple-touch-icon.* de en images css fonts && unzip -q -o $file && rm -f *.zip"
 
 echo
 echo

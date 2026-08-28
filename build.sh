@@ -12,7 +12,7 @@ echo "Build site"
 hugo --environment production --logLevel debug $BUILD_DRAFTS
 
 echo
-echo "Copy .htaccess file to ./public/"
+echo "Copy .htaccess_de file to ./public/ as default"
 cp .htaccess_de public/.htaccess
 echo "Copy .htaccess file to ./public/en/"
 cp .htaccess_en public/en/.htaccess
