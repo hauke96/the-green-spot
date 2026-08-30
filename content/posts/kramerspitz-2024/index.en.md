@@ -30,7 +30,7 @@ Here are my key details:
 
 * Start: Zoeppritzstraße (Garmisch)
 * End: Schmölz
-* Distance: 14,5 km
+* Distance: 14,5 km / 9 mi
 * Elevation: 1700 m / 5570 ft up and 1600 m / 5250 ft down
 * Duration: about 7:30 hours
 * Difficulty: T3 (according to the SAC, so it's demanding and only suitable for people with a certain experience in alpine terrain)
